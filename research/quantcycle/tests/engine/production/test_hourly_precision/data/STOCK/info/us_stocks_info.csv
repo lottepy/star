@@ -1,0 +1,6 @@
+symbol,csv_name,source,symboltype,trading_currency,lot_size,bbg_code,back_up_bbg_code,timezone,MAIN,CCPFXRATE,INT
+STOCK_1,,,US_Stock,USD,,,,,,,
+STOCK_2,,,US_Stock,USD,,,,,,,
+STOCK_3,,,US_Stock,USD,,,,,,,
+STOCK_4,,,US_Stock,USD,,,,,,,
+STOCK_5,,,US_Stock,USD,,,,,,,

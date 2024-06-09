@@ -1,0 +1,104 @@
+Universal Close Price,Universal Close Price Date,Close Price,Close Price Timestamp,RIC,Reuters Editorial RIC,RIC Root,Trading Symbol,Exchange Code,Exchange Description,Underlying Exchange Code,Base Currency Code,Currency Code,Currency Code Description,Currency Code Scaled,Currency Code Scaled Description,Contributor Currency Code,Underlying Currency,Domicile,Domicile Description
+15.87,2019-05-16,15.87,,VOD.C,VOD.L,,,GSC,National SE when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+,2019-05-16,,,VOD.MW,VOD.L,,,GSM,Chicago SE when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.86,2019-05-16,15.86,,VOD.P,VOD.L,,VOD,GSP,NYSE Arca when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,,VOD.OQ,VOD.L,,VOD,NSM,NASDAQ Stock Exchange Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,72000,VOD.O,VOD.L,,,NSQ,Consolidated Issue Listed on NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,71997,VOD.DF,VOD.L,,,GSD,NASD ADF when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.865,2019-05-16,15.865,71990,VOD.Z,VOD.L,,VOD,GCZ,BATS Trading for Nasdaq OMX Global Select Markets,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,71997,VOD.B,VOD.L,,,GSB,Boston SE when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.86,2019-05-16,15.86,71997,VOD.DY,VOD.L,,,GDA,Direct Edge Holdings - EDGA - Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,71969,VOD.DG,VOD.L,,,GCD,Direct Edge Holdings - EDGX - Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.88,2019-05-16,15.88,71929,VOD.A,VOD.L,,VOD,GSA,NYSE Alternext when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.865,2019-05-16,15.865,71984,VOD.PH,VOD.L,,,GSX,NASDAQ OMX PHLX Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.86,2019-05-16,15.86,71997,VOD.ZY,VOD.L,,,GCY,BATS Y For NASDAQ OMX Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,,VOD.NB,VOD.L,,,NXB,NASDAQ OMX - NASDAQ BASIC,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.865,2019-05-16,15.865,,VOD.BAT,VOD.L,,,BZX,BATS Global Markets - BZX Exchange - Level 2 (Elektron),,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.875,2019-05-16,15.875,71969,VOD.EI,VOD.L,,VOD,IES,IEX GROUP INC -NASDAQ OMX GLOBAL SELECT,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.86,2019-05-16,15.86,,VOD.BT1,VOD.L,,,BT1,BATS ONE - LEVEL 1 (PRODUCT),,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,71969,VOD.N,VOD.L,,VOD,GSN,NYSE when trading NASDAQ Global Select Market,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+15.87,2019-05-16,15.87,,VOD.ARC,VOD.L,,,ARC,NYSE ArcaBook Equities,,,USD,U.S. Dollar,USD,U.S. Dollar,,,GB,United Kingdom
+4.889,2019-05-16,4.89,,TIP5.L,TP05.L,,142974,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,TIP5.S,TP05.L,,3360599,SWX,SIX Swiss Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,TIP5l1.TRE,TP05.L,,142974,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,TIP5.LM,TP05.L,,,LMA,Bolsa de Valores de Lima S.A.,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+101.59,2019-05-16,101.59,,MINT.C,MINT.P,,,CIN,National Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,MINT.MW,MINT.P,,,MID,Chicago Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,,MINT.P,MINT.P,,MINT,PSE,NYSE Arca,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,,MINT.TH,MINT.P,,,THM,Third Market Corp,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,,MINT.K,MINT.P,,,PCQ,CONSOLIDATED ISSUE LISTED BY NYSE Arca,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.595,2019-05-16,101.595,71906,MINT.DF,MINT.P,,,ADC,NASD Alternative Display Facility for NYSE/AMEX Issues,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,71996,MINT.B,MINT.P,,,BOS,Boston Stock Exchange Inc,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.595,2019-05-16,101.595,71548,MINT.Z,MINT.P,,MINT,BAT,BATS Trading Inc,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.6,2019-05-16,101.6,68367,MINT.DY,MINT.P,,,DEA,Direct Edge Holdings - EDGA (CTA),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,71514,MINT.DG,MINT.P,,,DEX,Direct Edge Holdings - EDGX (CTA),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,59966,MINT.PH,MINT.P,,,XPH,NASDAQ OMX PSX,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,71996,MINT.ZY,MINT.P,,,BTY,BATS Y Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.31,2019-05-16,101.32,,MINT.L,MINT.L,,116376,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+101.59,2019-05-16,101.59,,MINT.NB,MINT.P,,,NBA,NASDAQ OMX NASDAQ Basic Amex,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,MINT.S,MINT.L,,3226883,SWX,SIX Swiss Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+101.595,2019-05-16,101.595,,MINT.BAT,MINT.P,,,BZX,BATS Global Markets - BZX Exchange - Level 2 (Elektron),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.595,2019-05-16,101.595,71514,MINT.EI,MINT.P,,MINT,IEX,IEX GROUP INC - SIAC/CTA,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.595,2019-05-16,101.595,71700,MINT.A,MINT.P,,MINT,ASE,NYSE Amex,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,,MINT.BT1,MINT.P,,,BT1,BATS ONE - LEVEL 1 (PRODUCT),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.319,2019-05-16,101.319,,MINTl.TRE,MINT.L,,116376,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,MINT.N,MINT.P,,MINT,NYS,New York Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+101.59,2019-05-16,101.59,,MINT.ARC,MINT.P,,,ARC,NYSE ArcaBook Equities,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.39,2019-05-16,50.39,72600,JPST.K,JPST.Z,,,BTQ,Consolidated Issues listed by BATS Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.4,2019-05-16,50.4,,JPST.C,JPST.Z,,,CIN,National Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.4,2019-05-16,50.4,71987,JPST.B,JPST.Z,,,BOS,Boston Stock Exchange Inc,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.395,2019-05-16,50.395,71984,JPST.DF,JPST.Z,,,ADC,NASD Alternative Display Facility for NYSE/AMEX Issues,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.4,2019-05-16,50.4,71490,JPST.DG,JPST.Z,,,DEX,Direct Edge Holdings - EDGX (CTA),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.395,2019-05-16,50.395,71987,JPST.DY,JPST.Z,,,DEA,Direct Edge Holdings - EDGA (CTA),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,JPST.MW,JPST.Z,,,MID,Chicago Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.39,2019-05-16,50.39,,JPST.P,JPST.Z,,JPST,PSE,NYSE Arca,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.4,2019-05-16,50.4,,JPST.TH,JPST.Z,,,THM,Third Market Corp,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.39,2019-05-16,50.39,72000,JPST.Z,JPST.Z,,JPST,BAT,BATS Trading Inc,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.4,2019-05-16,50.4,68593,JPST.PH,JPST.Z,,,XPH,NASDAQ OMX PSX,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.39,2019-05-16,50.39,71996,JPST.ZY,JPST.Z,,,BTY,BATS Y Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.4,2019-05-16,50.4,,JPST.NB,JPST.Z,,,NBA,NASDAQ OMX NASDAQ Basic Amex,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.39,2019-05-16,50.39,,JPST.BAT,JPST.Z,,,BZX,BATS Global Markets - BZX Exchange - Level 2 (Elektron),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.395,2019-05-16,50.395,71984,JPST.EI,JPST.Z,,JPST,IEX,IEX GROUP INC - SIAC/CTA,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,JPST.A,JPST.Z,,JPST,ASE,NYSE Amex,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.39,2019-05-16,50.39,,JPST.BT1,JPST.Z,,,BT1,BATS ONE - LEVEL 1 (PRODUCT),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+100.6025,2019-05-16,100.625,,JPST.L,IEBDFC6Q9.I,,148027,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,JPPSde1.TRE,IEBDFC6Q9.I,,148027,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,JPST.N,JPST.Z,,JPST,NYS,New York Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,JPST.S,IEBDFC6Q9.I,,3380842,SWX,SIX Swiss Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+50.39,2019-05-16,50.39,,JPST.ARC,JPST.Z,,,ARC,NYSE ArcaBook Equities,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+5.37,2019-05-16,5.37,,JPEA.L,JPEE.L,,142915,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,JPEAl1.TRE,JPEE.L,,142915,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,JPEA.LM,JPEE.L,,,LMA,Bolsa de Valores de Lima S.A.,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+5.46,2019-05-16,5.458,,IHYA.L,IHYA.L,,142917,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+5.47,2019-05-16,5.47,,IHYAl.TRE,IHYA.L,,142917,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,IHYA.LM,IHYA.L,,,LMA,Bolsa de Valores de Lima S.A.,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+50.87,2019-05-16,50.87,72000,FLOT.Z,FLOT.Z,,FLOT,BAT,BATS Trading Inc,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.88,2019-05-16,50.88,,FLOT.C,FLOT.Z,,,CIN,National Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,FLOT.MW,FLOT.Z,,,MID,Chicago Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.875,2019-05-16,50.875,,FLOT.TH,FLOT.Z,,,THM,Third Market Corp,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.87,2019-05-16,50.87,72600,FLOT.K,FLOT.Z,,,BTQ,Consolidated Issues listed by BATS Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.875,2019-05-16,50.875,71995,FLOT.DF,FLOT.Z,,,ADC,NASD Alternative Display Facility for NYSE/AMEX Issues,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.88,2019-05-16,50.88,71996,FLOT.B,FLOT.Z,,,BOS,Boston Stock Exchange Inc,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.87,2019-05-16,50.87,71996,FLOT.ZY,FLOT.Z,,,BTY,BATS Y Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.87,2019-05-16,50.87,71996,FLOT.DY,FLOT.Z,,,DEA,Direct Edge Holdings - EDGA (CTA),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.875,2019-05-16,50.875,71527,FLOT.DG,FLOT.Z,,,DEX,Direct Edge Holdings - EDGX (CTA),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.88,2019-05-16,50.88,71331,FLOT.PH,FLOT.Z,,,XPH,NASDAQ OMX PSX,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.875,2019-05-16,50.875,,FLOT.NB,FLOT.Z,,,NBA,NASDAQ OMX NASDAQ Basic Amex,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.87,2019-05-16,50.87,,FLOT.BAT,FLOT.Z,,,BZX,BATS Global Markets - BZX Exchange - Level 2 (Elektron),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.875,2019-05-16,50.875,71919,FLOT.EI,FLOT.Z,,FLOT,IEX,IEX GROUP INC - SIAC/CTA,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+5.016,2019-05-16,5.016,,ISFLOT.L,ISFLOT.L,,143596,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,FLOT.A,FLOT.Z,,FLOT,ASE,NYSE Amex,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.88,2019-05-16,50.88,,FLOT.P,FLOT.Z,,FLOT,PSE,NYSE Arca,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.875,2019-05-16,50.875,,FLOT.BT1,FLOT.Z,,,BT1,BATS ONE - LEVEL 1 (PRODUCT),,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,FLOT.CE,FLOT.Z,,FLOT,BEC,Bolsa Electronica de Chile,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,FLOT.SN,FLOT.Z,,FLOT,SGO,Bolsa de Comercio de Santiago,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+,2019-05-16,,,ISFLOT.S,ISFLOT.L,,3360598,SWX,SIX Swiss Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+,2019-05-16,,,FLOTl1.TRE,ISFLOT.L,,143596,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+50.875,2019-05-16,50.875,64097,FLOT.N,FLOT.Z,,FLOT,NYS,New York Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+50.87,2019-05-16,50.87,,FLOT.ARC,FLOT.Z,,,ARC,NYSE ArcaBook Equities,,,USD,U.S. Dollar,USD,U.S. Dollar,,,US,United States
+5.161,2019-05-16,5.1603,,FLOA.L,ISFLOT.L,,149084,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+5.1603,2019-05-16,5.1603,,FLOAl.TRE,ISFLOT.L,,149084,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+101.29,2019-05-16,101.29,,ERND.L,ERND.L,,132048,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+101.2931,2019-05-16,101.2931,,ERNDl.TRE,ERND.L,,132048,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+5.1315,2019-05-16,5.1307,,ERNA.L,ERND.L,,149944,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland
+5.1307,2019-05-16,5.1307,,ERNAl.TRE,ERND.L,,149944,LSE,London Stock Exchange,,,USD,U.S. Dollar,USD,U.S. Dollar,,,IE,Ireland

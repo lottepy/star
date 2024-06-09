@@ -1,0 +1,52 @@
+{
+  "testMode": true,
+    "SELECTOR": {
+      "timeout": "100MS",
+    "checkHeartBeat": "6S"
+    },
+    "OESCLIENT": {
+      "clEnvId": 105,
+      "subcribeEnvId": 105,
+      "clDriverId": "C0283830037JP4G1C",
+      "ordChannel": {
+    "connTimeout": "3000MS",
+    "synReadTimeout": "6000MS",
+        "so_rcv_buf": "16K",
+        "so_snd_buf": "512K",
+        "read_buf_size": "8K",
+        "min_usable_buf_size": "1K",
+        "write_buf_size": "256K",
+        "reqMsgQueueSize": 3000,
+        "rspMsgQueueSize": 100,
+            "address": [
+      {"hostNum": 1, "addr": "106.15.58.119", "port": "6101"}
+        ]
+        },
+        "rptChannel": {
+          "connTimeout": "3000MS",
+      "synReadTimeout": "6000MS",
+        "so_rcv_buf": "1M",
+        "so_snd_buf": "16K",
+        "read_buf_size": "512K",
+        "min_usable_buf_size": "32K",
+        "write_buf_size": "8K",
+        "reqMsgQueueSize": 100,
+        "rspMsgQueueSize": 1000,
+            "address": [
+            {"hostNum": 1, "addr": "106.15.58.119", "port": "6301"}
+            ]
+        },
+        "queryChannel": {
+          "connTimeout": "3000MS",
+      "synReadTimeout": "6000MS",
+          "so_rcv_buf": "512K",
+        "so_snd_buf": "256K",
+        "read_buf_size": "256K",
+        "min_usable_buf_size": "16K",
+        "write_buf_size": "128K",
+            "address": [
+            {"hostNum": 1, "addr": "106.15.58.119", "port": "6401"}
+            ]
+        }
+    }
+}

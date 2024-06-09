@@ -1,0 +1,13 @@
+2019-12-04 11:46:13,364 — FX-Dymon — INFO — fx_base.py:62 — Logger初始化完成
+2019-12-04 11:46:13,364 — FX-Dymon — INFO — fx_base.py:63 — 时间：2019-01-01 ~ 2019-12-03 | 标的：['USDINR', 'USDKRW', 'EURUSD'] | 策略：['Macro', 'EqualWeight', 'MeanReversion']
+2019-12-04 11:46:19,138 — FX-Dymon — INFO — fx_base.py:67 — 数据获取成功
+2019-12-04 11:46:19,139 — FX-Dymon — INFO — fx_base.py:70 — 最近一期数据：{'USDINR': 71.79, 'USDKRW': 1185.75, 'EURUSD': 1.1073}
+2019-12-04 11:46:19,139 — FX-Dymon — INFO — fx_base.py:71 — 最近一期时间：[1.5753024e+09 1.0000000e+00 2.0190000e+03 1.2000000e+01 3.0000000e+00]
+2019-12-04 11:46:20,355 — FX-Dymon — INFO — fx_base.py:83 — FTP下载持仓文件成功，文件名：Dymon2Aqumon_Position_20191121.csv
+2019-12-04 11:47:29,607 — FX-Dymon — INFO — fx_base.py:62 — Logger初始化完成
+2019-12-04 11:47:41,032 — FX-Dymon — INFO — fx_base.py:62 — Logger初始化完成
+2019-12-04 11:47:41,032 — FX-Dymon — INFO — fx_base.py:63 — 时间：2019-01-01 ~ 2019-12-03 | 标的：['USDINR', 'USDKRW', 'EURUSD'] | 策略：['Macro', 'EqualWeight', 'MeanReversion']
+2019-12-04 11:48:05,991 — FX-Dymon — INFO — fx_base.py:67 — 数据获取成功
+2019-12-04 11:48:05,992 — FX-Dymon — INFO — fx_base.py:70 — 最近一期数据：{'USDINR': 71.79, 'USDKRW': 1185.75, 'EURUSD': 1.1073}
+2019-12-04 11:48:05,994 — FX-Dymon — INFO — fx_base.py:71 — 最近一期时间：[1.5753024e+09 1.0000000e+00 2.0190000e+03 1.2000000e+01 3.0000000e+00]
+2019-12-04 11:51:34,113 — FX-Dymon — INFO — fx_base.py:83 — FTP下载持仓文件成功，文件名：Dymon2Aqumon_Position_20191121.csv

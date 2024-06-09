@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Configuration packages="org.apache.logging.log4j.core">
+
+    <Properties>
+        <Property name="logPath">$${env:LOG_ROOT_DIR:-log}</Property>
+        <Property name="logFileNamePrefix">risk-engine</Property>
+        <Property name="maxFileSize">300MB</Property>
+
+        <Property name="APPLICATION_NAME">${bundle:bootstrap:spring.application.name}</Property>
+        <Property name="ENVIRONMENT">${bundle:bootstrap:spring.profiles.active}</Property>
+        <Property name="LOGSTASH_HOST">${bundle:bootstrap:logstash.host}</Property>
+        <Property name="LOGSTASH_PORT">${bundle:bootstrap:logstash.port}</Property>
+
+        <Property name="log_pattern">[%p] %d{yyyy-MM-dd HH:mm:ss,SSS} T-%t:%c:%L - %m%n</Property>
+        <Property name="DETAIL_LOG_PATTERN">%d{HH:mm:ss.SSS} [%style{${APPLICATION_NAME}-${ENVIRONMENT}]}{magenta} [%40.40t] %highlight{%-5level}{FATAL=red blink, ERROR=red, WARN=yellow bold, INFO=black, DEBUG=green bold, TRACE=blue} %style{%-40.40C{3.}}{cyan} - %replace{%message{nolookups}}{[\r\n]+}{|}%xThrowable{separator(|)}%n</Property>
+    </Properties>
+
+    <loggers>
+        <root level="INFO">
+            <appender-ref ref="Console" />
+            <appender-ref ref="RollingFileInfo"/>
+            <appender-ref ref="RollingFileWarn"/>
+            <appender-ref ref="RollingFileError"/>
+            <!-- Note that the Sentry logging threshold is overridden to the WARN level -->
+            <appender-ref ref="Sentry" level="ERROR" />
+            <appender-ref ref="logstash-tcp"/>
+        </root>
+    </loggers>
+
+    <Appenders>
+        <Socket name="logstash-tcp" host="${LOGSTASH_HOST}" port="${LOGSTASH_PORT}" protocol="TCP">
+            <PatternLayout pattern="${DETAIL_LOG_PATTERN}"/>
+        </Socket>
+        <Console name="Console" target="SYSTEM_OUT">
+            <PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+        </Console>
+        <Sentry name="Sentry" />
+
+
+        <RollingFile name="RollingFileInfo"
+                     fileName="${logPath}/${logFileNamePrefix}.log"
+                     filePattern="${logPath}/${logFileNamePrefix}.log.%d{yyyy-MM-dd}.gz">
+            <PatternLayout pattern="${log_pattern}" />
+            <ThresholdFilter onMismatch="DENY" onMatch="ACCEPT" level="INFO"/>
+            <!--文件大小超过限制或者间隔一天则日志卷动打包-->
+            <Policies>
+                <SizeBasedTriggeringPolicy size="${maxFileSize}"/>
+                <TimeBasedTriggeringPolicy modulate="true" interval="1" />
+            </Policies>
+            <!--删除20天以前的日志文件-->
+            <DefaultRolloverStrategy max="20">
+                <Delete basePath="${logPath}/" maxDepth="2">
+                    <IfFileName glob="*.log.*" />
+                    <IfLastModified age="20d" />
+                </Delete>
+            </DefaultRolloverStrategy>
+        </RollingFile>
+
+        <RollingFile name="RollingFileWarn"
+                     fileName="${logPath}/${logFileNamePrefix}-warn.log"
+                     filePattern="${logPath}/${logFileNamePrefix}-warn.log.%d{yyyy-MM-dd}.gz">
+            <PatternLayout pattern="${log_pattern}" />
+            <Filters>
+                <ThresholdFilter onMismatch="NEUTRAL" onMatch="DENY" level="ERROR"/>
+                <ThresholdFilter onMismatch="DENY" onMatch="ACCEPT" level="WARN"/>
+            </Filters>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="${maxFileSize}"/>
+                <TimeBasedTriggeringPolicy modulate="true" interval="1" />
+            </Policies>
+            <DefaultRolloverStrategy max="20">
+                <Delete basePath="${logPath}/" maxDepth="2">
+                    <IfFileName glob="*.log.*" />
+                    <IfLastModified age="20d" />
+                </Delete>
+            </DefaultRolloverStrategy>
+        </RollingFile>
+
+        <RollingFile name="RollingFileError"
+                     fileName="${logPath}/${logFileNamePrefix}-error.log"
+                     filePattern="${logPath}/${logFileNamePrefix}-error.log.%d{yyyy-MM-dd}.gz">
+            <PatternLayout pattern="${log_pattern}" />
+            <ThresholdFilter onMismatch="DENY" onMatch="ACCEPT" level="ERROR"/>
+            <Policies>
+                <SizeBasedTriggeringPolicy size="${maxFileSize}"/>
+                <TimeBasedTriggeringPolicy modulate="true" interval="1" />
+            </Policies>
+            <DefaultRolloverStrategy max="20">
+                <Delete basePath="${logPath}/" maxDepth="2">
+                    <IfFileName glob="*.log.*" />
+                    <IfLastModified age="20d" />
+                </Delete>
+            </DefaultRolloverStrategy>
+        </RollingFile>
+
+        <Console name="console" target="SYSTEM_OUT">
+            <ThresholdFilter level="INFO" />
+            <PatternLayout pattern="${log_pattern}">
+                <charset>UTF-8</charset>
+            </PatternLayout>
+        </Console>
+    </Appenders>
+
+</Configuration>

@@ -1,0 +1,135 @@
+alembic==1.4.2
+aliyun-python-sdk-core==2.13.28
+aliyun-python-sdk-core-v3==2.13.11
+aliyun-python-sdk-kms==2.12.0
+asgiref @ file:///tmp/build/80754af9/asgiref_1594338739818/work
+astroid @ file:///opt/concourse/worker/volumes/live/b22b518b-f584-4586-5ee9-55bfa4fca96e/volume/astroid_1592495912194/work
+attrs==20.3.0
+Automat==20.2.0
+banal==1.0.1
+Bottleneck==1.3.2
+brotlipy==0.7.0
+certifi==2020.6.20
+cffi @ file:///opt/concourse/worker/volumes/live/74b22aae-8eb9-44eb-6c00-a8a07af62b36/volume/cffi_1600699174113/work
+chardet==3.0.4
+choice-client @ git+https://gitlab.aqumon.com/pub/py-choice-client@bd5fb9992b340d776d21c1e7881279d5c1094241
+click==7.1.2
+colorama==0.4.3
+constantly==15.1.0
+contextlib2==0.6.0.post1
+cPython==0.0.6
+crcmod==1.7
+croniter @ file:///tmp/build/80754af9/croniter_1599770757668/work
+cryptography==3.2.1
+cssselect==1.1.0
+cvxopt==1.2.5
+cvxpy==1.1.7
+cycler==0.10.0
+Cython @ file:///opt/concourse/worker/volumes/live/a8b919bf-06b6-4be5-60d8-71d16518c421/volume/cython_1594833990717/work
+datamaster @ git+https://gitlab.aqumon.com/pub/py-datamaster-client.git@09bd8a7dd24491a188fee2925078ca4792c1e021
+dataset==1.4.1
+dateparser @ file:///tmp/build/80754af9/dateparser_1594349592756/work
+decorator==4.4.2
+Django @ file:///tmp/build/80754af9/django_1600355803933/work
+ecos==2.0.7.post1
+future==0.18.2
+h5py==2.10.0
+humanize @ file:///tmp/build/80754af9/humanize_1600361559087/work
+hyperlink==20.0.1
+idna==2.8
+importlib-metadata==2.0.0
+incremental==17.5.0
+install==1.3.4
+intervaltree @ file:///tmp/build/80754af9/intervaltree_1598376443606/work
+isort @ file:///opt/concourse/worker/volumes/live/45e5406f-77e1-4055-56ec-41bb2e889183/volume/isort_1600484965116/work
+itemadapter==0.2.0
+itemloaders==1.0.3
+jmespath==0.10.0
+joblib @ file:///tmp/build/80754af9/joblib_1594236160679/work
+kazoo==2.6.1
+kiwisolver==1.3.1
+lazy-object-proxy==1.4.3
+llvmlite==0.33.0
+Logbook==1.5.3
+lxml==4.6.1
+Mako==1.1.3
+MarkupSafe==1.1.1
+matplotlib==3.2.2
+maya==0.6.1
+mccabe==0.6.1
+metrics-calculator-core @ git+https://gitlab.aqumon.com/pub/metrics-calculator-core.git@6a9dea2e0d7121be498c3623e974714834b8e23b
+more-itertools==8.6.0
+multipledispatch==0.6.0
+natsort==7.0.1
+networkx==1.11
+numba==0.50.1
+numexpr==2.7.1
+numpy==1.19.4
+olefile==0.46
+osqp==0.6.1
+oss2==2.13.0
+packaging==20.4
+pandas==0.25.3
+pandas-datareader @ file:///tmp/build/80754af9/pandas-datareader_1595379313840/work
+parsel==1.6.0
+patsy==0.5.1
+pendulum @ file:///opt/concourse/worker/volumes/live/36680563-92e1-44d5-7efb-974394069a1d/volume/pendulum_1597793557346/work
+Pillow @ file:///opt/concourse/worker/volumes/live/05b3bc99-cf9f-44f2-42cf-267ed3a55922/volume/pillow_1594307311725/work
+pluggy==0.13.1
+Protego==0.1.16
+psycopg2 @ file:///opt/concourse/worker/volumes/live/6884d6f1-5998-4b8b-71eb-17678c398791/volume/psycopg2_1594305121338/work
+py==1.9.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
+pycryptodome @ file:///opt/concourse/worker/volumes/live/9e05a66c-93e8-4dff-6114-6f68ffce4e21/volume/pycryptodome_1599233412386/work
+PyDispatcher==2.0.5
+PyHamcrest==2.0.2
+pylint @ file:///opt/concourse/worker/volumes/live/9eebf2dc-3c74-4778-701c-c55b13929def/volume/pylint_1598624018844/work
+pymongo==3.11.0
+PyMySQL @ file:///opt/concourse/worker/volumes/live/4320a1a9-9596-4cd0-4a75-4120db62a10e/volume/pymysql_1601588889444/work
+pyOpenSSL @ file:///tmp/build/80754af9/pyopenssl_1594392929924/work
+pyparsing==2.4.7
+PySocks==1.7.1
+pytest==5.4.3
+python-dateutil==2.8.1
+python-editor==1.0.4
+pytz==2020.4
+pytzdata @ file:///tmp/build/80754af9/pytzdata_1597789602719/work
+PyYAML==5.3.1
+quantcycle @ git+https://gitlab.aqumon.com/algo/quantcycle.git@0e2778dec5852b35bd3d3924a64c736a44d5d96e
+queuelib==1.5.0
+regex @ file:///opt/concourse/worker/volumes/live/b2afe0bb-a615-4845-4439-4b4e32958733/volume/regex_1596829787473/work
+requests==2.22.0
+requests-file @ file:///tmp/build/80754af9/requests-file_1595377371134/work
+scikit-learn @ file:///opt/concourse/worker/volumes/live/2dacdc11-21e7-44f5-57b4-6b8eb6ceb626/volume/scikit-learn_1598376924598/work
+scipy @ file:///opt/concourse/worker/volumes/live/7114cc5a-074a-43ee-4c3e-e15a7587e2c8/volume/scipy_1597719809786/work
+Scrapy==2.4.0
+scs==2.1.2
+service-identity==18.1.0
+simplejson @ file:///opt/concourse/worker/volumes/live/3d042c25-af13-4310-4450-ce9fa326ad32/volume/simplejson_1598625929187/work
+six==1.15.0
+snaptime==0.2.4
+sortedcontainers==2.2.2
+SQLAlchemy @ file:///opt/concourse/worker/volumes/live/c8ccb658-c55f-4a2e-6c0c-7f57021ac0b1/volume/sqlalchemy_1598374749865/work
+sqlparse==0.3.1
+statsmodels @ file:///opt/concourse/worker/volumes/live/41e6742d-2c06-48cc-4fc6-16d17fc6f640/volume/statsmodels_1602280228062/work
+tabulate==0.8.7
+threadpoolctl @ file:///tmp/tmp9twdgx9k/threadpoolctl-2.1.0-py3-none-any.whl
+tia @ git+git://github.com/PaulMest/tia.git@b2dc783cf5c1a71907d4edb96efe0977efb06124
+toml @ file:///tmp/build/80754af9/toml_1592853716807/work
+toolz==0.10.0
+tornado==6.0.4
+tqdm==4.53.0
+Twisted==20.3.0
+typed-ast==1.4.1
+tzlocal @ file:///opt/concourse/worker/volumes/live/0e0323f2-e455-466f-55e9-62893c09b402/volume/tzlocal_1597435707642/work
+urllib3 @ file:///tmp/build/80754af9/urllib3_1597086586889/work
+w3lib==1.22.0
+wcwidth==0.2.5
+wrapt==1.11.2
+xlrd==1.2.0
+XlsxWriter @ file:///tmp/build/80754af9/xlsxwriter_1598375848976/work
+xmltodict==0.12.0
+zipp==3.4.0
+zope.interface==5.2.0

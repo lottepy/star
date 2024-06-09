@@ -1,0 +1,49 @@
+{
+  "start_year": 2018,
+  "start_month": 9,
+  "start_day": 12,
+  "end_year": 2019,
+  "end_month": 1,
+  "end_day": 10,
+
+  "data": {
+    "STOCKS": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "tests/engine/backtest/test_hourly_precision/data/STOCK/stock_data_better/",
+        "info": "tests/engine/backtest/test_hourly_precision/data/STOCK/info/us_stocks_info_main_only.csv"
+      },
+      "SymbolArgs": {
+        "DMAdjustType": 1
+      },
+      "Fields": "OHLC",
+      "Frequency": "HOURLY"
+    }
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 5
+    }
+  },
+  "timing": {
+    "calc_rate_time_utc": "22:00"
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/backtest/test_hourly_precision/result/",
+    "save_name": "EW_US_STOCK_better_main_only_lv1",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/backtest/test_hourly_precision/status/",
+    "status_name": "EW_US_STOCK_better_main_only_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

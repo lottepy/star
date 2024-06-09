@@ -1,0 +1,83 @@
+{
+  "start_year": 2010,
+  "start_month": 1,
+  "start_day": 4,
+  "end_year": 2019,
+  "end_month": 12,
+  "end_day": 31,
+  "data": {
+    "FX": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DataSource": "BT150",
+        "BackupDataSource": "BGNL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    },
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    },
+    "FUTURES": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "stocks": {
+      "DataCenter": "DataMaster",
+      "Symbol": "STOCKS",
+      "SymbolArgs": {
+        "DMAdjustType": 1,
+        "AccountCurrency": "USD"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    },
+    "fx": {
+      "DataCenter": "DataMaster",
+      "Symbol": "FX",
+      "SymbolArgs": {
+        "DataSource": "BT150",
+        "BackupDataSource": "BGNL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 3
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "tests/engine/backtest/test_precision_multi/result/",
+    "save_name": "RSI_lv1",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/backtest/test_precision_multi/status/",
+    "status_name": "RSI_lv1"
+  },
+  "signal_remark": {
+    "save_dir": "tests/engine/backtest/test_precision_multi/remarks/",
+    "save_name": "remark_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

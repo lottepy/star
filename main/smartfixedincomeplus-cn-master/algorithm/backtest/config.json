@@ -1,0 +1,51 @@
+{
+    "start_year": 2013,
+    "start_month": 4,
+    "start_day": 30,
+    "end_year": 2020,
+    "end_month": 11,
+    "end_day": 30,
+    "main_data": [
+        "STOCKS"
+    ],
+    "data": {
+        "STOCKS": {
+            "DataCenter": "LocalCSV",
+            "DataCenterArgs": {
+                "main_dir": "C:\\Users\\PC\\PycharmProjects\\magnum-smartfixedincomeplus-cn\\data\\Backtest\\bundles",
+                "fxrate_dir": "C:\\Users\\PC\\PycharmProjects\\magnum-smartfixedincomeplus-cn\\data\\Backtest\\fxrate",
+                "int_dir": "C:\\Users\\PC\\PycharmProjects\\magnum-smartfixedincomeplus-cn\\data\\Backtest\\interest",
+                "info": "C:\\Users\\PC\\PycharmProjects\\magnum-smartfixedincomeplus-cn\\data\\Backtest\\info\\info.csv"
+            },
+            "Fields": "OHLC",
+            "Frequency": "DAILY"
+        }
+    },
+    "account": {
+        "cash": 10000000,
+        "commission": 0.0008
+    },
+    "algo": {
+        "window_size": {
+            "main": 520
+        },
+        "base_ccy": "LOCAL"
+    },
+    "result_output": {
+        "flatten": false,
+        "save_dir": "C:\\Users\\PC\\PycharmProjects\\magnum-smartfixedincomeplus-cn\\results\\combine\\fix_weight_combine",
+        "save_name": "fix_weight_combine",
+        "save_n_workers": 1,
+        "status_dir": "C:\\Users\\PC\\PycharmProjects\\magnum-smartfixedincomeplus-cn\\results\\combine\\fix_weight_combine",
+        "status_name": "fix_weight_combine"
+    },
+    "optimization": {
+        "numba_parallel": false
+    },
+    "dm_pickle": {
+        "save_dir": "results/cache/",
+        "save_name": "fix_weight_combine_dm_pickle",
+        "to_pkl": true,
+        "from_pkl": false
+    }
+}

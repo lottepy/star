@@ -1,0 +1,58 @@
+{
+    "start_year": 2010,
+    "start_month": 10,
+    "start_day": 11,
+    "end_year": 2019,
+    "end_month": 11,
+    "end_day": 15,
+    "main_data": [
+        "STOCKS"
+    ],
+    "data": {
+        "STOCKS": {
+            "DataCenter": "DataMaster",
+            "SymbolArgs": {
+                "DMAdjustType": 0,
+                "DMCalendar": "SSE",
+                "AccountCurrency": "LOCAL"
+            },
+            "Fields": "OHLC",
+            "Frequency": "DAILY"
+        }
+    },
+    "account": {
+        "cash": 1000000,
+        "commission": 0
+    },
+    "algo": {
+        "base_ccy": "HKD",
+        "window_size": {
+            "main": 10
+        }
+    },
+    "result_output": {
+        "flatten": false,
+        "save_dir": "results/stocks_prod_uat/timeconsuming/result/",
+        "save_name": "result",
+        "save_n_workers": 1,
+        "status_dir": "results/stocks_prod_uat/timeconsuming/status/",
+        "status_name": "result"
+    },
+    "ref_data": {},
+    "optimization": {
+        "numba_parallel": false
+    },
+    "engine": {
+        "engine_name": "timeconsuming",
+        "need_backtest": false,
+        "is_sync_cash": true,
+        "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+        "Order_Router_name": "PortfolioTaskEngineOrderRouter"
+    },
+    "PortfolioTaskEngineOrderRouter": {
+        "ACCOUNT": "DU1190100",
+        "task_ippath": "https://algo-stg.aqumon.com/oms/api/task-engine/",
+        "subtask_ippath": "https://algo-stg.aqumon.com/oms/api/execution-engine/",
+        "brokerType": "IB"
+    }
+}

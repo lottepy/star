@@ -1,0 +1,6 @@
+strategy_module,strategy_name,params,symbol
+src.dbresearch,signalCarry,"{""smooth_length"": 5.0}","{""FX"": [""AUDUSD"", ""EURUSD"", ""GBPUSD"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDJPY"", ""USDNOK"", ""USDSEK"", ""USDSGD"", ""USDTHB""]}"
+src.dbresearch,signalCarry,"{""smooth_length"": 10.0}","{""FX"": [""AUDUSD"", ""EURUSD"", ""GBPUSD"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDJPY"", ""USDNOK"", ""USDSEK"", ""USDSGD"", ""USDTHB""]}"
+src.dbresearch,signalCarry,"{""smooth_length"": 20.0}","{""FX"": [""AUDUSD"", ""EURUSD"", ""GBPUSD"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDJPY"", ""USDNOK"", ""USDSEK"", ""USDSGD"", ""USDTHB""]}"
+src.dbresearch,signalCarry,"{""smooth_length"": 40.0}","{""FX"": [""AUDUSD"", ""EURUSD"", ""GBPUSD"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDJPY"", ""USDNOK"", ""USDSEK"", ""USDSGD"", ""USDTHB""]}"
+src.dbresearch,signalCarry,"{""smooth_length"": 120.0}","{""FX"": [""AUDUSD"", ""EURUSD"", ""GBPUSD"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDJPY"", ""USDNOK"", ""USDSEK"", ""USDSGD"", ""USDTHB""]}"

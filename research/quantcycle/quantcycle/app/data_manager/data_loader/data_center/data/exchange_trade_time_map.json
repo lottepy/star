@@ -1,0 +1,15 @@
+{
+    "NYSE":"09:30-16:00,US/Eastern",
+    "NYSE ARCA":"09:30-16:00,US/Eastern",
+    "NASDAQ GM":"09:30-16:00,US/Eastern",
+    "NASDAQ":"09:30-16:00,US/Eastern",
+    "BATS":"09:30-16:00,US/Eastern",
+    "SEHK":"09:30-12:00,13:00-16:00,Asia/Hong_Kong",
+    "HKEX":"09:30-12:00,13:00-16:00,Asia/Hong_Kong",
+    "SZSE":"9:30-11:30,13:00-14:57,Asia/Shanghai",
+    "CHINEXT":"9:30-11:30,13:00-14:57,Asia/Shanghai",
+    "SSE":"9:30-11:30,13:00-14:57,Asia/Shanghai",
+    "CBOT": "19:00-7:45,08:30-13:20,US/Central",
+    "FX_close":"00:00-00:00,UTC",
+    "ALL_TRADABLE":"00:00-00:00,UTC"
+}

@@ -1,0 +1,2 @@
+strategy_module,strategy_name,params,symbol
+strategy.STOCKS.technical_indicator.oscillator.algorithm.EW_lv1,EW_strategy,{},"{""STOCKS"": [""HK_10_2800"", ""HK_10_5"", ""HK_10_700"", ""HK_10_1""]}"

@@ -1,0 +1,2278 @@
+symbol,symbol1,SEHKENG,GICSCODE,GICSENG,LOTSIZE
+1 HK Equity,00001.HK,Conglomerates,60,Real Estate,500
+2 HK Equity,00002.HK,Utilities,55,Utilities,500
+3 HK Equity,00003.HK,Utilities,55,Utilities,1000
+4 HK Equity,00004.HK,Properties & Construction,60,Real Estate,1000
+5 HK Equity,00005.HK,Financials,40,Financials,400
+6 HK Equity,00006.HK,Utilities,55,Utilities,500
+7 HK Equity,00007.HK,Properties & Construction,15,Materials,2000
+8 HK Equity,00008.HK,Telecommunications,50,Communication Services,1000
+9 HK Equity,00009.HK,Properties & Construction,60,Real Estate,6000
+10 HK Equity,00010.HK,Properties & Construction,60,Real Estate,1000
+11 HK Equity,00011.HK,Financials,40,Financials,100
+12 HK Equity,00012.HK,Properties & Construction,60,Real Estate,1000
+13 HK Equity,00013.HK,#N/A,#N/A,#N/A,#N/A
+14 HK Equity,00014.HK,Properties & Construction,60,Real Estate,1000
+15 HK Equity,00015.HK,Properties & Construction,20,Industrials,2000
+16 HK Equity,00016.HK,Properties & Construction,60,Real Estate,500
+17 HK Equity,00017.HK,Properties & Construction,60,Real Estate,1000
+18 HK Equity,00018.HK,Consumer Discretionary,50,Communication Services,2000
+19 HK Equity,00019.HK,Conglomerates,60,Real Estate,500
+20 HK Equity,00020.HK,#N/A,#N/A,#N/A,#N/A
+21 HK Equity,00021.HK,Properties & Construction,60,Real Estate,5000
+22 HK Equity,00022.HK,Consumer Discretionary,25,Consumer Discretionary,40000
+23 HK Equity,00023.HK,Financials,40,Financials,200
+24 HK Equity,00024.HK,Materials,20,Industrials,2000
+25 HK Equity,00025.HK,Conglomerates,20,Industrials,2000
+26 HK Equity,00026.HK,Properties & Construction,60,Real Estate,200
+27 HK Equity,00027.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+28 HK Equity,00028.HK,Properties & Construction,60,Real Estate,1000
+29 HK Equity,00029.HK,Properties & Construction,60,Real Estate,2000
+30 HK Equity,00030.HK,Consumer Staples,30,Consumer Staples,2000
+31 HK Equity,00031.HK,Industrials,20,Industrials,2000
+32 HK Equity,00032.HK,Consumer Discretionary,20,Industrials,1000
+33 HK Equity,00033.HK,Consumer Discretionary,25,Consumer Discretionary,6000
+34 HK Equity,00034.HK,Properties & Construction,60,Real Estate,1000
+35 HK Equity,00035.HK,Properties & Construction,60,Real Estate,1000
+36 HK Equity,00036.HK,Properties & Construction,25,Consumer Discretionary,3000
+37 HK Equity,00037.HK,Properties & Construction,60,Real Estate,2000
+38 HK Equity,00038.HK,Industrials,20,Industrials,2000
+39 HK Equity,00039.HK,Consumer Staples,30,Consumer Staples,8000
+40 HK Equity,00040.HK,Consumer Discretionary,45,Information Technology,1000
+41 HK Equity,00041.HK,Properties & Construction,60,Real Estate,1000
+42 HK Equity,00042.HK,Industrials,20,Industrials,2000
+43 HK Equity,00043.HK,Consumer Staples,30,Consumer Staples,2000
+44 HK Equity,00044.HK,#N/A,#N/A,#N/A,#N/A
+45 HK Equity,00045.HK,Consumer Discretionary,25,Consumer Discretionary,500
+46 HK Equity,00046.HK,Information Technology,45,Information Technology,2000
+47 HK Equity,00047.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+48 HK Equity,00048.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+49 HK Equity,00049.HK,#N/A,#N/A,#N/A,#N/A
+50 HK Equity,00050.HK,Properties & Construction,60,Real Estate,1000
+51 HK Equity,00051.HK,Consumer Discretionary,60,Real Estate,1000
+52 HK Equity,00052.HK,Consumer Discretionary,25,Consumer Discretionary,500
+53 HK Equity,00053.HK,Properties & Construction,60,Real Estate,1000
+54 HK Equity,00054.HK,#N/A,#N/A,#N/A,#N/A
+55 HK Equity,00055.HK,Industrials,20,Industrials,10000
+56 HK Equity,00056.HK,#N/A,#N/A,#N/A,#N/A
+57 HK Equity,00057.HK,Industrials,20,Industrials,2000
+58 HK Equity,00058.HK,Properties & Construction,15,Materials,20000
+59 HK Equity,00059.HK,Properties & Construction,60,Real Estate,2000
+60 HK Equity,00060.HK,Consumer Staples,30,Consumer Staples,2000
+61 HK Equity,00061.HK,Energy,10,Energy,20000
+62 HK Equity,00062.HK,Consumer Discretionary,20,Industrials,400
+63 HK Equity,00063.HK,Properties & Construction,60,Real Estate,1000
+64 HK Equity,00064.HK,Financials,40,Financials,2000
+65 HK Equity,00065.HK,Energy,10,Energy,4000
+66 HK Equity,00066.HK,Consumer Discretionary,20,Industrials,500
+67 HK Equity,00067.HK,Materials,15,Materials,2000
+68 HK Equity,00068.HK,Financials,40,Financials,1000
+69 HK Equity,00069.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+70 HK Equity,00070.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+71 HK Equity,00071.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+72 HK Equity,00072.HK,Consumer Discretionary,50,Communication Services,2000
+73 HK Equity,00073.HK,Consumer Staples,30,Consumer Staples,1000
+74 HK Equity,00074.HK,#N/A,#N/A,#N/A,#N/A
+75 HK Equity,00075.HK,Properties & Construction,60,Real Estate,2000
+76 HK Equity,00076.HK,Industrials,45,Information Technology,4000
+77 HK Equity,00077.HK,Consumer Discretionary,20,Industrials,2000
+78 HK Equity,00078.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+79 HK Equity,00079.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+80 HK Equity,00080.HK,Financials,40,Financials,10000
+81 HK Equity,00081.HK,Properties & Construction,60,Real Estate,1000
+82 HK Equity,00082.HK,Information Technology,45,Information Technology,2000
+83 HK Equity,00083.HK,Properties & Construction,60,Real Estate,2000
+84 HK Equity,00084.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+85 HK Equity,00085.HK,Information Technology,45,Information Technology,2000
+86 HK Equity,00086.HK,Financials,40,Financials,1000
+87 HK Equity,00087.HK,Conglomerates,40,Financials,2500
+88 HK Equity,00088.HK,Properties & Construction,60,Real Estate,1000
+89 HK Equity,00089.HK,Properties & Construction,60,Real Estate,1000
+90 HK Equity,00090.HK,Utilities,55,Utilities,2000
+91 HK Equity,00091.HK,Energy,45,Information Technology,10000
+92 HK Equity,00092.HK,Information Technology,45,Information Technology,6000
+93 HK Equity,00093.HK,Properties & Construction,60,Real Estate,2000
+94 HK Equity,00094.HK,Materials,15,Materials,2000
+95 HK Equity,00095.HK,Properties & Construction,60,Real Estate,2000
+96 HK Equity,00096.HK,Industrials,20,Industrials,2000
+97 HK Equity,00097.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+98 HK Equity,00098.HK,Materials,15,Materials,1000
+99 HK Equity,00099.HK,Industrials,45,Information Technology,1000
+100 HK Equity,00100.HK,Consumer Discretionary,50,Communication Services,1000
+101 HK Equity,00101.HK,Properties & Construction,60,Real Estate,1000
+102 HK Equity,00102.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+103 HK Equity,00103.HK,Industrials,15,Materials,2000
+104 HK Equity,00104.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+105 HK Equity,00105.HK,Properties & Construction,60,Real Estate,2000
+106 HK Equity,00106.HK,Properties & Construction,60,Real Estate,4000
+107 HK Equity,00107.HK,Industrials,20,Industrials,2000
+108 HK Equity,00108.HK,Properties & Construction,20,Industrials,2000
+109 HK Equity,00109.HK,Financials,40,Financials,10000
+110 HK Equity,00110.HK,Information Technology,45,Information Technology,2000
+111 HK Equity,00111.HK,Financials,40,Financials,2000
+112 HK Equity,00112.HK,Properties & Construction,60,Real Estate,2000
+113 HK Equity,00113.HK,Consumer Discretionary,25,Consumer Discretionary,500
+114 HK Equity,00114.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+115 HK Equity,00115.HK,Properties & Construction,60,Real Estate,10000
+116 HK Equity,00116.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+117 HK Equity,00117.HK,Industrials,45,Information Technology,2000
+118 HK Equity,00118.HK,Industrials,20,Industrials,2000
+119 HK Equity,00119.HK,Properties & Construction,60,Real Estate,1000
+120 HK Equity,00120.HK,Properties & Construction,60,Real Estate,2000
+121 HK Equity,00121.HK,#N/A,#N/A,#N/A,#N/A
+122 HK Equity,00122.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+123 HK Equity,00123.HK,Properties & Construction,60,Real Estate,2000
+124 HK Equity,00124.HK,Properties & Construction,60,Real Estate,2000
+125 HK Equity,00125.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+126 HK Equity,00126.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+127 HK Equity,00127.HK,Properties & Construction,60,Real Estate,500
+128 HK Equity,00128.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+129 HK Equity,00129.HK,Financials,60,Real Estate,2000
+130 HK Equity,00130.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+131 HK Equity,00131.HK,Properties & Construction,60,Real Estate,1000
+132 HK Equity,00132.HK,Conglomerates,20,Industrials,1000
+133 HK Equity,00133.HK,Financials,40,Financials,2000
+135 HK Equity,00135.HK,Utilities,10,Energy,2000
+136 HK Equity,00136.HK,Information Technology,45,Information Technology,4000
+137 HK Equity,00137.HK,Industrials,20,Industrials,1000
+138 HK Equity,00138.HK,Consumer Discretionary,20,Industrials,2000
+139 HK Equity,00139.HK,Financials,40,Financials,14000
+140 HK Equity,00140.HK,#N/A,#N/A,#N/A,#N/A
+141 HK Equity,00141.HK,Properties & Construction,60,Real Estate,2000
+142 HK Equity,00142.HK,Consumer Staples,40,Financials,2000
+143 HK Equity,00143.HK,Information Technology,45,Information Technology,2000
+144 HK Equity,00144.HK,Industrials,20,Industrials,2000
+145 HK Equity,00145.HK,Consumer Discretionary,20,Industrials,8000
+146 HK Equity,00146.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+147 HK Equity,00147.HK,Properties & Construction,60,Real Estate,5000
+148 HK Equity,00148.HK,Industrials,20,Industrials,500
+149 HK Equity,00149.HK,Properties & Construction,60,Real Estate,5000
+150 HK Equity,00150.HK,Consumer Discretionary,20,Industrials,2500
+151 HK Equity,00151.HK,Consumer Staples,30,Consumer Staples,1000
+152 HK Equity,00152.HK,Industrials,20,Industrials,500
+153 HK Equity,00153.HK,Properties & Construction,20,Industrials,2000
+154 HK Equity,00154.HK,Industrials,20,Industrials,1000
+155 HK Equity,00155.HK,Industrials,20,Industrials,10000
+156 HK Equity,00156.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+157 HK Equity,00157.HK,Consumer Discretionary,30,Consumer Staples,10000
+158 HK Equity,00158.HK,Properties & Construction,60,Real Estate,500
+159 HK Equity,00159.HK,Materials,15,Materials,4000
+160 HK Equity,00160.HK,Properties & Construction,60,Real Estate,2000
+161 HK Equity,00161.HK,#N/A,#N/A,#N/A,#N/A
+162 HK Equity,00162.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+163 HK Equity,00163.HK,Properties & Construction,60,Real Estate,2000
+164 HK Equity,00164.HK,Information Technology,25,Consumer Discretionary,5000
+165 HK Equity,00165.HK,Financials,40,Financials,2000
+166 HK Equity,00166.HK,Materials,15,Materials,2000
+167 HK Equity,00167.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+168 HK Equity,00168.HK,Consumer Staples,30,Consumer Staples,2000
+169 HK Equity,00169.HK,Consumer Discretionary,60,Real Estate,1000
+171 HK Equity,00171.HK,Properties & Construction,10,Energy,2000
+172 HK Equity,00172.HK,Financials,40,Financials,10000
+173 HK Equity,00173.HK,Properties & Construction,60,Real Estate,1000
+174 HK Equity,00174.HK,Financials,40,Financials,2000
+175 HK Equity,00175.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+176 HK Equity,00176.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+177 HK Equity,00177.HK,Industrials,20,Industrials,2000
+178 HK Equity,00178.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+179 HK Equity,00179.HK,Consumer Discretionary,20,Industrials,500
+180 HK Equity,00180.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+181 HK Equity,00181.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+182 HK Equity,00182.HK,Utilities,55,Utilities,10000
+183 HK Equity,00183.HK,Properties & Construction,60,Real Estate,8000
+184 HK Equity,00184.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+185 HK Equity,00185.HK,Properties & Construction,60,Real Estate,10000
+186 HK Equity,00186.HK,Consumer Discretionary,25,Consumer Discretionary,30000
+187 HK Equity,00187.HK,Industrials,20,Industrials,2000
+188 HK Equity,00188.HK,Financials,40,Financials,10000
+189 HK Equity,00189.HK,Materials,15,Materials,1000
+190 HK Equity,00190.HK,Properties & Construction,60,Real Estate,1000
+191 HK Equity,00191.HK,Conglomerates,60,Real Estate,1000
+193 HK Equity,00193.HK,Properties & Construction,25,Consumer Discretionary,3000
+194 HK Equity,00194.HK,Properties & Construction,60,Real Estate,2000
+195 HK Equity,00195.HK,Materials,15,Materials,10000
+196 HK Equity,00196.HK,Energy,10,Energy,1000
+197 HK Equity,00197.HK,Consumer Staples,30,Consumer Staples,5000
+198 HK Equity,00198.HK,Consumer Discretionary,50,Communication Services,4000
+199 HK Equity,00199.HK,Properties & Construction,60,Real Estate,1000
+200 HK Equity,00200.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+201 HK Equity,00201.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+202 HK Equity,00202.HK,Conglomerates,60,Real Estate,5000
+203 HK Equity,00203.HK,#N/A,#N/A,#N/A,#N/A
+204 HK Equity,00204.HK,Financials,40,Financials,20000
+205 HK Equity,00205.HK,Consumer Discretionary,50,Communication Services,10000
+206 HK Equity,00206.HK,Energy,10,Energy,1000
+207 HK Equity,00207.HK,Properties & Construction,60,Real Estate,2000
+208 HK Equity,00208.HK,Properties & Construction,60,Real Estate,5000
+209 HK Equity,00209.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+210 HK Equity,00210.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+211 HK Equity,00211.HK,Financials,40,Financials,10000
+212 HK Equity,00212.HK,Properties & Construction,60,Real Estate,500
+213 HK Equity,00213.HK,Industrials,20,Industrials,2000
+214 HK Equity,00214.HK,Financials,60,Real Estate,2000
+215 HK Equity,00215.HK,Telecommunications,50,Communication Services,2000
+216 HK Equity,00216.HK,Properties & Construction,60,Real Estate,4000
+217 HK Equity,00217.HK,Materials,60,Real Estate,2000
+218 HK Equity,00218.HK,Financials,40,Financials,5000
+219 HK Equity,00219.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+220 HK Equity,00220.HK,Consumer Staples,30,Consumer Staples,1000
+221 HK Equity,00221.HK,Financials,40,Financials,10000
+222 HK Equity,00222.HK,Financials,25,Consumer Discretionary,2000
+223 HK Equity,00223.HK,Information Technology,10,Energy,20000
+224 HK Equity,00224.HK,Properties & Construction,60,Real Estate,4000
+225 HK Equity,00225.HK,Properties & Construction,60,Real Estate,2000
+226 HK Equity,00226.HK,Consumer Discretionary,60,Real Estate,1000
+227 HK Equity,00227.HK,Financials,40,Financials,8000
+228 HK Equity,00228.HK,Energy,10,Energy,2000
+229 HK Equity,00229.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+230 HK Equity,00230.HK,Properties & Construction,60,Real Estate,2000
+231 HK Equity,00231.HK,Financials,60,Real Estate,40000
+232 HK Equity,00232.HK,Industrials,20,Industrials,2000
+233 HK Equity,00233.HK,#N/A,#N/A,#N/A,#N/A
+234 HK Equity,00234.HK,Consumer Discretionary,25,Consumer Discretionary,24000
+235 HK Equity,00235.HK,Materials,15,Materials,5000
+236 HK Equity,00236.HK,Consumer Staples,30,Consumer Staples,2000
+237 HK Equity,00237.HK,Properties & Construction,60,Real Estate,2000
+238 HK Equity,00238.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+239 HK Equity,00239.HK,Healthcare,35,Health Care,2500
+240 HK Equity,00240.HK,Properties & Construction,20,Industrials,10000
+241 HK Equity,00241.HK,Healthcare,35,Health Care,2000
+242 HK Equity,00242.HK,Conglomerates,20,Industrials,2000
+243 HK Equity,00243.HK,Information Technology,45,Information Technology,9000
+244 HK Equity,00244.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+245 HK Equity,00245.HK,Financials,40,Financials,10000
+246 HK Equity,00246.HK,#N/A,#N/A,#N/A,#N/A
+247 HK Equity,00247.HK,Properties & Construction,60,Real Estate,2000
+248 HK Equity,00248.HK,Information Technology,25,Consumer Discretionary,4000
+250 HK Equity,00250.HK,Information Technology,45,Information Technology,50000
+251 HK Equity,00251.HK,Properties & Construction,60,Real Estate,2000
+252 HK Equity,00252.HK,Industrials,15,Materials,2000
+253 HK Equity,00253.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+254 HK Equity,00254.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+255 HK Equity,00255.HK,Industrials,20,Industrials,2000
+256 HK Equity,00256.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+257 HK Equity,00257.HK,Utilities,20,Industrials,1000
+258 HK Equity,00258.HK,Properties & Construction,60,Real Estate,2000
+259 HK Equity,00259.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+260 HK Equity,00260.HK,Financials,10,Energy,10000
+261 HK Equity,00261.HK,Information Technology,45,Information Technology,80000
+262 HK Equity,00262.HK,Properties & Construction,60,Real Estate,5000
+263 HK Equity,00263.HK,Financials,40,Financials,4000
+264 HK Equity,00264.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+265 HK Equity,00265.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+266 HK Equity,00266.HK,Properties & Construction,60,Real Estate,2000
+267 HK Equity,00267.HK,Conglomerates,20,Industrials,1000
+268 HK Equity,00268.HK,Information Technology,45,Information Technology,1000
+269 HK Equity,00269.HK,Industrials,20,Industrials,5000
+270 HK Equity,00270.HK,Utilities,55,Utilities,2000
+271 HK Equity,00271.HK,Properties & Construction,60,Real Estate,1000
+272 HK Equity,00272.HK,Properties & Construction,60,Real Estate,500
+273 HK Equity,00273.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+274 HK Equity,00274.HK,Materials,15,Materials,10000
+275 HK Equity,00275.HK,Properties & Construction,60,Real Estate,10000
+276 HK Equity,00276.HK,Energy,10,Energy,3000
+277 HK Equity,00277.HK,Properties & Construction,60,Real Estate,2000
+278 HK Equity,00278.HK,Properties & Construction,60,Real Estate,2000
+279 HK Equity,00279.HK,Financials,40,Financials,6000
+280 HK Equity,00280.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+281 HK Equity,00281.HK,Properties & Construction,60,Real Estate,2000
+282 HK Equity,00282.HK,Consumer Discretionary,50,Communication Services,10000
+283 HK Equity,00283.HK,#N/A,#N/A,#N/A,#N/A
+285 HK Equity,00285.HK,Information Technology,45,Information Technology,500
+286 HK Equity,00286.HK,Healthcare,35,Health Care,2000
+287 HK Equity,00287.HK,Properties & Construction,60,Real Estate,2000
+288 HK Equity,00288.HK,Consumer Staples,30,Consumer Staples,500
+289 HK Equity,00289.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+290 HK Equity,00290.HK,Financials,40,Financials,2000
+291 HK Equity,00291.HK,Consumer Staples,30,Consumer Staples,2000
+292 HK Equity,00292.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+293 HK Equity,00293.HK,Consumer Discretionary,20,Industrials,1000
+294 HK Equity,00294.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+295 HK Equity,00295.HK,Utilities,55,Utilities,25000
+296 HK Equity,00296.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+297 HK Equity,00297.HK,Materials,15,Materials,2000
+298 HK Equity,00298.HK,Properties & Construction,60,Real Estate,10000
+299 HK Equity,00299.HK,Properties & Construction,60,Real Estate,5000
+300 HK Equity,00300.HK,#N/A,#N/A,#N/A,#N/A
+301 HK Equity,00301.HK,Materials,15,Materials,2000
+302 HK Equity,00302.HK,Information Technology,45,Information Technology,2000
+303 HK Equity,00303.HK,Information Technology,45,Information Technology,100
+304 HK Equity,00304.HK,#N/A,#N/A,#N/A,#N/A
+305 HK Equity,00305.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+306 HK Equity,00306.HK,Consumer Discretionary,20,Industrials,2000
+307 HK Equity,00307.HK,Energy,10,Energy,2000
+308 HK Equity,00308.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+309 HK Equity,00309.HK,Consumer Discretionary,20,Industrials,1000
+310 HK Equity,00310.HK,Financials,40,Financials,15000
+311 HK Equity,00311.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+312 HK Equity,00312.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+313 HK Equity,00313.HK,Properties & Construction,20,Industrials,50000
+315 HK Equity,00315.HK,Telecommunications,50,Communication Services,500
+316 HK Equity,00316.HK,Industrials,20,Industrials,500
+317 HK Equity,00317.HK,Industrials,20,Industrials,2000
+318 HK Equity,00318.HK,Conglomerates,40,Financials,5000
+319 HK Equity,00319.HK,#N/A,#N/A,#N/A,#N/A
+320 HK Equity,00320.HK,Industrials,20,Industrials,2000
+321 HK Equity,00321.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+322 HK Equity,00322.HK,Consumer Staples,30,Consumer Staples,2000
+323 HK Equity,00323.HK,Materials,15,Materials,2000
+325 HK Equity,00325.HK,#N/A,#N/A,#N/A,#N/A
+326 HK Equity,00326.HK,Consumer Discretionary,50,Communication Services,10000
+327 HK Equity,00327.HK,Information Technology,45,Information Technology,1000
+328 HK Equity,00328.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+329 HK Equity,00329.HK,Financials,40,Financials,4000
+330 HK Equity,00330.HK,Consumer Discretionary,25,Consumer Discretionary,100
+331 HK Equity,00331.HK,Properties & Construction,20,Industrials,1000
+332 HK Equity,00332.HK,Energy,10,Energy,4000
+333 HK Equity,00333.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+334 HK Equity,00334.HK,Information Technology,45,Information Technology,8000
+335 HK Equity,00335.HK,Financials,40,Financials,2000
+336 HK Equity,00336.HK,Consumer Staples,15,Materials,1000
+337 HK Equity,00337.HK,Properties & Construction,60,Real Estate,1000
+338 HK Equity,00338.HK,Materials,10,Energy,2000
+339 HK Equity,00339.HK,Financials,40,Financials,10000
+340 HK Equity,00340.HK,Materials,15,Materials,2000
+341 HK Equity,00341.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+342 HK Equity,00342.HK,Energy,10,Energy,2000
+343 HK Equity,00343.HK,Consumer Discretionary,50,Communication Services,5000
+345 HK Equity,00345.HK,Consumer Staples,30,Consumer Staples,2000
+346 HK Equity,00346.HK,Energy,10,Energy,10000
+347 HK Equity,00347.HK,Materials,15,Materials,2000
+348 HK Equity,00348.HK,Consumer Discretionary,25,Consumer Discretionary,50000
+349 HK Equity,00349.HK,#N/A,#N/A,#N/A,#N/A
+350 HK Equity,00350.HK,#N/A,#N/A,#N/A,#N/A
+351 HK Equity,00351.HK,Industrials,20,Industrials,10000
+352 HK Equity,00352.HK,Properties & Construction,60,Real Estate,2000
+353 HK Equity,00353.HK,Energy,10,Energy,20000
+354 HK Equity,00354.HK,Information Technology,45,Information Technology,2000
+355 HK Equity,00355.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+356 HK Equity,00356.HK,Financials,40,Financials,30000
+357 HK Equity,00357.HK,Consumer Discretionary,20,Industrials,1000
+358 HK Equity,00358.HK,Materials,15,Materials,1000
+359 HK Equity,00359.HK,Consumer Staples,30,Consumer Staples,4000
+360 HK Equity,00360.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+361 HK Equity,00361.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+362 HK Equity,00362.HK,Materials,15,Materials,10000
+363 HK Equity,00363.HK,Conglomerates,20,Industrials,1000
+364 HK Equity,00364.HK,Consumer Staples,30,Consumer Staples,8000
+365 HK Equity,00365.HK,Industrials,20,Industrials,2000
+366 HK Equity,00366.HK,Properties & Construction,15,Materials,2000
+367 HK Equity,00367.HK,Properties & Construction,60,Real Estate,4000
+368 HK Equity,00368.HK,Properties & Construction,25,Consumer Discretionary,4000
+369 HK Equity,00369.HK,Properties & Construction,60,Real Estate,2000
+370 HK Equity,00370.HK,Consumer Discretionary,25,Consumer Discretionary,6000
+371 HK Equity,00371.HK,Utilities,55,Utilities,2000
+372 HK Equity,00372.HK,Financials,40,Financials,2000
+373 HK Equity,00373.HK,Financials,40,Financials,2000
+374 HK Equity,00374.HK,Consumer Staples,30,Consumer Staples,2000
+375 HK Equity,00375.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+376 HK Equity,00376.HK,Financials,40,Financials,2000
+377 HK Equity,00377.HK,Industrials,15,Materials,80
+378 HK Equity,00378.HK,Materials,40,Financials,2000
+379 HK Equity,00379.HK,Financials,40,Financials,10000
+380 HK Equity,00380.HK,Properties & Construction,25,Consumer Discretionary,4000
+381 HK Equity,00381.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+382 HK Equity,00382.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+383 HK Equity,00383.HK,Healthcare,35,Health Care,10000
+384 HK Equity,00384.HK,Utilities,55,Utilities,200
+385 HK Equity,00385.HK,Properties & Construction,20,Industrials,2000
+386 HK Equity,00386.HK,Energy,10,Energy,2000
+387 HK Equity,00387.HK,Industrials,20,Industrials,4000
+388 HK Equity,00388.HK,Financials,40,Financials,100
+389 HK Equity,00389.HK,Consumer Staples,30,Consumer Staples,2000
+390 HK Equity,00390.HK,Properties & Construction,20,Industrials,1000
+391 HK Equity,00391.HK,Consumer Discretionary,50,Communication Services,20000
+392 HK Equity,00392.HK,Utilities,55,Utilities,500
+393 HK Equity,00393.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+395 HK Equity,00395.HK,Information Technology,45,Information Technology,8000
+396 HK Equity,00396.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+397 HK Equity,00397.HK,Financials,40,Financials,10000
+398 HK Equity,00398.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+399 HK Equity,00399.HK,Consumer Staples,30,Consumer Staples,5000
+400 HK Equity,00400.HK,Information Technology,45,Information Technology,1000
+401 HK Equity,00401.HK,Healthcare,35,Health Care,20000
+402 HK Equity,00402.HK,#N/A,#N/A,#N/A,#N/A
+403 HK Equity,00403.HK,Industrials,15,Materials,2000
+404 HK Equity,00404.HK,#N/A,#N/A,#N/A,#N/A
+405 HK Equity,00405.HK,#N/A,#N/A,#N/A,#N/A
+406 HK Equity,00406.HK,Properties & Construction,20,Industrials,2000
+408 HK Equity,00408.HK,Materials,15,Materials,2000
+409 HK Equity,00409.HK,#N/A,#N/A,#N/A,#N/A
+410 HK Equity,00410.HK,Properties & Construction,60,Real Estate,500
+411 HK Equity,00411.HK,Consumer Staples,30,Consumer Staples,1000
+412 HK Equity,00412.HK,Financials,40,Financials,6000
+413 HK Equity,00413.HK,Consumer Discretionary,25,Consumer Discretionary,8000
+416 HK Equity,00416.HK,Financials,40,Financials,1000
+417 HK Equity,00417.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+418 HK Equity,00418.HK,Information Technology,45,Information Technology,2000
+419 HK Equity,00419.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+420 HK Equity,00420.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+421 HK Equity,00421.HK,#N/A,#N/A,#N/A,#N/A
+422 HK Equity,00422.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+423 HK Equity,00423.HK,Consumer Discretionary,50,Communication Services,2000
+425 HK Equity,00425.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+426 HK Equity,00426.HK,Consumer Discretionary,50,Communication Services,2000
+428 HK Equity,00428.HK,Financials,40,Financials,2000
+430 HK Equity,00430.HK,Financials,40,Financials,2000
+431 HK Equity,00431.HK,Financials,40,Financials,4000
+432 HK Equity,00432.HK,Properties & Construction,60,Real Estate,1000
+433 HK Equity,00433.HK,Materials,15,Materials,10000
+434 HK Equity,00434.HK,Information Technology,50,Communication Services,1000
+435 HK Equity,00435.HK,#N/A,#N/A,#N/A,#N/A
+436 HK Equity,00436.HK,Industrials,20,Industrials,20000
+438 HK Equity,00438.HK,Industrials,45,Information Technology,2000
+439 HK Equity,00439.HK,Industrials,50,Communication Services,1000
+440 HK Equity,00440.HK,Financials,40,Financials,400
+442 HK Equity,00442.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+444 HK Equity,00444.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+445 HK Equity,00445.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+448 HK Equity,00448.HK,#N/A,#N/A,#N/A,#N/A
+449 HK Equity,00449.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+450 HK Equity,00450.HK,Industrials,15,Materials,2000
+451 HK Equity,00451.HK,Utilities,15,Materials,2000
+455 HK Equity,00455.HK,Healthcare,35,Health Care,2000
+456 HK Equity,00456.HK,Properties & Construction,60,Real Estate,20000
+457 HK Equity,00457.HK,#N/A,#N/A,#N/A,#N/A
+458 HK Equity,00458.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+459 HK Equity,00459.HK,Properties & Construction,60,Real Estate,10000
+460 HK Equity,00460.HK,Healthcare,35,Health Care,1000
+462 HK Equity,00462.HK,Consumer Staples,30,Consumer Staples,4000
+464 HK Equity,00464.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+465 HK Equity,00465.HK,Information Technology,45,Information Technology,2000
+467 HK Equity,00467.HK,Energy,10,Energy,2000
+468 HK Equity,00468.HK,Industrials,15,Materials,1000
+469 HK Equity,00469.HK,Industrials,20,Industrials,4000
+471 HK Equity,00471.HK,Telecommunications,50,Communication Services,4000
+472 HK Equity,00472.HK,Consumer Staples,30,Consumer Staples,10000
+474 HK Equity,00474.HK,Industrials,20,Industrials,6000
+475 HK Equity,00475.HK,Industrials,55,Utilities,2000
+476 HK Equity,00476.HK,Industrials,25,Consumer Discretionary,10000
+477 HK Equity,00477.HK,#N/A,#N/A,#N/A,#N/A
+479 HK Equity,00479.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+480 HK Equity,00480.HK,Properties & Construction,60,Real Estate,800
+482 HK Equity,00482.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+483 HK Equity,00483.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+484 HK Equity,00484.HK,Information Technology,25,Consumer Discretionary,100
+485 HK Equity,00485.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+486 HK Equity,00486.HK,Materials,15,Materials,1000
+487 HK Equity,00487.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+488 HK Equity,00488.HK,Conglomerates,60,Real Estate,300
+489 HK Equity,00489.HK,Industrials,25,Consumer Discretionary,2000
+491 HK Equity,00491.HK,Consumer Discretionary,50,Communication Services,20000
+493 HK Equity,00493.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+494 HK Equity,00494.HK,#N/A,#N/A,#N/A,#N/A
+495 HK Equity,00495.HK,Properties & Construction,60,Real Estate,5000
+496 HK Equity,00496.HK,Properties & Construction,60,Real Estate,1000
+497 HK Equity,00497.HK,Properties & Construction,60,Real Estate,10000
+498 HK Equity,00498.HK,Properties & Construction,20,Industrials,2000
+499 HK Equity,00499.HK,Properties & Construction,60,Real Estate,2000
+500 HK Equity,00500.HK,Industrials,20,Industrials,1000
+502 HK Equity,00502.HK,#N/A,#N/A,#N/A,#N/A
+503 HK Equity,00503.HK,Healthcare,35,Health Care,1000
+505 HK Equity,00505.HK,Materials,20,Industrials,1000
+506 HK Equity,00506.HK,Consumer Staples,30,Consumer Staples,2000
+508 HK Equity,00508.HK,Properties & Construction,40,Financials,5000
+509 HK Equity,00509.HK,Materials,15,Materials,5000
+510 HK Equity,00510.HK,Financials,40,Financials,6000
+511 HK Equity,00511.HK,Consumer Discretionary,50,Communication Services,100
+512 HK Equity,00512.HK,Healthcare,35,Health Care,4000
+513 HK Equity,00513.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+515 HK Equity,00515.HK,Industrials,20,Industrials,2000
+516 HK Equity,00516.HK,#N/A,#N/A,#N/A,#N/A
+517 HK Equity,00517.HK,Industrials,20,Industrials,2000
+518 HK Equity,00518.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+519 HK Equity,00519.HK,Properties & Construction,60,Real Estate,5000
+520 HK Equity,00520.HK,Consumer Discretionary,25,Consumer Discretionary,500
+521 HK Equity,00521.HK,Materials,15,Materials,10000
+522 HK Equity,00522.HK,Information Technology,45,Information Technology,100
+524 HK Equity,00524.HK,Telecommunications,50,Communication Services,10000
+525 HK Equity,00525.HK,Consumer Discretionary,20,Industrials,2000
+526 HK Equity,00526.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+527 HK Equity,00527.HK,Utilities,55,Utilities,4000
+528 HK Equity,00528.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+529 HK Equity,00529.HK,Information Technology,45,Information Technology,2000
+530 HK Equity,00530.HK,Consumer Staples,40,Financials,2000
+531 HK Equity,00531.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+532 HK Equity,00532.HK,Industrials,20,Industrials,2000
+533 HK Equity,00533.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+535 HK Equity,00535.HK,Properties & Construction,60,Real Estate,2000
+536 HK Equity,00536.HK,Information Technology,45,Information Technology,2000
+538 HK Equity,00538.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+539 HK Equity,00539.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+540 HK Equity,00540.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+542 HK Equity,00542.HK,Consumer Discretionary,25,Consumer Discretionary,8000
+543 HK Equity,00543.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+544 HK Equity,00544.HK,Industrials,20,Industrials,20000
+546 HK Equity,00546.HK,Consumer Staples,15,Materials,1000
+547 HK Equity,00547.HK,Consumer Discretionary,50,Communication Services,10000
+548 HK Equity,00548.HK,Industrials,20,Industrials,2000
+549 HK Equity,00549.HK,#N/A,#N/A,#N/A,#N/A
+550 HK Equity,00550.HK,Consumer Discretionary,50,Communication Services,2000
+551 HK Equity,00551.HK,Consumer Discretionary,25,Consumer Discretionary,500
+552 HK Equity,00552.HK,Information Technology,50,Communication Services,2000
+553 HK Equity,00553.HK,Information Technology,50,Communication Services,2000
+554 HK Equity,00554.HK,Energy,10,Energy,2000
+555 HK Equity,00555.HK,Consumer Discretionary,25,Consumer Discretionary,25000
+556 HK Equity,00556.HK,Industrials,20,Industrials,2000
+557 HK Equity,00557.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+558 HK Equity,00558.HK,Industrials,20,Industrials,2500
+559 HK Equity,00559.HK,Consumer Discretionary,40,Financials,30000
+560 HK Equity,00560.HK,Industrials,20,Industrials,2000
+562 HK Equity,00562.HK,#N/A,#N/A,#N/A,#N/A
+563 HK Equity,00563.HK,Properties & Construction,60,Real Estate,2000
+564 HK Equity,00564.HK,Consumer Discretionary,20,Industrials,200
+565 HK Equity,00565.HK,Properties & Construction,60,Real Estate,5000
+566 HK Equity,00566.HK,#N/A,#N/A,#N/A,#N/A
+567 HK Equity,00567.HK,Energy,10,Energy,2000
+568 HK Equity,00568.HK,Energy,10,Energy,400
+569 HK Equity,00569.HK,#N/A,#N/A,#N/A,#N/A
+570 HK Equity,00570.HK,Healthcare,35,Health Care,2000
+571 HK Equity,00571.HK,Consumer Discretionary,50,Communication Services,2000
+572 HK Equity,00572.HK,Financials,40,Financials,20000
+573 HK Equity,00573.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+574 HK Equity,00574.HK,Healthcare,35,Health Care,2000
+575 HK Equity,00575.HK,Healthcare,40,Financials,10000
+576 HK Equity,00576.HK,Industrials,20,Industrials,2000
+577 HK Equity,00577.HK,Properties & Construction,20,Industrials,2000
+578 HK Equity,00578.HK,Energy,10,Energy,10000
+579 HK Equity,00579.HK,Utilities,55,Utilities,2000
+580 HK Equity,00580.HK,Industrials,20,Industrials,2000
+581 HK Equity,00581.HK,Materials,15,Materials,2000
+582 HK Equity,00582.HK,Consumer Discretionary,25,Consumer Discretionary,1200
+583 HK Equity,00583.HK,Properties & Construction,60,Real Estate,2000
+585 HK Equity,00585.HK,Financials,40,Financials,8000
+586 HK Equity,00586.HK,Industrials,20,Industrials,500
+587 HK Equity,00587.HK,Healthcare,35,Health Care,4000
+588 HK Equity,00588.HK,Properties & Construction,60,Real Estate,2000
+589 HK Equity,00589.HK,Properties & Construction,20,Industrials,2000
+590 HK Equity,00590.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+591 HK Equity,00591.HK,Industrials,45,Information Technology,1000
+592 HK Equity,00592.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+593 HK Equity,00593.HK,Properties & Construction,60,Real Estate,500
+595 HK Equity,00595.HK,Information Technology,45,Information Technology,2000
+596 HK Equity,00596.HK,Information Technology,45,Information Technology,2000
+597 HK Equity,00597.HK,#N/A,#N/A,#N/A,#N/A
+598 HK Equity,00598.HK,Industrials,20,Industrials,1000
+599 HK Equity,00599.HK,Properties & Construction,20,Industrials,4000
+600 HK Equity,00600.HK,Energy,10,Energy,2000
+601 HK Equity,00601.HK,Materials,15,Materials,10000
+602 HK Equity,00602.HK,Consumer Discretionary,30,Consumer Staples,2500
+603 HK Equity,00603.HK,Utilities,55,Utilities,20000
+604 HK Equity,00604.HK,Properties & Construction,60,Real Estate,2000
+605 HK Equity,00605.HK,Financials,40,Financials,2000
+606 HK Equity,00606.HK,#N/A,#N/A,#N/A,#N/A
+607 HK Equity,00607.HK,Industrials,60,Real Estate,2500
+608 HK Equity,00608.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+609 HK Equity,00609.HK,Materials,15,Materials,4000
+610 HK Equity,00610.HK,Properties & Construction,20,Industrials,2000
+611 HK Equity,00611.HK,Utilities,55,Utilities,2000
+612 HK Equity,00612.HK,Financials,40,Financials,8000
+613 HK Equity,00613.HK,Financials,60,Real Estate,2000
+615 HK Equity,00615.HK,#N/A,#N/A,#N/A,#N/A
+616 HK Equity,00616.HK,Properties & Construction,60,Real Estate,5000
+617 HK Equity,00617.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+618 HK Equity,00618.HK,Properties & Construction,60,Real Estate,2000
+619 HK Equity,00619.HK,Financials,40,Financials,2000
+620 HK Equity,00620.HK,Conglomerates,20,Industrials,2000
+621 HK Equity,00621.HK,Materials,15,Materials,10000
+622 HK Equity,00622.HK,Financials,40,Financials,3000
+623 HK Equity,00623.HK,Consumer Discretionary,50,Communication Services,1000
+625 HK Equity,00625.HK,#N/A,#N/A,#N/A,#N/A
+626 HK Equity,00626.HK,Financials,40,Financials,2000
+627 HK Equity,00627.HK,Properties & Construction,15,Materials,5000
+628 HK Equity,00628.HK,Financials,40,Financials,2000
+629 HK Equity,00629.HK,Financials,15,Materials,1000
+630 HK Equity,00630.HK,Properties & Construction,20,Industrials,10000
+631 HK Equity,00631.HK,Industrials,20,Industrials,1000
+632 HK Equity,00632.HK,Energy,10,Energy,2000
+633 HK Equity,00633.HK,Telecommunications,45,Information Technology,2000
+635 HK Equity,00635.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+636 HK Equity,00636.HK,Industrials,20,Industrials,500
+637 HK Equity,00637.HK,Materials,20,Industrials,2000
+638 HK Equity,00638.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+639 HK Equity,00639.HK,Energy,10,Energy,2000
+640 HK Equity,00640.HK,Materials,15,Materials,4000
+641 HK Equity,00641.HK,Industrials,20,Industrials,2000
+643 HK Equity,00643.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+645 HK Equity,00645.HK,Energy,10,Energy,2000
+646 HK Equity,00646.HK,Utilities,55,Utilities,8000
+647 HK Equity,00647.HK,#N/A,#N/A,#N/A,#N/A
+648 HK Equity,00648.HK,Healthcare,35,Health Care,5000
+650 HK Equity,00650.HK,Energy,10,Energy,2000
+651 HK Equity,00651.HK,Industrials,20,Industrials,5000
+653 HK Equity,00653.HK,Consumer Staples,35,Health Care,2000
+655 HK Equity,00655.HK,Properties & Construction,60,Real Estate,2000
+656 HK Equity,00656.HK,Conglomerates,20,Industrials,500
+657 HK Equity,00657.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+658 HK Equity,00658.HK,Industrials,20,Industrials,1000
+659 HK Equity,00659.HK,Conglomerates,20,Industrials,1000
+660 HK Equity,00660.HK,Materials,15,Materials,10000
+661 HK Equity,00661.HK,Materials,15,Materials,2000
+662 HK Equity,00662.HK,Financials,40,Financials,2000
+663 HK Equity,00663.HK,Materials,10,Energy,1000
+665 HK Equity,00665.HK,Financials,40,Financials,1000
+666 HK Equity,00666.HK,Financials,40,Financials,20000
+667 HK Equity,00667.HK,Consumer Discretionary,20,Industrials,500
+668 HK Equity,00668.HK,Financials,40,Financials,2000
+669 HK Equity,00669.HK,Consumer Discretionary,25,Consumer Discretionary,500
+670 HK Equity,00670.HK,Consumer Discretionary,20,Industrials,2000
+672 HK Equity,00672.HK,Properties & Construction,60,Real Estate,1000
+673 HK Equity,00673.HK,Healthcare,35,Health Care,3000
+674 HK Equity,00674.HK,Properties & Construction,60,Real Estate,4000
+675 HK Equity,00675.HK,Industrials,45,Information Technology,2000
+676 HK Equity,00676.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+677 HK Equity,00677.HK,Consumer Staples,30,Consumer Staples,2000
+678 HK Equity,00678.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+679 HK Equity,00679.HK,Industrials,20,Industrials,10000
+680 HK Equity,00680.HK,Properties & Construction,60,Real Estate,50000
+681 HK Equity,00681.HK,Utilities,55,Utilities,2000
+682 HK Equity,00682.HK,Consumer Staples,30,Consumer Staples,2000
+683 HK Equity,00683.HK,Properties & Construction,60,Real Estate,500
+684 HK Equity,00684.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+685 HK Equity,00685.HK,Consumer Discretionary,50,Communication Services,1000
+686 HK Equity,00686.HK,Utilities,55,Utilities,2000
+687 HK Equity,00687.HK,Properties & Construction,20,Industrials,2000
+688 HK Equity,00688.HK,Properties & Construction,60,Real Estate,500
+689 HK Equity,00689.HK,Energy,10,Energy,15000
+690 HK Equity,00690.HK,Healthcare,35,Health Care,20000
+691 HK Equity,00691.HK,Properties & Construction,15,Materials,1000
+692 HK Equity,00692.HK,#N/A,#N/A,#N/A,#N/A
+693 HK Equity,00693.HK,Consumer Discretionary,25,Consumer Discretionary,3000
+694 HK Equity,00694.HK,Consumer Discretionary,20,Industrials,2000
+695 HK Equity,00695.HK,Properties & Construction,15,Materials,2000
+696 HK Equity,00696.HK,Information Technology,45,Information Technology,1000
+697 HK Equity,00697.HK,Financials,15,Materials,2000
+698 HK Equity,00698.HK,Industrials,45,Information Technology,10000
+699 HK Equity,00699.HK,Consumer Discretionary,20,Industrials,1000
+700 HK Equity,00700.HK,Information Technology,45,Information Technology,100
+701 HK Equity,00701.HK,Properties & Construction,15,Materials,2000
+702 HK Equity,00702.HK,Energy,10,Energy,10000
+703 HK Equity,00703.HK,Consumer Discretionary,25,Consumer Discretionary,6000
+704 HK Equity,00704.HK,Energy,10,Energy,10000
+705 HK Equity,00705.HK,#N/A,#N/A,#N/A,#N/A
+706 HK Equity,00706.HK,Materials,15,Materials,10000
+707 HK Equity,00707.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+708 HK Equity,00708.HK,Healthcare,35,Health Care,500
+709 HK Equity,00709.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+710 HK Equity,00710.HK,Information Technology,25,Consumer Discretionary,1000
+711 HK Equity,00711.HK,Properties & Construction,20,Industrials,2000
+712 HK Equity,00712.HK,Industrials,55,Utilities,10000
+713 HK Equity,00713.HK,Consumer Discretionary,30,Consumer Staples,2000
+715 HK Equity,00715.HK,Properties & Construction,60,Real Estate,2000
+716 HK Equity,00716.HK,Industrials,20,Industrials,2000
+717 HK Equity,00717.HK,Financials,40,Financials,6000
+718 HK Equity,00718.HK,Healthcare,20,Industrials,5000
+719 HK Equity,00719.HK,Healthcare,35,Health Care,2000
+720 HK Equity,00720.HK,Consumer Discretionary,25,Consumer Discretionary,25000
+721 HK Equity,00721.HK,Financials,40,Financials,10000
+722 HK Equity,00722.HK,Healthcare,35,Health Care,2000
+723 HK Equity,00723.HK,Materials,15,Materials,60000
+724 HK Equity,00724.HK,Information Technology,45,Information Technology,10000
+725 HK Equity,00725.HK,Industrials,45,Information Technology,2000
+726 HK Equity,00726.HK,Properties & Construction,60,Real Estate,20000
+727 HK Equity,00727.HK,Properties & Construction,60,Real Estate,2000
+728 HK Equity,00728.HK,Telecommunications,50,Communication Services,2000
+729 HK Equity,00729.HK,Industrials,45,Information Technology,5000
+730 HK Equity,00730.HK,Properties & Construction,40,Financials,1000
+731 HK Equity,00731.HK,Materials,15,Materials,2000
+732 HK Equity,00732.HK,Industrials,45,Information Technology,2000
+733 HK Equity,00733.HK,Properties & Construction,60,Real Estate,2000
+735 HK Equity,00735.HK,#N/A,#N/A,#N/A,#N/A
+736 HK Equity,00736.HK,Financials,60,Real Estate,3000
+737 HK Equity,00737.HK,Industrials,20,Industrials,500
+738 HK Equity,00738.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+739 HK Equity,00739.HK,#N/A,#N/A,#N/A,#N/A
+743 HK Equity,00743.HK,Properties & Construction,15,Materials,500
+745 HK Equity,00745.HK,Consumer Discretionary,50,Communication Services,10000
+746 HK Equity,00746.HK,Materials,15,Materials,2000
+747 HK Equity,00747.HK,Properties & Construction,60,Real Estate,2000
+750 HK Equity,00750.HK,Properties & Construction,20,Industrials,1000
+751 HK Equity,00751.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+752 HK Equity,00752.HK,Consumer Discretionary,50,Communication Services,2000
+753 HK Equity,00753.HK,Consumer Discretionary,20,Industrials,2000
+754 HK Equity,00754.HK,Properties & Construction,60,Real Estate,2000
+755 HK Equity,00755.HK,Properties & Construction,60,Real Estate,5000
+756 HK Equity,00756.HK,Consumer Staples,30,Consumer Staples,4000
+757 HK Equity,00757.HK,Industrials,20,Industrials,1000
+758 HK Equity,00758.HK,Materials,15,Materials,2000
+759 HK Equity,00759.HK,Consumer Staples,30,Consumer Staples,2000
+760 HK Equity,00760.HK,Properties & Construction,60,Real Estate,15000
+761 HK Equity,00761.HK,#N/A,#N/A,#N/A,#N/A
+762 HK Equity,00762.HK,Telecommunications,50,Communication Services,2000
+763 HK Equity,00763.HK,Information Technology,45,Information Technology,200
+764 HK Equity,00764.HK,Financials,20,Industrials,10000
+765 HK Equity,00765.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+766 HK Equity,00766.HK,Financials,40,Financials,5000
+767 HK Equity,00767.HK,Financials,40,Financials,40000
+768 HK Equity,00768.HK,Financials,40,Financials,2000
+769 HK Equity,00769.HK,Materials,15,Materials,2000
+770 HK Equity,00770.HK,Financials,40,Financials,1000
+771 HK Equity,00771.HK,Information Technology,45,Information Technology,2000
+772 HK Equity,00772.HK,Consumer Discretionary,50,Communication Services,200
+773 HK Equity,00773.HK,#N/A,#N/A,#N/A,#N/A
+775 HK Equity,00775.HK,Healthcare,35,Health Care,2000
+776 HK Equity,00776.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+777 HK Equity,00777.HK,Information Technology,45,Information Technology,500
+778 HK Equity,00778.HK,#N/A,#N/A,#N/A,#N/A
+780 HK Equity,00780.HK,Consumer Discretionary,20,Industrials,400
+784 HK Equity,00784.HK,Properties & Construction,20,Industrials,10000
+787 HK Equity,00787.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+788 HK Equity,00788.HK,Telecommunications,20,Industrials,2000
+789 HK Equity,00789.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+794 HK Equity,00794.HK,Industrials,15,Materials,2000
+797 HK Equity,00797.HK,Information Technology,45,Information Technology,2000
+798 HK Equity,00798.HK,Properties & Construction,60,Real Estate,4000
+799 HK Equity,00799.HK,Information Technology,45,Information Technology,1000
+800 HK Equity,00800.HK,Information Technology,45,Information Technology,2000
+801 HK Equity,00801.HK,Healthcare,35,Health Care,800000
+802 HK Equity,00802.HK,Information Technology,45,Information Technology,10000
+803 HK Equity,00803.HK,Materials,15,Materials,10000
+804 HK Equity,00804.HK,Financials,40,Financials,5000
+805 HK Equity,00805.HK,#N/A,#N/A,#N/A,#N/A
+806 HK Equity,00806.HK,Financials,40,Financials,1000
+807 HK Equity,00807.HK,Utilities,55,Utilities,1000
+808 HK Equity,00808.HK,#N/A,#N/A,#N/A,#N/A
+809 HK Equity,00809.HK,Materials,30,Consumer Staples,2000
+810 HK Equity,00810.HK,Financials,40,Financials,6000
+811 HK Equity,00811.HK,Consumer Discretionary,50,Communication Services,1000
+812 HK Equity,00812.HK,Financials,40,Financials,2000
+813 HK Equity,00813.HK,Properties & Construction,60,Real Estate,500
+814 HK Equity,00814.HK,Consumer Staples,30,Consumer Staples,1000
+815 HK Equity,00815.HK,Materials,15,Materials,2000
+816 HK Equity,00816.HK,Utilities,55,Utilities,2000
+817 HK Equity,00817.HK,Properties & Construction,60,Real Estate,2000
+818 HK Equity,00818.HK,Information Technology,45,Information Technology,3000
+819 HK Equity,00819.HK,Industrials,25,Consumer Discretionary,2000
+820 HK Equity,00820.HK,#N/A,#N/A,#N/A,#N/A
+821 HK Equity,00821.HK,Financials,40,Financials,4000
+822 HK Equity,00822.HK,Industrials,20,Industrials,2000
+823 HK Equity,00823.HK,#N/A,#N/A,#N/A,#N/A
+825 HK Equity,00825.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+826 HK Equity,00826.HK,Materials,15,Materials,2000
+827 HK Equity,00827.HK,Materials,15,Materials,4000
+828 HK Equity,00828.HK,Consumer Staples,30,Consumer Staples,2000
+829 HK Equity,00829.HK,Consumer Staples,30,Consumer Staples,2000
+830 HK Equity,00830.HK,Properties & Construction,20,Industrials,2000
+831 HK Equity,00831.HK,Consumer Staples,30,Consumer Staples,2000
+832 HK Equity,00832.HK,Properties & Construction,60,Real Estate,1000
+833 HK Equity,00833.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+834 HK Equity,00834.HK,Consumer Staples,30,Consumer Staples,4000
+835 HK Equity,00835.HK,#N/A,#N/A,#N/A,#N/A
+836 HK Equity,00836.HK,Utilities,55,Utilities,2000
+837 HK Equity,00837.HK,Consumer Discretionary,25,Consumer Discretionary,500
+838 HK Equity,00838.HK,Industrials,20,Industrials,2000
+839 HK Equity,00839.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+840 HK Equity,00840.HK,Industrials,20,Industrials,2000
+841 HK Equity,00841.HK,Industrials,30,Consumer Staples,2000
+842 HK Equity,00842.HK,Industrials,45,Information Technology,1000
+844 HK Equity,00844.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+845 HK Equity,00845.HK,Properties & Construction,60,Real Estate,1000
+846 HK Equity,00846.HK,Properties & Construction,60,Real Estate,1000
+847 HK Equity,00847.HK,#N/A,#N/A,#N/A,#N/A
+848 HK Equity,00848.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+850 HK Equity,00850.HK,Industrials,10,Energy,4000
+851 HK Equity,00851.HK,Financials,40,Financials,10000
+852 HK Equity,00852.HK,Energy,10,Energy,2000
+853 HK Equity,00853.HK,Healthcare,35,Health Care,1000
+854 HK Equity,00854.HK,Industrials,45,Information Technology,1000
+855 HK Equity,00855.HK,Utilities,55,Utilities,2000
+856 HK Equity,00856.HK,Information Technology,45,Information Technology,2000
+857 HK Equity,00857.HK,Energy,10,Energy,2000
+858 HK Equity,00858.HK,Healthcare,35,Health Care,10000
+859 HK Equity,00859.HK,Properties & Construction,60,Real Estate,2000
+860 HK Equity,00860.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+861 HK Equity,00861.HK,Information Technology,45,Information Technology,1000
+862 HK Equity,00862.HK,Information Technology,45,Information Technology,5000
+863 HK Equity,00863.HK,Financials,50,Communication Services,500
+864 HK Equity,00864.HK,Properties & Construction,60,Real Estate,4000
+865 HK Equity,00865.HK,Properties & Construction,45,Information Technology,4000
+866 HK Equity,00866.HK,Energy,10,Energy,2000
+867 HK Equity,00867.HK,Healthcare,35,Health Care,1000
+868 HK Equity,00868.HK,Industrials,20,Industrials,2000
+869 HK Equity,00869.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+870 HK Equity,00870.HK,#N/A,#N/A,#N/A,#N/A
+871 HK Equity,00871.HK,Properties & Construction,20,Industrials,1000
+872 HK Equity,00872.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+873 HK Equity,00873.HK,#N/A,#N/A,#N/A,#N/A
+874 HK Equity,00874.HK,Healthcare,35,Health Care,2000
+875 HK Equity,00875.HK,Consumer Staples,30,Consumer Staples,2000
+876 HK Equity,00876.HK,Healthcare,35,Health Care,10000
+877 HK Equity,00877.HK,Information Technology,45,Information Technology,1000
+878 HK Equity,00878.HK,Properties & Construction,60,Real Estate,500
+880 HK Equity,00880.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+881 HK Equity,00881.HK,Consumer Discretionary,25,Consumer Discretionary,500
+882 HK Equity,00882.HK,Conglomerates,20,Industrials,2000
+883 HK Equity,00883.HK,Energy,10,Energy,1000
+884 HK Equity,00884.HK,Properties & Construction,60,Real Estate,2000
+885 HK Equity,00885.HK,Information Technology,45,Information Technology,10000
+886 HK Equity,00886.HK,Consumer Staples,30,Consumer Staples,3000
+887 HK Equity,00887.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+888 HK Equity,00888.HK,Consumer Discretionary,50,Communication Services,2000
+889 HK Equity,00889.HK,Industrials,45,Information Technology,2000
+891 HK Equity,00891.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+893 HK Equity,00893.HK,Materials,15,Materials,1000
+894 HK Equity,00894.HK,Industrials,45,Information Technology,2000
+895 HK Equity,00895.HK,Industrials,20,Industrials,200
+896 HK Equity,00896.HK,Properties & Construction,20,Industrials,2000
+897 HK Equity,00897.HK,Healthcare,35,Health Care,5000
+898 HK Equity,00898.HK,Properties & Construction,60,Real Estate,2000
+899 HK Equity,00899.HK,Properties & Construction,60,Real Estate,10000
+900 HK Equity,00900.HK,Financials,40,Financials,2000
+901 HK Equity,00901.HK,Financials,40,Financials,20000
+902 HK Equity,00902.HK,Utilities,55,Utilities,2000
+903 HK Equity,00903.HK,#N/A,#N/A,#N/A,#N/A
+904 HK Equity,00904.HK,Consumer Staples,30,Consumer Staples,8000
+905 HK Equity,00905.HK,Financials,40,Financials,16000
+906 HK Equity,00906.HK,Industrials,15,Materials,1000
+907 HK Equity,00907.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+908 HK Equity,00908.HK,Conglomerates,20,Industrials,2000
+909 HK Equity,00909.HK,#N/A,#N/A,#N/A,#N/A
+910 HK Equity,00910.HK,Properties & Construction,60,Real Estate,6000
+911 HK Equity,00911.HK,Healthcare,25,Consumer Discretionary,5000
+912 HK Equity,00912.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+913 HK Equity,00913.HK,Financials,40,Financials,10000
+914 HK Equity,00914.HK,Properties & Construction,15,Materials,500
+915 HK Equity,00915.HK,Industrials,20,Industrials,1000
+916 HK Equity,00916.HK,Utilities,55,Utilities,1000
+917 HK Equity,00917.HK,#N/A,#N/A,#N/A,#N/A
+918 HK Equity,00918.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+919 HK Equity,00919.HK,Healthcare,35,Health Care,4000
+921 HK Equity,00921.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+922 HK Equity,00922.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+923 HK Equity,00923.HK,Materials,15,Materials,2000
+924 HK Equity,00924.HK,Properties & Construction,20,Industrials,8000
+925 HK Equity,00925.HK,Industrials,20,Industrials,2000
+926 HK Equity,00926.HK,Consumer Staples,30,Consumer Staples,1000
+927 HK Equity,00927.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+928 HK Equity,00928.HK,Healthcare,35,Health Care,20000
+929 HK Equity,00929.HK,Industrials,20,Industrials,5000
+930 HK Equity,00930.HK,#N/A,#N/A,#N/A,#N/A
+931 HK Equity,00931.HK,Utilities,20,Industrials,2000
+932 HK Equity,00932.HK,Healthcare,30,Consumer Staples,4000
+933 HK Equity,00933.HK,Energy,10,Energy,1000
+934 HK Equity,00934.HK,Energy,10,Energy,2000
+935 HK Equity,00935.HK,Industrials,20,Industrials,2000
+936 HK Equity,00936.HK,Industrials,20,Industrials,10000
+938 HK Equity,00938.HK,Properties & Construction,60,Real Estate,2000
+939 HK Equity,00939.HK,Financials,40,Financials,1000
+940 HK Equity,00940.HK,#N/A,#N/A,#N/A,#N/A
+941 HK Equity,00941.HK,Telecommunications,50,Communication Services,500
+943 HK Equity,00943.HK,Consumer Discretionary,25,Consumer Discretionary,8000
+945 HK Equity,00945.HK,Financials,40,Financials,100
+946 HK Equity,00946.HK,#N/A,#N/A,#N/A,#N/A
+947 HK Equity,00947.HK,Information Technology,45,Information Technology,1000
+948 HK Equity,00948.HK,Information Technology,45,Information Technology,2000
+950 HK Equity,00950.HK,Healthcare,35,Health Care,500
+951 HK Equity,00951.HK,Industrials,25,Consumer Discretionary,1000
+952 HK Equity,00952.HK,Financials,40,Financials,10000
+953 HK Equity,00953.HK,Consumer Discretionary,50,Communication Services,2000
+954 HK Equity,00954.HK,Consumer Staples,15,Materials,4000
+955 HK Equity,00955.HK,#N/A,#N/A,#N/A,#N/A
+956 HK Equity,00956.HK,Utilities,55,Utilities,1000
+958 HK Equity,00958.HK,#N/A,#N/A,#N/A,#N/A
+959 HK Equity,00959.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+960 HK Equity,00960.HK,Properties & Construction,60,Real Estate,500
+963 HK Equity,00963.HK,#N/A,#N/A,#N/A,#N/A
+966 HK Equity,00966.HK,Financials,40,Financials,200
+967 HK Equity,00967.HK,Utilities,55,Utilities,1000
+968 HK Equity,00968.HK,Industrials,55,Utilities,2000
+969 HK Equity,00969.HK,Consumer Staples,30,Consumer Staples,2000
+970 HK Equity,00970.HK,Consumer Discretionary,25,Consumer Discretionary,8000
+973 HK Equity,00973.HK,Consumer Discretionary,30,Consumer Staples,250
+974 HK Equity,00974.HK,Consumer Discretionary,30,Consumer Staples,1000
+975 HK Equity,00975.HK,Energy,10,Energy,3000
+976 HK Equity,00976.HK,Materials,15,Materials,2000
+978 HK Equity,00978.HK,Properties & Construction,60,Real Estate,2000
+979 HK Equity,00979.HK,Industrials,55,Utilities,2000
+980 HK Equity,00980.HK,Consumer Staples,30,Consumer Staples,1000
+981 HK Equity,00981.HK,Information Technology,45,Information Technology,500
+982 HK Equity,00982.HK,Financials,40,Financials,20000
+983 HK Equity,00983.HK,Properties & Construction,20,Industrials,2000
+984 HK Equity,00984.HK,Consumer Staples,25,Consumer Discretionary,500
+985 HK Equity,00985.HK,Materials,15,Materials,8000
+986 HK Equity,00986.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+987 HK Equity,00987.HK,Utilities,55,Utilities,2000
+988 HK Equity,00988.HK,Industrials,20,Industrials,3000
+989 HK Equity,00989.HK,Properties & Construction,60,Real Estate,5000
+990 HK Equity,00990.HK,Materials,25,Consumer Discretionary,10000
+991 HK Equity,00991.HK,Utilities,55,Utilities,2000
+992 HK Equity,00992.HK,Information Technology,45,Information Technology,2000
+993 HK Equity,00993.HK,Financials,40,Financials,1000
+994 HK Equity,00994.HK,Properties & Construction,20,Industrials,4000
+995 HK Equity,00995.HK,Industrials,20,Industrials,2000
+996 HK Equity,00996.HK,Properties & Construction,60,Real Estate,10000
+997 HK Equity,00997.HK,Industrials,25,Consumer Discretionary,5000
+998 HK Equity,00998.HK,Financials,40,Financials,1000
+999 HK Equity,00999.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1000 HK Equity,01000.HK,Consumer Discretionary,50,Communication Services,500
+1001 HK Equity,01001.HK,Materials,20,Industrials,2000
+1002 HK Equity,01002.HK,Industrials,20,Industrials,4000
+1003 HK Equity,01003.HK,Consumer Discretionary,50,Communication Services,10000
+1004 HK Equity,01004.HK,Utilities,40,Financials,2000
+1005 HK Equity,01005.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1006 HK Equity,01006.HK,Consumer Staples,30,Consumer Staples,1000
+1007 HK Equity,01007.HK,Consumer Discretionary,30,Consumer Staples,20000
+1008 HK Equity,01008.HK,Industrials,20,Industrials,2000
+1009 HK Equity,01009.HK,Properties & Construction,60,Real Estate,2000
+1010 HK Equity,01010.HK,Information Technology,45,Information Technology,2000
+1011 HK Equity,01011.HK,Healthcare,35,Health Care,500
+1013 HK Equity,01013.HK,Information Technology,45,Information Technology,2000
+1019 HK Equity,01019.HK,Financials,40,Financials,6000
+1020 HK Equity,01020.HK,Information Technology,45,Information Technology,4000
+1021 HK Equity,01021.HK,#N/A,#N/A,#N/A,#N/A
+1022 HK Equity,01022.HK,Information Technology,45,Information Technology,1500
+1023 HK Equity,01023.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1025 HK Equity,01025.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1026 HK Equity,01026.HK,Utilities,55,Utilities,10000
+1027 HK Equity,01027.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1028 HK Equity,01028.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1029 HK Equity,01029.HK,Materials,15,Materials,2000
+1030 HK Equity,01030.HK,Properties & Construction,60,Real Estate,2000
+1031 HK Equity,01031.HK,Financials,40,Financials,2000
+1033 HK Equity,01033.HK,Energy,10,Energy,2000
+1034 HK Equity,01034.HK,Properties & Construction,20,Industrials,8000
+1035 HK Equity,01035.HK,#N/A,#N/A,#N/A,#N/A
+1036 HK Equity,01036.HK,Properties & Construction,60,Real Estate,1000
+1037 HK Equity,01037.HK,Information Technology,45,Information Technology,2000
+1038 HK Equity,01038.HK,Utilities,55,Utilities,500
+1039 HK Equity,01039.HK,Information Technology,25,Consumer Discretionary,1000
+1041 HK Equity,01041.HK,Financials,40,Financials,10000
+1043 HK Equity,01043.HK,Industrials,55,Utilities,2000
+1044 HK Equity,01044.HK,Consumer Staples,30,Consumer Staples,500
+1045 HK Equity,01045.HK,Telecommunications,50,Communication Services,2000
+1046 HK Equity,01046.HK,Consumer Discretionary,50,Communication Services,5000
+1047 HK Equity,01047.HK,Materials,15,Materials,2000
+1048 HK Equity,01048.HK,#N/A,#N/A,#N/A,#N/A
+1049 HK Equity,01049.HK,Consumer Discretionary,25,Consumer Discretionary,6000
+1050 HK Equity,01050.HK,Information Technology,45,Information Technology,2000
+1051 HK Equity,01051.HK,Financials,40,Financials,3000
+1052 HK Equity,01052.HK,Industrials,20,Industrials,2000
+1053 HK Equity,01053.HK,Materials,15,Materials,2000
+1055 HK Equity,01055.HK,Consumer Discretionary,20,Industrials,2000
+1057 HK Equity,01057.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1058 HK Equity,01058.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1059 HK Equity,01059.HK,Information Technology,45,Information Technology,3000
+1060 HK Equity,01060.HK,Consumer Discretionary,50,Communication Services,10000
+1061 HK Equity,01061.HK,Healthcare,35,Health Care,1000
+1063 HK Equity,01063.HK,Information Technology,45,Information Technology,10000
+1064 HK Equity,01064.HK,Properties & Construction,60,Real Estate,5000
+1065 HK Equity,01065.HK,Utilities,55,Utilities,2000
+1066 HK Equity,01066.HK,Healthcare,35,Health Care,4000
+1068 HK Equity,01068.HK,Consumer Staples,30,Consumer Staples,1000
+1069 HK Equity,01069.HK,Materials,55,Utilities,40000
+1070 HK Equity,01070.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1071 HK Equity,01071.HK,Utilities,55,Utilities,2000
+1072 HK Equity,01072.HK,Industrials,20,Industrials,200
+1073 HK Equity,01073.HK,Materials,15,Materials,5000
+1075 HK Equity,01075.HK,Information Technology,45,Information Technology,6000
+1076 HK Equity,01076.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+1079 HK Equity,01079.HK,Information Technology,45,Information Technology,2000
+1080 HK Equity,01080.HK,Energy,10,Energy,1500
+1082 HK Equity,01082.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1083 HK Equity,01083.HK,Utilities,55,Utilities,1000
+1084 HK Equity,01084.HK,Consumer Staples,15,Materials,2000
+1085 HK Equity,01085.HK,Information Technology,20,Industrials,2000
+1086 HK Equity,01086.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1087 HK Equity,01087.HK,Information Technology,45,Information Technology,1000
+1088 HK Equity,01088.HK,Energy,10,Energy,500
+1089 HK Equity,01089.HK,Information Technology,45,Information Technology,5000
+1090 HK Equity,01090.HK,Materials,15,Materials,2000
+1091 HK Equity,01091.HK,Materials,15,Materials,1000
+1093 HK Equity,01093.HK,Healthcare,35,Health Care,2000
+1094 HK Equity,01094.HK,Information Technology,45,Information Technology,8000
+1096 HK Equity,01096.HK,Utilities,55,Utilities,2000
+1097 HK Equity,01097.HK,Consumer Discretionary,50,Communication Services,20000
+1098 HK Equity,01098.HK,Properties & Construction,60,Real Estate,1000
+1099 HK Equity,01099.HK,Healthcare,35,Health Care,400
+1100 HK Equity,01100.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1101 HK Equity,01101.HK,Energy,20,Industrials,2000
+1102 HK Equity,01102.HK,Properties & Construction,15,Materials,2000
+1103 HK Equity,01103.HK,Materials,15,Materials,8000
+1104 HK Equity,01104.HK,Materials,20,Industrials,20000
+1105 HK Equity,01105.HK,Consumer Discretionary,50,Communication Services,2000
+1106 HK Equity,01106.HK,Industrials,15,Materials,20000
+1107 HK Equity,01107.HK,Properties & Construction,60,Real Estate,2000
+1108 HK Equity,01108.HK,Industrials,15,Materials,2000
+1109 HK Equity,01109.HK,Properties & Construction,60,Real Estate,2000
+1110 HK Equity,01110.HK,Healthcare,35,Health Care,4000
+1111 HK Equity,01111.HK,Financials,40,Financials,1000
+1112 HK Equity,01112.HK,Consumer Staples,30,Consumer Staples,500
+1113 HK Equity,01113.HK,Properties & Construction,60,Real Estate,500
+1114 HK Equity,01114.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1115 HK Equity,01115.HK,Consumer Staples,30,Consumer Staples,1000
+1116 HK Equity,01116.HK,Materials,15,Materials,10000
+1117 HK Equity,01117.HK,Consumer Staples,30,Consumer Staples,1000
+1118 HK Equity,01118.HK,Properties & Construction,15,Materials,10000
+1119 HK Equity,01119.HK,Information Technology,50,Communication Services,400
+1120 HK Equity,01120.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1121 HK Equity,01121.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1122 HK Equity,01122.HK,Industrials,25,Consumer Discretionary,2000
+1123 HK Equity,01123.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1124 HK Equity,01124.HK,Properties & Construction,60,Real Estate,2000
+1125 HK Equity,01125.HK,Properties & Construction,60,Real Estate,400
+1126 HK Equity,01126.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1127 HK Equity,01127.HK,Industrials,20,Industrials,4000
+1128 HK Equity,01128.HK,Consumer Discretionary,25,Consumer Discretionary,400
+1129 HK Equity,01129.HK,Utilities,55,Utilities,4000
+1130 HK Equity,01130.HK,Industrials,25,Consumer Discretionary,4000
+1131 HK Equity,01131.HK,Energy,10,Energy,5000
+1132 HK Equity,01132.HK,Consumer Discretionary,50,Communication Services,5000
+1133 HK Equity,01133.HK,Industrials,20,Industrials,2000
+1134 HK Equity,01134.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1135 HK Equity,01135.HK,#N/A,#N/A,#N/A,#N/A
+1136 HK Equity,01136.HK,#N/A,#N/A,#N/A,#N/A
+1137 HK Equity,01137.HK,Information Technology,50,Communication Services,1000
+1138 HK Equity,01138.HK,Industrials,20,Industrials,2000
+1139 HK Equity,01139.HK,Consumer Discretionary,25,Consumer Discretionary,16000
+1140 HK Equity,01140.HK,Financials,40,Financials,4000
+1141 HK Equity,01141.HK,Financials,40,Financials,10000
+1142 HK Equity,01142.HK,Materials,15,Materials,4000
+1143 HK Equity,01143.HK,Consumer Discretionary,45,Information Technology,4000
+1145 HK Equity,01145.HK,Industrials,20,Industrials,1000
+1146 HK Equity,01146.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1147 HK Equity,01147.HK,Information Technology,45,Information Technology,10000
+1148 HK Equity,01148.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1149 HK Equity,01149.HK,#N/A,#N/A,#N/A,#N/A
+1150 HK Equity,01150.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1151 HK Equity,01151.HK,Industrials,45,Information Technology,500
+1152 HK Equity,01152.HK,Consumer Staples,30,Consumer Staples,2000
+1155 HK Equity,01155.HK,Information Technology,45,Information Technology,1000
+1156 HK Equity,01156.HK,Energy,10,Energy,4000
+1157 HK Equity,01157.HK,Industrials,20,Industrials,200
+1158 HK Equity,01158.HK,Consumer Discretionary,25,Consumer Discretionary,200
+1159 HK Equity,01159.HK,Consumer Discretionary,50,Communication Services,500
+1160 HK Equity,01160.HK,Financials,40,Financials,100000
+1161 HK Equity,01161.HK,Healthcare,35,Health Care,2000
+1162 HK Equity,01162.HK,Properties & Construction,20,Industrials,8000
+1163 HK Equity,01163.HK,Consumer Discretionary,50,Communication Services,2500
+1164 HK Equity,01164.HK,Materials,20,Industrials,5000
+1165 HK Equity,01165.HK,Utilities,20,Industrials,2000
+1166 HK Equity,01166.HK,Industrials,45,Information Technology,20000
+1167 HK Equity,01167.HK,#N/A,#N/A,#N/A,#N/A
+1168 HK Equity,01168.HK,Properties & Construction,60,Real Estate,2000
+1169 HK Equity,01169.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1170 HK Equity,01170.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1171 HK Equity,01171.HK,Energy,10,Energy,2000
+1172 HK Equity,01172.HK,Industrials,20,Industrials,20000
+1173 HK Equity,01173.HK,Consumer Staples,35,Health Care,20000
+1174 HK Equity,01174.HK,#N/A,#N/A,#N/A,#N/A
+1175 HK Equity,01175.HK,Consumer Staples,30,Consumer Staples,10000
+1176 HK Equity,01176.HK,Properties & Construction,60,Real Estate,2000
+1177 HK Equity,01177.HK,Healthcare,35,Health Care,1000
+1178 HK Equity,01178.HK,Conglomerates,35,Health Care,5000
+1179 HK Equity,01179.HK,Consumer Discretionary,25,Consumer Discretionary,50
+1180 HK Equity,01180.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1181 HK Equity,01181.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1182 HK Equity,01182.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1183 HK Equity,01183.HK,Properties & Construction,20,Industrials,2000
+1184 HK Equity,01184.HK,Industrials,45,Information Technology,2000
+1185 HK Equity,01185.HK,Industrials,20,Industrials,2000
+1186 HK Equity,01186.HK,Properties & Construction,20,Industrials,500
+1187 HK Equity,01187.HK,#N/A,#N/A,#N/A,#N/A
+1188 HK Equity,01188.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1189 HK Equity,01189.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1190 HK Equity,01190.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1191 HK Equity,01191.HK,Financials,60,Real Estate,20000
+1192 HK Equity,01192.HK,Industrials,10,Energy,20000
+1193 HK Equity,01193.HK,Utilities,55,Utilities,2000
+1194 HK Equity,01194.HK,Materials,15,Materials,4000
+1195 HK Equity,01195.HK,Properties & Construction,60,Real Estate,4000
+1196 HK Equity,01196.HK,Industrials,20,Industrials,2000
+1197 HK Equity,01197.HK,#N/A,#N/A,#N/A,#N/A
+1198 HK Equity,01198.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1199 HK Equity,01199.HK,Industrials,20,Industrials,2000
+1200 HK Equity,01200.HK,Properties & Construction,60,Real Estate,2000
+1201 HK Equity,01201.HK,Properties & Construction,60,Real Estate,3000
+1202 HK Equity,01202.HK,Information Technology,45,Information Technology,2000
+1203 HK Equity,01203.HK,Materials,15,Materials,2000
+1205 HK Equity,01205.HK,Materials,20,Industrials,2000
+1206 HK Equity,01206.HK,Information Technology,45,Information Technology,2000
+1207 HK Equity,01207.HK,Properties & Construction,60,Real Estate,2000
+1208 HK Equity,01208.HK,Materials,15,Materials,4000
+1210 HK Equity,01210.HK,Consumer Staples,30,Consumer Staples,2000
+1211 HK Equity,01211.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1212 HK Equity,01212.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1213 HK Equity,01213.HK,Industrials,20,Industrials,2000
+1215 HK Equity,01215.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+1216 HK Equity,01216.HK,Financials,40,Financials,1000
+1217 HK Equity,01217.HK,Financials,40,Financials,40000
+1218 HK Equity,01218.HK,Properties & Construction,60,Real Estate,1000
+1219 HK Equity,01219.HK,Consumer Staples,30,Consumer Staples,1000
+1220 HK Equity,01220.HK,Properties & Construction,20,Industrials,30000
+1221 HK Equity,01221.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1222 HK Equity,01222.HK,Properties & Construction,20,Industrials,20000
+1223 HK Equity,01223.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1224 HK Equity,01224.HK,Properties & Construction,60,Real Estate,1000
+1225 HK Equity,01225.HK,Financials,40,Financials,20000
+1226 HK Equity,01226.HK,Financials,40,Financials,10000
+1227 HK Equity,01227.HK,Financials,40,Financials,20000
+1228 HK Equity,01228.HK,#N/A,#N/A,#N/A,#N/A
+1229 HK Equity,01229.HK,Energy,10,Energy,2000
+1230 HK Equity,01230.HK,Consumer Staples,30,Consumer Staples,1000
+1231 HK Equity,01231.HK,Materials,15,Materials,2000
+1232 HK Equity,01232.HK,Properties & Construction,60,Real Estate,2000
+1233 HK Equity,01233.HK,Properties & Construction,60,Real Estate,1000
+1234 HK Equity,01234.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1235 HK Equity,01235.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1236 HK Equity,01236.HK,#N/A,#N/A,#N/A,#N/A
+1237 HK Equity,01237.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1238 HK Equity,01238.HK,Properties & Construction,60,Real Estate,1000
+1239 HK Equity,01239.HK,Industrials,15,Materials,20000
+1240 HK Equity,01240.HK,Properties & Construction,20,Industrials,2500
+1241 HK Equity,01241.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1243 HK Equity,01243.HK,Properties & Construction,60,Real Estate,4000
+1245 HK Equity,01245.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1246 HK Equity,01246.HK,Properties & Construction,20,Industrials,10000
+1247 HK Equity,01247.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1249 HK Equity,01249.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1250 HK Equity,01250.HK,Utilities,55,Utilities,20000
+1251 HK Equity,01251.HK,Energy,10,Energy,2000
+1252 HK Equity,01252.HK,Properties & Construction,15,Materials,1000
+1253 HK Equity,01253.HK,Properties & Construction,20,Industrials,4000
+1255 HK Equity,01255.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1257 HK Equity,01257.HK,Utilities,20,Industrials,1000
+1258 HK Equity,01258.HK,Materials,15,Materials,1000
+1259 HK Equity,01259.HK,Consumer Staples,30,Consumer Staples,1000
+1260 HK Equity,01260.HK,Financials,40,Financials,2000
+1262 HK Equity,01262.HK,Consumer Staples,30,Consumer Staples,1000
+1263 HK Equity,01263.HK,Information Technology,45,Information Technology,2000
+1265 HK Equity,01265.HK,Utilities,55,Utilities,10000
+1266 HK Equity,01266.HK,Materials,15,Materials,1000
+1268 HK Equity,01268.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1269 HK Equity,01269.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1270 HK Equity,01270.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1271 HK Equity,01271.HK,Properties & Construction,20,Industrials,1000
+1272 HK Equity,01272.HK,Industrials,20,Industrials,1000
+1273 HK Equity,01273.HK,Financials,40,Financials,4000
+1275 HK Equity,01275.HK,#N/A,#N/A,#N/A,#N/A
+1277 HK Equity,01277.HK,Energy,10,Energy,2000
+1278 HK Equity,01278.HK,Properties & Construction,60,Real Estate,2500
+1280 HK Equity,01280.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1281 HK Equity,01281.HK,Utilities,55,Utilities,1000
+1282 HK Equity,01282.HK,Financials,20,Industrials,4000
+1283 HK Equity,01283.HK,Properties & Construction,20,Industrials,5000
+1285 HK Equity,01285.HK,Consumer Staples,30,Consumer Staples,1000
+1286 HK Equity,01286.HK,Industrials,25,Consumer Discretionary,1000
+1288 HK Equity,01288.HK,Financials,40,Financials,1000
+1289 HK Equity,01289.HK,Industrials,20,Industrials,500
+1290 HK Equity,01290.HK,Financials,40,Financials,2000
+1292 HK Equity,01292.HK,Industrials,20,Industrials,1000
+1293 HK Equity,01293.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1296 HK Equity,01296.HK,Industrials,55,Utilities,1000
+1297 HK Equity,01297.HK,Information Technology,45,Information Technology,1000
+1298 HK Equity,01298.HK,Healthcare,35,Health Care,1000
+1299 HK Equity,01299.HK,Financials,40,Financials,200
+1300 HK Equity,01300.HK,Information Technology,45,Information Technology,2000
+1301 HK Equity,01301.HK,Industrials,20,Industrials,2000
+1302 HK Equity,01302.HK,Healthcare,35,Health Care,2000
+1303 HK Equity,01303.HK,Energy,15,Materials,2000
+1305 HK Equity,01305.HK,Industrials,45,Information Technology,1000
+1308 HK Equity,01308.HK,Industrials,20,Industrials,1000
+1310 HK Equity,01310.HK,Telecommunications,50,Communication Services,500
+1312 HK Equity,01312.HK,Properties & Construction,15,Materials,6000
+1313 HK Equity,01313.HK,Properties & Construction,15,Materials,2000
+1314 HK Equity,01314.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1315 HK Equity,01315.HK,Properties & Construction,20,Industrials,2000
+1316 HK Equity,01316.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1317 HK Equity,01317.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1318 HK Equity,01318.HK,#N/A,#N/A,#N/A,#N/A
+1319 HK Equity,01319.HK,Financials,40,Financials,8000
+1321 HK Equity,01321.HK,Properties & Construction,60,Real Estate,2000
+1322 HK Equity,01322.HK,Industrials,20,Industrials,500
+1323 HK Equity,01323.HK,Conglomerates,20,Industrials,2000
+1326 HK Equity,01326.HK,Consumer Discretionary,50,Communication Services,8000
+1327 HK Equity,01327.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1328 HK Equity,01328.HK,Consumer Discretionary,20,Industrials,10000
+1329 HK Equity,01329.HK,Properties & Construction,60,Real Estate,2000
+1330 HK Equity,01330.HK,Industrials,20,Industrials,1000
+1332 HK Equity,01332.HK,Industrials,15,Materials,10000
+1333 HK Equity,01333.HK,Materials,15,Materials,400
+1335 HK Equity,01335.HK,Industrials,15,Materials,2000
+1336 HK Equity,01336.HK,Financials,40,Financials,100
+1337 HK Equity,01337.HK,Information Technology,45,Information Technology,1000
+1338 HK Equity,01338.HK,Consumer Staples,30,Consumer Staples,2000
+1339 HK Equity,01339.HK,Financials,40,Financials,1000
+1340 HK Equity,01340.HK,Consumer Staples,30,Consumer Staples,4000
+1341 HK Equity,01341.HK,Industrials,20,Industrials,8000
+1343 HK Equity,01343.HK,Properties & Construction,20,Industrials,5000
+1345 HK Equity,01345.HK,Healthcare,35,Health Care,1000
+1346 HK Equity,01346.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1347 HK Equity,01347.HK,Information Technology,45,Information Technology,1000
+1348 HK Equity,01348.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1349 HK Equity,01349.HK,Healthcare,35,Health Care,1000
+1353 HK Equity,01353.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1355 HK Equity,01355.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1356 HK Equity,01356.HK,#N/A,#N/A,#N/A,#N/A
+1357 HK Equity,01357.HK,Information Technology,45,Information Technology,500
+1358 HK Equity,01358.HK,Healthcare,35,Health Care,1000
+1359 HK Equity,01359.HK,Financials,40,Financials,1000
+1360 HK Equity,01360.HK,Consumer Discretionary,50,Communication Services,5000
+1361 HK Equity,01361.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1362 HK Equity,01362.HK,Information Technology,45,Information Technology,4000
+1363 HK Equity,01363.HK,Utilities,55,Utilities,2000
+1365 HK Equity,01365.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1366 HK Equity,01366.HK,Industrials,20,Industrials,2000
+1367 HK Equity,01367.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1368 HK Equity,01368.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1369 HK Equity,01369.HK,Properties & Construction,60,Real Estate,2000
+1370 HK Equity,01370.HK,Materials,15,Materials,1000
+1371 HK Equity,01371.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1372 HK Equity,01372.HK,Properties & Construction,20,Industrials,1000
+1373 HK Equity,01373.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1375 HK Equity,01375.HK,Financials,40,Financials,1000
+1376 HK Equity,01376.HK,Properties & Construction,25,Consumer Discretionary,8000
+1378 HK Equity,01378.HK,Materials,15,Materials,500
+1380 HK Equity,01380.HK,Materials,15,Materials,20000
+1381 HK Equity,01381.HK,Utilities,55,Utilities,1000
+1382 HK Equity,01382.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1383 HK Equity,01383.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1385 HK Equity,01385.HK,Information Technology,45,Information Technology,2000
+1386 HK Equity,01386.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1387 HK Equity,01387.HK,Properties & Construction,60,Real Estate,2000
+1388 HK Equity,01388.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1389 HK Equity,01389.HK,Consumer Staples,30,Consumer Staples,4000
+1390 HK Equity,01390.HK,#N/A,#N/A,#N/A,#N/A
+1393 HK Equity,01393.HK,Energy,10,Energy,1000
+1395 HK Equity,01395.HK,Utilities,55,Utilities,5000
+1396 HK Equity,01396.HK,Properties & Construction,60,Real Estate,2000
+1397 HK Equity,01397.HK,Consumer Discretionary,20,Industrials,4000
+1398 HK Equity,01398.HK,Financials,40,Financials,1000
+1399 HK Equity,01399.HK,Industrials,55,Utilities,2000
+1400 HK Equity,01400.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1401 HK Equity,01401.HK,Industrials,25,Consumer Discretionary,20000
+1402 HK Equity,01402.HK,Information Technology,45,Information Technology,10000
+1410 HK Equity,01410.HK,Information Technology,45,Information Technology,10000
+1412 HK Equity,01412.HK,Industrials,15,Materials,2000
+1415 HK Equity,01415.HK,Industrials,45,Information Technology,1000
+1416 HK Equity,01416.HK,Properties & Construction,15,Materials,10000
+1417 HK Equity,01417.HK,Properties & Construction,60,Real Estate,2000
+1418 HK Equity,01418.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1419 HK Equity,01419.HK,Healthcare,35,Health Care,2000
+1420 HK Equity,01420.HK,Properties & Construction,20,Industrials,4000
+1421 HK Equity,01421.HK,Properties & Construction,20,Industrials,5000
+1425 HK Equity,01425.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1426 HK Equity,01426.HK,#N/A,#N/A,#N/A,#N/A
+1427 HK Equity,01427.HK,Properties & Construction,60,Real Estate,1000
+1428 HK Equity,01428.HK,Financials,40,Financials,2000
+1430 HK Equity,01430.HK,Utilities,55,Utilities,2000
+1431 HK Equity,01431.HK,Consumer Staples,30,Consumer Staples,1000
+1432 HK Equity,01432.HK,Consumer Staples,30,Consumer Staples,1000
+1433 HK Equity,01433.HK,Industrials,25,Consumer Discretionary,10000
+1438 HK Equity,01438.HK,#N/A,#N/A,#N/A,#N/A
+1439 HK Equity,01439.HK,Industrials,15,Materials,5000
+1442 HK Equity,01442.HK,Industrials,20,Industrials,10000
+1443 HK Equity,01443.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1446 HK Equity,01446.HK,Consumer Staples,30,Consumer Staples,2000
+1447 HK Equity,01447.HK,Properties & Construction,20,Industrials,2000
+1448 HK Equity,01448.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1450 HK Equity,01450.HK,Information Technology,45,Information Technology,2000
+1451 HK Equity,01451.HK,Industrials,20,Industrials,2000
+1452 HK Equity,01452.HK,Industrials,15,Materials,1000
+1456 HK Equity,01456.HK,Financials,40,Financials,500
+1458 HK Equity,01458.HK,Consumer Staples,30,Consumer Staples,500
+1459 HK Equity,01459.HK,Properties & Construction,20,Industrials,2000
+1460 HK Equity,01460.HK,Information Technology,45,Information Technology,4000
+1461 HK Equity,01461.HK,Financials,40,Financials,1000
+1462 HK Equity,01462.HK,Properties & Construction,20,Industrials,2000
+1463 HK Equity,01463.HK,Consumer Discretionary,20,Industrials,4000
+1466 HK Equity,01466.HK,Consumer Discretionary,25,Consumer Discretionary,8000
+1468 HK Equity,01468.HK,Conglomerates,25,Consumer Discretionary,10000
+1469 HK Equity,01469.HK,Financials,40,Financials,4000
+1470 HK Equity,01470.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1472 HK Equity,01472.HK,Properties & Construction,20,Industrials,5000
+1475 HK Equity,01475.HK,Consumer Staples,30,Consumer Staples,1000
+1476 HK Equity,01476.HK,Financials,40,Financials,1000
+1477 HK Equity,01477.HK,Healthcare,35,Health Care,500
+1478 HK Equity,01478.HK,Industrials,25,Consumer Discretionary,1000
+1480 HK Equity,01480.HK,Industrials,45,Information Technology,2000
+1483 HK Equity,01483.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1486 HK Equity,01486.HK,Properties & Construction,20,Industrials,2000
+1488 HK Equity,01488.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1492 HK Equity,01492.HK,Consumer Staples,30,Consumer Staples,2000
+1495 HK Equity,01495.HK,Properties & Construction,25,Consumer Discretionary,2000
+1496 HK Equity,01496.HK,Properties & Construction,20,Industrials,4000
+1498 HK Equity,01498.HK,Healthcare,35,Health Care,500
+1499 HK Equity,01499.HK,Properties & Construction,20,Industrials,10000
+1500 HK Equity,01500.HK,Properties & Construction,20,Industrials,5000
+1501 HK Equity,01501.HK,Healthcare,35,Health Care,200
+1502 HK Equity,01502.HK,Properties & Construction,20,Industrials,1000
+1508 HK Equity,01508.HK,Financials,40,Financials,1000
+1509 HK Equity,01509.HK,Healthcare,35,Health Care,1000
+1513 HK Equity,01513.HK,Healthcare,35,Health Care,100
+1515 HK Equity,01515.HK,Healthcare,35,Health Care,500
+1518 HK Equity,01518.HK,Healthcare,35,Health Care,500
+1520 HK Equity,01520.HK,Consumer Discretionary,25,Consumer Discretionary,6000
+1521 HK Equity,01521.HK,Healthcare,35,Health Care,2000
+1522 HK Equity,01522.HK,Information Technology,45,Information Technology,4000
+1523 HK Equity,01523.HK,Information Technology,45,Information Technology,8000
+1525 HK Equity,01525.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1526 HK Equity,01526.HK,Healthcare,35,Health Care,1000
+1527 HK Equity,01527.HK,Industrials,20,Industrials,200
+1528 HK Equity,01528.HK,Properties & Construction,25,Consumer Discretionary,200
+1529 HK Equity,01529.HK,Industrials,20,Industrials,10000
+1530 HK Equity,01530.HK,Healthcare,35,Health Care,500
+1532 HK Equity,01532.HK,Consumer Discretionary,25,Consumer Discretionary,3000
+1533 HK Equity,01533.HK,Consumer Staples,30,Consumer Staples,500
+1536 HK Equity,01536.HK,Industrials,20,Industrials,2000
+1538 HK Equity,01538.HK,Properties & Construction,20,Industrials,2000
+1539 HK Equity,01539.HK,Consumer Discretionary,20,Industrials,2000
+1540 HK Equity,01540.HK,Industrials,20,Industrials,3000
+1542 HK Equity,01542.HK,Utilities,55,Utilities,1000
+1543 HK Equity,01543.HK,Financials,40,Financials,2000
+1545 HK Equity,01545.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1546 HK Equity,01546.HK,Properties & Construction,20,Industrials,8000
+1547 HK Equity,01547.HK,Properties & Construction,20,Industrials,8000
+1548 HK Equity,01548.HK,Healthcare,35,Health Care,2000
+1549 HK Equity,01549.HK,Industrials,20,Industrials,8000
+1551 HK Equity,01551.HK,Financials,40,Financials,1000
+1552 HK Equity,01552.HK,Properties & Construction,20,Industrials,5000
+1553 HK Equity,01553.HK,Materials,15,Materials,2000
+1555 HK Equity,01555.HK,Energy,10,Energy,2000
+1556 HK Equity,01556.HK,Properties & Construction,20,Industrials,5000
+1557 HK Equity,01557.HK,Properties & Construction,20,Industrials,4000
+1558 HK Equity,01558.HK,Healthcare,35,Health Care,200
+1559 HK Equity,01559.HK,Properties & Construction,20,Industrials,10000
+1560 HK Equity,01560.HK,Properties & Construction,60,Real Estate,2000
+1561 HK Equity,01561.HK,Materials,15,Materials,4000
+1563 HK Equity,01563.HK,Financials,40,Financials,3000
+1565 HK Equity,01565.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1566 HK Equity,01566.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1568 HK Equity,01568.HK,Properties & Construction,20,Industrials,2000
+1569 HK Equity,01569.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1570 HK Equity,01570.HK,Properties & Construction,60,Real Estate,1000
+1571 HK Equity,01571.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1572 HK Equity,01572.HK,Financials,25,Consumer Discretionary,4000
+1573 HK Equity,01573.HK,Energy,10,Energy,2000
+1575 HK Equity,01575.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1576 HK Equity,01576.HK,Industrials,20,Industrials,1000
+1577 HK Equity,01577.HK,Financials,40,Financials,2000
+1578 HK Equity,01578.HK,Financials,40,Financials,500
+1579 HK Equity,01579.HK,Consumer Staples,30,Consumer Staples,1000
+1580 HK Equity,01580.HK,Materials,15,Materials,5000
+1581 HK Equity,01581.HK,Properties & Construction,20,Industrials,5000
+1582 HK Equity,01582.HK,Properties & Construction,20,Industrials,2500
+1583 HK Equity,01583.HK,Consumer Staples,30,Consumer Staples,1000
+1585 HK Equity,01585.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1586 HK Equity,01586.HK,Consumer Discretionary,20,Industrials,4000
+1587 HK Equity,01587.HK,Consumer Staples,30,Consumer Staples,4000
+1588 HK Equity,01588.HK,Information Technology,45,Information Technology,200
+1589 HK Equity,01589.HK,Properties & Construction,60,Real Estate,1000
+1591 HK Equity,01591.HK,Properties & Construction,20,Industrials,20000
+1592 HK Equity,01592.HK,Properties & Construction,15,Materials,5000
+1593 HK Equity,01593.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1596 HK Equity,01596.HK,Industrials,20,Industrials,1000
+1598 HK Equity,01598.HK,Consumer Discretionary,25,Consumer Discretionary,3000
+1599 HK Equity,01599.HK,Properties & Construction,20,Industrials,1000
+1600 HK Equity,01600.HK,Utilities,55,Utilities,500
+1601 HK Equity,01601.HK,Financials,40,Financials,2000
+1606 HK Equity,01606.HK,Financials,40,Financials,2000
+1608 HK Equity,01608.HK,Utilities,20,Industrials,1000
+1609 HK Equity,01609.HK,Properties & Construction,20,Industrials,2000
+1610 HK Equity,01610.HK,Consumer Staples,30,Consumer Staples,1000
+1611 HK Equity,01611.HK,Industrials,45,Information Technology,2000
+1612 HK Equity,01612.HK,Healthcare,35,Health Care,2000
+1613 HK Equity,01613.HK,Information Technology,45,Information Technology,3200
+1615 HK Equity,01615.HK,Properties & Construction,20,Industrials,5000
+1616 HK Equity,01616.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1617 HK Equity,01617.HK,Information Technology,45,Information Technology,4000
+1618 HK Equity,01618.HK,Properties & Construction,20,Industrials,1000
+1619 HK Equity,01619.HK,#N/A,#N/A,#N/A,#N/A
+1620 HK Equity,01620.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1621 HK Equity,01621.HK,Energy,15,Materials,8000
+1622 HK Equity,01622.HK,Properties & Construction,60,Real Estate,2000
+1623 HK Equity,01623.HK,Energy,10,Energy,1000
+1625 HK Equity,01625.HK,#N/A,#N/A,#N/A,#N/A
+1626 HK Equity,01626.HK,Industrials,15,Materials,2000
+1627 HK Equity,01627.HK,Properties & Construction,20,Industrials,4000
+1628 HK Equity,01628.HK,Properties & Construction,60,Real Estate,1000
+1629 HK Equity,01629.HK,Industrials,15,Materials,4000
+1630 HK Equity,01630.HK,Properties & Construction,20,Industrials,6000
+1631 HK Equity,01631.HK,Industrials,20,Industrials,5000
+1632 HK Equity,01632.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1633 HK Equity,01633.HK,Properties & Construction,20,Industrials,3000
+1635 HK Equity,01635.HK,Utilities,55,Utilities,1000
+1636 HK Equity,01636.HK,Materials,15,Materials,4000
+1637 HK Equity,01637.HK,Properties & Construction,20,Industrials,2000
+1638 HK Equity,01638.HK,Properties & Construction,60,Real Estate,1000
+1639 HK Equity,01639.HK,Industrials,20,Industrials,10000
+1640 HK Equity,01640.HK,Consumer Discretionary,50,Communication Services,2000
+1645 HK Equity,01645.HK,Industrials,20,Industrials,4000
+1647 HK Equity,01647.HK,Properties & Construction,20,Industrials,5000
+1649 HK Equity,01649.HK,Properties & Construction,55,Utilities,2000
+1650 HK Equity,01650.HK,Consumer Discretionary,20,Industrials,8000
+1651 HK Equity,01651.HK,Industrials,20,Industrials,1000
+1652 HK Equity,01652.HK,Healthcare,35,Health Care,1000
+1653 HK Equity,01653.HK,Properties & Construction,15,Materials,20000
+1655 HK Equity,01655.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1656 HK Equity,01656.HK,Industrials,20,Industrials,2000
+1657 HK Equity,01657.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1658 HK Equity,01658.HK,Financials,40,Financials,1000
+1659 HK Equity,01659.HK,Utilities,55,Utilities,8000
+1660 HK Equity,01660.HK,Industrials,20,Industrials,8000
+1661 HK Equity,01661.HK,Consumer Discretionary,50,Communication Services,1000
+1662 HK Equity,01662.HK,Properties & Construction,20,Industrials,4000
+1663 HK Equity,01663.HK,Properties & Construction,60,Real Estate,2000
+1665 HK Equity,01665.HK,Information Technology,45,Information Technology,4000
+1666 HK Equity,01666.HK,Healthcare,35,Health Care,1000
+1667 HK Equity,01667.HK,Properties & Construction,20,Industrials,10000
+1668 HK Equity,01668.HK,Properties & Construction,60,Real Estate,2000
+1669 HK Equity,01669.HK,Financials,40,Financials,2000
+1671 HK Equity,01671.HK,Utilities,10,Energy,2000
+1672 HK Equity,01672.HK,Healthcare,35,Health Care,1000
+1673 HK Equity,01673.HK,Industrials,20,Industrials,2000
+1675 HK Equity,01675.HK,Information Technology,45,Information Technology,400
+1676 HK Equity,01676.HK,Consumer Staples,30,Consumer Staples,4000
+1678 HK Equity,01678.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1679 HK Equity,01679.HK,Information Technology,45,Information Technology,2500
+1680 HK Equity,01680.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1681 HK Equity,01681.HK,Healthcare,35,Health Care,1000
+1682 HK Equity,01682.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1683 HK Equity,01683.HK,Properties & Construction,20,Industrials,4000
+1685 HK Equity,01685.HK,Industrials,20,Industrials,1000
+1686 HK Equity,01686.HK,Information Technology,45,Information Technology,1000
+1688 HK Equity,01688.HK,#N/A,#N/A,#N/A,#N/A
+1689 HK Equity,01689.HK,Industrials,15,Materials,2000
+1690 HK Equity,01690.HK,Properties & Construction,20,Industrials,10000
+1691 HK Equity,01691.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1692 HK Equity,01692.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1693 HK Equity,01693.HK,Properties & Construction,20,Industrials,4000
+1695 HK Equity,01695.HK,Consumer Staples,30,Consumer Staples,5000
+1696 HK Equity,01696.HK,Healthcare,35,Health Care,400
+1697 HK Equity,01697.HK,Financials,40,Financials,1800
+1698 HK Equity,01698.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1699 HK Equity,01699.HK,Consumer Staples,30,Consumer Staples,4000
+1700 HK Equity,01700.HK,#N/A,#N/A,#N/A,#N/A
+1701 HK Equity,01701.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1702 HK Equity,01702.HK,Materials,15,Materials,4000
+1703 HK Equity,01703.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1705 HK Equity,01705.HK,Consumer Staples,30,Consumer Staples,4000
+1706 HK Equity,01706.HK,Properties & Construction,20,Industrials,5000
+1707 HK Equity,01707.HK,Properties & Construction,20,Industrials,8000
+1708 HK Equity,01708.HK,Information Technology,45,Information Technology,500
+1709 HK Equity,01709.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1710 HK Equity,01710.HK,Industrials,25,Consumer Discretionary,4000
+1711 HK Equity,01711.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1712 HK Equity,01712.HK,Materials,15,Materials,1000
+1713 HK Equity,01713.HK,Utilities,55,Utilities,2000
+1715 HK Equity,01715.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1716 HK Equity,01716.HK,Consumer Discretionary,50,Communication Services,2000
+1717 HK Equity,01717.HK,Consumer Staples,30,Consumer Staples,1000
+1718 HK Equity,01718.HK,Properties & Construction,20,Industrials,5000
+1719 HK Equity,01719.HK,Industrials,20,Industrials,4000
+1720 HK Equity,01720.HK,Information Technology,45,Information Technology,4000
+1721 HK Equity,01721.HK,Materials,15,Materials,5000
+1722 HK Equity,01722.HK,Properties & Construction,20,Industrials,10000
+1723 HK Equity,01723.HK,Consumer Discretionary,50,Communication Services,2000
+1725 HK Equity,01725.HK,Industrials,25,Consumer Discretionary,5000
+1726 HK Equity,01726.HK,Healthcare,35,Health Care,5000
+1727 HK Equity,01727.HK,Properties & Construction,20,Industrials,500
+1728 HK Equity,01728.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1729 HK Equity,01729.HK,Information Technology,20,Industrials,8000
+1730 HK Equity,01730.HK,Properties & Construction,60,Real Estate,2000
+1731 HK Equity,01731.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1732 HK Equity,01732.HK,Industrials,20,Industrials,20000
+1733 HK Equity,01733.HK,Energy,10,Energy,12000
+1735 HK Equity,01735.HK,Properties & Construction,20,Industrials,2000
+1736 HK Equity,01736.HK,Information Technology,45,Information Technology,2000
+1737 HK Equity,01737.HK,Industrials,20,Industrials,10000
+1738 HK Equity,01738.HK,Energy,10,Energy,2500
+1739 HK Equity,01739.HK,Properties & Construction,20,Industrials,500
+1740 HK Equity,01740.HK,Consumer Discretionary,50,Communication Services,5000
+1741 HK Equity,01741.HK,Properties & Construction,20,Industrials,4000
+1742 HK Equity,01742.HK,Properties & Construction,20,Industrials,5000
+1743 HK Equity,01743.HK,Industrials,15,Materials,200
+1745 HK Equity,01745.HK,Information Technology,25,Consumer Discretionary,2000
+1746 HK Equity,01746.HK,Properties & Construction,20,Industrials,4000
+1747 HK Equity,01747.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1748 HK Equity,01748.HK,Industrials,20,Industrials,2000
+1749 HK Equity,01749.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1750 HK Equity,01750.HK,Industrials,20,Industrials,10000
+1751 HK Equity,01751.HK,Properties & Construction,20,Industrials,10000
+1752 HK Equity,01752.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1753 HK Equity,01753.HK,Consumer Discretionary,50,Communication Services,400
+1755 HK Equity,01755.HK,Properties & Construction,20,Industrials,1000
+1756 HK Equity,01756.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1757 HK Equity,01757.HK,Properties & Construction,20,Industrials,10000
+1758 HK Equity,01758.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1759 HK Equity,01759.HK,Utilities,10,Energy,1000
+1760 HK Equity,01760.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1761 HK Equity,01761.HK,Consumer Discretionary,50,Communication Services,500
+1762 HK Equity,01762.HK,Consumer Discretionary,50,Communication Services,1000
+1763 HK Equity,01763.HK,Healthcare,35,Health Care,200
+1765 HK Equity,01765.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1766 HK Equity,01766.HK,Industrials,20,Industrials,1000
+1767 HK Equity,01767.HK,Consumer Staples,30,Consumer Staples,10000
+1768 HK Equity,01768.HK,#N/A,#N/A,#N/A,#N/A
+1769 HK Equity,01769.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1771 HK Equity,01771.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1772 HK Equity,01772.HK,Materials,15,Materials,200
+1773 HK Equity,01773.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1775 HK Equity,01775.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1776 HK Equity,01776.HK,Financials,40,Financials,200
+1777 HK Equity,01777.HK,Properties & Construction,60,Real Estate,1500
+1778 HK Equity,01778.HK,Properties & Construction,60,Real Estate,1000
+1780 HK Equity,01780.HK,Properties & Construction,20,Industrials,2500
+1781 HK Equity,01781.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1782 HK Equity,01782.HK,Information Technology,45,Information Technology,5000
+1783 HK Equity,01783.HK,Properties & Construction,20,Industrials,10000
+1785 HK Equity,01785.HK,Industrials,20,Industrials,1000
+1786 HK Equity,01786.HK,Industrials,20,Industrials,500
+1787 HK Equity,01787.HK,Materials,15,Materials,250
+1788 HK Equity,01788.HK,Financials,40,Financials,1000
+1789 HK Equity,01789.HK,Healthcare,35,Health Care,2000
+1790 HK Equity,01790.HK,Utilities,20,Industrials,5000
+1792 HK Equity,01792.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1793 HK Equity,01793.HK,Properties & Construction,20,Industrials,4000
+1796 HK Equity,01796.HK,Properties & Construction,20,Industrials,2000
+1797 HK Equity,01797.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1798 HK Equity,01798.HK,Utilities,55,Utilities,1000
+1799 HK Equity,01799.HK,Utilities,45,Information Technology,400
+1800 HK Equity,01800.HK,Properties & Construction,20,Industrials,1000
+1801 HK Equity,01801.HK,Healthcare,35,Health Care,500
+1802 HK Equity,01802.HK,Properties & Construction,25,Consumer Discretionary,2000
+1803 HK Equity,01803.HK,Consumer Discretionary,25,Consumer Discretionary,2500
+1806 HK Equity,01806.HK,Information Technology,40,Financials,400
+1808 HK Equity,01808.HK,Information Technology,45,Information Technology,2000
+1809 HK Equity,01809.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1810 HK Equity,01810.HK,Information Technology,45,Information Technology,200
+1811 HK Equity,01811.HK,Utilities,55,Utilities,2000
+1812 HK Equity,01812.HK,Materials,15,Materials,500
+1813 HK Equity,01813.HK,Properties & Construction,60,Real Estate,500
+1815 HK Equity,01815.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1816 HK Equity,01816.HK,Utilities,55,Utilities,1000
+1817 HK Equity,01817.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1818 HK Equity,01818.HK,Materials,15,Materials,500
+1819 HK Equity,01819.HK,#N/A,#N/A,#N/A,#N/A
+1820 HK Equity,01820.HK,Industrials,15,Materials,1000
+1821 HK Equity,01821.HK,Financials,60,Real Estate,200
+1822 HK Equity,01822.HK,Consumer Discretionary,25,Consumer Discretionary,30000
+1823 HK Equity,01823.HK,Industrials,20,Industrials,2000
+1825 HK Equity,01825.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1826 HK Equity,01826.HK,Properties & Construction,20,Industrials,10000
+1827 HK Equity,01827.HK,Healthcare,35,Health Care,5000
+1828 HK Equity,01828.HK,#N/A,#N/A,#N/A,#N/A
+1829 HK Equity,01829.HK,Properties & Construction,20,Industrials,1000
+1830 HK Equity,01830.HK,Healthcare,30,Consumer Staples,4000
+1831 HK Equity,01831.HK,Consumer Discretionary,50,Communication Services,10000
+1832 HK Equity,01832.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1833 HK Equity,01833.HK,Healthcare,35,Health Care,100
+1835 HK Equity,01835.HK,Financials,40,Financials,400
+1836 HK Equity,01836.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1837 HK Equity,01837.HK,Consumer Staples,30,Consumer Staples,2000
+1838 HK Equity,01838.HK,Properties & Construction,60,Real Estate,1000
+1839 HK Equity,01839.HK,Industrials,25,Consumer Discretionary,500
+1841 HK Equity,01841.HK,Industrials,20,Industrials,10000
+1842 HK Equity,01842.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1843 HK Equity,01843.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1845 HK Equity,01845.HK,Industrials,20,Industrials,3000
+1846 HK Equity,01846.HK,Healthcare,25,Consumer Discretionary,1000
+1847 HK Equity,01847.HK,Properties & Construction,15,Materials,1000
+1848 HK Equity,01848.HK,Consumer Discretionary,20,Industrials,500
+1849 HK Equity,01849.HK,Consumer Discretionary,45,Information Technology,5000
+1850 HK Equity,01850.HK,Properties & Construction,20,Industrials,10000
+1851 HK Equity,01851.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1853 HK Equity,01853.HK,Utilities,55,Utilities,2500
+1854 HK Equity,01854.HK,Consumer Staples,30,Consumer Staples,10000
+1856 HK Equity,01856.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1857 HK Equity,01857.HK,Utilities,20,Industrials,1000
+1858 HK Equity,01858.HK,Healthcare,35,Health Care,250
+1859 HK Equity,01859.HK,Consumer Discretionary,50,Communication Services,1000
+1860 HK Equity,01860.HK,Consumer Discretionary,50,Communication Services,1000
+1861 HK Equity,01861.HK,Materials,20,Industrials,2000
+1862 HK Equity,01862.HK,Properties & Construction,60,Real Estate,1000
+1863 HK Equity,01863.HK,Materials,15,Materials,1000
+1865 HK Equity,01865.HK,Properties & Construction,20,Industrials,4000
+1866 HK Equity,01866.HK,Materials,15,Materials,1000
+1867 HK Equity,01867.HK,Properties & Construction,20,Industrials,10000
+1868 HK Equity,01868.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1869 HK Equity,01869.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+1870 HK Equity,01870.HK,Properties & Construction,20,Industrials,2500
+1871 HK Equity,01871.HK,Consumer Discretionary,20,Industrials,4000
+1872 HK Equity,01872.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1873 HK Equity,01873.HK,Healthcare,35,Health Care,500
+1875 HK Equity,01875.HK,Healthcare,35,Health Care,400
+1876 HK Equity,01876.HK,Consumer Staples,30,Consumer Staples,100
+1877 HK Equity,01877.HK,Healthcare,35,Health Care,200
+1878 HK Equity,01878.HK,Energy,10,Energy,50
+1879 HK Equity,01879.HK,#N/A,#N/A,#N/A,#N/A
+1880 HK Equity,01880.HK,#N/A,#N/A,#N/A,#N/A
+1881 HK Equity,01881.HK,#N/A,#N/A,#N/A,#N/A
+1882 HK Equity,01882.HK,Industrials,20,Industrials,1000
+1883 HK Equity,01883.HK,Telecommunications,50,Communication Services,1000
+1884 HK Equity,01884.HK,Industrials,20,Industrials,4000
+1885 HK Equity,01885.HK,Materials,15,Materials,4000
+1886 HK Equity,01886.HK,Consumer Staples,30,Consumer Staples,500
+1887 HK Equity,01887.HK,#N/A,#N/A,#N/A,#N/A
+1888 HK Equity,01888.HK,Industrials,45,Information Technology,500
+1889 HK Equity,01889.HK,Healthcare,35,Health Care,2500
+1890 HK Equity,01890.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1891 HK Equity,01891.HK,Materials,15,Materials,4000
+1893 HK Equity,01893.HK,#N/A,#N/A,#N/A,#N/A
+1894 HK Equity,01894.HK,Properties & Construction,15,Materials,5000
+1895 HK Equity,01895.HK,Properties & Construction,60,Real Estate,1000
+1896 HK Equity,01896.HK,Consumer Discretionary,50,Communication Services,200
+1897 HK Equity,01897.HK,Properties & Construction,15,Materials,2000
+1898 HK Equity,01898.HK,Energy,10,Energy,1000
+1899 HK Equity,01899.HK,Industrials,25,Consumer Discretionary,1000
+1900 HK Equity,01900.HK,Information Technology,45,Information Technology,1000
+1901 HK Equity,01901.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1902 HK Equity,01902.HK,Properties & Construction,60,Real Estate,2000
+1903 HK Equity,01903.HK,Industrials,20,Industrials,2000
+1905 HK Equity,01905.HK,Financials,40,Financials,2000
+1906 HK Equity,01906.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+1907 HK Equity,01907.HK,Materials,10,Energy,1000
+1908 HK Equity,01908.HK,Properties & Construction,60,Real Estate,1000
+1909 HK Equity,01909.HK,Information Technology,50,Communication Services,2000
+1910 HK Equity,01910.HK,Consumer Discretionary,25,Consumer Discretionary,300
+1911 HK Equity,01911.HK,Financials,40,Financials,100
+1912 HK Equity,01912.HK,Information Technology,45,Information Technology,5000
+1913 HK Equity,01913.HK,Consumer Discretionary,25,Consumer Discretionary,100
+1915 HK Equity,01915.HK,Financials,40,Financials,2000
+1916 HK Equity,01916.HK,Financials,40,Financials,500
+1917 HK Equity,01917.HK,Consumer Discretionary,50,Communication Services,10000
+1918 HK Equity,01918.HK,Properties & Construction,60,Real Estate,1000
+1919 HK Equity,01919.HK,Industrials,20,Industrials,500
+1920 HK Equity,01920.HK,Properties & Construction,20,Industrials,10000
+1921 HK Equity,01921.HK,Energy,10,Energy,2000
+1922 HK Equity,01922.HK,Properties & Construction,60,Real Estate,2000
+1925 HK Equity,01925.HK,Consumer Discretionary,30,Consumer Staples,2000
+1928 HK Equity,01928.HK,Consumer Discretionary,25,Consumer Discretionary,400
+1929 HK Equity,01929.HK,Consumer Discretionary,25,Consumer Discretionary,200
+1930 HK Equity,01930.HK,Industrials,25,Consumer Discretionary,4000
+1931 HK Equity,01931.HK,Healthcare,35,Health Care,1000
+1932 HK Equity,01932.HK,Materials,20,Industrials,4000
+1933 HK Equity,01933.HK,Information Technology,45,Information Technology,4000
+1935 HK Equity,01935.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1936 HK Equity,01936.HK,Consumer Staples,30,Consumer Staples,2000
+1937 HK Equity,01937.HK,Properties & Construction,20,Industrials,5000
+1938 HK Equity,01938.HK,Energy,10,Energy,1000
+1939 HK Equity,01939.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1941 HK Equity,01941.HK,Properties & Construction,60,Real Estate,2000
+1942 HK Equity,01942.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1943 HK Equity,01943.HK,Properties & Construction,20,Industrials,5000
+1949 HK Equity,01949.HK,Information Technology,45,Information Technology,2000
+1950 HK Equity,01950.HK,Materials,15,Materials,4000
+1951 HK Equity,01951.HK,Healthcare,35,Health Care,2000
+1953 HK Equity,01953.HK,Properties & Construction,20,Industrials,5000
+1955 HK Equity,01955.HK,Consumer Discretionary,20,Industrials,2000
+1957 HK Equity,01957.HK,Consumer Discretionary,25,Consumer Discretionary,2500
+1958 HK Equity,01958.HK,Consumer Discretionary,25,Consumer Discretionary,500
+1959 HK Equity,01959.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1960 HK Equity,01960.HK,Properties & Construction,20,Industrials,5000
+1961 HK Equity,01961.HK,Information Technology,45,Information Technology,2000
+1962 HK Equity,01962.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1963 HK Equity,01963.HK,Financials,40,Financials,500
+1966 HK Equity,01966.HK,Properties & Construction,60,Real Estate,1000
+1967 HK Equity,01967.HK,Industrials,45,Information Technology,2000
+1968 HK Equity,01968.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+1969 HK Equity,01969.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+1970 HK Equity,01970.HK,Consumer Discretionary,50,Communication Services,100
+1971 HK Equity,01971.HK,Properties & Construction,60,Real Estate,1000
+1972 HK Equity,01972.HK,Properties & Construction,60,Real Estate,200
+1975 HK Equity,01975.HK,Industrials,20,Industrials,4000
+1977 HK Equity,01977.HK,Properties & Construction,25,Consumer Discretionary,2000
+1978 HK Equity,01978.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1979 HK Equity,01979.HK,Industrials,45,Information Technology,4000
+1980 HK Equity,01980.HK,Information Technology,45,Information Technology,1000
+1981 HK Equity,01981.HK,Consumer Discretionary,50,Communication Services,1000
+1982 HK Equity,01982.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1983 HK Equity,01983.HK,Financials,40,Financials,1000
+1985 HK Equity,01985.HK,Information Technology,45,Information Technology,2000
+1986 HK Equity,01986.HK,Materials,15,Materials,500
+1987 HK Equity,01987.HK,Properties & Construction,60,Real Estate,4000
+1988 HK Equity,01988.HK,Financials,40,Financials,500
+1989 HK Equity,01989.HK,Consumer Discretionary,35,Health Care,8000
+1990 HK Equity,01990.HK,Industrials,20,Industrials,1000
+1991 HK Equity,01991.HK,Industrials,20,Industrials,2000
+1992 HK Equity,01992.HK,Consumer Discretionary,25,Consumer Discretionary,200
+1993 HK Equity,01993.HK,Consumer Discretionary,50,Communication Services,500
+1995 HK Equity,01995.HK,Properties & Construction,60,Real Estate,2000
+1996 HK Equity,01996.HK,Properties & Construction,60,Real Estate,1000
+1997 HK Equity,01997.HK,Properties & Construction,60,Real Estate,1000
+1998 HK Equity,01998.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+1999 HK Equity,01999.HK,Consumer Discretionary,25,Consumer Discretionary,400
+2000 HK Equity,02000.HK,Information Technology,45,Information Technology,2000
+2001 HK Equity,02001.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2002 HK Equity,02002.HK,Materials,15,Materials,500
+2003 HK Equity,02003.HK,Financials,40,Financials,200
+2005 HK Equity,02005.HK,Healthcare,35,Health Care,2000
+2006 HK Equity,02006.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2007 HK Equity,02007.HK,Properties & Construction,60,Real Estate,1000
+2008 HK Equity,02008.HK,Consumer Discretionary,50,Communication Services,2000
+2009 HK Equity,02009.HK,Properties & Construction,15,Materials,1000
+2010 HK Equity,02010.HK,Healthcare,35,Health Care,1000
+2011 HK Equity,02011.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2012 HK Equity,02012.HK,Energy,10,Energy,1000
+2013 HK Equity,02013.HK,Consumer Discretionary,45,Information Technology,1000
+2014 HK Equity,02014.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2016 HK Equity,02016.HK,Financials,40,Financials,1000
+2017 HK Equity,02017.HK,Properties & Construction,20,Industrials,2000
+2018 HK Equity,02018.HK,Industrials,45,Information Technology,500
+2019 HK Equity,02019.HK,Properties & Construction,60,Real Estate,1000
+2020 HK Equity,02020.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2022 HK Equity,02022.HK,Information Technology,45,Information Technology,4000
+2023 HK Equity,02023.HK,Consumer Discretionary,35,Health Care,4000
+2025 HK Equity,02025.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2028 HK Equity,02028.HK,Information Technology,45,Information Technology,2000
+2030 HK Equity,02030.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2031 HK Equity,02031.HK,Healthcare,35,Health Care,5000
+2033 HK Equity,02033.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2038 HK Equity,02038.HK,Information Technology,45,Information Technology,1000
+2039 HK Equity,02039.HK,Industrials,20,Industrials,100
+2048 HK Equity,02048.HK,Properties & Construction,60,Real Estate,300
+2051 HK Equity,02051.HK,Financials,40,Financials,500
+2060 HK Equity,02060.HK,Properties & Construction,15,Materials,1000
+2066 HK Equity,02066.HK,Financials,40,Financials,500
+2068 HK Equity,02068.HK,Properties & Construction,20,Industrials,1000
+2078 HK Equity,02078.HK,Materials,15,Materials,1000
+2080 HK Equity,02080.HK,Properties & Construction,25,Consumer Discretionary,2000
+2083 HK Equity,02083.HK,Consumer Discretionary,15,Materials,1000
+2086 HK Equity,02086.HK,Information Technology,45,Information Technology,1000
+2088 HK Equity,02088.HK,Properties & Construction,60,Real Estate,2000
+2098 HK Equity,02098.HK,Industrials,20,Industrials,1000
+2099 HK Equity,02099.HK,Materials,15,Materials,100
+2100 HK Equity,02100.HK,Information Technology,50,Communication Services,2000
+2103 HK Equity,02103.HK,Properties & Construction,60,Real Estate,1000
+2108 HK Equity,02108.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+2111 HK Equity,02111.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2112 HK Equity,02112.HK,Materials,15,Materials,2000
+2113 HK Equity,02113.HK,Properties & Construction,20,Industrials,5000
+2116 HK Equity,02116.HK,Materials,15,Materials,2000
+2118 HK Equity,02118.HK,Properties & Construction,60,Real Estate,2000
+2119 HK Equity,02119.HK,Consumer Staples,30,Consumer Staples,2000
+2120 HK Equity,02120.HK,Healthcare,35,Health Care,100
+2121 HK Equity,02121.HK,#N/A,#N/A,#N/A,#N/A
+2122 HK Equity,02122.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2123 HK Equity,02123.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+2128 HK Equity,02128.HK,Properties & Construction,20,Industrials,1000
+2133 HK Equity,02133.HK,Materials,15,Materials,10000
+2136 HK Equity,02136.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2138 HK Equity,02138.HK,Healthcare,35,Health Care,1000
+2139 HK Equity,02139.HK,Financials,40,Financials,1000
+2163 HK Equity,02163.HK,Properties & Construction,20,Industrials,300
+2166 HK Equity,02166.HK,Information Technology,45,Information Technology,2000
+2168 HK Equity,02168.HK,Properties & Construction,20,Industrials,250
+2178 HK Equity,02178.HK,Energy,10,Energy,1000
+2180 HK Equity,02180.HK,Consumer Discretionary,20,Industrials,250
+2181 HK Equity,02181.HK,Healthcare,35,Health Care,2000
+2182 HK Equity,02182.HK,Industrials,15,Materials,4000
+2183 HK Equity,02183.HK,Properties & Construction,60,Real Estate,2000
+2186 HK Equity,02186.HK,Healthcare,35,Health Care,500
+2188 HK Equity,02188.HK,Industrials,20,Industrials,2000
+2189 HK Equity,02189.HK,Consumer Discretionary,60,Real Estate,4000
+2193 HK Equity,02193.HK,Properties & Construction,20,Industrials,4000
+2196 HK Equity,02196.HK,Healthcare,35,Health Care,500
+2198 HK Equity,02198.HK,Materials,15,Materials,1000
+2199 HK Equity,02199.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2200 HK Equity,02200.HK,#N/A,#N/A,#N/A,#N/A
+2202 HK Equity,02202.HK,Properties & Construction,60,Real Estate,100
+2203 HK Equity,02203.HK,Information Technology,45,Information Technology,10000
+2208 HK Equity,02208.HK,Industrials,55,Utilities,200
+2211 HK Equity,02211.HK,Healthcare,35,Health Care,1000
+2212 HK Equity,02212.HK,Materials,15,Materials,20000
+2213 HK Equity,02213.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2218 HK Equity,02218.HK,Consumer Staples,30,Consumer Staples,500
+2221 HK Equity,02221.HK,Properties & Construction,20,Industrials,4000
+2222 HK Equity,02222.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2223 HK Equity,02223.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2225 HK Equity,02225.HK,Consumer Discretionary,20,Industrials,5000
+2226 HK Equity,02226.HK,Consumer Staples,30,Consumer Staples,500
+2227 HK Equity,02227.HK,Properties & Construction,20,Industrials,4000
+2228 HK Equity,02228.HK,Consumer Discretionary,25,Consumer Discretionary,3000
+2229 HK Equity,02229.HK,#N/A,#N/A,#N/A,#N/A
+2230 HK Equity,02230.HK,Consumer Discretionary,50,Communication Services,5000
+2231 HK Equity,02231.HK,Properties & Construction,60,Real Estate,1000
+2232 HK Equity,02232.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2233 HK Equity,02233.HK,Properties & Construction,15,Materials,2000
+2236 HK Equity,02236.HK,Energy,10,Energy,1000
+2238 HK Equity,02238.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2239 HK Equity,02239.HK,Information Technology,45,Information Technology,1000
+2255 HK Equity,02255.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2258 HK Equity,02258.HK,Properties & Construction,20,Industrials,2000
+2262 HK Equity,02262.HK,Properties & Construction,20,Industrials,3000
+2263 HK Equity,02263.HK,Financials,40,Financials,10000
+2266 HK Equity,02266.HK,Properties & Construction,20,Industrials,2000
+2268 HK Equity,02268.HK,Materials,15,Materials,1000
+2269 HK Equity,02269.HK,Healthcare,35,Health Care,500
+2277 HK Equity,02277.HK,Financials,20,Industrials,5000
+2278 HK Equity,02278.HK,Properties & Construction,60,Real Estate,1000
+2280 HK Equity,02280.HK,Information Technology,45,Information Technology,500
+2281 HK Equity,02281.HK,Utilities,55,Utilities,1000
+2282 HK Equity,02282.HK,Consumer Discretionary,25,Consumer Discretionary,400
+2283 HK Equity,02283.HK,Industrials,20,Industrials,2000
+2286 HK Equity,02286.HK,Properties & Construction,60,Real Estate,1000
+2288 HK Equity,02288.HK,Properties & Construction,60,Real Estate,1000
+2289 HK Equity,02289.HK,Healthcare,35,Health Care,500
+2292 HK Equity,02292.HK,Properties & Construction,60,Real Estate,2000
+2293 HK Equity,02293.HK,Healthcare,35,Health Care,8000
+2296 HK Equity,02296.HK,Properties & Construction,25,Consumer Discretionary,8000
+2298 HK Equity,02298.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2299 HK Equity,02299.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2300 HK Equity,02300.HK,Industrials,15,Materials,2000
+2302 HK Equity,02302.HK,Materials,45,Information Technology,1000
+2303 HK Equity,02303.HK,Materials,15,Materials,2000
+2307 HK Equity,02307.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2308 HK Equity,02308.HK,Information Technology,25,Consumer Discretionary,4000
+2309 HK Equity,02309.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+2310 HK Equity,02310.HK,Properties & Construction,20,Industrials,2000
+2312 HK Equity,02312.HK,Financials,40,Financials,20000
+2313 HK Equity,02313.HK,Consumer Discretionary,25,Consumer Discretionary,100
+2314 HK Equity,02314.HK,Materials,15,Materials,1000
+2317 HK Equity,02317.HK,Consumer Staples,30,Consumer Staples,4000
+2318 HK Equity,02318.HK,Financials,40,Financials,500
+2319 HK Equity,02319.HK,Consumer Staples,30,Consumer Staples,1000
+2320 HK Equity,02320.HK,Materials,15,Materials,2000
+2322 HK Equity,02322.HK,Materials,20,Industrials,8000
+2323 HK Equity,02323.HK,Industrials,20,Industrials,2000
+2324 HK Equity,02324.HK,Financials,40,Financials,10000
+2326 HK Equity,02326.HK,Materials,15,Materials,10000
+2327 HK Equity,02327.HK,Conglomerates,20,Industrials,6000
+2328 HK Equity,02328.HK,Financials,40,Financials,2000
+2329 HK Equity,02329.HK,Properties & Construction,60,Real Estate,1000
+2330 HK Equity,02330.HK,Properties & Construction,60,Real Estate,4000
+2331 HK Equity,02331.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2332 HK Equity,02332.HK,#N/A,#N/A,#N/A,#N/A
+2333 HK Equity,02333.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2336 HK Equity,02336.HK,Materials,45,Information Technology,10000
+2337 HK Equity,02337.HK,Utilities,55,Utilities,1000
+2338 HK Equity,02338.HK,Industrials,20,Industrials,1000
+2339 HK Equity,02339.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2340 HK Equity,02340.HK,Properties & Construction,20,Industrials,4000
+2341 HK Equity,02341.HK,Materials,15,Materials,2000
+2342 HK Equity,02342.HK,Information Technology,45,Information Technology,2000
+2343 HK Equity,02343.HK,Industrials,20,Industrials,1000
+2345 HK Equity,02345.HK,Industrials,20,Industrials,2000
+2346 HK Equity,02346.HK,Industrials,20,Industrials,2000
+2348 HK Equity,02348.HK,Healthcare,35,Health Care,4000
+2349 HK Equity,02349.HK,Properties & Construction,60,Real Estate,4000
+2355 HK Equity,02355.HK,Properties & Construction,20,Industrials,2000
+2356 HK Equity,02356.HK,Financials,40,Financials,400
+2357 HK Equity,02357.HK,Industrials,20,Industrials,1000
+2358 HK Equity,02358.HK,Consumer Discretionary,45,Information Technology,10000
+2359 HK Equity,02359.HK,Healthcare,35,Health Care,100
+2360 HK Equity,02360.HK,Consumer Staples,30,Consumer Staples,2000
+2362 HK Equity,02362.HK,Materials,20,Industrials,1000
+2363 HK Equity,02363.HK,Information Technology,45,Information Technology,2500
+2366 HK Equity,02366.HK,Consumer Discretionary,50,Communication Services,5000
+2368 HK Equity,02368.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2369 HK Equity,02369.HK,Information Technology,45,Information Technology,4000
+2371 HK Equity,02371.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+2377 HK Equity,02377.HK,Industrials,20,Industrials,1000
+2378 HK Equity,02378.HK,Financials,40,Financials,500
+2379 HK Equity,02379.HK,Properties & Construction,45,Information Technology,5000
+2380 HK Equity,02380.HK,Utilities,55,Utilities,1000
+2381 HK Equity,02381.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+2382 HK Equity,02382.HK,Industrials,20,Industrials,100
+2383 HK Equity,02383.HK,Consumer Discretionary,50,Communication Services,2000
+2386 HK Equity,02386.HK,Energy,10,Energy,500
+2387 HK Equity,02387.HK,#N/A,#N/A,#N/A,#N/A
+2388 HK Equity,02388.HK,Financials,40,Financials,500
+2389 HK Equity,02389.HK,Healthcare,35,Health Care,6000
+2393 HK Equity,02393.HK,Healthcare,35,Health Care,2500
+2398 HK Equity,02398.HK,Industrials,20,Industrials,2000
+2399 HK Equity,02399.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2400 HK Equity,02400.HK,Information Technology,50,Communication Services,200
+2448 HK Equity,02448.HK,Properties & Construction,20,Industrials,2500
+2468 HK Equity,02468.HK,#N/A,#N/A,#N/A,#N/A
+2488 HK Equity,02488.HK,Consumer Discretionary,45,Information Technology,500
+2500 HK Equity,02500.HK,Healthcare,35,Health Care,500
+2528 HK Equity,02528.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2552 HK Equity,02552.HK,Healthcare,35,Health Care,500
+2558 HK Equity,02558.HK,Financials,40,Financials,1000
+2588 HK Equity,02588.HK,Consumer Discretionary,20,Industrials,100
+2600 HK Equity,02600.HK,Materials,15,Materials,2000
+2601 HK Equity,02601.HK,Financials,40,Financials,200
+2606 HK Equity,02606.HK,Properties & Construction,60,Real Estate,100
+2607 HK Equity,02607.HK,Healthcare,35,Health Care,100
+2608 HK Equity,02608.HK,Properties & Construction,60,Real Estate,1000
+2611 HK Equity,02611.HK,Financials,40,Financials,200
+2616 HK Equity,02616.HK,Healthcare,35,Health Care,500
+2618 HK Equity,02618.HK,#N/A,#N/A,#N/A,#N/A
+2623 HK Equity,02623.HK,Materials,15,Materials,2000
+2626 HK Equity,02626.HK,#N/A,#N/A,#N/A,#N/A
+2628 HK Equity,02628.HK,Financials,40,Financials,1000
+2633 HK Equity,02633.HK,Healthcare,35,Health Care,2000
+2638 HK Equity,02638.HK,Utilities,55,Utilities,500
+2660 HK Equity,02660.HK,Information Technology,50,Communication Services,2000
+2662 HK Equity,02662.HK,Consumer Discretionary,45,Information Technology,2000
+2663 HK Equity,02663.HK,Properties & Construction,20,Industrials,10000
+2666 HK Equity,02666.HK,Financials,40,Financials,500
+2668 HK Equity,02668.HK,Industrials,20,Industrials,10000
+2669 HK Equity,02669.HK,Properties & Construction,25,Consumer Discretionary,5000
+2678 HK Equity,02678.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2680 HK Equity,02680.HK,Financials,40,Financials,2000
+2682 HK Equity,02682.HK,Industrials,20,Industrials,4000
+2683 HK Equity,02683.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+2686 HK Equity,02686.HK,Energy,10,Energy,1000
+2688 HK Equity,02688.HK,Utilities,55,Utilities,100
+2689 HK Equity,02689.HK,Materials,15,Materials,1000
+2696 HK Equity,02696.HK,Healthcare,35,Health Care,100
+2698 HK Equity,02698.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2699 HK Equity,02699.HK,Properties & Construction,60,Real Estate,2000
+2700 HK Equity,02700.HK,Healthcare,25,Consumer Discretionary,20000
+2708 HK Equity,02708.HK,Information Technology,45,Information Technology,2000
+2718 HK Equity,02718.HK,Financials,40,Financials,1000
+2722 HK Equity,02722.HK,Conglomerates,20,Industrials,2000
+2727 HK Equity,02727.HK,Industrials,20,Industrials,2000
+2728 HK Equity,02728.HK,Energy,10,Energy,4000
+2738 HK Equity,02738.HK,Materials,15,Materials,2000
+2768 HK Equity,02768.HK,Properties & Construction,60,Real Estate,2000
+2772 HK Equity,02772.HK,Properties & Construction,60,Real Estate,500
+2777 HK Equity,02777.HK,Properties & Construction,60,Real Estate,400
+2778 HK Equity,02778.HK,#N/A,#N/A,#N/A,#N/A
+2779 HK Equity,02779.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+2788 HK Equity,02788.HK,Industrials,20,Industrials,2000
+2789 HK Equity,02789.HK,Properties & Construction,20,Industrials,2000
+2798 HK Equity,02798.HK,Energy,10,Energy,5000
+2799 HK Equity,02799.HK,Financials,40,Financials,1000
+2858 HK Equity,02858.HK,Financials,40,Financials,500
+2863 HK Equity,02863.HK,Properties & Construction,20,Industrials,3000
+2866 HK Equity,02866.HK,Industrials,20,Industrials,1000
+2868 HK Equity,02868.HK,Properties & Construction,60,Real Estate,2000
+2869 HK Equity,02869.HK,Properties & Construction,60,Real Estate,2000
+2877 HK Equity,02877.HK,Healthcare,35,Health Care,1000
+2878 HK Equity,02878.HK,Information Technology,45,Information Technology,2000
+2880 HK Equity,02880.HK,Industrials,20,Industrials,2000
+2882 HK Equity,02882.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+2883 HK Equity,02883.HK,Energy,10,Energy,2000
+2885 HK Equity,02885.HK,Industrials,20,Industrials,2000
+2886 HK Equity,02886.HK,Utilities,55,Utilities,2000
+2888 HK Equity,02888.HK,Financials,40,Financials,50
+2889 HK Equity,02889.HK,#N/A,#N/A,#N/A,#N/A
+2892 HK Equity,02892.HK,Properties & Construction,60,Real Estate,2000
+2898 HK Equity,02898.HK,Consumer Staples,30,Consumer Staples,10000
+2899 HK Equity,02899.HK,Materials,15,Materials,2000
+2900 HK Equity,02900.HK,#N/A,#N/A,#N/A,#N/A
+2901 HK Equity,02901.HK,#N/A,#N/A,#N/A,#N/A
+2902 HK Equity,02902.HK,#N/A,#N/A,#N/A,#N/A
+2903 HK Equity,02903.HK,#N/A,#N/A,#N/A,#N/A
+2905 HK Equity,02905.HK,#N/A,#N/A,#N/A,#N/A
+2906 HK Equity,02906.HK,#N/A,#N/A,#N/A,#N/A
+2907 HK Equity,02907.HK,#N/A,#N/A,#N/A,#N/A
+2908 HK Equity,02908.HK,#N/A,#N/A,#N/A,#N/A
+2909 HK Equity,02909.HK,#N/A,#N/A,#N/A,#N/A
+2911 HK Equity,02911.HK,#N/A,#N/A,#N/A,#N/A
+2912 HK Equity,02912.HK,#N/A,#N/A,#N/A,#N/A
+2914 HK Equity,02914.HK,#N/A,#N/A,#N/A,#N/A
+2915 HK Equity,02915.HK,#N/A,#N/A,#N/A,#N/A
+2916 HK Equity,02916.HK,#N/A,#N/A,#N/A,#N/A
+2917 HK Equity,02917.HK,#N/A,#N/A,#N/A,#N/A
+2919 HK Equity,02919.HK,#N/A,#N/A,#N/A,#N/A
+2920 HK Equity,02920.HK,#N/A,#N/A,#N/A,#N/A
+2922 HK Equity,02922.HK,#N/A,#N/A,#N/A,#N/A
+2924 HK Equity,02924.HK,#N/A,#N/A,#N/A,#N/A
+2938 HK Equity,02938.HK,Consumer Discretionary,25,Consumer Discretionary,500
+2992 HK Equity,02992.HK,#N/A,#N/A,#N/A,#N/A
+2996 HK Equity,02996.HK,#N/A,#N/A,#N/A,#N/A
+2998 HK Equity,02998.HK,#N/A,#N/A,#N/A,#N/A
+2999 HK Equity,02999.HK,#N/A,#N/A,#N/A,#N/A
+3300 HK Equity,03300.HK,Industrials,20,Industrials,2000
+3301 HK Equity,03301.HK,Properties & Construction,60,Real Estate,500
+3302 HK Equity,03302.HK,Industrials,45,Information Technology,2000
+3303 HK Equity,03303.HK,Energy,10,Energy,2000
+3306 HK Equity,03306.HK,Consumer Discretionary,25,Consumer Discretionary,500
+3308 HK Equity,03308.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3309 HK Equity,03309.HK,Healthcare,35,Health Care,2000
+3311 HK Equity,03311.HK,Properties & Construction,20,Industrials,2000
+3313 HK Equity,03313.HK,Materials,15,Materials,10000
+3315 HK Equity,03315.HK,Information Technology,45,Information Technology,1000
+3316 HK Equity,03316.HK,Properties & Construction,60,Real Estate,500
+3318 HK Equity,03318.HK,Consumer Staples,15,Materials,2000
+3319 HK Equity,03319.HK,Properties & Construction,60,Real Estate,250
+3320 HK Equity,03320.HK,Healthcare,35,Health Care,500
+3321 HK Equity,03321.HK,Properties & Construction,20,Industrials,2500
+3322 HK Equity,03322.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+3323 HK Equity,03323.HK,Properties & Construction,15,Materials,2000
+3326 HK Equity,03326.HK,Consumer Discretionary,25,Consumer Discretionary,3000
+3328 HK Equity,03328.HK,Financials,40,Financials,1000
+3329 HK Equity,03329.HK,Financials,40,Financials,1000
+3330 HK Equity,03330.HK,Materials,15,Materials,2000
+3331 HK Equity,03331.HK,Consumer Staples,30,Consumer Staples,1000
+3332 HK Equity,03332.HK,Consumer Staples,30,Consumer Staples,2000
+3333 HK Equity,03333.HK,Properties & Construction,60,Real Estate,1000
+3335 HK Equity,03335.HK,Information Technology,45,Information Technology,4000
+3336 HK Equity,03336.HK,Information Technology,45,Information Technology,2000
+3337 HK Equity,03337.HK,Energy,10,Energy,2000
+3339 HK Equity,03339.HK,Industrials,20,Industrials,1000
+3344 HK Equity,03344.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+3348 HK Equity,03348.HK,Industrials,15,Materials,2000
+3355 HK Equity,03355.HK,#N/A,#N/A,#N/A,#N/A
+3358 HK Equity,03358.HK,Consumer Discretionary,25,Consumer Discretionary,500
+3360 HK Equity,03360.HK,Financials,40,Financials,1000
+3363 HK Equity,03363.HK,Materials,15,Materials,2000
+3366 HK Equity,03366.HK,Properties & Construction,60,Real Estate,2000
+3368 HK Equity,03368.HK,Consumer Discretionary,25,Consumer Discretionary,500
+3369 HK Equity,03369.HK,Industrials,20,Industrials,500
+3377 HK Equity,03377.HK,Properties & Construction,60,Real Estate,500
+3378 HK Equity,03378.HK,Industrials,20,Industrials,2000
+3380 HK Equity,03380.HK,Properties & Construction,60,Real Estate,1000
+3382 HK Equity,03382.HK,Industrials,20,Industrials,2000
+3383 HK Equity,03383.HK,Properties & Construction,60,Real Estate,2000
+3386 HK Equity,03386.HK,#N/A,#N/A,#N/A,#N/A
+3389 HK Equity,03389.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+3390 HK Equity,03390.HK,Healthcare,30,Consumer Staples,2000
+3393 HK Equity,03393.HK,Industrials,20,Industrials,2000
+3395 HK Equity,03395.HK,Energy,10,Energy,1000
+3396 HK Equity,03396.HK,Information Technology,25,Consumer Discretionary,100
+3398 HK Equity,03398.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+3399 HK Equity,03399.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3600 HK Equity,03600.HK,Healthcare,35,Health Care,1000
+3601 HK Equity,03601.HK,Information Technology,45,Information Technology,1000
+3603 HK Equity,03603.HK,Properties & Construction,25,Consumer Discretionary,3000
+3606 HK Equity,03606.HK,Consumer Discretionary,25,Consumer Discretionary,400
+3608 HK Equity,03608.HK,Consumer Discretionary,25,Consumer Discretionary,2500
+3613 HK Equity,03613.HK,Healthcare,35,Health Care,1000
+3616 HK Equity,03616.HK,Properties & Construction,60,Real Estate,2000
+3618 HK Equity,03618.HK,Financials,40,Financials,1000
+3623 HK Equity,03623.HK,Financials,40,Financials,2000
+3626 HK Equity,03626.HK,Industrials,20,Industrials,2000
+3628 HK Equity,03628.HK,Industrials,20,Industrials,4000
+3633 HK Equity,03633.HK,Utilities,55,Utilities,1000
+3636 HK Equity,03636.HK,Consumer Discretionary,50,Communication Services,100
+3638 HK Equity,03638.HK,Information Technology,45,Information Technology,12000
+3639 HK Equity,03639.HK,Properties & Construction,60,Real Estate,2000
+3662 HK Equity,03662.HK,Properties & Construction,35,Health Care,1000
+3663 HK Equity,03663.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+3666 HK Equity,03666.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+3668 HK Equity,03668.HK,Energy,10,Energy,100
+3669 HK Equity,03669.HK,Consumer Discretionary,25,Consumer Discretionary,500
+3678 HK Equity,03678.HK,Financials,40,Financials,1000
+3680 HK Equity,03680.HK,Information Technology,45,Information Technology,2000
+3681 HK Equity,03681.HK,Healthcare,35,Health Care,300
+3683 HK Equity,03683.HK,Industrials,20,Industrials,2500
+3686 HK Equity,03686.HK,Conglomerates,60,Real Estate,10000
+3688 HK Equity,03688.HK,Properties & Construction,60,Real Estate,500
+3689 HK Equity,03689.HK,Healthcare,35,Health Care,200
+3690 HK Equity,03690.HK,Information Technology,45,Information Technology,100
+3692 HK Equity,03692.HK,Healthcare,35,Health Care,2000
+3698 HK Equity,03698.HK,Financials,40,Financials,1000
+3699 HK Equity,03699.HK,Properties & Construction,60,Real Estate,2000
+3700 HK Equity,03700.HK,Consumer Discretionary,50,Communication Services,1000
+3708 HK Equity,03708.HK,Properties & Construction,20,Industrials,5000
+3709 HK Equity,03709.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3718 HK Equity,03718.HK,Industrials,20,Industrials,4000
+3728 HK Equity,03728.HK,Properties & Construction,20,Industrials,20000
+3737 HK Equity,03737.HK,Healthcare,35,Health Care,1000
+3738 HK Equity,03738.HK,Information Technology,45,Information Technology,1000
+3759 HK Equity,03759.HK,Healthcare,35,Health Care,100
+3768 HK Equity,03768.HK,Utilities,55,Utilities,1000
+3773 HK Equity,03773.HK,Information Technology,50,Communication Services,2000
+3777 HK Equity,03777.HK,#N/A,#N/A,#N/A,#N/A
+3778 HK Equity,03778.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+3788 HK Equity,03788.HK,Materials,15,Materials,1000
+3789 HK Equity,03789.HK,Properties & Construction,20,Industrials,4000
+3798 HK Equity,03798.HK,Information Technology,45,Information Technology,2000
+3799 HK Equity,03799.HK,Consumer Staples,30,Consumer Staples,500
+3800 HK Equity,03800.HK,Industrials,45,Information Technology,1000
+3808 HK Equity,03808.HK,Industrials,20,Industrials,500
+3813 HK Equity,03813.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3816 HK Equity,03816.HK,Industrials,20,Industrials,4000
+3818 HK Equity,03818.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3822 HK Equity,03822.HK,Properties & Construction,20,Industrials,4000
+3823 HK Equity,03823.HK,#N/A,#N/A,#N/A,#N/A
+3828 HK Equity,03828.HK,Consumer Staples,30,Consumer Staples,1000
+3830 HK Equity,03830.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+3833 HK Equity,03833.HK,Materials,15,Materials,1000
+3836 HK Equity,03836.HK,Consumer Discretionary,25,Consumer Discretionary,500
+3838 HK Equity,03838.HK,Consumer Staples,30,Consumer Staples,5000
+3839 HK Equity,03839.HK,Healthcare,15,Materials,500
+3848 HK Equity,03848.HK,Financials,40,Financials,1000
+3860 HK Equity,03860.HK,Consumer Discretionary,25,Consumer Discretionary,5000
+3866 HK Equity,03866.HK,Financials,40,Financials,500
+3868 HK Equity,03868.HK,Utilities,55,Utilities,2000
+3869 HK Equity,03869.HK,Healthcare,35,Health Care,200
+3877 HK Equity,03877.HK,Financials,40,Financials,2000
+3878 HK Equity,03878.HK,Properties & Construction,20,Industrials,2000
+3882 HK Equity,03882.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3883 HK Equity,03883.HK,Properties & Construction,60,Real Estate,1000
+3886 HK Equity,03886.HK,Healthcare,35,Health Care,2000
+3888 HK Equity,03888.HK,Information Technology,50,Communication Services,1000
+3889 HK Equity,03889.HK,Consumer Staples,30,Consumer Staples,2000
+3893 HK Equity,03893.HK,Consumer Discretionary,25,Consumer Discretionary,20000
+3898 HK Equity,03898.HK,Industrials,20,Industrials,100
+3899 HK Equity,03899.HK,Energy,10,Energy,2000
+3900 HK Equity,03900.HK,Properties & Construction,60,Real Estate,500
+3903 HK Equity,03903.HK,Financials,40,Financials,2000
+3908 HK Equity,03908.HK,Financials,40,Financials,400
+3918 HK Equity,03918.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+3919 HK Equity,03919.HK,Industrials,45,Information Technology,2000
+3928 HK Equity,03928.HK,Properties & Construction,60,Real Estate,2000
+3933 HK Equity,03933.HK,Healthcare,35,Health Care,2000
+3938 HK Equity,03938.HK,Financials,40,Financials,2000
+3939 HK Equity,03939.HK,Materials,15,Materials,2000
+3948 HK Equity,03948.HK,Energy,10,Energy,100
+3958 HK Equity,03958.HK,Financials,40,Financials,400
+3963 HK Equity,03963.HK,Financials,40,Financials,1000
+3966 HK Equity,03966.HK,#N/A,#N/A,#N/A,#N/A
+3968 HK Equity,03968.HK,Financials,40,Financials,500
+3969 HK Equity,03969.HK,Information Technology,20,Industrials,1000
+3978 HK Equity,03978.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+3983 HK Equity,03983.HK,Materials,15,Materials,2000
+3988 HK Equity,03988.HK,Financials,40,Financials,1000
+3989 HK Equity,03989.HK,Utilities,55,Utilities,2000
+3990 HK Equity,03990.HK,Properties & Construction,60,Real Estate,200
+3991 HK Equity,03991.HK,Information Technology,45,Information Technology,2000
+3992 HK Equity,03992.HK,Properties & Construction,20,Industrials,2000
+3993 HK Equity,03993.HK,Materials,15,Materials,3000
+3996 HK Equity,03996.HK,Industrials,20,Industrials,2000
+3997 HK Equity,03997.HK,Information Technology,45,Information Technology,2000
+3998 HK Equity,03998.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+3999 HK Equity,03999.HK,Consumer Staples,30,Consumer Staples,1000
+4331 HK Equity,04331.HK,#N/A,#N/A,#N/A,#N/A
+4332 HK Equity,04332.HK,0,35,Health Care,10
+4333 HK Equity,04333.HK,0,45,Information Technology,10
+4335 HK Equity,04335.HK,0,45,Information Technology,10
+4336 HK Equity,04336.HK,0,45,Information Technology,10
+4337 HK Equity,04337.HK,0,25,Consumer Discretionary,20
+4338 HK Equity,04338.HK,0,45,Information Technology,10
+6030 HK Equity,06030.HK,Financials,40,Financials,500
+6033 HK Equity,06033.HK,Information Technology,50,Communication Services,1000
+6036 HK Equity,06036.HK,Industrials,25,Consumer Discretionary,5000
+6038 HK Equity,06038.HK,Properties & Construction,20,Industrials,10000
+6049 HK Equity,06049.HK,Properties & Construction,60,Real Estate,200
+6055 HK Equity,06055.HK,Consumer Staples,30,Consumer Staples,1000
+6058 HK Equity,06058.HK,Financials,40,Financials,2000
+6060 HK Equity,06060.HK,Financials,40,Financials,100
+6063 HK Equity,06063.HK,Properties & Construction,20,Industrials,8000
+6066 HK Equity,06066.HK,Financials,40,Financials,500
+6068 HK Equity,06068.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6069 HK Equity,06069.HK,Financials,40,Financials,500
+6078 HK Equity,06078.HK,Healthcare,35,Health Care,200
+6080 HK Equity,06080.HK,Properties & Construction,20,Industrials,6000
+6083 HK Equity,06083.HK,Industrials,20,Industrials,4000
+6088 HK Equity,06088.HK,Information Technology,50,Communication Services,1000
+6090 HK Equity,06090.HK,Properties & Construction,60,Real Estate,1000
+6093 HK Equity,06093.HK,Properties & Construction,60,Real Estate,2000
+6098 HK Equity,06098.HK,Properties & Construction,25,Consumer Discretionary,1000
+6099 HK Equity,06099.HK,Financials,40,Financials,200
+6100 HK Equity,06100.HK,Consumer Discretionary,20,Industrials,200
+6108 HK Equity,06108.HK,Healthcare,35,Health Care,8000
+6110 HK Equity,06110.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+6111 HK Equity,06111.HK,Properties & Construction,60,Real Estate,1000
+6113 HK Equity,06113.HK,Consumer Discretionary,50,Communication Services,2000
+6116 HK Equity,06116.HK,Consumer Discretionary,25,Consumer Discretionary,200
+6117 HK Equity,06117.HK,Industrials,20,Industrials,2000
+6118 HK Equity,06118.HK,Healthcare,35,Health Care,1000
+6119 HK Equity,06119.HK,Industrials,20,Industrials,3000
+6122 HK Equity,06122.HK,Financials,40,Financials,1000
+6123 HK Equity,06123.HK,Industrials,20,Industrials,2000
+6128 HK Equity,06128.HK,Properties & Construction,20,Industrials,2000
+6133 HK Equity,06133.HK,Information Technology,45,Information Technology,1000
+6136 HK Equity,06136.HK,Utilities,55,Utilities,1000
+6138 HK Equity,06138.HK,Financials,40,Financials,1000
+6139 HK Equity,06139.HK,Consumer Discretionary,25,Consumer Discretionary,500
+6158 HK Equity,06158.HK,Properties & Construction,60,Real Estate,1000
+6160 HK Equity,06160.HK,Healthcare,35,Health Care,100
+6161 HK Equity,06161.HK,Financials,40,Financials,2000
+6162 HK Equity,06162.HK,Consumer Discretionary,25,Consumer Discretionary,8000
+6163 HK Equity,06163.HK,Industrials,25,Consumer Discretionary,2000
+6166 HK Equity,06166.HK,Properties & Construction,60,Real Estate,1000
+6168 HK Equity,06168.HK,Information Technology,50,Communication Services,5000
+6169 HK Equity,06169.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6178 HK Equity,06178.HK,Financials,40,Financials,200
+6182 HK Equity,06182.HK,Properties & Construction,15,Materials,8000
+6183 HK Equity,06183.HK,Consumer Staples,30,Consumer Staples,1000
+6185 HK Equity,06185.HK,Healthcare,35,Health Care,200
+6186 HK Equity,06186.HK,Consumer Staples,30,Consumer Staples,1000
+6188 HK Equity,06188.HK,Information Technology,25,Consumer Discretionary,500
+6189 HK Equity,06189.HK,Properties & Construction,20,Industrials,500
+6190 HK Equity,06190.HK,Financials,40,Financials,200
+6193 HK Equity,06193.HK,Properties & Construction,45,Information Technology,2000
+6196 HK Equity,06196.HK,Financials,40,Financials,1000
+6198 HK Equity,06198.HK,Industrials,20,Industrials,1000
+6199 HK Equity,06199.HK,Financials,40,Financials,1000
+6210 HK Equity,06210.HK,#N/A,#N/A,#N/A,#N/A
+6230 HK Equity,06230.HK,#N/A,#N/A,#N/A,#N/A
+6288 HK Equity,06288.HK,Consumer Discretionary,25,Consumer Discretionary,300
+6388 HK Equity,06388.HK,#N/A,#N/A,#N/A,#N/A
+6488 HK Equity,06488.HK,#N/A,#N/A,#N/A,#N/A
+6805 HK Equity,06805.HK,Industrials,20,Industrials,2000
+6806 HK Equity,06806.HK,Financials,40,Financials,800
+6808 HK Equity,06808.HK,Consumer Staples,30,Consumer Staples,500
+6811 HK Equity,06811.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+6812 HK Equity,06812.HK,Consumer Discretionary,20,Industrials,5000
+6813 HK Equity,06813.HK,#N/A,#N/A,#N/A,#N/A
+6816 HK Equity,06816.HK,Properties & Construction,20,Industrials,2000
+6818 HK Equity,06818.HK,Financials,40,Financials,1000
+6819 HK Equity,06819.HK,Consumer Discretionary,35,Health Care,500
+6820 HK Equity,06820.HK,Information Technology,50,Communication Services,2000
+6822 HK Equity,06822.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6823 HK Equity,06823.HK,Telecommunications,50,Communication Services,1000
+6826 HK Equity,06826.HK,Healthcare,35,Health Care,100
+6828 HK Equity,06828.HK,Utilities,10,Energy,8000
+6829 HK Equity,06829.HK,Properties & Construction,20,Industrials,10000
+6830 HK Equity,06830.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6833 HK Equity,06833.HK,Healthcare,35,Health Care,4000
+6836 HK Equity,06836.HK,Consumer Staples,30,Consumer Staples,2000
+6837 HK Equity,06837.HK,Financials,40,Financials,400
+6838 HK Equity,06838.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6839 HK Equity,06839.HK,Utilities,55,Utilities,1000
+6855 HK Equity,06855.HK,Healthcare,35,Health Care,100
+6858 HK Equity,06858.HK,Consumer Discretionary,25,Consumer Discretionary,500
+6860 HK Equity,06860.HK,Information Technology,50,Communication Services,1000
+6862 HK Equity,06862.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+6863 HK Equity,06863.HK,#N/A,#N/A,#N/A,#N/A
+6865 HK Equity,06865.HK,Industrials,15,Materials,1000
+6866 HK Equity,06866.HK,Financials,40,Financials,2000
+6868 HK Equity,06868.HK,Consumer Staples,30,Consumer Staples,1000
+6869 HK Equity,06869.HK,Information Technology,45,Information Technology,500
+6877 HK Equity,06877.HK,Financials,40,Financials,5000
+6878 HK Equity,06878.HK,Properties & Construction,40,Financials,2000
+6880 HK Equity,06880.HK,Industrials,20,Industrials,2000
+6881 HK Equity,06881.HK,Financials,40,Financials,500
+6882 HK Equity,06882.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6883 HK Equity,06883.HK,#N/A,#N/A,#N/A,#N/A
+6885 HK Equity,06885.HK,Energy,10,Energy,1000
+6886 HK Equity,06886.HK,Financials,40,Financials,200
+6888 HK Equity,06888.HK,Properties & Construction,20,Industrials,1000
+6889 HK Equity,06889.HK,Consumer Discretionary,25,Consumer Discretionary,200
+6890 HK Equity,06890.HK,Materials,15,Materials,2000
+6893 HK Equity,06893.HK,Healthcare,35,Health Care,2000
+6896 HK Equity,06896.HK,Healthcare,35,Health Care,500
+6898 HK Equity,06898.HK,Industrials,35,Health Care,2000
+6899 HK Equity,06899.HK,Information Technology,50,Communication Services,1000
+6908 HK Equity,06908.HK,Consumer Discretionary,45,Information Technology,5000
+6918 HK Equity,06918.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+6919 HK Equity,06919.HK,Consumer Discretionary,20,Industrials,100
+6928 HK Equity,06928.HK,Consumer Discretionary,25,Consumer Discretionary,4000
+6933 HK Equity,06933.HK,Information Technology,50,Communication Services,2000
+6958 HK Equity,06958.HK,Properties & Construction,20,Industrials,1000
+6966 HK Equity,06966.HK,Consumer Discretionary,25,Consumer Discretionary,10000
+6968 HK Equity,06968.HK,Properties & Construction,60,Real Estate,1000
+6969 HK Equity,06969.HK,Consumer Discretionary,25,Consumer Discretionary,1000
+6978 HK Equity,06978.HK,Healthcare,35,Health Care,1000
+9618 HK Equity,09618.HK,Information Technology,25,Consumer Discretionary,50
+9668 HK Equity,09668.HK,Financials,40,Financials,500
+9900 HK Equity,09900.HK,Properties & Construction,20,Industrials,4000
+9906 HK Equity,09906.HK,Healthcare,35,Health Care,2000
+9908 HK Equity,09908.HK,Utilities,10,Energy,500
+9909 HK Equity,09909.HK,Properties & Construction,20,Industrials,500
+9911 HK Equity,09911.HK,Information Technology,25,Consumer Discretionary,2000
+9916 HK Equity,09916.HK,Properties & Construction,20,Industrials,2000
+9918 HK Equity,09918.HK,Industrials,45,Information Technology,8000
+9919 HK Equity,09919.HK,Consumer Discretionary,50,Communication Services,2000
+9922 HK Equity,09922.HK,Consumer Discretionary,20,Industrials,1000
+9923 HK Equity,09923.HK,Information Technology,25,Consumer Discretionary,400
+9926 HK Equity,09926.HK,Healthcare,35,Health Care,1000
+9928 HK Equity,09928.HK,Properties & Construction,20,Industrials,1000
+9929 HK Equity,09929.HK,Properties & Construction,20,Industrials,10000
+9933 HK Equity,09933.HK,Materials,15,Materials,4000
+9936 HK Equity,09936.HK,Materials,15,Materials,2500
+9938 HK Equity,09938.HK,Properties & Construction,20,Industrials,5000
+9939 HK Equity,09939.HK,Healthcare,35,Health Care,500
+9958 HK Equity,09958.HK,Consumer Discretionary,50,Communication Services,1000
+9966 HK Equity,09966.HK,Healthcare,35,Health Care,1000
+9968 HK Equity,09968.HK,Properties & Construction,60,Real Estate,2000
+9969 HK Equity,09969.HK,Healthcare,35,Health Care,1000
+9977 HK Equity,09977.HK,Consumer Staples,30,Consumer Staples,1000
+9978 HK Equity,09978.HK,Properties & Construction,60,Real Estate,4000
+9979 HK Equity,09979.HK,Properties & Construction,60,Real Estate,1000
+9983 HK Equity,09983.HK,Properties & Construction,20,Industrials,1000
+9986 HK Equity,09986.HK,Consumer Discretionary,25,Consumer Discretionary,2000
+9988 HK Equity,09988.HK,Information Technology,25,Consumer Discretionary,100
+9989 HK Equity,09989.HK,Healthcare,35,Health Care,500
+9990 HK Equity,09990.HK,Information Technology,45,Information Technology,1000
+9996 HK Equity,09996.HK,Healthcare,35,Health Care,1000
+9997 HK Equity,09997.HK,Healthcare,35,Health Care,500
+9998 HK Equity,09998.HK,Properties & Construction,20,Industrials,5000
+9999 HK Equity,09999.HK,Information Technology,50,Communication Services,100

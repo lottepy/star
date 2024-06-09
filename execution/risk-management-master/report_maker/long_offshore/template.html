@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+	<link rel="stylesheet" href="css/style.css">
+    <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<style type="text/css">
+h3{
+  border-bottom: double 2px;
+}
+</style>
+</head>
+<body>
+    <h1>AQUMON Multi-factor Strategy Performance Report</h1>
+
+    <h3>Strategy Overview</h3>
+    <p>AQUMON Multi-factor Strategy is a combination of fundamental analysis and state-of-the-art AI techniques. By diving into company characteristics, potential stocks can be selected out of more than three thousand stocks in China A-share market. Company characteristics are quantified as a series of factors which describe company styles in different dimensions. These factors could be value factor, growth factor, momentum factor, volatility factor and so on. 
+    </p>
+
+    <h3>Key Facts</h3>
+    <p>Asset Class: Equity</p>
+    <p>Base Currency: CNY</p>
+    <p>Benchmark: CSI300 Index, CSI500 Index</p>
+
+    <h3>Historical Performance</h3>
+    <IMG SRC="portfolio_mfm.png">
+    <p>
+        Note: Above graph demonstrates performance from 2015-12-31 to 2018-07-06. Number of stocks in AQUMON portfolio would change according to the algorithm. 
+        The analysis universe is China A-share market including ChiNext. The investable stock universe is all A-share stocks. Sector constraint requires that every sector percentage have to be less than 40%. Strategy performance is dependent on investment mandate which may change for different clients. Transaction cost is assumed to be 0.15% of trading value for each stock. Algorithm is subject to change.
+    </p>
+
+    <h3>Cumulative Performance</h3>
+    {{ performance_mfm }}    
+    <p>
+    * Since inception: from 2015-12-31 to 2018-07-06</br>
+    * 2 year: from 2016-07-06 to 2018-07-06</br>
+    * 1 year: from 2017-07-06 to 2018-07-06</p>
+
+    <h3>Calendar Performance</h3>
+    {{ performance_mfm_calendar }}
+    <p>
+    * YTD: from 2017-12-29 to 2018-07-06</br>
+    * 2017: from 2016-12-30 to 2017-12-29</br>
+    * 2016: from 2016-03-31 to 2016-12-30</p>
+
+
+    <h3>Risk Metrics</h3>
+    {{ risk_metrics }}
+    <p>
+    * Performance from 2015-12-31 to 2018-07-06</br>
+    * Assume risk-free rate to be 0. 
+    </p>
+
+    <h3>Top 10 Equity Holdings</h3>
+    {{ underlying_performance }}
+    <p>
+    * Screenshot holding of 2018-07-06. Holdings are subject to change.</br>
+    </p>
+
+    <h3>Sector Allocation</h3>
+    {{ sector_allocation_gics }}
+    <p>
+    * Screenshot holding of 2018-07-06. Holdings are subject to change.</br>
+    * "weight" represents stock weight in A-share equity portfolio.
+    </p>
+
+    <h3>Disclosure</h3>
+    <p>
+    This document is for informational purposes only. This document does not constitute an offer to sell or a solicitation of any offer to invest. The information contained in this document does not purport to be complete nor accurate. 
+This document may not be reproduced or distributed without the written authorization of Magnum Research Limited. Any reproduction or distribution of any of the contents of this document may constitute a violation of law. By accepting this document, you acknowledge and agree that all of the information contained in it shall be kept strictly confidential. 
+</p>
+<p>
+Certain information contained in this document includes observations and assumptions and involves significant elements of subjective judgement and analysis. No representations are made as to the accuracy of such observations and assumptions and there can be no assurances that actual events will not differ materially from those assumed. Additionally, the selection and determination of the duration of the market cycles included in this document involved subjective judgement.
+    </p>
+
+    </br>
+    
+
+</body>
+</html>

@@ -1,0 +1,2 @@
+strategy_module,strategy_name,params,symbol
+src.dbresearch,signalCFTCReversal,{},"{""FX"": [""AUDUSD"", ""EURUSD"", ""GBPUSD"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDJPY""]}"

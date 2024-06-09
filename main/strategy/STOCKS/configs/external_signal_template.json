@@ -1,0 +1,99 @@
+{
+    "start_year": 2017,
+    "start_month": 1,
+    "start_day": 1,
+    "end_year": 2020,
+    "end_month": 4,
+    "end_day": 20,
+    "main_data": [
+        "STOCKS"
+    ],
+    "data": {
+        "STOCKS": {
+            "DataCenter": "DataMaster",
+            "SymbolArgs": {
+                "AccountCurrency": "LOCAL",
+                "DMAdjustType": 3,
+                "DMCalendar": "SSE"
+            },
+            "Fields": [
+                "OHLC", "volume"
+            ],
+            "Frequency": "DAILY"
+        }
+    },
+    "ref_data": {
+        "signal": {
+            "DataCenter": "LocalCSV",
+            "DataCenterArgs": {
+                "dir": "//192.168.9.170/share/alioss/1_StockStrategy/data/signal"
+            },
+            "Symbol": ["some_signal"],
+            "StartDate": {
+                "Year": 2017,
+                "Month": 1,
+                "Day": 1
+            },
+            "EndDate": {
+                "Year": 2020,
+                "Month": 4,
+                "Day": 20
+            },
+            "Frequency": "DAILY"
+        },
+        "filter": {
+            "DataCenter": "LocalCSV",
+            "DataCenterArgs": {
+                "dir": "//192.168.9.170/share/alioss/1_StockStrategy/data/filter"
+            },
+            "Symbol": ["StockConnectFilter"],
+            "StartDate": {
+                "Year": 2017,
+                "Month": 1,
+                "Day": 1
+            },
+            "EndDate": {
+                "Year": 2020,
+                "Month": 4,
+                "Day": 20
+            },
+            "Frequency": "DAILY"
+        }
+    },
+    "dm_pickle": {
+        "save_dir": ".",
+        "save_name": "stock_data",
+        "to_pkl": false,
+        "from_pkl": false
+    },
+    "account": {
+        "cash": 10000000,
+        "commission": 0.0015
+    },
+    "algo": {
+        "base_ccy": "LOCAL",
+        "window_size": {
+            "main": 254,
+            "signal": 1
+        },
+        "monitor_open": false
+    },
+    "result_output": {
+        "flatten": false,
+        "save_dir": "strategy/stocks/results/tmp",
+        "save_name": "result",
+        "save_n_workers": 1,
+        "status_dir": "strategy/stocks/results/tmp",
+        "status_name": "status"
+    },
+    "numba": {
+        "parallel": false
+    },
+    "engine": {
+        "engine_name": "external_signal_strategy",
+        "need_backtest": false,
+        "is_init_cash": false,
+        "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+        "Order_Router_name": "OrderRouter"
+    }
+}

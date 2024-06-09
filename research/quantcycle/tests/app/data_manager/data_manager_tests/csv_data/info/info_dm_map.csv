@@ -1,0 +1,10 @@
+symbol,csv_name,source,symboltype,trading_currency,lot_size,bloomberg_code,back_up_bbg_code,timezone,MAIN,CCPFXRATE,INT,SPLIT
+coinA,ASSET_A,coin_source1,crypto,USD,,bbg_code_coinA,,Asia/Hong_Kong,,,,""
+coinB,ASSET_B,,,USD,,,,,,,,""
+ASSET_C,,,,,,,,,,,,""
+EURCAD,EURCAD,SOURCE_FROM_INFO,FX,CAD,,,,,,datamaster,,""
+AUDCAD,,,,,,,,,datamaster,datamaster,,""
+USDJPY,,,,,,,,,datamaster,datamaster,,""
+TSLA.US,TSLA.US,,US_STOCK,USD,,,,,,datamaster,datamaster,""
+APPL.US,APPL.US,,US_STOCK,USD,,,,,,datamaster,datamaster,""
+JPStock,JPStock,,JP_STOCK,JPY,,,,,localcsv,datamaster,datamaster,""

@@ -1,0 +1,4 @@
+symbol,csv_name,source,symboltype,trading_currency,lot_size,bbg_code,back_up_bbg_code
+ABC,ABC,,US_Stock,USD,,,
+KKK,KKK,,US_Stock,USD,,,
+XYZ,XYZ,,US_Stock,USD,,,

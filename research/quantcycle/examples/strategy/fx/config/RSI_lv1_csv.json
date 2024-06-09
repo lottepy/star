@@ -1,0 +1,47 @@
+{
+  "start_year": 2011,
+  "start_month": 10,
+  "start_day": 10,
+  "end_year": 2012,
+  "end_month": 12,
+  "end_day": 30,
+  "data": {
+    "FX": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "examples/data/fx_hour_data/current_data/",
+        "fxrate_dir": "examples/data/fx_hour_data/current_fx/",
+        "int_dir": "examples/data/fx_hour_data/current_rate/",
+        "info": "examples/data/fx_hour_data/info/info.csv"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {},
+  "account": {
+    "cash": 2900000
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "results/RSI_strategy/result/",
+    "save_name": "RSI_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/RSI_strategy/status",
+    "status_name": "RSI_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RSI_lv1",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

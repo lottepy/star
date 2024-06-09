@@ -1,0 +1,89 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2020,
+  "end_month": 5,
+  "end_day": 30,
+  "main_data": ["STOCKS"],
+  "data": {
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "DMCalendar": "SSE",
+        "AccountCurrency": "LOCAL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "secondary_data": {
+    "RSI": {
+      "DataCenter": "ResultReader",
+      "DataCenterArgs": {
+        "DataPath": "results/rsi/result/RSI_lv1"
+      },
+      "SymbolArgs": {
+        "Metrics": {
+          "allocation_freq": "1M",
+          "lookback_points_list": [61, 252],
+          "addition": true,
+          "multiplier": 252
+        }
+      },
+      "Fields": ["pnl", "metrics","position"],
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+  },
+  "dm_pickle": {
+    "save_dir": "results/rsi_lv2/cache/",
+    "save_name": "dm_pickle_RSI_lv2",
+    "to_pkl": true,
+    "from_pkl": false
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 1,
+      "RSI_pnl": 254
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/rsi_lv2/result/",
+    "save_name": "RSI_lv2",
+    "save_n_workers": 1,
+    "status_dir": "results/rsi_lv2/status/",
+    "status_name": "RSI_lv2"
+  },
+  "signal_remark": {
+    "save_dir": "results/rsi_lv2/remarks/",
+    "save_name": "remark_RSI_lv2",
+    "load_dir": "results/rsi/remarks/",
+    "load_name": "remark_RSI_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RSI_lv2",
+    "need_backtest" : false,
+    "is_sync_cash" : true,
+    "is_sync_holding" : true,
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  },
+  "PortfolioTaskEngineOrderRouter":{
+    "ACCOUNT": "367",
+    "task_ippath": "https://algo-stg.aqumon.com/oms/api/task-engine/",
+    "subtask_ippath": "https://algo-stg.aqumon.com/oms/api/execution-engine/",
+    "brokerType":"IB"
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "start_year": 2013,
+  "start_month": 9,
+  "start_day": 12,
+  "end_year": 2014,
+  "end_month": 1,
+  "end_day": 10,
+  "data": {
+    "FX": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DataSource": "BT150",
+        "BackupDataSource": "BGNL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    },
+    "STOCKS": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "tests/engine/production/test_multi_assets/data/STOCK/stock_data_better/",
+        "fxrate_dir": "tests/engine/production/test_multi_assets/data/STOCK/fxrate/",
+        "int_dir": "tests/engine/production/test_multi_assets/data/STOCK/interest/",
+        "info": "tests/engine/production/test_multi_assets/data/STOCK/info/stocks_info.csv"
+      },
+      "SymbolArgs": {
+        "DMAdjustType": 1
+      },
+      "Fields": "OHLC",
+      "Frequency": "HOURLY"
+    },
+    "FUTURES": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "weights": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "tests/engine/production/test_multi_assets/data/RW_stocks_csv_FX_Futures"
+      },
+      "Symbol": ["weights"],
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 3
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "tests/engine/production/test_multi_assets/result/",
+    "save_name": "RW_stocks_csv_FX_Futures",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/production/test_multi_assets/status/",
+    "status_name": "RW_stocks_csv_FX_Futures"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RW_lv1",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

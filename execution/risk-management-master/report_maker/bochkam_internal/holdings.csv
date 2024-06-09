@@ -1,0 +1,13 @@
+Ticker,Segment,Weight
+IVV,US Large Cap,20.37%
+SCHF,Developed Market,11.52%
+VWO,Emerging Market,8.15%
+VB,US Small Cap,3.17%
+AGG,US Aggregate Bond,13.50%
+EMB,Emerging Market Bond,5.25%
+HYG,High Yield Bond,6.75%
+FLOT,Floating Rate Bond,15.90%
+VTIP,Inflation Protected Bond,3.60%
+GLD,Gold,2.20%
+Rotation-REG,Region Rotation,4.80%
+Rotation-SEC,Sector Ratation,4.80%

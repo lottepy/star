@@ -1,0 +1,39 @@
+US_10_AGG,AGG US EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_LBUSTRUU""""}}""",
+US_10_JPST,JPST US EQUITY,{},
+US_10_MINT,MINT US EQUITY,{},
+US_10_SHV,SHV US EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_LT12TRUU""""}}""",
+US_10_ASHR,ASHR US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""CN_30_SHSZ300""""","start_date"""":""""2005-04-08""""}]}"""
+US_10_EMB,EMB US EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_JPEICORE""""}}""",
+US_10_GLD,GLD US EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_GOLDLNPM""""}}""",
+US_10_HYG,HYG US EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_IBOXHY""""}}""",
+US_10_SCHF,SCHF US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_FTAD02""""","start_date"""":""""2007-05-11""""}]}"""
+US_10_VB,VB US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_CRSPSCT""""","start_date"""":""""2011-03-31""""}]}"""
+US_10_VTI,VTI US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_CRSPTMT""""","start_date"""":""""2011-04-01""""}]}"""
+US_10_VTIP,VTIP US EQUITY,{},
+US_10_VWO,VWO US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_FQEACR""""","start_date"""":""""2016-09-19""""}]}"""
+US_10_EWA,EWA US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_MXAU""""}]}""",
+US_10_INDA,INDA US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_MXIN""""}]}""",
+US_10_QQQ,QQQ US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_XNDX""""","start_date"""":""""2001-01-02""""}]}"""
+US_10_XLE,XLE US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_IXETR""""","start_date"""":""""2002-01-02""""}]}"""
+US_10_XLP,XLP US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_IXRTR""""","start_date"""":""""2002-01-02""""}]}"""
+US_10_XLV,XLV US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_IXVTR""""","start_date"""":""""2002-06-24""""}]}"""
+US_10_XLU,XLU US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_IXUTR""""","start_date"""":""""2002-01-02""""}]}"""
+US_10_EWG,EWG US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_MXDE""""}]}""",
+US_10_EWU,EWU US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_MXGB""""}]}""",
+US_10_EWH,EWH US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""HK_30_MXHK""""}]}""",
+US_10_EWJ,EWJ US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_MXJP""""}]}""",
+HK_10_3011,3011 HK EQUITY,{},
+HK_10_3077,3077 HK EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_BTFLTRUU""""}}""",
+HK_10_3141,3141 HK EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_BAIGTRUU""""}}""",
+HK_10_2813,2813 HK EQUITY,"algo_tracking_index:{""""iuid"""":""""CN_30_I32561CN""""}}""",
+HK_10_3010,3010 HK EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_MXASJ""""}]}""",
+HK_10_3081,3081 HK EQUITY,"algo_tracking_index:{""""iuid"""":""""US_30_GOLDLNAM""""}}""",
+HK_10_3101,3101 HK EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_FTS9DEUR""""","start_date"""":""""2013-12-03""""}]}"""
+HK_10_3140,3140 HK EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_SPXT""""}]}""",
+HK_10_3147,3147 HK EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""CN_30_SZ399606""""","start_date"""":""""2010-05-31""""}]}"""
+HK_10_3169,3169 HK EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_FTTCCNTC""""}]}""",
+US_10_ITOT,ITOT US EQUITY,"algo_tracking_indicies:[{""""iuid"""":""""US_30_CRSPTMT""""}]}""",
+US_10_SCHZ,SCHZ US EQUITY,{},
+,2801 HK EQUITY,M7CN Index,
+,3086 HK EQUITY,NDX Index,
+,3088 HK EQUITY,HSTECH Index,

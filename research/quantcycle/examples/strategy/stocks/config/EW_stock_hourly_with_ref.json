@@ -1,0 +1,88 @@
+{
+  "start_year": 2018,
+  "start_month": 9,
+  "start_day": 12,
+  "end_year": 2019,
+  "end_month": 1,
+  "end_day": 10,
+  "data": {
+    "STOCKS": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "examples/data/stock_hourly_local/stock_data/",
+        "fxrate_dir": "examples/data/stock_hourly_local/fxrate/",
+        "int_dir": "examples/data/stock_hourly_local/interest/",
+        "info": "examples/data/stock_hourly_local/info/us_stocks_info.csv"
+      },
+      "SymbolArgs": {
+        "DMAdjustType": 1
+      },
+      "Fields": "OHLC",
+      "Frequency": "HOURLY"
+    }
+  },
+  "ref_data": {
+    "ref_daily": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "examples/data/stocks_ref_multi_freq/main_daily"
+      },
+      "Symbol": ["STOCK_1", "STOCK_2", "STOCK_3", "STOCK_4", "STOCK_5"],
+      "StartDate": {
+        "Year": 2018,
+        "Month": 9,
+        "Day": 12
+      },
+      "EndDate": {
+        "Year": 2019,
+        "Month": 1,
+        "Day": 10
+      },
+      "Frequency": "DAILY"
+    },
+    "ref_hourly": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "examples/data/stocks_ref_multi_freq/main_hourly"
+      },
+      "Symbol": ["STOCK_2", "STOCK_3", "STOCK_5"],
+      "StartDate": {
+        "Year": 2018,
+        "Month": 9,
+        "Day": 12
+      },
+      "EndDate": {
+        "Year": 2019,
+        "Month": 1,
+        "Day": 10
+      },
+      "Fields": ["close"],
+      "Frequency": "HOURLY"
+    }
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 3,
+      "ref_data": 3
+    }
+  },
+  "timing": {
+    "calc_rate_time_utc": "22:00"
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/stock_hourly_with_ref/result/",
+    "save_name": "stock_hourly_with_ref",
+    "save_n_workers": 1,
+    "status_dir": "results/stock_hourly_with_ref/status/",
+    "status_name": "stock_hourly_with_ref"
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

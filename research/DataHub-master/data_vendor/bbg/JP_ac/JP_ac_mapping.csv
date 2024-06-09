@@ -1,0 +1,9 @@
+﻿Asset Type,Asset CH Name,Index Name,BBG Ticker
+Large cap,美国大型股票,S&P 500,SPXT
+Small cap,美国小型股票,Russell 2000,RU20INTR
+EM Equity,新兴市场股票,MSCI EME,GDUEEGF
+DM Equity,发达市场股票,MSCI EAFE,GDDUEAFE
+Comdty,商品,Bloomberg Commodity Index,BCOMTR
+High Yield,全球高收益债券,Bloomberg Barclays Global HY Index,LG30TRUU
+Fixed Income,美国综合债券,Bloomberg Barclays US Aggregate,LBUSTRUU
+REITs,房地产信托,NAREIT Equity REIT Index,FNRETR

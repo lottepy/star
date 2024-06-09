@@ -1,0 +1,382 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>AQUMON-VIEW</title>
+	<link rel="stylesheet" href="css/style.css">
+    <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+	<style type="text/css">
+	h1{
+		color: orangered;
+		margin: 35px;
+		font-size: 28px;
+	}
+	h3{
+  		border-bottom: double 2px;
+  		border-color: orange;
+  		margin: 20px 35px;
+  		font-size: 22px;
+  		color: darkgray;
+	}
+	h4{
+		margin: 10px 35px;
+		font-size: 18px;
+	}
+	h5{
+		margin: 10px 35px;
+		font-size: 16px;
+		color: dimgray;
+		text-decoration: underline;
+	}
+	p{
+		margin: 10px 35px;
+		font-size: 16px;
+	}
+	img{
+		/*margin: 10px 35px;*/
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 60%;
+	}
+	table, td, th{
+		/*margin: 10px 35px;*/
+		margin: 0 auto;
+		border-collapse: collapse;
+		border: 1px solid black;
+		/*border-bottom: 1px solid #ddd;*/
+        text-align: left;
+        width: 600px;
+		padding: 8px;
+	}
+	table{
+		/*display: block;*/
+		margin-left: auto;
+		margin-right: auto;
+	}
+	th {
+        height: 30px;
+		/*background-color: darkgrey;*/
+		/*color: white;*/
+    }
+	tr :hover{
+		background-color: darkgray;
+	}
+	</style>
+</head>
+<body>
+    <h1>AQUMON Algo View (3 Dec 2018)</h1>
+
+    <h3>Macroeconomic View</h3>
+    <p>AQUMON use pattern recognition techniques to identify bull and bear market. 
+    Statistical results shows there exists a strong relationship between bear market probability and macroeconomic indicators.
+    Then we establish a predictive model to forecast the probability of bear market by certain macroeconomic indicators.</p>
+    <h4>Effective Indicators</h4>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Indicator</th>
+      <th>Latest Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VIX Index</td>
+      <td>25.560</td>
+    </tr>
+    <tr>
+      <td>Effective Federal Fund Rate</td>
+      <td>0.025</td>
+    </tr>
+    <tr>
+      <td>Credit Spread</td>
+      <td>0.010</td>
+    </tr>
+  </tbody>
+</table></p>
+    <h4>Forecast Probability</h4>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Bear Market Probability</th>
+      <th>34%</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table></p>
+    <p>AQUMON macroeconomic models concludes that the most important driver to predict bear market probability in this week is VIX Index. </p>
+    <p>（可以考虑不显示熊市的概率数字，而是用温度计或者转速表的形式展现）</p>
+
+    <h3>Rotation View</h3>
+    <p>（这里会有一个概括性描述，比如：AQUMON认为行业和地区存在均值回归现象，短期内表现较差的行业在未来会有超额收益）</p>
+    <p>AQUMON believes in equity market, there exist mean reversion behavior among different sectors and regions, which means the poor performed stocks have greater chance to get higher returns in subsequent period.
+    Based on that, AQUMON develops a systematic approach to quantify the intensity of mean reversion characteristics.</p>
+    <h4>Sector Rotation</h4>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Sector</th>
+      <th>Mean Reversion Intensity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Basic Materials</td>
+      <td>0.12</td>
+    </tr>
+    <tr>
+      <td>Energy</td>
+      <td>0.09</td>
+    </tr>
+    <tr>
+      <td>Finance</td>
+      <td>0.06</td>
+    </tr>
+    <tr>
+      <td>Technology</td>
+      <td>0.02</td>
+    </tr>
+    <tr>
+      <td>Health Care</td>
+      <td>0.01</td>
+    </tr>
+  </tbody>
+</table></p>
+    <p>（这里会有一个总结性描述，比如：AQUMON认为Basic Materials和Energy行业未来反弹的空间较大）</p>
+    <p>AQUMON selects: Basic Materials and Energy</p>
+
+    <h4>Region Sector</h4>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Region</th>
+      <th>Mean Reversion Intensity</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>China</td>
+      <td>0.12</td>
+    </tr>
+    <tr>
+      <td>Canada</td>
+      <td>0.09</td>
+    </tr>
+    <tr>
+      <td>Japan</td>
+      <td>0.06</td>
+    </tr>
+    <tr>
+      <td>Hong Kong</td>
+      <td>0.02</td>
+    </tr>
+    <tr>
+      <td>Brazil</td>
+      <td>0.01</td>
+    </tr>
+  </tbody>
+</table></p>
+    <p>（这里会有一个总结性描述，比如：AQUMON认为China和Canada地区未来反弹的空间较大）</p>
+    <p>AQUMON selects: China and Canada</p>
+
+    <h3>Volatility View</h3>
+    <p>VIX Index is a measure of 30-day expected volatility of US stock market, which can reveal the market sentiment.
+    AQUMON studies the statistical characteristic of VIX Index an VIX futures contracts and evaluate which state the market is currently at.</p>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Instrument</th>
+      <th>Latest Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>VIX Index</td>
+      <td>23.56</td>
+    </tr>
+    <tr>
+      <td>VIX DEC18 Futures Contract</td>
+      <td>25.78</td>
+    </tr>
+    <tr>
+      <td>VIX JAN19 Futures Contract</td>
+      <td>28.91</td>
+    </tr>
+    <tr>
+      <td>Market Status</td>
+      <td>NORMAL</td>
+    </tr>
+  </tbody>
+</table></p>
+	<IMG SRC="vix_figure.png">
+	<p>（这里会有一个总结性描述，比如：目前VIX指数落于其历史合理区间内）</p>
+	<p>VIX Index is currently in its reasonable range, under which the market status is NORMAL.</p>
+
+    <h3>Stock View</h3>
+    <p>The stock view is generated by AQUMON Multi-factor Strategy. It is a combination of fundamental analysis and state-of-the-art AI techniques. By diving into company characteristics, potential stocks can be selected out of more than three thousand stocks in China A-share market. Company characteristics are quantified as a series of factors which describe company styles in different dimensions. These factors could be value factor, growth factor, momentum factor, volatility factor and so on.</p>
+    <h4>China A share Market</h4>
+    <h5>Recommended Stock List</h5>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Name</th>
+      <th>Weighting</th>
+      <th>Flag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>601888.SH</td>
+      <td>中国国旅</td>
+      <td>18.80%</td>
+      <td>已选</td>
+    </tr>
+    <tr>
+      <td>600009.SH</td>
+      <td>上海机场</td>
+      <td>12.30%</td>
+      <td>已选</td>
+    </tr>
+    <tr>
+      <td>600900.SH</td>
+      <td>长江电力</td>
+      <td>11.70%</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>300015.SZ</td>
+      <td>爱尔眼科</td>
+      <td>9.80%</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>600519.SH</td>
+      <td>贵州茅台</td>
+      <td>6.50%</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table></p>
+    <p>AQUMON recommands: 长江电力，爱尔眼科，贵州茅台</p>
+    <h5>Effective Factors</h5>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Factor</th>
+      <th>Direction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Value</td>
+      <td>Negative</td>
+    </tr>
+    <tr>
+      <td>Volatility</td>
+      <td>Positive</td>
+    </tr>
+    <tr>
+      <td>Momentum</td>
+      <td>Positive</td>
+    </tr>
+  </tbody>
+</table></p>
+    <h5>Sector Distribution</h5>
+    <!-- <p></p> -->
+    <IMG SRC='acas_distribution.png'>
+
+    <h4>Hong Kong Market</h4>
+    <h5>Recommended Stock List</h5>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Name</th>
+      <th>Weighting</th>
+      <th>Flag</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>601888.SH</td>
+      <td>中国国旅</td>
+      <td>18.80%</td>
+      <td>已选</td>
+    </tr>
+    <tr>
+      <td>600009.SH</td>
+      <td>上海机场</td>
+      <td>12.30%</td>
+      <td>已选</td>
+    </tr>
+    <tr>
+      <td>600900.SH</td>
+      <td>长江电力</td>
+      <td>11.70%</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>300015.SZ</td>
+      <td>爱尔眼科</td>
+      <td>9.80%</td>
+      <td>NaN</td>
+    </tr>
+    <tr>
+      <td>600519.SH</td>
+      <td>贵州茅台</td>
+      <td>6.50%</td>
+      <td>NaN</td>
+    </tr>
+  </tbody>
+</table></p>
+    <p>AQUMON recommands: 长江电力，爱尔眼科，贵州茅台</p>
+    <h5>Effective Factors</h5>
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Factor</th>
+      <th>Direction</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Value</td>
+      <td>Negative</td>
+    </tr>
+    <tr>
+      <td>Volatility</td>
+      <td>Positive</td>
+    </tr>
+    <tr>
+      <td>Momentum</td>
+      <td>Positive</td>
+    </tr>
+  </tbody>
+</table></p>
+    <h5>Sector Distribution</h5>
+    <!-- <p></p> -->
+    <IMG SRC='ahas_distribution.png'>
+
+	<h3>Company Information</h3>
+	<h4>About Magnum Research</h4>
+	<p>Incubated by the Hong Kong University of Science and Technology in 2016, Magnum Research secured its A Round funding led by Alibaba Entrepreneurs Fund in Jun 2017, which was later (Sep 2018) followed by funding from Bohai XingWang, L.P., managed by BOC International. The firm has grown its institutional business rapidly, commencing collaborations with more than 30 leading financial institutions, including banks, brokerages, insurance firms and wealth management companies. Since September 2017, it has also released its retail offering, making automated and low-cost global asset allocation possible for everybody in Hong Kong.</p>
+
+	<h4>Our Teams</h4>
+	<p>Magnum Research has three teams servicing our clients at all times: a group of quantitative scientists compiling our Quantitative Research team, Financial Markets team with years of experience, and lastly the IT team as capable as one in an Internet firm. The firm has grown to include 60+ people with background from HKUST, NUS, HKU, CUHK, etc., based in offices in Hong Kong, Shenzhen and Singapore.</p>
+
+    <h3>Disclosure</h3>
+    <p>
+	This document is for illustration purposes only. All return figures provided here are based on hypothetical or simulated investing. This document does not constitute an offer to sell or a solicitation of any offer to invest. The information contained in this document does not purport to be complete nor accurate. This document may not be reproduced or distributed without the written authorization of Magnum Research Limited. Any reproduction or distribution of any of the contents of this document may constitute a violation of law. By accepting this document, you acknowledge and agree that all of the information contained in it shall be kept strictly confidential. 
+	</p>
+	<p>
+	Certain information contained in this document includes observations and assumptions and involves significant elements of subjective judgement and analysis. No representations are made as to the accuracy of such observations and assumptions and there can be no assurances that actual events will not differ materially from those assumed. 
+    </p>
+
+    </br>
+    
+
+</body>
+</html>

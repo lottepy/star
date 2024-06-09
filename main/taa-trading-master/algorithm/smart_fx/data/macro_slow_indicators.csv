@@ -1,0 +1,257 @@
+Currency,Country,Event Short Name,Bloomber Ticker,BBG FREQ,BBG TRANSFORM,BBG INDX UNITS,BBG QUOTE UNITS,BBG UPDATE TIME
+AUD,Australia,NAB Business Confidence,NABSCONF Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,8:30:00 AM
+AUD,Australia,Commodity Index AUD,AURBA$ Index,Monthly,Index NSA,Value,#N/A Field Not Applicable,1:30:00 PM
+AUD,Australia,Melbourne Institute Inflation YoY,TDMIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,8:00:00 AM
+AUD,Australia,Building Approvals MoM,AUBAC Index,Monthly,MoM% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Building Approvals YoY,AUBAY Index,Monthly,YoY% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Trade Balance,AUITGSB Index,Monthly,Value SA,Value,MILLIONS,8:30:00 AM
+AUD,Australia,Retail Sales MoM,AURSTSA Index,Monthly,MoM% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Employment Change,AULFEMPC Index,Monthly,Net Monthly Change SA,Rate,Net Change,8:30:00 AM
+AUD,Australia,Unemployment Rate,AULFUNEM Index,Monthly,Percent SA,Percent,%,8:30:00 AM
+AUD,Australia,NAB Business Conditions,NABSCOND Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,8:30:00 AM
+AUD,Australia,Westpac Consumer Conf Index,WMCCCONS Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,7:30:00 AM
+AUD,Australia,Private CapEx,AUCECHG Index,Quarterly,QoQ% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Current Account Balance,AUCABAL Index,Quarterly,Value SA,Value,MILLIONS,8:30:00 AM
+AUD,Australia,GDP QoQ,AUNAGDPC Index,Quarterly,QoQ% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,GDP YoY,AUNAGDPY Index,Quarterly,YoY% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Wage Price Index QoQ,AUWCQSA Index,Quarterly,QoQ% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Wage Price Index YoY,AUWCYSA Index,Quarterly,YoY% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Inventories QoQ,INAUQOQ Index,Quarterly,QoQ% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Company Operating Profit QoQ,AUPGOP Index,Quarterly,QoQ% SA,Rate,% CHANGE,8:30:00 AM
+AUD,Australia,Net Exports of GDP,AUCANXP Index,Quarterly,#N/A N/A,Rate,% RATIO,8:30:00 AM
+CAD,Canada,Canada CPI YoY,CACPIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:30:00 PM
+CAD,Canada,Canada Unemployment Rate,CANLXEMR Index,Monthly,Percent SA,Rate,% RATIO,9:30:00 PM
+CAD,Canada,Canada Net Change in Employment,CANLNETJ Index,Monthly,Net Monthly Change SA,Volume,THOUSANDS,9:30:00 PM
+CAD,Canada,Canada GDP MoM,CAGDPMOM Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+CAD,Canada,Canada Quarterly GDP Annualized,CGE9ANN Index,Quarterly,QoQ% SAAR,Percent,#N/A Field Not Applicable,9:30:00 PM
+CAD,Canada,CA Retail Sales MoM,CARSCHNG Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+CNH,China,Industrial Production YoY,CHVAIOY Index,Monthly,YoY% NSA,Rate,% CHANGE,10:00:00 AM
+CNH,China,CPI YoY,CNCPIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:30:00 AM
+CNH,China,Industrial Profits YoY,CNPRETLY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:30:00 AM
+CNH,China,Retail Sales YoY,CNRSCYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,10:00:00 AM
+CNH,China,Mfc. PMI,CPMINDX Index,Monthly,% Balance/Diffusion Index SA,Percent,Points,9:00:00 AM
+CNH,China,Caixin Mfc. PMI,MPMICNMA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,9:45:00 AM
+CNH,China,PPI YoY,CHEFTYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:30:00 AM
+CNH,China,Fixed Assets Ex Rural YTD YoY,CNFAYOY Index,Monthly,YTD YoY% NSA,Rate,% CHANGE,10:00:00 AM
+CNH,China,Caixin China PMI Services,MPMICNSA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,9:45:00 AM
+CNH,China,Caixin China PMI Composite,MPMICNCA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,9:45:00 AM
+CNH,China,Retail Sales YTD YoY,CNRSACMY Index,Monthly,YTD YoY% NSA,Rate,% CHANGE,10:00:00 AM
+CNH,China,Industrial Production YTD YoY,CHVAICY Index,Monthly,YTD YoY% NSA,Rate,% CHANGE,10:00:00 AM
+EUR,Eurozone,Unemployment Rate,UMRTEMU Index,Monthly,Percent SA,Rate,%,6:00:00 PM
+EUR,Eurozone,CPI Estimate YoY,ECCPEST Index,Monthly,YoY% NSA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,CPI Core YoY,CPEXEMUY Index,Monthly,YoY% NSA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,Markit Eurozone Mfc PMI,MPMIEZMA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,5:00:00 PM
+EUR,Eurozone,Markit Eurozone Services PMI,MPMIEZSA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,5:00:00 PM
+EUR,Eurozone,Markit Eurozone Composite PMI,MPMIEZCA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,5:00:00 PM
+EUR,Eurozone,Retail Sales MoM,RSSAEMUM Index,Monthly,MoM% SA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,Retail Sales YoY,RSWAEMUY Index,Monthly,YoY% WDA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,Industrial Production SA MoM,EUITEMUM Index,Monthly,MoM% SWDA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,EU GDP QoQ,EUGNEMUQ Index,Quarterly,QoQ% SWDA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,Trade Balance NSA,XTTBEZ Index,Monthly,Value NSA,Value,MILLIONS,6:00:00 PM
+EUR,Eurozone,ZEW Survey Expectations,GRZEEUEX Index,Monthly,% Balance/Diffusion Index NSA,Value,Balance,6:00:00 PM
+EUR,Eurozone,EU CPI YoY (final),ECCPEMUY Index,Monthly,YoY% NSA,Percent,%,6:00:00 PM
+EUR,Eurozone,ECB Current Account SA,EUSATOTN Index,Monthly,Value SWDA,Value,BILLIONS,5:00:00 PM
+EUR,Eurozone,M3 Money Supply YoY,ECMAM3YY Index,Monthly,YoY% SWDA,Rate,% CHANGE,5:00:00 PM
+EUR,Eurozone,Employment QoQ,EMEMULQQ Index,Quarterly,QoQ% SWDA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,Employment YoY,EMEMULYY Index,Quarterly,YoY% NSA,Rate,% CHANGE,6:00:00 PM
+EUR,Eurozone,Consumer Confidence,EUCCEMU Index,Monthly,% Balance/Diffusion Index SA,Value,%,11:00:00 PM
+EUR,France,France CPI EU HICP MoM,FRCPEECM Index,Monthly,MoM% NSA,Rate,% CHANGE,3:45:00 PM
+EUR,France,France CPI EU HICP YoY,FRCPEECY Index,Monthly,YoY% NSA,Rate,% CHANGE,3:45:00 PM
+EUR,Germany,GE Markit/BME Mfc PMI,MPMIDEMA Index,Monthly,% Balance/Diffusion Index SA,Value,%,4:55:00 PM
+EUR,Germany,GE GDP QoQ,GRGDPPGQ Index,Quarterly,QoQ% SWDA,Rate,% CHANGE,3:00:00 PM
+EUR,Germany,GE CPI MoM,GRCP20MM Index,Monthly,MoM% NSA,Rate,% CHANGE,3:00:00 PM
+EUR,Germany,GE CPI YoY,GRCP20YY Index,Monthly,YoY% NSA,Rate,% CHANGE,3:00:00 PM
+EUR,Germany,GE GDP YoY,GDPB95YY Index,Quarterly,YoY% NSA,Rate,% CHANGE,3:00:00 PM
+EUR,Germany,GE ZEW Survey Current Situation,GRZECURR Index,Monthly,% Balance/Diffusion Index NSA,Value,Balance,6:00:00 PM
+EUR,Germany,GE ZEW Survey Expectations,GRZEWI Index,Monthly,% Balance/Diffusion Index NSA,Value,Balance,6:00:00 PM
+EUR,Germany,GE IFO Business Climate,GRIFPBUS Index,Monthly,Index SA,Value,#N/A Field Not Applicable,5:00:00 PM
+EUR,Germany,GE IFO Current Assessment,GRIFPCA Index,Monthly,Index SA,Value,2005=100,5:00:00 PM
+EUR,Germany,GE IFO Expectations,GRIFPEX Index,Monthly,Index SA,Value,2005=100,5:00:00 PM
+EUR,Germany,Germany HICP YoY,GRCP2HYY Index,Monthly,YoY% NSA,Percent,%,3:00:00 PM
+EUR,Germany,Germany HICP MoM,GRCP2HMM Index,Monthly,MoM% NSA,Rate,% CHANGE,3:00:00 PM
+EUR,Germany,Germany IP,GRIPIMOM Index,Monthly,MoM% SWDA,Percent,% CHANGE,3:00:00 PM
+EUR,Germany,Germany exports MoM,GRBTEXMM Index,Monthly,MoM% SWDA,Percent,% CHANGE,3:00:00 PM
+EUR,Germany,Germany imports MoM,GRBTIMMM Index,Monthly,MoM% SWDA,Percent,% CHANGE,3:00:00 PM
+EUR,Germany,Germany Current Account Balance,GRCAEU Index,Monthly,Value NSA,Value,BILLIONS,3:00:00 PM
+EUR,Germany,GE CPI Saxony MoM,GRCP2SAM Index,Monthly,MoM% NSA,Rate,% CHANGE,4:00:00 PM
+INR,India,IN Nikkei India Mfc PMI,MPMIINMA Index,Monthly,% Balance/Diffusion Index SA,Value,%,1:00:00 PM
+INR,India,IN Nikkei India Services PMI,MPMIINSA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,1:00:00 PM
+INR,India,IN Nikkei India Composite PMI,MPMIINCA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,1:00:00 PM
+INR,India,IN Industrial Production YoY,INPIINDY Index,Monthly,YoY% NSA,Percent,% CHANGE,8:00:00 PM
+INR,India,IN CPI YoY,INFUTOTY Index,Monthly,YoY% NSA,Percent,%,8:00:00 PM
+INR,India,IN Wholesale Prices YoY,INFINFY Index,Monthly,YoY% NSA,Rate,% CHANGE,2:30:00 PM
+INR,India,IN GDP YoY,IGQRYOY Index,Quarterly,YoY% NSA,Value,#N/A Field Not Applicable,8:00:00 PM
+IDR,Indonesia,Indonesia Trade Balance,IDBALTOL Index,Monthly,Value NSA,Value,MILLIONS,12:00:00 PM
+IDR,Indonesia,Indonesia FX reserves,IDGFA Index,Monthly,Value NSA,Value,BILLIONS,11:00:00 AM
+JPY,Japan,BoP Current Account Balance,JNBPAB Index,Monthly,Value NSA,Value,Billions,7:50:00 AM
+JPY,Japan,PPI MoM,JNWSDOM Index,Monthly,MoM% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,PPI YoY,JNWSDYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Official Reserve Assets,JNFRTOTL Index,Monthly,Value NSA,Value,BILLIONS,7:50:00 AM
+JPY,Japan,Leading Index CI,JNCICLEI Index,Monthly,Index NSA,Value,#N/A Field Not Applicable,1:00:00 PM
+JPY,Japan,Trade Balance (on paper),JNBPTRD Index,Monthly,Value NSA,Value,BILLION,7:50:00 AM
+JPY,Japan,Machine Tool Orders YoY,JNMTOY Index,Monthly,YoY% NSA,Rate,% CHANGE,2:00:00 PM
+JPY,Japan,Consumer Confidence Index,JCOMSHCF Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,1:00:00 PM
+JPY,Japan,Machine Orders MoM,JNMOCHNG Index,Monthly,MoM% SA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Capacity Utilization MoM,JNCAPMOM Index,Monthly,MoM% SA,Rate,% CHANGE,12:30:00 PM
+JPY,Japan,Industrial Production MoM,JNIPMOM Index,Monthly,MoM% SA,Rate,% CHANGE,12:30:00 PM
+JPY,Japan,GDP SA QoQ,JGDPQGDP Index,Quarterly,QoQ% SA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Markit/JMMA Japan Manufacturing PMI,MPMIJPMA Index,Monthly,% Balance/Diffusion Index SA,Value,%,8:30:00 AM
+JPY,Japan,All Industry Activity Index MoM,JNTIAIAM Index,Monthly,MoM% SA,Rate,% CHANGE,12:30:00 PM
+JPY,Japan,Trade Balance (customs),JNTBAL Index,Monthly,Value NSA,Value,BILLIONS,7:50:00 AM
+JPY,Japan,Retail Sales MoM,JNRETMOM Index,Monthly,MoM% SA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Jobless Rate,JNUE Index,Monthly,Percent SA,Rate,% RATIO,7:30:00 AM
+JPY,Japan,Natl CPI Ex Fresh Food YoY,JNCPIXFF Index,Monthly,YoY% NSA,Rate,%,7:30:00 AM
+JPY,Japan,Tokyo CPI Ex-Fresh Food YoY,JNCPTXFF Index,Monthly,YoY% NSA,Rate,%,7:30:00 AM
+JPY,Japan,Housing Starts YoY,JNHSYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,1:00:00 PM
+JPY,Japan,Capital Spending YoY,JNVNYOYS Index,Quarterly,YoY% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Monetary Base YoY,JNMBYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Markit Japan Services PMI,MPMIJPSA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,8:30:00 AM
+JPY,Japan,Markit/JMMA Japan Composite PMI,MPMIJPCA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,8:30:00 AM
+JPY,Japan,Tankan Large Mfg Index,JNTSMFG Index,Quarterly,% Balance/Diffusion Index NSA,Value,#N/A Field Not Applicable,7:50:00 AM
+JPY,Japan,Tankan Large All Industry Capex,JTFIFILA Index,Quarterly,YoY% NSA,Rate,%,7:50:00 AM
+JPY,Japan,Machine Orders YoY,JNMOYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Imports YoY,JNTBIMPY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Exports YoY,JNTBEXPY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:50:00 AM
+JPY,Japan,Labor Cash Earnings YoY,JNLSUCTL Index,Monthly,YoY% NSA,Percent,%,7:30:00 AM
+JPY,Japan,Real Cash Earnings YoY,JNLSUCRE Index,Monthly,YoY% NSA,Percent,%,7:30:00 AM
+JPY,Japan,"Japan CPI ex fresh food, energy",JCPNEFFE Index,Monthly,YoY% NSA,Percent,2015=100 (%),7:30:00 AM
+JPY,Japan,Japan Weekly Net Securities Investment Abroad,JSIABOND Index,Weekly,Value NSA,Value,BILLIONS,7:50:00 AM
+JPY,Japan,Japan Real GDP Annualized QoQ,JGDPAGDP Index,Quarterly,QoQ% SAAR,Rate,% CHANGE,7:50:00 AM
+MYR,Malaysia,Malaysia GDP YoY,MAGDHIY Index,Quarterly,YoY% NSA,Rate,% CHANGE,12:00:00 PM
+MYR,Malaysia,Malaysia GDP QoQ,MAGSGDPQ Index,Quarterly,QoQ% SA,Percent,%,12:00:00 PM
+MYR,Malaysia,Malaysia CPI YoY,MACPIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,12:00:00 PM
+MYR,Malaysia,Malaysia Exports YoY,MAETEYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,12:00:00 PM
+MYR,Malaysia,Malaysia Imports YoY,MAETIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,12:00:00 PM
+MYR,Malaysia,Malaysia Trade Balance,MAETTRBL Index,Monthly,#N/A N/A,Value,BILLIONS,12:00:00 PM
+MYR,Malaysia,MY Industrial Production,MAIPINDY Index,Monthly,YoY% NSA,Percent,%,12:00:00 PM
+NZD,New Zealand,Building Permits MoM,NZBAUNIM Index,Monthly,MoM% SA,Rate,% CHANGE,5:45:00 AM
+NZD,New Zealand,ANZ Commodity Price,ANZCWMOM Index,Monthly,MoM% NSA,Rate,% CHANGE,8:00:00 AM
+NZD,New Zealand,Unemployment Rate,NZLFUNER Index,Quarterly,Percent SA,Rate,% RATIO,5:45:00 AM
+NZD,New Zealand,Employment Change QoQ,NZLFQOQ Index,Quarterly,QoQ% SA,Rate,% CHANGE,5:45:00 AM
+NZD,New Zealand,Employment Change YoY,NZLFYOY Index,Quarterly,YoY% SA,Rate,% CHANGE,5:45:00 AM
+NZD,New Zealand,Participation Rate,NZLFPART Index,Quarterly,Percent SA,Rate,%,5:45:00 AM
+NZD,New Zealand,Food Prices MoM,NZFPCHGE Index,Monthly,MoM% NSA,Rate,% CHANGE,5:45:00 AM
+NZD,New Zealand,BusinessNZ Manufacturing PMI,NZPMISA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,5:30:00 AM
+NZD,New Zealand,Net Migration,NZMILTS Index,Monthly,Units/Persons SA,Volume,Passenger,5:45:00 AM
+NZD,New Zealand,ANZ Consumer Confidence Index,NZANCCT Index,Monthly,% Balance/Diffusion Index NSA,Value,#N/A Field Not Applicable,5:00:00 AM
+NZD,New Zealand,ANZ Consumer Confidence MoM,NZANCCTM Index,Monthly,MoM% NSA,Value,#N/A Field Not Applicable,5:00:00 AM
+NZD,New Zealand,Trade Balance,NZMTBAL Index,Monthly,Value NSA,Value,MILLIONS,5:45:00 AM
+NZD,New Zealand,ANZ Business Confidence,NZBCI Index,Monthly,% Balance/Diffusion Index NSA,Rate,%,8:00:00 AM
+NZD,New Zealand,Terms of Trade Index QoQ,NZPCTOT% Index,Quarterly,QoQ% NSA,Percent,% CHANGE,5:45:00 AM
+NZD,New Zealand,Mfg Activity SA QoQ,NZMACHGE Index,Quarterly,QoQ% SA,Percent,% CHANGE,5:45:00 AM
+NZD,New Zealand,BoP Current Account Balance,NZBPCA Index,Quarterly,Value NSA,Value,BILLIONS,5:45:00 AM
+NZD,New Zealand,GDP SA QoQ,NZNTGDPC Index,Quarterly,QoQ% SA,Rate,% CHANGE,5:45:00 AM
+NZD,New Zealand,CPI QoQ,NZCPICHG Index,Quarterly,QoQ% NSA,Rate,% CHANGE,5:45:00 AM
+NZD,New Zealand,Current Account GDP Ratio,NZGRP Index,Quarterly,Percent NSA,Rate,% RATIO,5:45:00 AM
+NZD,New Zealand,2Yr Inflation Expectations,NZIFRBY2 Index,Quarterly,Percent NSA,Percent,%,10:00:00 AM
+NZD,New Zealand,Retail Sales Ex Inflation QoQ,NZRREXIN Index,Quarterly,QoQ% SA,Rate,%,5:45:00 AM
+NZD,New Zealand,Non Resident Bond Holdings,NZSHGB Index,Monthly,Percent NSA,Rate,% RATIO,10:00:00 AM
+PHP,Philippines,PH CPI YoY,PHC2II Index,Monthly,YoY% NSA,Rate,% CHANGE,9:00:00 AM
+PHP,Philippines,PH Exports YoY,PHEXYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:00:00 AM
+PHP,Philippines,PH Imports YoY,PHIMYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:00:00 AM
+PHP,Philippines,PH Trade Balance,PHETBOT Index,Monthly,Value NSA,Value,MILLIONS,9:00:00 AM
+PHP,Philippines,PH GDP SA QoQ,PHNAGDP Index,Quarterly,QoQ% SA,Percent,% CHANGE,10:00:00 AM
+PHP,Philippines,PH GDP YoY,PHGDPYOY Index,Quarterly,YoY% NSA,Rate,% CHANGE,10:00:00 AM
+SGD,Singapore,SG NODX,SIEXNON% Index,Monthly,YoY% NSA,Rate,% CHANGE,8:30:00 AM
+SGD,Singapore,SG Retail Sales YoY,SIRSYOY% Index,Monthly,YoY% NSA,Rate,% CHANGE,1:00:00 PM
+SGD,Singapore,SG Retail Sales SA MoM,SRSATM Index,Monthly,MoM% SA,Rate,% CHANGE,1:00:00 PM
+SGD,Singapore,SG Industrial Production SA MoM,SIIPMOM Index,Monthly,MoM% SA,Rate,% CHANGE,1:00:00 PM
+SGD,Singapore,SG Industrial Production YoY,SIIPYOY% Index,Monthly,YoY% NSA,Rate,% CHANGE,1:00:00 PM
+SGD,Singapore,SG Unemployment rate SA,SIQUTOTA Index,Quarterly,Percent SA,Rate,% CHANGE,10:30:00 AM
+SGD,Singapore,SG Foreign Reserves,SIOFRUS Index,Monthly,Value NSA,Value,MILLIONS,5:00:00 PM
+KRW,South Korea,Industrial Production YoY,KOIPIY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:00:00 AM
+KRW,South Korea,CPI MoM,KOCPIMOM Index,Monthly,MoM% NSA,Rate,% CHANGE,7:00:00 AM
+KRW,South Korea,CPI YoY,KOCPIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:00:00 AM
+KRW,South Korea,CPI Core YoY,SKCIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,7:00:00 AM
+KRW,South Korea,Trade Balance,KOTRBAL Index,Monthly,Value NSA,Value,MILLIONS,8:00:00 AM
+KRW,South Korea,Nikkei PMI,MPMIKRMA Index,Monthly,% Balance/Diffusion Index SA,Value,%,8:30:00 AM
+KRW,South Korea,Consumer Confidence,KOCCCSI Index,Monthly,Index NSA,Value,#N/A Field Not Applicable,5:00:00 AM
+KRW,South Korea,Business Survey Mfc,KOBSMC Index,Monthly,% Balance/Diffusion Index NSA,Value,INDEX,5:00:00 AM
+KRW,South Korea,GDP QoQ,KOGDPQOQ Index,Quarterly,QoQ% SA,Rate,% CHANGE,7:00:00 AM
+KRW,South Korea,GDP YoY,KOGDPYOY Index,Quarterly,YoY% NSA,Rate,% CHANGE,7:00:00 AM
+KRW,South Korea,Exports 20 Days YoY,KOTBEXPY Index,Monthly,YoY% NSA,Percent,%,8:00:00 AM
+KRW,South Korea,Unemployment Rate,KOEAUERS Index,Monthly,Percent SA,Rate,% RATIO,7:00:00 AM
+TWD,Taiwan,TW Trade Balance,TWTRBAL Index,Monthly,Value NSA,Value,BILLIONS,4:00:00 PM
+TWD,Taiwan,TW Exports YoY,TWTREXPY Index,Monthly,YoY% NSA,Rate,% CHANGE,4:00:00 PM
+TWD,Taiwan,TW GDP YoY,TWGDCONY Index,Quarterly,YoY% NSA,Rate,%,4:00:00 PM
+TWD,Taiwan,TW Industrial Production YoY,TWINDPIY Index,Monthly,YoY% NSA,Rate,% CHANGE,4:00:00 PM
+TWD,Taiwan,TW CPI YoY,TWCPIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,4:00:00 PM
+THB,Thailand,TH GDP YoY,THG PQY Index,Quarterly,YoY% NSA,Rate,% CHANGE,10:30:00 AM
+THB,Thailand,TH GDP QoQ,THG PQQ Index,Quarterly,QoQ% SA,Rate,% CHANGE,10:30:00 AM
+THB,Thailand,TH CPI YoY,THCPIYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,12:00:00 PM
+THB,Thailand,TH CPI Core YoY,THCOPIY Index,Monthly,YoY% NSA,Rate,% CHANGE,12:00:00 PM
+THB,Thailand,TH Exports YoY,THNFEXPY Index,Monthly,YoY% NSA,Rate,% CHANGE,3:30:00 PM
+GBP,United Kingdom,UK BOE Asset Purchase Target,UKAPTARG Index,Monthly,Value NSA,Value,BILLIONS,8:00:00 PM
+GBP,United Kingdom,UK Mortgage Approvals,UKMSVTVX Index,Monthly,Units/Persons SA,Volume,THOUSANDS,5:30:00 PM
+GBP,United Kingdom,UK Markit UK Mfc PMI,MPMIGBMA Index,Monthly,% Balance/Diffusion Index SA,Value,%,5:30:00 PM
+GBP,United Kingdom,UK Markit/CIPS UK Construction PMI,MPMIGBXA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,5:30:00 PM
+GBP,United Kingdom,UK Markit/CIPS UK Services PMI,MPMIGBSA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,5:30:00 PM
+GBP,United Kingdom,UK Trade Balance Value,UKTBTTBA Index,Monthly,Value SA,Value,MILLIONS,5:30:00 PM
+GBP,United Kingdom,UK Industrial Production MoM,UKIPIMOM Index,Monthly,MoM% SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK Mfc Production MoM,UKMPIMOM Index,Monthly,MoM% SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK Avg Weekly Earnings 3M/YoY,UKAWMWHO Index,Monthly,Moving Average SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK ILO Unemployment Rate,UKUEILOR Index,Monthly,Percent SA,Rate,% RATIO,5:30:00 PM
+GBP,United Kingdom,UK CPI MoM,UKRPCJMR Index,Monthly,MoM% NSA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK CPI YoY,UKRPCJYR Index,Monthly,YoY% NSA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK CPI Core YoY,UKHCA9IQ Index,Monthly,YoY% NSA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK Retail Sales Ex Auto MoM,UKRVAMOM Index,Monthly,MoM% SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK Retail Sales Ex Auto YoY,UKRVAYOY Index,Monthly,YoY% SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK GDP QoQ,UKGRABIQ Index,Quarterly,QoQ% SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK GDP YoY,UKGRABIY Index,Quarterly,YoY% SA,Rate,% CHANGE,5:30:00 PM
+GBP,United Kingdom,UK BoE/GfK Inflation Next 12 Mths,UKBFFTIN Index,Monthly,% Balance/Diffusion Index NSA,Rate,#N/A Field Not Applicable,5:30:00 PM
+USD,United States,GDP QoQ,GDP CQOQ Index,Quarterly,QoQ% SAAR,Rate,% CHANGE,9:30:00 PM
+USD,United States,Employment Cost Index,ECI SA% Index,Quarterly,QoQ% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,Core PCE QoQ,GDPCPCEC Index,Quarterly,QoQ% SAAR,Rate,% CHANGE,9:30:00 PM
+USD,United States,US Current Account Balance,USCABAL Index,Quarterly,Value SA,Value,BILLIONS,9:30:00 PM
+USD,United States,ChicagoPurchasing Manager,CHPMINDX Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,10:45:00 PM
+USD,United States,NFP MoM,NFP TCH Index,Monthly,Net Monthly Change SA,Value,Thousands,9:30:00 PM
+USD,United States,Initial Jobless Claims,INJCJC Index,Weekly,Units/Persons SA,Volume,THOUSANDS,9:30:00 PM
+USD,United States,ISMMfc PMI,NAPMPMI Index,Monthly,% Balance/Diffusion Index SA,Value,S.A.,11:00:00 PM
+USD,United States,Consumer Confidence Index,CONCCONF Index,Monthly,Index SA,Value,S.A./ 1985=100,11:00:00 PM
+USD,United States,CPI MoM,CPI CHNG Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,U. of Mich Sentiment,CONSSENT Index,Monthly,Value NSA,Value,#N/A Field Not Applicable,11:00:00 PM
+USD,United States,Durable Goods Order,DGNOCHNG Index,Monthly,MoM% SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,New Home Sales,NHSLTOT Index,Monthly,Units/Persons SAAR,Volume,THOUSANDS,11:00:00 PM
+USD,United States,Retail Sales MoM,RSTAMOM Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,MarkitMfc PMI,MPMIUSMA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,10:45:00 PM
+USD,United States,Housing Starts,NHSPSTOT Index,Monthly,Units/Persons SAAR,Volume,THOUSANDS,9:30:00 PM
+USD,United States,Unemployment Rate,USURTOT Index,Monthly,Percent SA,Rate,%,9:30:00 PM
+USD,United States,Personal Income MoM,PITLCHNG Index,Monthly,MoM% SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,Personal Spending MoM,PCE CRCH Index,Monthly,MoM% SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,Trade Balance,USTBTOT Index,Monthly,Value SA,Value,Billions,9:30:00 PM
+USD,United States,ADP Employment Change,ADP CHNG Index,Monthly,Net Monthly Change SA,Volume,THOUSANDS,9:15:00 PM
+USD,United States,Empire Manufacturing,EMPRGBCI Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,9:30:00 PM
+USD,United States,Philadelphia Fed Business Outlook,OUTFGAF Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,9:30:00 PM
+USD,United States,Core CPI MoM,CPUPXCHG Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,Net Long-term TIC Flows,FRNTTOTL Index,Monthly,Value NSA,Value,BILLIONS,5:00:00 AM
+USD,United States,Durables Ex Transportation,DGNOXTCH Index,Monthly,MoM% SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,ISM Prices Paid,NAPMPRIC Index,Monthly,% Balance/Diffusion Index NSA,Value,#N/A Field Not Applicable,11:00:00 PM
+USD,United States,Richmond FedMfc Index,RCHSINDX Index,Monthly,% Balance/Diffusion Index SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,PPI Ex Food and Energy MoM,FDIDSGMO Index,Monthly,MoM% SA,Value,2009=100,9:30:00 PM
+USD,United States,CPI YoY,CPI YOY Index,Monthly,YoY% NSA,Percent,%,9:30:00 PM
+USD,United States,Retail Sales Ex Auto MoM,RSTAXMOM Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,Building Permits,NHSPATOT Index,Monthly,Units/Persons SAAR,Volume,THOUSANDS,9:30:00 PM
+USD,United States,Core PCE YoY,PCE CYOY Index,Monthly,YoY% SA,Percent,100=2009,11:00:00 PM
+USD,United States,Core PCE MoM,PCE CMOM Index,Monthly,MoM% SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,New Home Sales MoM,NHSLCHNG Index,Monthly,MoM% SA,Rate,% CHANGE,11:00:00 PM
+USD,United States,Core CPI YoY,CPI XYOY Index,Monthly,YoY% NSA,Rate,% CHANGE,9:30:00 PM
+USD,United States,PCE Core YoY,PCE CYOY Index,Monthly,YoY% SA,Percent,100=2009,11:00:00 PM
+USD,United States,Pending Home sales YoY,USPHTYOY Index,Monthly,YoY% NSA,Rate,% Change,11:00:00 PM
+USD,United States,Private Payrolls MoM,NFP PCH Index,Monthly,Net Monthly Change SA,Rate,Thousands,9:30:00 PM
+USD,United States,Housing Starts MoM,NHCHSTCH Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,Avg Hourly Earnings MoM,AHE MOM% Index,Monthly,MoM% SA,Rate,% CHANGE,9:30:00 PM
+USD,United States,JOLTS Job Openings,JOLTTOTL Index,Monthly,Units/Persons SA,Rate,Thousand,11:00:00 PM
+USD,United States,Retail Sales Control Group MoM,RSTAXAGM Index,Monthly,MoM% SA,Rate,#N/A Field Not Applicable,9:30:00 PM
+USD,United States,Labor Force Participation Rate,PRUSTOT Index,Monthly,Percent SA,Rate,%,9:30:00 PM
+USD,United States,US Crude Oil Inventories,DOEASCRD Index,Weekly,#N/A Field Not Applicable,Quantity,1000 barrels,11:30:00 PM
+USD,United States,Baker Hughes oil rig count,BAKEOIL Index,Weekly,#N/A Field Not Applicable,Quantity,Rigs,2:00:00 AM
+USD,United States,Markit US Services PMI,MPMIUSSA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,10:45:00 PM
+USD,United States,Markit US Composite PMI,MPMIUSCA Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,10:45:00 PM
+USD,United States,ISM Non-Manf. Composite,NAPMNMI Index,Monthly,% Balance/Diffusion Index NSA,Value,#N/A Field Not Applicable,11:00:00 PM
+USD,United States,US Trade in Goods Balance,USTGTTCB Index,Monthly,Value SA,Value,Billions,9:30:00 PM
+USD,United States,U. of Mich. Current Conditions,CONSCURR Index,Monthly,Value NSA,Value,#N/A Field Not Applicable,11:00:00 PM
+USD,United States,U. of Mich. 1 Yr Inflation,CONSPXMD Index,Monthly,Value NSA,Percent,Median,11:00:00 PM
+USD,United States,NFIB Small Business Optimism Index,SBOITOTL Index,Monthly,Index SA,Value,SEASONALLY ADJ.,7:00:00 PM
+USD,United States,ISM Non-Manf. Composite,NAPMNMI Index,Monthly,% Balance/Diffusion Index NSA,Value,#N/A Field Not Applicable,11:00:00 PM
+USD,United States,NAHB Housing Index,USHBMIDX Index,Monthly,% Balance/Diffusion Index SA,Value,#N/A Field Not Applicable,11:00:00 PM
+USD,United States,Industrial Production MoM,IP CHNG Index,Monthly,MoM% SA,Rate,%,10:15:00 PM

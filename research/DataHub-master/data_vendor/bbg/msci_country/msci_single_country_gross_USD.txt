@@ -1,0 +1,62 @@
+MSCI Daily TR Gross Malaysia USD
+MSCI Daily TR Gross Australia USD
+MSCI Daily TR Gross Austria USD
+MSCI Daily TR Gross Belgium USD
+MSCI Daily TR Gross Brazil USD
+MSCI Daily TR Gross Canada USD
+MSCI Daily TR Gross Denmark USD
+MSCI Daily TR Gross Finland USD
+MSCI Daily TR Gross France USD
+MSCI Daily TR Gross Germany USD
+MSCI Daily TR Gross Greece USD
+MSCI Daily TR Gross Ireland USD
+MSCI Daily TR Gross Italy USD
+MSCI Daily TR Gross Japan USD
+MSCI Daily TR Gross Netherlands USD
+MSCI Daily TR Gross Norway USD
+MSCI Daily TR Gross Portugal USD
+MSCI Daily TR Gross Spain USD
+MSCI Daily TR Gross Sweden USD
+MSCI Daily TR Gross Switzerland USD
+MSCI Daily TR Gross UK USD
+MSCI Daily TR Gross USA USD
+MSCI Daily TR Gross World USD
+MSCI Daily TR Gross EAFE USD
+MSCI Daily TR Gross Europe USD
+MSCI Daily TR Gross EU USD
+MSCI Daily TR Gross Pacific USD
+MSCI Daily TR Gross Kokusai USD
+MSCI Daily TR Gross EASEA USD
+MSCI Daily TR Gross Singapore USD
+MSCI Daily TR Gross China A USD
+MSCI Daily TR Gross Hong Kong USD
+MSCI Daily TR Gross New Zealand USD
+MSCI Daily TR Gross Emerging Markets Russia USD
+MSCI Daily TR Gross Emerging Markets Morocco USD
+MSCI Daily TR Gross Emerging Markets Egypt USD
+MSCI Daily TR Gross Emerging Markets Indonesia USD
+MSCI Daily TR Gross Emerging Markets Thailand USD
+MSCI Daily TR Gross Emerging Markets Israel USD
+MSCI Daily TR Gross Emerging Markets China USD
+MSCI Daily TR Gross Emerging Markets Mexico USD
+MSCI Daily TR Gross Emerging Markets Phil USD
+MSCI Daily TR Gross Emerging Markets Venezuela USD
+MSCI Daily TR Gross Emerging Markets EM USD
+MSCI Daily TR Gross Emerging Markets Argentina USD
+MSCI Daily TR Gross Emerging Markets Chile USD
+MSCI Daily TR Gross Emerging Markets Taiwan USD
+MSCI Daily TR Gross Emerging Markets Colombia USD
+MSCI Daily TR Gross Emerging Markets Hungary USD
+MSCI Daily TR Gross Emerging Markets India USD
+MSCI Daily TR Gross Emerging Markets Jordan USD
+MSCI Daily TR Gross Emerging Markets Korea USD
+MSCI Daily TR Gross Emerging Markets Pakistan USD
+MSCI Daily TR Gross Emerging Markets Peru USD
+MSCI Daily TR Gross Emerging Markets Poland USD
+MSCI Daily TR Gross Emerging Markets Turkey USD
+MSCI Daily TR Gross Emerging Markets Israel Foreign USD
+MSCI Daily TR Gross Emerging Markets EM Asia USD
+MSCI Daily TR Gross Emerging Markets Sri Lanka USD
+MSCI Daily TR Gross Emerging Markets Czech Republic USD
+MSCI Daily TR Gross Emerging Markets Israel Domestic USD
+MSCI Daily TR Gross Emerging Markets South Africa USD

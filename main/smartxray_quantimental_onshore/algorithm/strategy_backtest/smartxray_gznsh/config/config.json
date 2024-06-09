@@ -1,0 +1,54 @@
+{
+    "start_year": 2014,
+    "start_month": 4,
+    "start_day": 30,
+    "end_year": 2020,
+    "end_month": 12,
+    "end_day": 31,
+    "main_data": [
+        "STOCKS"
+    ],
+    "data": {
+        "STOCKS": {
+            "DataCenter": "LocalCSV",
+            "DataCenterArgs": {
+                "main_dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\bundles",
+                "fxrate_dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\fxrate",
+                "int_dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\interest",
+                "info": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\info\\info.csv"
+            },
+            "Fields": [
+                "OHLC",
+                "volume"
+            ],
+            "Frequency": "DAILY"
+        }
+    },
+    "account": {
+        "cash": 1000000,
+        "commission": 0.0
+    },
+    "algo": {
+        "window_size": {
+            "main": 400
+        },
+        "base_ccy": "LOCAL"
+    },
+    "result_output": {
+        "flatten": false,
+        "save_dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\result\\smartxray_gznsh\\70-A5-B5",
+        "save_name": "smartxray_gznsh",
+        "save_n_workers": 1,
+        "status_dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\result\\smartxray_gznsh\\70-A5-B5",
+        "status_name": "smartxray_gznsh"
+    },
+    "numba": {
+        "parallel": false
+    },
+    "dm_pickle": {
+        "save_dir": "results/cache/",
+        "save_name": "smartxray_gznsh_dm_pickle",
+        "to_pkl": false,
+        "from_pkl": true
+    }
+}

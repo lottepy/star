@@ -1,0 +1,2 @@
+include versioneer.py
+include metrics_calculator/_version.py

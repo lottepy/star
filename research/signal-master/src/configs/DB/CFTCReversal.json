@@ -1,0 +1,51 @@
+{
+    "start_year": 2012,
+    "start_month": 1,
+    "start_day": 1,
+    "end_year": 2020,
+    "end_month": 7,
+    "end_day": 31,
+    "main_data": ["FX"],
+    "data": {
+      "FX": {
+        "DataCenter":"DataMaster",
+        "SymbolArgs":{
+          "DataSource": "BT150",
+          "BackupDataSource": "BGNL"},
+        "Fields": "OHLC",
+        "Frequency": "DAILY"}
+    },
+    "ref_data":{
+      "NCLong": "data/CFTC-NC-Long.csv",
+      "NCShort": "data/CFTC-NC-Short.csv"
+    },
+    "account": {
+      "cash": 10000
+    },
+    "algo": {
+      "base_ccy": "USD",
+      "window_size": {
+          "main": 254,
+          "NCLong": 12,
+          "NCShort": 12
+      },
+      "monitor_open": false
+    },
+    "result_output": {
+      "flatten": false,
+      "save_dir": "result/DB/CFTCReversal",
+      "save_name": "result",
+      "save_n_workers": 1,
+      "status_dir": "result/DB/CFTCReversal",
+      "status_name": "status"
+    },
+    "numba": {
+      "parallel": false
+    },
+    "engine": {
+      "engine_name": "signal",
+      "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+      "Order_Router_name": "OrderRouter"
+    }
+}
+  

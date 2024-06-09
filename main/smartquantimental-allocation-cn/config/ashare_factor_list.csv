@@ -1,0 +1,53 @@
+factor_list,factor_display_name,factor_category,effect_direction
+WRATINGINSTNUM,Analyst_attention,Analyst View,Positive
+ESTINSTNUM,Analyst_attention,Analyst View,Positive
+Positive_PROP,Analyst_Positive_View,Analyst View,Positive
+TPTP,Analyst_Positive_View,Analyst View,Positive
+WRATINGNUMOFBUY,Analyst_Positive_View,Analyst View,Positive
+ESTMEDIANROA,Analyst_Positive_View,Analyst View,Positive
+ESTMEDIANROE,Analyst_Positive_View,Analyst View,Positive
+EVA,Analyst_Positive_View,Analyst View,Positive
+ARTOS,earnings_inflation,Earnings Management,Negative
+noncashsales_growth,earnings_inflation,Earnings Management,Negative
+ARTOS_Semi,earnings_inflation,Earnings Management,Negative
+noncashsales_growth_Semi,earnings_inflation,Earnings Management,Negative
+ARTOS_TTM,earnings_inflation,Earnings Management,Negative
+noncashsales_growth_TTM,earnings_inflation,Earnings Management,Negative
+discrete_accruals,earnings_inflation,Earnings Management,Negative
+TOTALACCRUAL,earnings_inflation,Earnings Management,Negative
+profit_growth_variability,profit_growth_variability,Earnings Variability,Negative
+profit_variability,profit_variability,Earnings Variability,Negative
+Empire_Building,Empire_Building,Empire Building,Negative
+cashflow_growth,cashflow_growth,Growth,Positive
+cashflow_growth_Semi,cashflow_growth,Growth,Positive
+cashflow_growth_TTM,cashflow_growth,Growth,Positive
+profitability_growth,profitability_growth,Growth,Positive
+profitability_growth_Semi,profitability_growth,Growth,Positive
+profitability_growth_TTM,profitability_growth,Growth,Positive
+sales_growth,sales_growth,Growth,Positive
+sales_growth_Semi,sales_growth,Growth,Positive
+sales_growth_TTM,sales_growth,Growth,Positive
+CurrentRatio,Liquidity,Liquidity,Positive
+DivYield,Dividend_Yield,Payout,Positive
+DivYield_growth,Dividend_Yield,Payout,Positive
+cashflow_generation,cashflow_generation,Profitability,Positive
+cashflow_generation_Semi,cashflow_generation,Profitability,Positive
+cashflow_generation_TTM,cashflow_generation,Profitability,Positive
+profitability,profitability,Profitability,Positive
+profitability_Semi,profitability,Profitability,Positive
+profitability_TTM,profitability,Profitability,Positive
+RND,RND,R&D,Positive
+RND_growth,RND_growth,R&D,Positive
+sales,sales,Sales,Positive
+sales_Semi,sales,Sales,Positive
+sales_TTM,sales,Sales,Positive
+MARKET_CAP,Size,Size,Positive
+Leverage,Solvency,Solvency,Negative
+DebtTA,Solvency,Solvency,Negative
+unlock_proportion,unlock_proportion,Unlock Event,Negative
+EPTTM,Valuation,Valuation,Positive
+SPTTM,Valuation,Valuation,Positive
+ESTEP,Valuation,Valuation,Positive
+ESTPEG,Valuation,Valuation,Negative
+EPDYNAMIC,Valuation,Valuation,Positive
+CFCFOPTTM,Valuation,Valuation,Positive

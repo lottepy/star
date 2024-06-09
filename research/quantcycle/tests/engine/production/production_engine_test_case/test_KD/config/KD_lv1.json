@@ -1,0 +1,45 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2012,
+  "end_month": 1,
+  "end_day": 1,
+
+  "data": {
+    "FX": {"DataCenter":"DataMaster",
+           "SymbolArgs":{
+             "DataSource": "BGNL",
+             "BackupDataSource": "BGNL"},
+           "Fields": "OHLC",
+           "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000
+  },
+  "algo": {
+    "strategy_pool_path": "examples/KD_strategy/strategy_pool/KD_lv1_strategy_pool.csv",
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/production/production_engine_test_case/test_KD/results/",
+    "save_name": "KD_lv1",
+    "save_n_workers": 1,
+    "status_dir": "examples/KD_strategy/status/",
+    "status_name": "KD_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RSI_lv1"
+  }
+
+}

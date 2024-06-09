@@ -1,0 +1,4 @@
+symbol,instrument_type,trading_currency,MAIN,CCPFXRATE,INT
+AUDNZD,HK_STOCK,USD,,datamaster,datamaster
+EURGBP,HK_STOCK,USD,,datamaster,datamaster
+EURJPY,HK_STOCK,USD,,datamaster,datamaster

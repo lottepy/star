@@ -1,0 +1,46 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2014,
+  "end_month": 2,
+  "end_day": 27,
+
+  "data": {
+    "FX": {"DataCenter":"LocalCSV",
+          "DataCenterArgs": {
+          "main_dir": "tests/engine/production/production_engine_test_case/test_RSI_lv1_data_loader/data/main/",
+          "fxrate_dir": "tests/engine/production/production_engine_test_case/test_RSI_lv1_data_loader/data/fxrate/",
+          "int_dir": "tests/engine/production/production_engine_test_case/test_RSI_lv1_data_loader/data/interest/",
+          "info": "tests/engine/production/production_engine_test_case/test_RSI_lv1_data_loader/data/info.csv"
+          },
+          "Fields": "OHLC",
+          "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/production/production_engine_test_case/test_RSI_lv1_data_loader/results",
+    "save_name": "rsi_lv1.hdf5",
+    "save_n_workers": 1,
+    "status_dir": "examples/RSI_strategy/status/",
+    "status_name": "RSI_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RSI_lv1"
+  }
+}

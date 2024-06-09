@@ -1,0 +1,2 @@
+strategy_module,strategy_name,params,symbol
+tests.engine.production.production_engine_test_case.test_combination_strategy.algorithm.combination,Combination_strategy,"{""length"": 10.0}","{""FX"": [""AUDCAD"", ""AUDJPY"", ""AUDNZD"", ""GBPUSD"", ""NOKSEK"", ""NZDJPY""], ""RSI"": [0.0], ""KD"": [0.0]}"

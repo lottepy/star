@@ -1,0 +1,203 @@
+{
+  "Data": {
+    "DataGroup0": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "ADSK",
+        "APAM",
+        "BPMC",
+        "CL",
+        "CLX",
+        "FRHC",
+        "HCA",
+        "ITW",
+        "KMB",
+        "LPX",
+        "MAS",
+        "NEU",
+        "ORCL",
+        "ORLY",
+        "QDEL",
+        "ROK",
+        "SPGI",
+        "TXN",
+        "WSM",
+        "YETI"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/MAIN",
+        "dir": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/traking_weight/US_Profit_S/daily_data",
+        "info": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/traking_weight/US_Profit_S/info/info.csv"
+      },
+      "Label": "STOCKS-MAIN",
+      "Fields": "OHLC",
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 17,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup1": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "ADSK",
+        "APAM",
+        "BPMC",
+        "CL",
+        "CLX",
+        "FRHC",
+        "HCA",
+        "ITW",
+        "KMB",
+        "LPX",
+        "MAS",
+        "NEU",
+        "ORCL",
+        "ORLY",
+        "QDEL",
+        "ROK",
+        "SPGI",
+        "TXN",
+        "WSM",
+        "YETI"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/CCPFXRATE",
+        "dir": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/traking_weight/US_Profit_S/fxrate",
+        "info": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/traking_weight/US_Profit_S/info/info.csv"
+      },
+      "Label": "STOCKS-FXRATE",
+      "Fields": [
+        "fx_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 17,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup2": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "ADSK",
+        "APAM",
+        "BPMC",
+        "CL",
+        "CLX",
+        "FRHC",
+        "HCA",
+        "ITW",
+        "KMB",
+        "LPX",
+        "MAS",
+        "NEU",
+        "ORCL",
+        "ORLY",
+        "QDEL",
+        "ROK",
+        "SPGI",
+        "TXN",
+        "WSM",
+        "YETI"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/INT",
+        "dir": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/traking_weight/US_Profit_S/interest",
+        "info": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/traking_weight/US_Profit_S/info/info.csv"
+      },
+      "Label": "STOCKS-INT",
+      "Fields": [
+        "interest_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 17,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup3": {
+      "Label": "TRADABLE",
+      "Type": "Download",
+      "DataCenter": "DataMaster",
+      "Symbol": [
+        "ADSK",
+        "APAM",
+        "BPMC",
+        "CL",
+        "CLX",
+        "FRHC",
+        "HCA",
+        "ITW",
+        "KMB",
+        "LPX",
+        "MAS",
+        "NEU",
+        "ORCL",
+        "ORLY",
+        "QDEL",
+        "ROK",
+        "SPGI",
+        "TXN",
+        "WSM",
+        "YETI"
+      ],
+      "Fields": "tradable_table",
+      "Frequency": "DAILY",
+      "SymbolArgs": {
+        "AccountCurrency": "LOCAL"
+      },
+      "StartDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 17,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    }
+  },
+  "dm_pickle": {
+    "save_dir": "results/cache/",
+    "save_name": "US_Profit_S_dm_pickle",
+    "to_pkl": true,
+    "from_pkl": false
+  }
+}

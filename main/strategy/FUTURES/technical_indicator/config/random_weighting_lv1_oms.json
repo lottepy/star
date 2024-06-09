@@ -1,0 +1,89 @@
+{
+  "start_year": 2019,
+  "start_month": 12,
+  "start_day": 1,
+  "end_year": 2020,
+  "end_month": 1,
+  "end_day": 5,
+  "data": {
+    "FUTURES": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "stock_data/",
+        "int_dir": "interest/"
+      },
+      "SymbolArgs": {
+        "DMAdjustType": 1
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "futures_adjusted": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 1,
+        "AccountCurrency": "USD"
+      },
+      "Fields": ["OHLC"],
+      "Frequency": "DAILY"
+    },
+    "weights": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "examples/data/futures_ref_data"
+      },
+      "Symbol": ["weights"],
+      "StartDate": {
+        "Year": 2013,
+        "Month": 12,
+        "Day": 1
+      },
+      "EndDate": {
+        "Year": 2014,
+        "Month": 1,
+        "Day": 5
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 10
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/test_futures/result/",
+    "save_name": "random_weighting_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/test_futures/status/",
+    "status_name": "random_weighting_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "random_weighting_lv1",
+    "need_backtest" : false,
+    "is_sync_cash" : true,
+    "is_sync_holding" : true,
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "PortfolioTaskEngineOrderRouter"
+  },
+  "CsvOrderRouter":{
+    "dir_path": "C:/Users/benjaminlo/Desktop/git/quantcycle/broker/"
+  },
+  "PortfolioTaskEngineOrderRouter":{
+    "ACCOUNT": "367",
+    "task_ippath": "https://algo-stg.aqumon.com/oms/api/task-engine/",
+    "subtask_ippath": "https://algo-stg.aqumon.com/oms/api/execution-engine/",
+    "brokerType":"IB"
+  }
+}

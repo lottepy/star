@@ -1,0 +1,49 @@
+{
+  "start_year": 2010,
+  "start_month": 10,
+  "start_day": 12,
+  "end_year": 2019,
+  "end_month": 11,
+  "end_day": 15,
+
+  "data": {
+    "STOCKS": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+      "main_dir": "dm_pickle_data/production/precision_stock/stock_data/EW_HK_ETF/",
+      "info": "dm_pickle_data/production/precision_stock/info_data/EW_HK_ETF/info.csv"    
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/production/asset_class/test_EW_lv1/result/",
+    "save_name": "EW_HK_ETF_lv1",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/production/asset_class/test_EW_lv1/status/",
+    "status_name": "EW_HK_ETF_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "EW_lv1",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

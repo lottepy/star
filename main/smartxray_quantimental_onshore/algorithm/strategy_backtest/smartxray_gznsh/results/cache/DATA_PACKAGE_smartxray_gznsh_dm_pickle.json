@@ -1,0 +1,178 @@
+{
+  "Data": {
+    "DataGroup0": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "F000001XJV.CN",
+        "F00000J72L.CN",
+        "F00000PB3T.CN",
+        "F00000Q0TW.CN",
+        "F00000QA5G.CN",
+        "F00000TVW4.CN",
+        "F00000V5OD.CN",
+        "F00000VA37.CN",
+        "F00000VYW6.CN",
+        "F00000XQS1.CN",
+        "F00000XXG3.CN",
+        "F00000YOP6.CN",
+        "F0HKG060TC.CN"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/MAIN",
+        "dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\bundles",
+        "info": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\info\\info.csv"
+      },
+      "Label": "STOCKS-MAIN",
+      "Fields": [
+        "OHLC",
+        "volume"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2012,
+        "Month": 2,
+        "Day": 9
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 5,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup1": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "F000001XJV.CN",
+        "F00000J72L.CN",
+        "F00000PB3T.CN",
+        "F00000Q0TW.CN",
+        "F00000QA5G.CN",
+        "F00000TVW4.CN",
+        "F00000V5OD.CN",
+        "F00000VA37.CN",
+        "F00000VYW6.CN",
+        "F00000XQS1.CN",
+        "F00000XXG3.CN",
+        "F00000YOP6.CN",
+        "F0HKG060TC.CN"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/CCPFXRATE",
+        "dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\fxrate",
+        "info": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\info\\info.csv"
+      },
+      "Label": "STOCKS-FXRATE",
+      "Fields": [
+        "fx_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2012,
+        "Month": 2,
+        "Day": 9
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 5,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup2": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "F000001XJV.CN",
+        "F00000J72L.CN",
+        "F00000PB3T.CN",
+        "F00000Q0TW.CN",
+        "F00000QA5G.CN",
+        "F00000TVW4.CN",
+        "F00000V5OD.CN",
+        "F00000VA37.CN",
+        "F00000VYW6.CN",
+        "F00000XQS1.CN",
+        "F00000XXG3.CN",
+        "F00000YOP6.CN",
+        "F0HKG060TC.CN"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/INT",
+        "dir": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\interest",
+        "info": "C:\\Users\\wh_xu\\Documents\\PycharmProject\\smartxray_quantimental_onshore\\data\\backtest_data\\info\\info.csv"
+      },
+      "Label": "STOCKS-INT",
+      "Fields": [
+        "interest_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2012,
+        "Month": 2,
+        "Day": 9
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 5,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup3": {
+      "Label": "TRADABLE",
+      "Type": "Download",
+      "DataCenter": "DataMaster",
+      "Symbol": [
+        "F000001XJV.CN",
+        "F00000J72L.CN",
+        "F00000PB3T.CN",
+        "F00000Q0TW.CN",
+        "F00000QA5G.CN",
+        "F00000TVW4.CN",
+        "F00000V5OD.CN",
+        "F00000VA37.CN",
+        "F00000VYW6.CN",
+        "F00000XQS1.CN",
+        "F00000XXG3.CN",
+        "F00000YOP6.CN",
+        "F0HKG060TC.CN"
+      ],
+      "Fields": "tradable_table",
+      "Frequency": "DAILY",
+      "SymbolArgs": {
+        "AccountCurrency": "LOCAL"
+      },
+      "StartDate": {
+        "Year": 2012,
+        "Month": 2,
+        "Day": 9
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 5,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    }
+  },
+  "dm_pickle": {
+    "save_dir": "results/cache/",
+    "save_name": "smartxray_gznsh_dm_pickle",
+    "to_pkl": true,
+    "from_pkl": false
+  }
+}

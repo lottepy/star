@@ -1,0 +1,45 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2012,
+  "end_month": 5,
+  "end_day": 5,
+
+  "data": {
+    "FX": {"DataCenter":"DataMaster",
+           "SymbolArgs":{
+             "DataSource": "BGNL",
+             "BackupDataSource": "BGNL"},
+           "Fields": "OHLC",
+           "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000,
+    "commission_path": "tests/engine/backtest/data/aqm_turnover_union_fx.csv"
+  },
+  "algo": {
+    "strategy_pool_path": "tests/engine/backtest/test_function_status_recorder/strategy_pool/test_status_record_strategy_pool.csv",
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 5,
+        "fx": 5,
+        "rate": 5,
+        "ref": 1
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/backtest/test_function_status_recorder/result/",
+    "save_name": "test",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/backtest/test_function_status_recorder/result/",
+    "status_name": "rsi"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+
+}

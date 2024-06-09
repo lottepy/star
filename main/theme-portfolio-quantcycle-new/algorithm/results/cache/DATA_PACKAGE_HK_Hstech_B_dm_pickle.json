@@ -1,0 +1,215 @@
+{
+  "Data": {
+    "DataGroup0": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "1093 HK Equity",
+        "1177 HK Equity",
+        "1347 HK Equity",
+        "1349 HK Equity",
+        "1810 HK Equity",
+        "2018 HK Equity",
+        "2020 HK Equity",
+        "2238 HK Equity",
+        "2331 HK Equity",
+        "2382 HK Equity",
+        "241 HK Equity",
+        "268 HK Equity",
+        "285 HK Equity",
+        "3690 HK Equity",
+        "3888 HK Equity",
+        "522 HK Equity",
+        "700 HK Equity",
+        "777 HK Equity",
+        "9618 HK Equity",
+        "981 HK Equity",
+        "992 HK Equity",
+        "9988 HK Equity",
+        "9999 HK Equity"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/MAIN",
+        "dir": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_Hstech_B/daily_data",
+        "info": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_Hstech_B/info/info.csv"
+      },
+      "Label": "STOCKS-MAIN",
+      "Fields": "OHLC",
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 20,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup1": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "1093 HK Equity",
+        "1177 HK Equity",
+        "1347 HK Equity",
+        "1349 HK Equity",
+        "1810 HK Equity",
+        "2018 HK Equity",
+        "2020 HK Equity",
+        "2238 HK Equity",
+        "2331 HK Equity",
+        "2382 HK Equity",
+        "241 HK Equity",
+        "268 HK Equity",
+        "285 HK Equity",
+        "3690 HK Equity",
+        "3888 HK Equity",
+        "522 HK Equity",
+        "700 HK Equity",
+        "777 HK Equity",
+        "9618 HK Equity",
+        "981 HK Equity",
+        "992 HK Equity",
+        "9988 HK Equity",
+        "9999 HK Equity"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/CCPFXRATE",
+        "dir": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_Hstech_B/fxrate",
+        "info": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_Hstech_B/info/info.csv"
+      },
+      "Label": "STOCKS-FXRATE",
+      "Fields": [
+        "fx_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 20,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup2": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "1093 HK Equity",
+        "1177 HK Equity",
+        "1347 HK Equity",
+        "1349 HK Equity",
+        "1810 HK Equity",
+        "2018 HK Equity",
+        "2020 HK Equity",
+        "2238 HK Equity",
+        "2331 HK Equity",
+        "2382 HK Equity",
+        "241 HK Equity",
+        "268 HK Equity",
+        "285 HK Equity",
+        "3690 HK Equity",
+        "3888 HK Equity",
+        "522 HK Equity",
+        "700 HK Equity",
+        "777 HK Equity",
+        "9618 HK Equity",
+        "981 HK Equity",
+        "992 HK Equity",
+        "9988 HK Equity",
+        "9999 HK Equity"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/INT",
+        "dir": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_Hstech_B/interest",
+        "info": "/Users/lizhirui/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_Hstech_B/info/info.csv"
+      },
+      "Label": "STOCKS-INT",
+      "Fields": [
+        "interest_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 20,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    },
+    "DataGroup3": {
+      "Label": "TRADABLE",
+      "Type": "Download",
+      "DataCenter": "DataMaster",
+      "Symbol": [
+        "1093 HK Equity",
+        "1177 HK Equity",
+        "1347 HK Equity",
+        "1349 HK Equity",
+        "1810 HK Equity",
+        "2018 HK Equity",
+        "2020 HK Equity",
+        "2238 HK Equity",
+        "2331 HK Equity",
+        "2382 HK Equity",
+        "241 HK Equity",
+        "268 HK Equity",
+        "285 HK Equity",
+        "3690 HK Equity",
+        "3888 HK Equity",
+        "522 HK Equity",
+        "700 HK Equity",
+        "777 HK Equity",
+        "9618 HK Equity",
+        "981 HK Equity",
+        "992 HK Equity",
+        "9988 HK Equity",
+        "9999 HK Equity"
+      ],
+      "Fields": "tradable_table",
+      "Frequency": "DAILY",
+      "SymbolArgs": {
+        "AccountCurrency": "LOCAL"
+      },
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2021,
+        "Month": 1,
+        "Day": 20,
+        "Hour": 23,
+        "Minute": 59,
+        "Second": 59
+      }
+    }
+  },
+  "dm_pickle": {
+    "save_dir": "results/cache/",
+    "save_name": "HK_Hstech_B_dm_pickle",
+    "to_pkl": true,
+    "from_pkl": false
+  }
+}

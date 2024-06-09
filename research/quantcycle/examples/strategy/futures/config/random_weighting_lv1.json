@@ -1,0 +1,75 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 3,
+  "end_year": 2014,
+  "end_month": 12,
+  "end_day": 31,
+  "data": {
+    "FUTURES": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "futures_adjusted": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 1,
+        "AccountCurrency": "USD"
+      },
+      "Fields": ["OHLC"],
+      "Frequency": "DAILY"
+    },
+    "weights": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "examples/data/futures_ref_data"
+      },
+      "Symbol": ["weights"],
+      "StartDate": {
+        "Year": 2012,
+        "Month": 1,
+        "Day": 3
+      },
+      "EndDate": {
+        "Year": 2014,
+        "Month": 12,
+        "Day": 31
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/test_futures/result/",
+    "save_name": "random_weighting_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/test_futures/status/",
+    "status_name": "random_weighting_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "random_weighting_lv1",
+    "need_backtest" : true,
+    "is_sync_cash" : false,
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

@@ -1,0 +1,2 @@
+strategy_module,strategy_name,params,symbol
+tests.engine.production.asset_class.test_EW_lv1.algorithm.EW_lv1,EW_strategy,{},"{""STOCKS"": [""600016.SH"", ""000005.SZ"", ""601398.SH"", ""600028.SH"", ""601628.SH"", ""002024.SZ"", ""000100.SZ"", ""600000.SH"", ""600519.SH"", ""601318.SH"", ""601988.SH"", ""002415.SZ"", ""000917.SZ""]}"

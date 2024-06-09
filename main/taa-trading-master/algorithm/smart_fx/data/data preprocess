@@ -1,0 +1,20 @@
+SLOW INDICATOR:
+
+1. fast indicators (By indicator), with difference cutoff time
+2. derive rate of change factor and difference factor (daily, weekly, monthly)
+4. given a cutoff time, generate fast indicators (By Datetime)
+3. derive relative factor (interest rate difference)
+
+
+FAST INDICATOR:
+
+1. slow indicators (By indicator), with difference release date, time and revision
+2. derive rate of change factor and difference factor (MoM or QoQ)
+3. given a cutoff time, generate slow indicator (by Datetime)
+
+FUTURE RETURN:
+1. generate future returns (next day, next week, next month)
+
+Question:
+1.有几个原始数据的release date不对
+2.

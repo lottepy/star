@@ -1,0 +1,45 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2019,
+  "end_month": 12,
+  "end_day": 31,
+
+  "data": {
+    "FX": {"DataCenter":"DataMaster",
+           "SymbolArgs":{
+             "DataSource": "BGNL",
+             "BackupDataSource": "BGNL"},
+           "Fields": "OHLC",
+           "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000,
+    "commission_fee": 0,
+    "commission_path": "tests/backtest-engine/data/aqm_turnover_union_fx.csv"
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/production/production_engine_test_case/test_KD_lv1_data_loader/results",
+    "save_name": "KD_lv1",
+    "save_n_workers": 1,
+    "status_dir": "examples/RSI_strategy/status/",
+    "status_name": "KD_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "KD_lv1"
+  }
+}

@@ -1,0 +1,31 @@
+,NAME,SHORT_NAME,SECURITY_NAME,NAME_CHINESE_SIMPLIFIED,SECURITY_DES,SECURITY_TYP
+CSIR0300 Index,CSI 300 TR,CSI 300 TR,CSI 300 Total Return Index,CSI 300 Total Return Index,CSIR0300,Equity Index
+CSIR0932 Index,CSI Consumer Staples TR,CSI Consumer Staples TR,CSI Consumer Staples Total Ret,CSI Consumer Staples Total R,CSIR0932,Equity Index
+CWTBFPID Index,ChinaBond 5-Year Government Bo,Chinabond 5Yr Govt Bond     Fu,CB 5Yr Govt BondFull Price,中债-5年期国债指数（全价指数）,ChinaBond 5-Year Government Bo,Index
+CWTBTRID Index,ChinaBond 5-Year Government Bo,Chinabond 5Yr Govt Bond     To,CB 5Yr Govt BondTotal Rtrn,中债-5年期国债指数（财富指数）,ChinaBond 5-Year Government Bo,Index
+DAXNR Index,DAX Net Return,DAX Net Return,DAX Net Return,DAX Net Return,DAXNR,Equity Index
+FTS9DEUR Index,FTSE Dev Eur TR Local,FTSE Dev Eur TR Local,FTSE Developed Europe TR Index,FTSE Developed Europe TR Ind,FTS9DEUR,Equity Index
+GDDLUS Index,MSCI Daily TR Gross USA Local,USA,USA,MSCI Daily TR Gross USA Local,MSCI Daily TR Gross USA Local,Index
+GDDUUS Index,MSCI Daily TR Gross USA USD,USA USD,USA USD,MSCI Daily TR Gross USA USD,MSCI Daily TR Gross USA USD,Index
+GDUEACWF Index,MSCI AC World Daily TR Gross U,Daily TR Gross USD,Daily TR Gross USD,MSCI AC World Daily TR Gross U,MSCI AC World Daily TR Gross U,Index
+GDUEEGF Index,MSCI Daily TR Gross EM USD,Gross EM USD,Gross EM USD,MSCI Daily TR Gross EM USD,MSCI Daily TR Gross EM USD,Index
+HSI 1 Index,Hang Seng Index Total Return,HK HSI Total Return Index   HS,HSI Total ReturnHSI,Hang Seng Index Total Return,Hang Seng Index Total Return,Commodity Index
+MSDUWI Index,MSCI World USD,MSCI World USD,MSCI World USD,MSCI World USD,MSDUWI,Equity Index
+MSEUACWF Index,MSCI AC World USD,AC World USD,AC World USD,MSCI AC World USD,MSCI AC World USD,Index
+TGPVAN45 Index,FTSE AP Ex JP AU NZ NTR,FTSE AP Ex JP AU NZ NTR,FTSE Asia Pacific ex JP AU NZ,FTSE Asia Pacific ex JP AU N,TGPVAN45,Equity Index
+H15T10Y Index,US Treasury Yield Curve Rate T,Constant Maturity 10 Year,Constant Maturity 10 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T1Y Index,US Treasury Yield Curve Rate T,Constant Maturity 1 Year,Constant Maturity 1 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T2Y Index,US Treasury Yield Curve Rate T,Constant Maturity 2 Year,Constant Maturity 2 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T2Y Index,US Treasury Yield Curve Rate T,Constant Maturity 2 Year,Constant Maturity 2 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T3Y Index,US Treasury Yield Curve Rate T,Constant Maturity 3 Year,Constant Maturity 3 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T5Y Index,US Treasury Yield Curve Rate T,Constant Maturity 5 Year,Constant Maturity 5 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T7Y Index,US Treasury Yield Curve Rate T,Constant Maturity 7 Year,Constant Maturity 7 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T20Y Index,US Treasury Yield Curve Rate T,Constant Maturity 20 Year,Constant Maturity 20 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T30Y Index,US Treasury Yield Curve Rate T,Constant Maturity 30 Year,Constant Maturity 30 Year,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T1M Index,US Treasury Yield Curve Rate T,Constant Maturity 1 Month,Constant Maturity 1 Month,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T3M Index,US Treasury Yield Curve Rate T,Constant Maturity 3 Month,Constant Maturity 3 Month,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+H15T6M Index,US Treasury Yield Curve Rate T,Constant Maturity 6 Month,Constant Maturity 6 Month,US Treasury Yield Curve Rate T,US Treasury Yield Curve Rate T,Index
+SHIF3M Index,CFETS SHIBOR Fixing-3 Month,SHIBOR Fixing 3M,SHIBOR Fixing 3M,上海 3 个月期银行间同业拆借固,CFETS SHIBOR Fixing-3 Month,Index
+RP07 Index,CHINA INTERBANK REPO 7D,CHINA INTERBANK REPO 7D,CHINA INTERBANK REPO 7D,China InterBank Repo Rate 7,RP07,Spot index.
+GCNY10YR Index,China Govt Bond Generic Bid Yi,China 10Y,China 10Y,中国国债10年期综合收益率（买价,China Govt Bond Generic Bid Yi,Index
+GCNY5YR Index,China Govt Bond Generic Bid Yi,China 5Y,China 5Y,中国国债5年期综合收益率（买价,China Govt Bond Generic Bid Yi,Index

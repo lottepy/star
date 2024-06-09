@@ -1,0 +1,46 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 2,
+  "end_year": 2020,
+  "end_month": 2,
+  "end_day": 29,
+
+  "data": {
+    "FX": {"DataCenter":"DataMaster",
+           "SymbolArgs":{
+             "DataSource": "BGNL",
+             "BackupDataSource": "BGNL"},
+           "Fields": "OHLC",
+           "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000,
+    "commission_path": "tests/engine/backtest/data/aqm_turnover_union_fx.csv"
+  },
+  "algo": {
+    "strategy_pool_path": "tests/engine/backtest/test_precision_fx_random_weight/strategy_pool/test_fx_random_weight_strategy_pool.csv",
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 5,
+        "fx": 5,
+        "rate": 5,
+        "ref": 1
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/backtest/test_precision_fx_random_weight/result/",
+    "save_name": "rsi_lv1",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/backtest/test_precision_fx_random_weight/result/",
+    "status_name": "rsi_status"
+  },
+  "ref_data": {
+    "ref": "tests/engine/backtest/data/fx_daily_weight_v21.csv"
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+
+}

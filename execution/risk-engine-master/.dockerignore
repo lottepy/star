@@ -1,0 +1,11 @@
+.dockerignore
+*/src/main/docker/
+*/target/
+target/
+.idea/
+.git/
+.gitignore
+log/
+.env
+docker-compose.yml
+docker/*.yml

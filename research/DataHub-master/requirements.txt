@@ -1,0 +1,3 @@
+gevent
+raven
+websocket_client==0.53.0 

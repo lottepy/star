@@ -1,0 +1,52 @@
+{
+  "start_year": 2011,
+  "start_month": 10,
+  "start_day": 10,
+  "end_year": 2012,
+  "end_month": 12,
+  "end_day": 30,
+  "data": {
+    "FX": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DataSource": "BGNL",
+        "BackupDataSource": "BGNL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+  },
+  "dm_pickle": {
+    "save_dir": "results/test_FX/cache/",
+    "save_name": "dm_pickle_RSI_lv1",
+    "to_pkl": true,
+    "from_pkl": false
+  },
+  "account": {
+    "cash": 2900000
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 10
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "results/test_FX/result/",
+    "save_name": "RSI_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/test_FX/status/",
+    "status_name": "RSI_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RSI_lv1",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

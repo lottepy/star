@@ -1,0 +1,27 @@
+{
+    "download": true,
+    "start_year": 2016,
+    "start_month": 12,
+    "start_day": 31,
+    "end_year": 2020,
+    "end_month": 9,
+    "end_day": 30,
+
+    "account": {
+        "cash":1000000,
+        "commission": 0.003
+    },
+
+    "algo": {
+        "rebalance_freq": "MONTHLY",
+        "lookback_days": 1825,
+        "base_ccy": "HKD",
+        "underlying_type": "HK_STOCK",
+        "market_cap_threshold": 0.99,
+        "number_assets": 20,
+        "weighting_approach": "MARKET_CAP",
+        "upper_bound": 0.2,
+        "lower_bound": 0.04
+    }
+
+}

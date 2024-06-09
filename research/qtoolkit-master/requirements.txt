@@ -1,0 +1,2 @@
+quantcycle @ git+https://gitlab.aqumon.com/algo/quantcycle.git
+datamaster @ git+https://gitlab.aqumon.com/pub/py-datamaster-client.git

@@ -1,0 +1,69 @@
+version: "3.3"
+
+services:
+  eureka-server:
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+    networks:
+      - aqumon_backend
+  task-engine:
+      environment:
+        - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+      networks:
+        - aqumon_backend
+      links:
+        - eureka-server
+      depends_on:
+        - eureka-server
+  trading-engine:
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+    networks:
+      - aqumon_backend
+    links:
+      - eureka-server
+    depends_on:
+      - eureka-server
+  cash-engine:
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+    networks:
+      - aqumon_backend
+    links:
+      - eureka-server
+    depends_on:
+      - eureka-server
+  execution-engine:
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+    networks:
+      - aqumon_backend
+    links:
+      - eureka-server
+    depends_on:
+      - eureka-server
+  quote-engine:
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+    networks:
+      - aqumon_backend
+    links:
+      - eureka-server
+    depends_on:
+      - eureka-server
+  risk-engine:
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-dev}"}}}
+    networks:
+      - aqumon_backend
+    links:
+      - eureka-server
+    depends_on:
+      - eureka-server
+
+networks:
+  aqumon_backend:
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.233.0.0/24

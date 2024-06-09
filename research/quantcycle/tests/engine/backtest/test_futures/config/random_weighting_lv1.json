@@ -1,0 +1,68 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 3,
+  "end_year": 2014,
+  "end_month": 12,
+  "end_day": 31,
+
+  "data": {
+    "FUTURES": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "weights": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "tests/engine/backtest/test_futures/data/random_weighting_lv1"
+      },
+      "Symbol": ["weights"],
+      "StartDate": {
+        "Year": 2012,
+        "Month": 1,
+        "Day": 3
+      },
+      "EndDate": {
+        "Year": 2014,
+        "Month": 12,
+        "Day": 31
+      },
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "tests/engine/backtest/test_futures/result/",
+    "save_name": "random_weighting_lv1",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/backtest/test_futures/status/",
+    "status_name": "random_weighting_lv1"
+  },
+  "dm_pickle": {
+    "save_dir": "dm_pickle_data/backtest/test_futures/",
+    "save_name": "random_weighting_lv1",
+    "to_pkl": false,
+    "from_pkl": false,
+    "pickle_datamaster": false,
+    "load_datamaster": true
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>{{ title }}</title>
+	<link rel="stylesheet" href="css/style.css">
+    <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+	<style type="text/css">
+	h1{
+		color: orangered;
+		margin: 35px;
+		font-size: 28px;
+	}
+	h3{
+  		border-bottom: double 2px;
+  		border-color: orange;
+  		margin: 20px 35px;
+  		font-size: 22px;
+  		color: darkgray;
+	}
+	h4{
+		margin: 10px 35px;
+		font-size: 18px;
+	}
+	p{
+		margin: 10px 35px;
+		font-size: 16px;
+	}
+	img{
+		/*margin: 10px 35px;*/
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+	}
+	table, td, th{
+		/*margin: 10px 35px;*/
+		margin: 0 auto;
+		border-collapse: collapse;
+		border: 1px solid black;
+		/*border-bottom: 1px solid #ddd;*/
+        text-align: left;
+        width: 600px;
+		padding: 8px;
+	}
+	table{
+		/*display: block;*/
+		margin-left: auto;
+		margin-right: auto;
+	}
+	th {
+        height: 30px;
+		/*background-color: darkgrey;*/
+		/*color: white;*/
+    }
+	tr :hover{
+		background-color: darkgray;
+	}
+	</style>
+</head>
+<body>
+    <h1>AQUMON-BOCI Global Asset Allocation Performance Update (Until 01 Mar 2019)</h1>
+
+    <h3>Notes</h3>
+    <p>1. Updated Date: 04 Mar 2019</p>
+    <p>2. Testing Period: 01 Mar 2016 ~ 01 Mar 2019</p>
+    <p>3. Benchmark = 60% MSCI All Country World Index + 40% Barclays US Aggregate Total Return Value Unhedged USD</p>
+	<p>4. All results are based in USD</p>
+	<p>5. Risk-free interest rate is assumed to be O/N Libor (2.38%)</p>
+
+    <!--<h3>YTD Performance</h3>-->
+    <!--<IMG SRC="complete_performance.png">-->
+    <!--<p>{{ risk_metrics }}</p>-->
+
+	<h3>3-year Performance</h3>
+    <IMG SRC="complete_performance_2018.png">
+    <p>{{ risk_metrics_2018 }}</p>
+
+    <h3>Investment Philosophy</h3>
+    <p>
+		AQUMON-BOCI Global Asset Allocation strategy is derived from AQUMON SmartGlobal® Framework.
+		AQUMON SmartGlobal® Framework selects high-quality underlying assets and allocate precisely
+		to achieve high diversification and low downside risk. Dynamic risk analysis and portfolio
+		optimization mechanics are in place to ensure the stability and quality of returns.
+	</p>
+
+	<h3>Holding Analysis</h3>
+	<h4>Detailed holdings</h4>
+	<p>{{ holdings }}</p>
+	<h4>Equity Regional Distribution</h4>
+	<p>{{ regional_dis }}</p>
+	<p>* Absolute Weight stands for the weightings in the entire portfolio, while Relative Weight stands for the ones in the equity part.</p>
+	<h4>Fixed-Income Duration</h4>
+	<p>{{ duration }}</p>
+	<p>* Like above, Absolute Duration shows the interest rate impact on the entire portfolio, while Relative Duration shows the impact on the fixed-income part only.</p>
+
+	<h3>Company Information</h3>
+	<h4>About Magnum Research</h4>
+	<p>Incubated by the Hong Kong University of Science and Technology in 2016, Magnum Research secured its A Round funding led by Alibaba Entrepreneurs Fund in Jun 2017, which was later (Sep 2018) followed by funding from Bohai XingWang, L.P., managed by BOC International. The firm has grown its institutional business rapidly, commencing collaborations with more than 30 leading financial institutions, including banks, brokerages, insurance firms and wealth management companies. Since September 2017, it has also released its retail offering, making automated and low-cost global asset allocation possible for everybody in Hong Kong.</p>
+
+	<h4>Our Teams</h4>
+	<p>Magnum Research has three teams servicing our clients at all times: a group of quantitative scientists compiling our Quantitative Research team, Financial Markets team with years of experience, and lastly the IT team as capable as one in an Internet firm. The firm has grown to include 60+ people with background from HKUST, NUS, HKU, CUHK, etc., based in offices in Hong Kong, Shenzhen and Singapore.</p>
+
+    <h3>Disclosure</h3>
+    <p>
+	This document is for illustration purposes only. All return figures provided here are based on hypothetical or simulated investing. This document does not constitute an offer to sell or a solicitation of any offer to invest. The information contained in this document does not purport to be complete nor accurate. This document may not be reproduced or distributed without the written authorization of Magnum Research Limited. Any reproduction or distribution of any of the contents of this document may constitute a violation of law. By accepting this document, you acknowledge and agree that all of the information contained in it shall be kept strictly confidential. 
+	</p>
+	<p>
+	Certain information contained in this document includes observations and assumptions and involves significant elements of subjective judgement and analysis. No representations are made as to the accuracy of such observations and assumptions and there can be no assurances that actual events will not differ materially from those assumed. 
+    </p>
+
+    </br>
+    
+
+</body>
+</html>

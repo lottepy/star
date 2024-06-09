@@ -1,0 +1,43 @@
+{
+    "CN_10_000001": [{
+        "MAStrategy": {
+            "minute": 3
+        }
+    }, {
+        "MAStrategy": {
+            "minute": 10
+        }
+    }, {
+        "OtherStrategy": {}
+    }],
+     "HK_10_700": [{
+        "MAStrategy": {
+            "minute": 3
+        }
+    }, {
+        "MAStrategy": {
+            "minute": 10
+        }
+    }, {
+        "OtherStrategy": {}
+    }],
+    "HC_10_000001": [{
+        "MAStrategy": {
+            "minute": 3
+        }
+    }, {
+        "MAStrategy": {
+            "minute": 10
+        }
+    }, {
+        "OtherStrategy": {}
+    }, {
+        "KnifeStrategy": {
+		  "lookback_sec": 120,
+		  "up_return_threshold": -0.008,
+		  "imbalance_threshold": 4.0,
+		  "max_hold_min": 2,
+		  "vol_change_threshold": 1.5
+        }
+    }]
+}

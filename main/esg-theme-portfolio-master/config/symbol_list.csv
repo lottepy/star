@@ -1,0 +1,90 @@
+symbol,filename,bbg ticker,asset class,benchmark index,etf_market,etf_index,iuid
+EWA.US,EWA US Equity,EWA US Equity,Equity,MXAU Index,DM,Australia,US_10_EWA  
+EWC.US,EWC US Equity,EWC US Equity,Equity,,DM,Canada,US_10_EWC
+EWG.US,EWG US Equity,EWG US Equity,Equity,MXDE Index,DM,Germany,US_10_EWG
+EWH.US,EWH US Equity,EWH US Equity,Equity,MXHK Index,DM,HK,US_10_EWH
+EWJ.US,EWJ US Equity,EWJ US Equity,Equity,MXJP Index,DM,Japan,US_10_EWJ
+EWL.US,EWL US Equity,EWL US Equity,Equity,,DM,Switzerland,US_10_EWL
+EWU.US,EWU US Equity,EWU US Equity,Equity,MXGB Index,DM,UK,US_10_EWU
+EWY.US,EWY US Equity,EWY US Equity,Equity,,DM,Korea,US_10_EWY
+EWZ.US,EWZ US Equity,EWZ US Equity,Equity,,EM,Brazil,US_10_EWZ
+INDA.US,INDA US Equity,INDA US Equity,Equity,MXIN Index,EM,India,US_10_INDA
+XLB.US,XLB US Equity,XLB US Equity,Equity,,US,Basic Materials,US_10_XLB
+XLE.US,XLE US Equity,XLE US Equity,Equity,IXETR Index,US,,US_10_XLE
+XLF.US,XLF US Equity,XLF US Equity,Equity,,US,Finanicals,US_10_XLF
+XLI.US,XLI US Equity,XLI US Equity,Equity,,US,Industrials,US_10_XLI
+XLK.US,XLK US Equity,XLK US Equity,Equity,,US,Technology,US_10_XLK
+XLP.US,XLP US Equity,XLP US Equity,Equity,IXRTR Index,US,Consumer non-cycl,US_10_XLP
+XLU.US,XLU US Equity,XLU US Equity,Equity,IXUTR Index,US,Utilities,US_10_XLU
+XLV.US,XLV US Equity,XLV US Equity,Equity,IXVTR Index,US,Health care,US_10_XLV
+XLY.US,XLY US Equity,XLY US Equity,Equity,,US,Consumer cycl,US_10_XLY
+ASHR.US,ASHR US Equity,ASHR US Equity,Equity,SHSZ300 Index,CN,,US_10_ASHR
+QQQ.US,QQQ US Equity,QQQ US Equity,Equity,NDXT Index,US,,US_10_QQQ
+MCHI.US,MCHI US Equity,MCHI US Equity,Equity,M7CN Index,CN,China,US_10_MCHI
+EMB.US,EMB US Equity,EMB US Equity,Bond,JPEICORE Index,B,Emerging Market,US_10_EMB
+SHV.US,SHV US Equity,SHV US Equity,Bond,LT12TRUU Index,B,Short term Treasury,US_10_SHV
+AGG.US,AGG US Equity,AGG US Equity,Bond,LBUSTRUU Index,B,Broad Market,US_10_AGG
+VTI.US,VTI US Equity,VTI US Equity,Equity,CRSPTMT Index,US,,US_10_VTI
+HYG.US,HYG US Equity,HYG US Equity,Bond,IBOXHY Index,B,,US_10_HYG
+VTIP.US,VTIP US Equity,VTIP US Equity,Bond,,B,,US_10_VTIP
+JPST.US,JPST US Equity,JPST US Equity,Bond,,B,,US_10_JPST
+IAU.US,IAU US Equity,IAU US Equity,Equity,GOLDLNPM Index,B,Gold,US_10_IAU
+SXO1.US,SXO1 Index,SXO1 Index,Equity,,DM,,
+NH1.US,NH1 Index,NH1 Index,Equity,,DM,,
+XP1.US,XP1 Index,XP1 Index,Equity,,DM,,
+MES1.US,MES1 Index,MES1 Index,Equity,,EM,,
+ACC1.US,ACC1 Index,ACC1 Index,Equity,,CN,,
+EXSA.DE,EXSA TH Equity,EXSA TH Equity,Equity,,DM,,
+1329.JP,1329 JP Equity,1329 JP Equity,Equity,,DM,,
+IOZ.AU,IOZ AU Equity,IOZ AU Equity,Equity,,DM,,
+EEM.US,EEM US Equity,EEM US Equity,Equity,,EM,,
+USProf.US,US Profitability,,Equity,,US,,
+SmartRotation,SmartRotation,,Equity,,DM,,
+GC1.US,GC1 Comdty,GC1 Comdty,Equity,GOLDLNPM Index,B,Gold,
+SXO2.DE,SXO2 Index,SXO2 Index,Equity,,DM,,
+NH2.US,NH2 Index,NH2 Index,Equity,,DM,,
+XP2.AU,XP2 Index,XP2 Index,Equity,,DM,,
+MES2.US,MES2 Index,MES2 Index,Equity,,EM,,
+ACC2.SG,ACC2 Index,ACC2 Index,Equity,,CN,,
+GC2.US,GC2 Comdty,GC2 Comdty,Equity,GOLDLNPM Index,B,Gold,
+SXO3.DE,SXO3 Index,SXO3 Index,Equity,,DM,,
+NH3.US,NH3 Index,NH3 Index,Equity,,DM,,
+XP3.AU,XP3 Index,XP3 Index,Equity,,DM,,
+MES3.US,MES3 Index,MES3 Index,Equity,,EM,,
+ACC3.SG,ACC3 Index,ACC3 Index,Equity,,CN,,
+GC3.US,GC3 Comdty,GC3 Comdty,Equity,GOLDLNPM Index,B,Gold,
+SXO4.DE,SXO4 Index,SXO4 Index,Equity,,DM,,
+NH4.US,NH4 Index,NH4 Index,Equity,,DM,,
+XP4.AU,XP4 Index,XP4 Index,Equity,,DM,,
+MES4.US,MES4 Index,MES4 Index,Equity,,EM,,
+ACC4.SG,ACC4 Index,ACC4 Index,Equity,,CN,,
+GC4.US,GC4 Comdty,GC4 Comdty,Equity,GOLDLNPM Index,B,Gold,
+Smart_Rotation,,,,,B,,
+KM1.US,,,,,DM,,
+PT1.US,,,,,DM,,
+SP1.US,,,,,US,,
+HI1.US,,,,,DM,,
+VNQ.US,,,,,B,Reit,
+US_combined,,,,,US,,
+CN_combined,,,,,CN,,
+HK_combined,,,,,DM,,
+ETF_EMB.US,,,,,B,,
+ETF_SHV.US,,,,,B,,
+ETF_AGG.US,,,,,B,,
+ETF_VNQ.US,,,,,B,,
+ETF_HYG.US,,,,,B,,
+ETF_VTIP.US,,,,,B,,
+ETF_JPST.US,,,,,B,,
+ETF_IAU.US,,,,,B,,
+All_ETF_ACC1.US,,,,,CN,,
+All_ETF_HI1.US,,,,,DM,,
+All_ETF_MES1.US,,,,,EM,,
+All_ETF_NH1.US,,,,,DM,,
+All_ETF_SP1.US,,,,,US,,
+All_ETF_SXO1.US,,,,,DM,,
+All_ETF_US_combined,,,,,B,,
+All_ETF_CN_combined,,,,,B,,
+All_ETF_HK_combined,,,,,B,,
+No_ETF_US_combined,,,,,US,,
+No_ETF_CN_combined,,,,,CN,,
+No_ETF_HK_combined,,,,,DM,,

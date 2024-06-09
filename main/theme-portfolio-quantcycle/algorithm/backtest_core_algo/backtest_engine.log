@@ -1,0 +1,35 @@
+2020-11-24 14:42:03,847 - [DEBUG] backtest_engine.backtest_engine_base - magnum_backtest_engine.py:68 - {'start_year': 2015, 'start_month': 12, 'start_day': 31, 'end_year': 2020, 'end_month': 10, 'end_day': 31, 'data': {'stock_data_type': 0}, 'account': {'cash': 200000, 'commission': 0.003}, 'algo': {'freq': 'DAILY', 'window_time': 10, 'ref_window_time': 10, 'strategy_pool_path': '/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/CN_BFT_Value/strategy_allocation.csv', 'base_ccy': 'CNY'}, 'result_output': {'save_dir': '/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/results/CN_BFT_Value', 'override': True}}
+2020-11-24 14:42:03,915 - [DEBUG] backtest_engine.utils.data_loader - data_loader.py:414 - 
+--------------loading daily data 2015-11-21 00:00:00 to 2020-10-31 00:00:00-------------------
+2020-11-24 14:42:05,395 - [INFO] backtest_engine.utils.data_loader - data_loader.py:463 - data download time:0:00:00.226105
+2020-11-24 14:42:05,395 - [INFO] backtest_engine.utils.data_loader - data_loader.py:465 - all daily data loaded, thread will quit
+2020-11-24 14:42:05,454 - [DEBUG] backtest_engine.utils.data_loader - data_loader.py:517 - 
+--------------loading fx ccy daily data 2015-11-21 00:00:00 to 2020-10-31 00:00:00-------------------
+2020-11-24 14:42:08,959 - [INFO] backtest_engine.utils.data_loader - data_loader.py:528 - fx ccy daily download time:0:00:03.503631
+2020-11-24 14:42:08,959 - [INFO] backtest_engine.utils.data_loader - data_loader.py:531 - all fx ccy daily loaded, thread will quit
+2020-11-24 14:42:09,208 - [DEBUG] backtest_engine.utils.data_loader - data_loader.py:561 - 
+--------------loading dividends daily data 2015-11-21 00:00:00 to 2020-10-31 00:00:00-------------------
+2020-11-24 14:42:09,250 - [INFO] backtest_engine.utils.data_loader - data_loader.py:598 - dividends daily data download time:0:00:00.041664
+2020-11-24 14:42:09,250 - [INFO] backtest_engine.utils.data_loader - data_loader.py:600 - all dividends daily data loaded, thread will quit
+2020-11-24 14:42:10,239 - [INFO] backtest_engine.backtest_engine_base - magnum_backtest_engine.py:240 - 开始000002.SZ~603899.SH的回测..
+2020-11-24 15:02:45,275 - [DEBUG] backtest_engine.backtest_engine_base - magnum_backtest_engine.py:68 - {'start_year': 2015, 'start_month': 12, 'start_day': 31, 'end_year': 2020, 'end_month': 10, 'end_day': 31, 'data': {'stock_data_type': 0}, 'account': {'cash': 200000, 'commission': 0.003}, 'algo': {'freq': 'DAILY', 'window_time': 10, 'ref_window_time': 10, 'strategy_pool_path': '/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/CN_BFT_Value/strategy_allocation.csv', 'base_ccy': 'CNY'}, 'result_output': {'save_dir': '/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/results/CN_BFT_Value', 'override': True}}
+2020-11-24 15:02:45,358 - [DEBUG] backtest_engine.utils.data_loader - data_loader.py:414 - 
+--------------loading daily data 2015-11-21 00:00:00 to 2020-10-31 00:00:00-------------------
+2020-11-24 15:02:47,036 - [INFO] backtest_engine.utils.data_loader - data_loader.py:463 - data download time:0:00:00.258004
+2020-11-24 15:02:47,037 - [INFO] backtest_engine.utils.data_loader - data_loader.py:465 - all daily data loaded, thread will quit
+2020-11-24 15:02:47,101 - [DEBUG] backtest_engine.utils.data_loader - data_loader.py:517 - 
+--------------loading fx ccy daily data 2015-11-21 00:00:00 to 2020-10-31 00:00:00-------------------
+2020-11-24 15:02:48,396 - [INFO] backtest_engine.utils.data_loader - data_loader.py:528 - fx ccy daily download time:0:00:01.294925
+2020-11-24 15:02:48,396 - [INFO] backtest_engine.utils.data_loader - data_loader.py:531 - all fx ccy daily loaded, thread will quit
+2020-11-24 15:02:48,687 - [DEBUG] backtest_engine.utils.data_loader - data_loader.py:561 - 
+--------------loading dividends daily data 2015-11-21 00:00:00 to 2020-10-31 00:00:00-------------------
+2020-11-24 15:02:48,744 - [INFO] backtest_engine.utils.data_loader - data_loader.py:598 - dividends daily data download time:0:00:00.056586
+2020-11-24 15:02:48,744 - [INFO] backtest_engine.utils.data_loader - data_loader.py:600 - all dividends daily data loaded, thread will quit
+2020-11-24 15:02:49,854 - [INFO] backtest_engine.backtest_engine_base - magnum_backtest_engine.py:240 - 开始000002.SZ~603899.SH的回测..
+2020-11-24 15:02:51,283 - [INFO] backtest_engine.core.backtester - backtester.py:371 - saved record of strategy [0] to result.hdf5 at hdf5_index:0
+2020-11-24 15:02:52,550 - [INFO] backtest_engine.core.backtester - backtester.py:371 - saved record of strategy [0] to result.hdf5 at hdf5_index:1
+2020-11-24 15:02:53,770 - [INFO] backtest_engine.core.backtester - backtester.py:371 - saved record of strategy [0] to result.hdf5 at hdf5_index:2
+2020-11-24 15:02:54,994 - [INFO] backtest_engine.core.backtester - backtester.py:371 - saved record of strategy [0] to result.hdf5 at hdf5_index:3
+2020-11-24 15:02:56,220 - [INFO] backtest_engine.core.backtester - backtester.py:371 - saved record of strategy [0] to result.hdf5 at hdf5_index:4
+2020-11-24 15:02:56,225 - [INFO] backtest_engine.backtest_engine_base - magnum_backtest_engine.py:261 - 本轮回测用时0:00:06.370828
+2020-11-24 15:02:56,225 - [INFO] backtest_engine - theme_backtest_main_BFT_Value_quantcycle.py:54 - 回测+数据总用时0:00:12.008705

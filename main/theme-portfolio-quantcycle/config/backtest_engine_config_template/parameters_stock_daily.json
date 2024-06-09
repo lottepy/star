@@ -1,0 +1,38 @@
+{
+    "download": true,
+    "save_download_data": false,
+    "start_year": 2012,
+    "start_month": 12,
+    "start_day": 31,
+    "end_year": 2020,
+    "end_month": 5,
+    "end_day": 31,
+
+    "worker_processes" : 1,
+
+    "data": {
+        "download_types": ["DAILY"],
+        "download_ref_factor_ticker": ["SHY US Equity", "VGLT US Equity", "TIP US Equity", "VCSH US Equity", "HYG US Equity", "EMB US Equity", "NDXT Index", "M2CXAAC Index", "CRSPTM1 Index", "SHSZ300 Index", "MXEF Index", "RTY Index", "FTREEURO Index", "MXAP Index"],
+        "stock_data_type": 0
+    },
+
+    "account": {
+        "cash": 250000,
+        "commission": 0.0008
+    },
+
+    "algo": {
+        "freq": "DAILY",
+        "window_time": 365,
+        "ref_window_time": 365,
+        "save_data_time": 3,
+        "strategy_pool_path": "strategy_files/strategy_pool/strategy_allocation.csv",
+        "base_ccy" : "USD"
+    },
+
+    "result_output":{
+        "save_dir": "strategy_files/result",
+        "override" : true
+    }
+
+}

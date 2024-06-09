@@ -1,0 +1,17 @@
+symbol,csv_name,source,symboltype,trading_currency,lot_size,bloomberg_code,back_up_bbg_code,timezone
+AUDJPY1,1,BGNL,FX,JPY,,,,
+AUDJPY2,2,BGNL,FX,JPY,,,,
+AUDJPY3,3,BGNL,FX,JPY,,,,
+AUDCAD4,4,BGNL,FX,CAD,,AUDCAD BGNL Curncy,,
+EURUSD,custom_csv_name,BGNL,FX,USD,,,,
+USDKRW,custom_csv_name2,BGNL,FX,KRW,,,,
+coinA,ASSET_A,coin_source1,crypto,USD,,bbg_code_coinA,,Asia/Hong_Kong
+coinB,ASSET_B,,,USD,,,,
+ASSET_C,,,,,,,,
+AUDCAD,AUDCAD,BT150,FX,CAD,,AUDCAD BGNL Curncy,,
+HKDCAD,HKDCAD,,FX,CAD,,,,
+AUDJPY,,BT150,FX,JPY,,,,
+USDJPY,,BT150,FX,JPY,,,,
+USDJPY2,,,FX,JPY,,,,
+TSLA.US,TSLA.US,,US_Stock,USD,,,,
+APPL.US,APPL.US,,US_Stock,USD,,,,

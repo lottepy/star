@@ -1,0 +1,43 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2020,
+  "end_month": 5,
+  "end_day": 30,
+
+  "data": {
+    "STOCKS": {"DataCenter":"DataMaster",
+           "SymbolArgs":{
+             "DMAdjustType": 0,
+             "DMCalendar": "SSE",
+             "AccountCurrency": "LOCAL"},
+           "Fields": "OHLC",
+           "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+        "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "tests/engine/backtest/test_precision_stocks_ETFs/result/",
+    "save_name": "RSI_lv1",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/backtest/test_precision_stocks_ETFs/status/",
+    "status_name": "RSI_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+
+}

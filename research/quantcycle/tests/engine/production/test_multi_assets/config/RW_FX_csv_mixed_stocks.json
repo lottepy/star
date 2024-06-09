@@ -1,0 +1,66 @@
+{
+  "start_year": 2018,
+  "start_month": 9,
+  "start_day": 12,
+  "end_year": 2019,
+  "end_month": 1,
+  "end_day": 10,
+  "data": {
+    "FX": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "tests/engine/production/test_multi_assets/data/FX/main/",
+        "fxrate_dir": "tests/engine/production/test_multi_assets/data/FX/fxrate/",
+        "int_dir": "tests/engine/production/test_multi_assets/data/FX/interest/",
+        "info": "tests/engine/production/test_multi_assets/data/FX/info/info.csv"
+      },
+      "Fields": "OHLC",
+      "Frequency": "HOURLY"
+    },
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "weights": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "tests/engine/production/test_multi_assets/data/RW_FX_csv_mixed_stocks"
+      },
+      "Symbol": ["weights"],
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 3
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "tests/engine/production/test_multi_assets/result/",
+    "save_name": "RW_FX_csv_mixed_stocks",
+    "save_n_workers": 1,
+    "status_dir": "tests/engine/production/test_multi_assets/status/",
+    "status_name": "RW_FX_csv_mixed_stocks"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RW_lv1",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

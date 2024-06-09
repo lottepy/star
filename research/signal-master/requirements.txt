@@ -1,0 +1,1 @@
+quantcycle @ git+https://gitlab.aqumon.com/algo/quantcycle.git@1e8074730

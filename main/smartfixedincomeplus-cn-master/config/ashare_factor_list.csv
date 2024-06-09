@@ -1,0 +1,235 @@
+factor_list,factor_display_name,factor_category,effect_direction
+EVA,Analyst_Positive_View,Analyst View,Positive
+ESTPE,Valuation,Valuation,Negative
+ESTPEG,Valuation,Valuation,Negative
+ESTINSTNUM,Analyst_attention,Analyst View,Positive
+ESTMEDIANROA,Analyst_Positive_View,Analyst View,Positive
+ESTMEDIANROE,Analyst_Positive_View,Analyst View,Positive
+PETTM,Valuation,Valuation,Negative
+PSTTM,Valuation,Valuation,Negative
+PEDYNAMIC,Valuation,Valuation,Negative
+PCFCFOTTM,Valuation,Valuation,Negative
+RATINGTARGETPRICE,Analyst_Positive_View,Analyst View,Positive
+WRATINGINSTNUM,Analyst_attention,Analyst View,Positive
+WRATINGNUMOFBUY,Analyst_Positive_View,Analyst View,Positive
+WRATINGNUMOFOUTPERFORM,Analyst_Positive_View,Analyst View,Positive
+WRATINGNUMOFHOLD,Analyst_Positive_View,Analyst View,Positive
+WRATINGNUMOFUNDERPERFORM,Analyst_Negative_View,Analyst View,Negative
+WRATINGNUMOFSELL,Analyst_Negative_View,Analyst View,Negative
+PPERIODUNLOCKAMT,Unlock_Amount,Unlock Event,Negative
+MARKET_CAP,Size,Size,Positive
+ROE,profitability,Profitability,Positive
+ROA,profitability,Profitability,Positive
+GPOE,profitability,Profitability,Positive
+GPOA,profitability,Profitability,Positive
+SOE,profitability,Profitability,Positive
+SOA,profitability,Profitability,Positive
+OPOE,profitability,Profitability,Positive
+OPOA,profitability,Profitability,Positive
+CFOOE,cashflow_generation,Profitability,Positive
+CFOOA,cashflow_generation,Profitability,Positive
+ARTOS,earnings_inflation,Earnings Management,Negative
+sales,sales,Sales,Positive
+gross_profitability,profitability,Profitability,Positive
+operating_profitability,profitability,Profitability,Positive
+net_profitability,profitability,Profitability,Positive
+cashflow_generation,cashflow_generation,Profitability,Positive
+profitability,profitability,Profitability,Positive
+ROE_gr_1yr,profitability_growth,Growth,Positive
+ROA_gr_1yr,profitability_growth,Growth,Positive
+GPOE_gr_1yr,profitability_growth,Growth,Positive
+GPOA_gr_1yr,profitability_growth,Growth,Positive
+SOE_gr_1yr,sales_growth,Growth,Positive
+SOA_gr_1yr,sales_growth,Growth,Positive
+OPOE_gr_1yr,profitability_growth,Growth,Positive
+OPOA_gr_1yr,profitability_growth,Growth,Positive
+CFOOE_gr_1yr,cashflow_growth,Growth,Positive
+CFOOA_gr_1yr,cashflow_growth,Growth,Positive
+ARTOS_gr_1yr,earnings_inflation,Earnings Management,Negative
+S_gr_1yr,sales_growth,Growth,Positive
+ROE_gr_2yr,profitability_growth,Growth,Positive
+ROA_gr_2yr,profitability_growth,Growth,Positive
+GPOE_gr_2yr,profitability_growth,Growth,Positive
+GPOA_gr_2yr,profitability_growth,Growth,Positive
+SOE_gr_2yr,sales_growth,Growth,Positive
+SOA_gr_2yr,sales_growth,Growth,Positive
+OPOE_gr_2yr,profitability_growth,Growth,Positive
+OPOA_gr_2yr,profitability_growth,Growth,Positive
+CFOOE_gr_2yr,cashflow_growth,Growth,Positive
+CFOOA_gr_2yr,cashflow_growth,Growth,Positive
+ARTOS_gr_2yr,earnings_inflation,Earnings Management,Negative
+S_gr_2yr,sales_growth,Growth,Positive
+ROE_Abnormal,profitability_growth,Growth,Positive
+ROA_Abnormal,profitability_growth,Growth,Positive
+GPOE_Abnormal,profitability_growth,Growth,Positive
+GPOA_Abnormal,profitability_growth,Growth,Positive
+SOE_Abnormal,sales_growth,Growth,Positive
+SOA_Abnormal,sales_growth,Growth,Positive
+OPOE_Abnormal,profitability_growth,Growth,Positive
+OPOA_Abnormal,profitability_growth,Growth,Positive
+CFOOE_Abnormal,cashflow_growth,Growth,Positive
+CFOOA_Abnormal,cashflow_growth,Growth,Positive
+ARTOS_Abnormal,earnings_inflation,Earnings Management,Negative
+S_Abnormal,sales_growth,Growth,Positive
+profitability_growth,profitability_growth,Growth,Positive
+sales_growth,sales_growth,Growth,Positive
+cashflow_growth,cashflow_growth,Growth,Positive
+noncashsales_growth,earnings_inflation,Earnings Management,Negative
+ROE_Semi,profitability,Profitability,Positive
+ROA_Semi,profitability,Profitability,Positive
+GPOE_Semi,profitability,Profitability,Positive
+GPOA_Semi,profitability,Profitability,Positive
+SOE_Semi,profitability,Profitability,Positive
+SOA_Semi,profitability,Profitability,Positive
+OPOE_Semi,profitability,Profitability,Positive
+OPOA_Semi,profitability,Profitability,Positive
+CFOOE_Semi,cashflow_generation,Profitability,Positive
+CFOOA_Semi,cashflow_generation,Profitability,Positive
+ARTOS_Semi,earnings_inflation,Earnings Management,Negative
+sales_Semi,sales,Sales,Positive
+gross_profitability_Semi,profitability,Profitability,Positive
+operating_profitability_Semi,profitability,Profitability,Positive
+net_profitability_Semi,profitability,Profitability,Positive
+cashflow_generation_Semi,cashflow_generation,Profitability,Positive
+profitability_Semi,profitability,Profitability,Positive
+ROE_Semi_gr_1yr,profitability_growth,Growth,Positive
+ROA_Semi_gr_1yr,profitability_growth,Growth,Positive
+GPOE_Semi_gr_1yr,profitability_growth,Growth,Positive
+GPOA_Semi_gr_1yr,profitability_growth,Growth,Positive
+SOE_Semi_gr_1yr,sales_growth,Growth,Positive
+SOA_Semi_gr_1yr,sales_growth,Growth,Positive
+OPOE_Semi_gr_1yr,profitability_growth,Growth,Positive
+OPOA_Semi_gr_1yr,profitability_growth,Growth,Positive
+CFOOE_Semi_gr_1yr,cashflow_growth,Growth,Positive
+CFOOA_Semi_gr_1yr,cashflow_growth,Growth,Positive
+ARTOS_Semi_gr_1yr,earnings_inflation,Earnings Management,Negative
+S_Semi_gr_1yr,sales_growth,Growth,Positive
+ROE_Semi_gr_2yr,profitability_growth,Growth,Positive
+ROA_Semi_gr_2yr,profitability_growth,Growth,Positive
+GPOE_Semi_gr_2yr,profitability_growth,Growth,Positive
+GPOA_Semi_gr_2yr,profitability_growth,Growth,Positive
+SOE_Semi_gr_2yr,sales_growth,Growth,Positive
+SOA_Semi_gr_2yr,sales_growth,Growth,Positive
+OPOE_Semi_gr_2yr,profitability_growth,Growth,Positive
+OPOA_Semi_gr_2yr,profitability_growth,Growth,Positive
+CFOOE_Semi_gr_2yr,cashflow_growth,Growth,Positive
+CFOOA_Semi_gr_2yr,cashflow_growth,Growth,Positive
+ARTOS_Semi_gr_2yr,earnings_inflation,Earnings Management,Negative
+S_Semi_gr_2yr,sales_growth,Growth,Positive
+ROE_Semi_Abnormal,profitability_growth,Growth,Positive
+ROA_Semi_Abnormal,profitability_growth,Growth,Positive
+GPOE_Semi_Abnormal,profitability_growth,Growth,Positive
+GPOA_Semi_Abnormal,profitability_growth,Growth,Positive
+SOE_Semi_Abnormal,sales_growth,Growth,Positive
+SOA_Semi_Abnormal,sales_growth,Growth,Positive
+OPOE_Semi_Abnormal,profitability_growth,Growth,Positive
+OPOA_Semi_Abnormal,profitability_growth,Growth,Positive
+CFOOE_Semi_Abnormal,cashflow_growth,Growth,Positive
+CFOOA_Semi_Abnormal,cashflow_growth,Growth,Positive
+ARTOS_Semi_Abnormal,earnings_inflation,Earnings Management,Negative
+S_Semi_Abnormal,sales_growth,Growth,Positive
+profitability_growth_Semi,profitability_growth,Growth,Positive
+sales_growth_Semi,sales_growth,Growth,Positive
+cashflow_growth_Semi,cashflow_growth,Growth,Positive
+noncashsales_growth_Semi,earnings_inflation,Earnings Management,Negative
+ROE_TTM,profitability,Profitability,Positive
+ROA_TTM,profitability,Profitability,Positive
+GPOE_TTM,profitability,Profitability,Positive
+GPOA_TTM,profitability,Profitability,Positive
+SOE_TTM,profitability,Profitability,Positive
+SOA_TTM,profitability,Profitability,Positive
+OPOE_TTM,profitability,Profitability,Positive
+OPOA_TTM,profitability,Profitability,Positive
+CFOOE_TTM,cashflow_generation,Profitability,Positive
+CFOOA_TTM,cashflow_generation,Profitability,Positive
+ARTOS_TTM,earnings_inflation,Earnings Management,Negative
+sales_TTM,sales,Sales,Positive
+gross_profitability_TTM,profitability,Profitability,Positive
+operating_profitability_TTM,profitability,Profitability,Positive
+net_profitability_TTM,profitability,Profitability,Positive
+cashflow_generation_TTM,cashflow_generation,Profitability,Positive
+profitability_TTM,profitability,Profitability,Positive
+ROE_TTM_gr_1yr,profitability_growth,Growth,Positive
+ROA_TTM_gr_1yr,profitability_growth,Growth,Positive
+GPOE_TTM_gr_1yr,profitability_growth,Growth,Positive
+GPOA_TTM_gr_1yr,profitability_growth,Growth,Positive
+SOE_TTM_gr_1yr,sales_growth,Growth,Positive
+SOA_TTM_gr_1yr,sales_growth,Growth,Positive
+OPOE_TTM_gr_1yr,profitability_growth,Growth,Positive
+OPOA_TTM_gr_1yr,profitability_growth,Growth,Positive
+CFOOE_TTM_gr_1yr,cashflow_growth,Growth,Positive
+CFOOA_TTM_gr_1yr,cashflow_growth,Growth,Positive
+ARTOS_TTM_gr_1yr,earnings_inflation,Earnings Management,Negative
+S_TTM_gr_1yr,sales_growth,Growth,Positive
+ROE_TTM_gr_2yr,profitability_growth,Growth,Positive
+ROA_TTM_gr_2yr,profitability_growth,Growth,Positive
+GPOE_TTM_gr_2yr,profitability_growth,Growth,Positive
+GPOA_TTM_gr_2yr,profitability_growth,Growth,Positive
+SOE_TTM_gr_2yr,sales_growth,Growth,Positive
+SOA_TTM_gr_2yr,sales_growth,Growth,Positive
+OPOE_TTM_gr_2yr,profitability_growth,Growth,Positive
+OPOA_TTM_gr_2yr,profitability_growth,Growth,Positive
+CFOOE_TTM_gr_2yr,cashflow_growth,Growth,Positive
+CFOOA_TTM_gr_2yr,cashflow_growth,Growth,Positive
+ARTOS_TTM_gr_2yr,earnings_inflation,Earnings Management,Negative
+S_TTM_gr_2yr,sales_growth,Growth,Positive
+ROE_TTM_Abnormal,profitability_growth,Growth,Positive
+ROA_TTM_Abnormal,profitability_growth,Growth,Positive
+GPOE_TTM_Abnormal,profitability_growth,Growth,Positive
+GPOA_TTM_Abnormal,profitability_growth,Growth,Positive
+SOE_TTM_Abnormal,sales_growth,Growth,Positive
+SOA_TTM_Abnormal,sales_growth,Growth,Positive
+OPOE_TTM_Abnormal,profitability_growth,Growth,Positive
+OPOA_TTM_Abnormal,profitability_growth,Growth,Positive
+CFOOE_TTM_Abnormal,cashflow_growth,Growth,Positive
+CFOOA_TTM_Abnormal,cashflow_growth,Growth,Positive
+ARTOS_TTM_Abnormal,earnings_inflation,Earnings Management,Negative
+S_TTM_Abnormal,sales_growth,Growth,Positive
+profitability_growth_TTM,profitability_growth,Growth,Positive
+sales_growth_TTM,sales_growth,Growth,Positive
+cashflow_growth_TTM,cashflow_growth,Growth,Positive
+noncashsales_growth_TTM,earnings_inflation,Earnings Management,Negative
+Noncash_WC,earnings_inflation,Earnings Management,Negative
+TOTALACCRUAL,earnings_inflation,Earnings Management,Negative
+CashSales_Chg,sales_growth,Growth,Positive
+PPETA,RND,R&D,Positive
+RNDOE,RND,R&D,Positive
+RNDOA,RND,R&D,Positive
+RNDOE_gr_1yr,RND_growth,R&D,Positive
+RNDOA_gr_1yr,RND_growth,R&D,Positive
+RNDOE_gr_2yr,RND_growth,R&D,Positive
+RNDOA_gr_2yr,RND_growth,R&D,Positive
+RND,RND,R&D,Positive
+RND_growth,RND_growth,R&D,Positive
+ROEVar,profit_variability,Earnings Variability,Negative
+ROAVar,profit_variability,Earnings Variability,Negative
+ROEGrVar,profit_growth_variability,Earnings Variability,Negative
+ROAGrVar,profit_growth_variability,Earnings Variability,Negative
+profit_variability,profit_variability,Earnings Variability,Negative
+profit_growth_variability,profit_growth_variability,Earnings Variability,Negative
+Leverage,Solvency,Solvency,Negative
+DebtTA,Solvency,Solvency,Negative
+CurrentRatio,Liquidity,Liquidity,Positive
+DivYield,Dividend_Yield,Payout,Positive
+DivYield_growth,Dividend_Yield,Payout,Positive
+UNLOCKAMTTTTUNLOCKAMT,unlock_proportion,Unlock Event,Negative
+UNLOCKAMTTMKTCAP,unlock_proportion,Unlock Event,Negative
+unlock_proportion,unlock_proportion,Unlock Event,Negative
+Positive_NUM,Analyst_Positive_View,Analyst View,Positive
+Positive_PROP,Analyst_Positive_View,Analyst View,Positive
+TPTP,Analyst_Positive_View,Analyst View,Positive
+EPTTM,Valuation,Valuation,Positive
+SPTTM,Valuation,Valuation,Positive
+ESTEP,Valuation,Valuation,Positive
+EPDYNAMIC,Valuation,Valuation,Positive
+CFCFOPTTM,Valuation,Valuation,Positive
+ASSET_gr_1yr,Empire_Building,Empire Building,Negative
+BV_gr_1yr,Empire_Building,Empire Building,Negative
+SH_gr_1yr,Empire_Building,Empire Building,Negative
+ASSET_gr_2yr,Empire_Building,Empire Building,Negative
+BV_gr_2yr,Empire_Building,Empire Building,Negative
+SH_gr_2yr,Empire_Building,Empire Building,Negative
+ASSET_Abnormal,Empire_Building,Empire Building,Negative
+BV_Abnormal,Empire_Building,Empire Building,Negative
+SH_Abnormal,Empire_Building,Empire Building,Negative
+Empire_Building,Empire_Building,Empire Building,Negative

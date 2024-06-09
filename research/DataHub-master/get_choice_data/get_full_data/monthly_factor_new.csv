@@ -1,0 +1,5 @@
+﻿factor,statement,code 
+TOTALEARNINGS,IncomeStatement,114
+TEOFHOLDER,IncomeStatement,61
+TAX,IncomeStatement,56
+LT_BORROW,BalanceStatement,94

@@ -1,0 +1,620 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>AQUMON-BOCHKAM</title>
+	<link rel="stylesheet" href="css/style.css">
+    <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+	<style type="text/css">
+	h1{
+		color: orangered;
+		margin: 35px;
+		font-size: 28px;
+	}
+	h3{
+  		border-bottom: double 2px;
+  		border-color: orange;
+  		margin: 20px 35px;
+  		font-size: 22px;
+  		color: darkgray;
+	}
+	h4{
+		margin: 10px 35px;
+		font-size: 18px;
+	}
+	p{
+		margin: 10px 35px;
+		font-size: 16px;
+	}
+	img{
+		/*margin: 10px 35px;*/
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+		width: 70%;
+	}
+	table, td, th{
+		/*margin: 10px 35px;*/
+		margin: 0 auto;
+		border-collapse: collapse;
+		border: 1px solid black;
+		/*border-bottom: 1px solid #ddd;*/
+        text-align: left;
+        width: 600px;
+		padding: 8px;
+	}
+	table{
+		/*display: block;*/
+		margin-left: auto;
+		margin-right: auto;
+	}
+	th {
+        height: 30px;
+		/*background-color: darkgrey;*/
+		/*color: white;*/
+    }
+	tr :hover{
+		background-color: darkgray;
+	}
+	</style>
+</head>
+<body>
+    <h1>AQUMON-BOCHKAM Global Asset Allocation Performance Update (Until 4 Jan 2019)</h1>
+
+    <h3>Notes</h3>
+    <p>1. Updated Date: 7 Jan 2019</p>
+    <p>2. Testing Period: 31 Dec 2018 ~ 4 Jan 2019</p>
+    <p>3. Benchmark = 50% MSCI All Country World + 12.5% Barclays US Aggregate Total Return Value Unhedged USD + 12.5% Barclays EuroAgg Total Return Value Hedged USD + 25.0%  JACI Asia Credit Composite Total Return Index</p>
+	<p>4. All results are based in USD</p>
+
+    <h3>Strategy Performance</h3>
+    <IMG SRC="complete_performance.png">
+    <p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Total Return</th>
+      <th>Return p.a.</th>
+      <th>Volatility</th>
+      <th>Sharpe Ratio</th>
+      <th>Max Drawdown</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Benchmark</th>
+      <td>0.59%</td>
+      <td>71.64%</td>
+      <td>12.52%</td>
+      <td>572.07%</td>
+      <td>-0.65%</td>
+    </tr>
+    <tr>
+      <th>AQUMON-BOCHKAM</th>
+      <td>0.95%</td>
+      <td>135.98%</td>
+      <td>18.16%</td>
+      <td>748.83%</td>
+      <td>-0.88%</td>
+    </tr>
+    <tr>
+      <th>Fund NAV</th>
+      <td>-0.21%</td>
+      <td>-17.23%</td>
+      <td>10.51%</td>
+      <td>-163.95%</td>
+      <td>-1.04%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+    <h3>Investment Philosophy</h3>
+    <p>AQUMON-BOCHKAM Global Asset Allocation strategy is derived from AQUMON SmartGlobal® Framework. AQUMON SmartGlobal® Framework selects high-quality underlying assets and allocate precisely to achieve high diversification and low downside risk. Dynamic risk analysis and portfolio optimization mechanics are in place to ensure the stability and quality of returns. Besides, in order to enhance the performance, this stragegy also applies several machine learning 
+    techniques to capture the mean reversion features in equity markets.
+	</p>
+	<IMG SRC='investment_framework.png'>
+
+	<h3>Sector Rotation</h3>
+	<h4>Benchmark</h4>
+	<p>Equal weighted strategy</p>
+	<h4>Performance</h4>
+	<IMG SRC="olmar_sector.png">
+	</p>
+	<h4>Sector Returns</h4>
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>YTD Return</th>
+      <th>Weekly Return</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Basic Materials</th>
+      <td>1.50%</td>
+      <td>1.50%</td>
+    </tr>
+    <tr>
+      <th>Energy</th>
+      <td>4.39%</td>
+      <td>4.39%</td>
+    </tr>
+    <tr>
+      <th>Industrials</th>
+      <td>1.15%</td>
+      <td>1.15%</td>
+    </tr>
+    <tr>
+      <th>Finance</th>
+      <td>1.85%</td>
+      <td>1.85%</td>
+    </tr>
+    <tr>
+      <th>Technology</th>
+      <td>-0.77%</td>
+      <td>-0.77%</td>
+    </tr>
+    <tr>
+      <th>Consumer Staples</th>
+      <td>0.95%</td>
+      <td>0.95%</td>
+    </tr>
+    <tr>
+      <th>Utilities</th>
+      <td>-0.28%</td>
+      <td>-0.28%</td>
+    </tr>
+    <tr>
+      <th>Health Care</th>
+      <td>-0.64%</td>
+      <td>-0.64%</td>
+    </tr>
+    <tr>
+      <th>Consumer Discretionary</th>
+      <td>1.84%</td>
+      <td>1.84%</td>
+    </tr>
+    <tr>
+      <th>Real Estate</th>
+      <td>-0.34%</td>
+      <td>-0.34%</td>
+    </tr>
+    <tr>
+      <th>S&amp;P 500 Index ETF</th>
+      <td>0.97%</td>
+      <td>0.97%</td>
+    </tr>
+    <tr>
+      <th>Equal Weight</th>
+      <td>0.93%</td>
+      <td>0.93%</td>
+    </tr>
+    <tr>
+      <th>Sector Rotation</th>
+      <td>2.73%</td>
+      <td>2.73%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+	<h3>Region Rotation</h3>
+	<h4>Benchmark</h4>
+	<p>Equal weighted strategy</p>
+	<h4>Performance</h4>
+	<IMG SRC="olmar_region.png">
+	</p>
+	<h4>Regional Returns</h4>
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>YTD Return</th>
+      <th>Weekly Return</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>China</th>
+      <td>2.60%</td>
+      <td>2.60%</td>
+    </tr>
+    <tr>
+      <th>Australia</th>
+      <td>1.97%</td>
+      <td>1.97%</td>
+    </tr>
+    <tr>
+      <th>Canada</th>
+      <td>2.88%</td>
+      <td>2.88%</td>
+    </tr>
+    <tr>
+      <th>Japan</th>
+      <td>3.51%</td>
+      <td>3.51%</td>
+    </tr>
+    <tr>
+      <th>Germany</th>
+      <td>1.62%</td>
+      <td>1.62%</td>
+    </tr>
+    <tr>
+      <th>Hong Kong</th>
+      <td>1.02%</td>
+      <td>1.02%</td>
+    </tr>
+    <tr>
+      <th>UK</th>
+      <td>2.08%</td>
+      <td>2.08%</td>
+    </tr>
+    <tr>
+      <th>South Korea</th>
+      <td>-0.41%</td>
+      <td>-0.41%</td>
+    </tr>
+    <tr>
+      <th>Brazil</th>
+      <td>9.48%</td>
+      <td>9.48%</td>
+    </tr>
+    <tr>
+      <th>India</th>
+      <td>-0.12%</td>
+      <td>-0.12%</td>
+    </tr>
+    <tr>
+      <th>Switzerland</th>
+      <td>1.65%</td>
+      <td>1.65%</td>
+    </tr>
+    <tr>
+      <th>All Country Ex-US ETF</th>
+      <td>1.76%</td>
+      <td>1.76%</td>
+    </tr>
+    <tr>
+      <th>Equal Weight</th>
+      <td>2.33%</td>
+      <td>2.33%</td>
+    </tr>
+    <tr>
+      <th>Region Rotation</th>
+      <td>3.14%</td>
+      <td>3.14%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+	<h3>Holding Analysis</h3>
+	<h4>Detailed holdings</h4>
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Ticker</th>
+      <th>Segment</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>IVV</td>
+      <td>US Large Cap</td>
+      <td>20.37%</td>
+    </tr>
+    <tr>
+      <td>SCHF</td>
+      <td>Developed Market</td>
+      <td>11.52%</td>
+    </tr>
+    <tr>
+      <td>VWO</td>
+      <td>Emerging Market</td>
+      <td>8.15%</td>
+    </tr>
+    <tr>
+      <td>VB</td>
+      <td>US Small Cap</td>
+      <td>3.17%</td>
+    </tr>
+    <tr>
+      <td>AGG</td>
+      <td>US Aggregate Bond</td>
+      <td>13.50%</td>
+    </tr>
+    <tr>
+      <td>EMB</td>
+      <td>Emerging Market Bond</td>
+      <td>5.25%</td>
+    </tr>
+    <tr>
+      <td>HYG</td>
+      <td>High Yield Bond</td>
+      <td>6.75%</td>
+    </tr>
+    <tr>
+      <td>FLOT</td>
+      <td>Floating Rate Bond</td>
+      <td>15.90%</td>
+    </tr>
+    <tr>
+      <td>VTIP</td>
+      <td>Inflation Protected Bond</td>
+      <td>3.60%</td>
+    </tr>
+    <tr>
+      <td>GLD</td>
+      <td>Gold</td>
+      <td>2.20%</td>
+    </tr>
+    <tr>
+      <td>Rotation-REG</td>
+      <td>Region Rotation</td>
+      <td>4.80%</td>
+    </tr>
+    <tr>
+      <td>Rotation-SEC</td>
+      <td>Sector Ratation</td>
+      <td>4.80%</td>
+    </tr>
+  </tbody>
+</table></p>
+	<h4>Rotation Sub-portfolio Holdings</h4>
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Sub-portfolio</th>
+      <th>Ticker</th>
+      <th>Segment</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Rotation-REG</td>
+      <td>EWA</td>
+      <td>Australia</td>
+    </tr>
+    <tr>
+      <td>Rotation-REG</td>
+      <td>EWJ</td>
+      <td>Japan</td>
+    </tr>
+    <tr>
+      <td>Rotation-SEC</td>
+      <td>XLE</td>
+      <td>Energy</td>
+    </tr>
+    <tr>
+      <td>Rotation-SEC</td>
+      <td>XLI</td>
+      <td>Industrials</td>
+    </tr>
+  </tbody>
+</table></p>
+	<h4>Equity Regional Distribution</h4>
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Market</th>
+      <th>Absolute Weight</th>
+      <th>Relative Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US</td>
+      <td>28.33%</td>
+      <td>53.66%</td>
+    </tr>
+    <tr>
+      <td>Developed Market</td>
+      <td>13.92%</td>
+      <td>26.36%</td>
+    </tr>
+    <tr>
+      <td>Emerging Market</td>
+      <td>10.55%</td>
+      <td>19.98%</td>
+    </tr>
+  </tbody>
+</table></p>
+	<p>* Absolute Weight stands for the weightings in the entire portfolio, while Relative Weight stands for the ones in the equity part.</p>
+	<h4>Fixed-Income Duration</h4>
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th>Absolute Duration</th>
+      <th>Relative Duration</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1.6</td>
+      <td>3.55</td>
+    </tr>
+  </tbody>
+</table></p>
+	<p>* Like above, Absolute Duration shows the interest rate impact on the entire portfolio, while Relative Duration shows the impact on the fixed-income part only.</p>
+
+    <!--<h3>Extra Data (Internal Use Only)</h3>-->
+    <h3>Peer Comparison</h3>
+    <img src="fund_pctl.png">
+
+    <h3>China Stock Performance</h3>
+    <IMG src="china_stock.png">
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Return from 11/30</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>中国国旅</th>
+      <td>-5.03%</td>
+    </tr>
+    <tr>
+      <th>上海机场</th>
+      <td>-1.73%</td>
+    </tr>
+    <tr>
+      <th>长江电力</th>
+      <td>-3.40%</td>
+    </tr>
+    <tr>
+      <th>爱尔眼科</th>
+      <td>-2.16%</td>
+    </tr>
+    <tr>
+      <th>贵州茅台</th>
+      <td>2.16%</td>
+    </tr>
+    <tr>
+      <th>沪深300</th>
+      <td>0.97%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+    <h3>HK Stock Performance</h3>
+    <IMG src="hk_stock.png">
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Return from 11/30</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>友邦保险</th>
+      <td>-2.42%</td>
+    </tr>
+    <tr>
+      <th>中银香港</th>
+      <td>-3.47%</td>
+    </tr>
+    <tr>
+      <th>中银航空租赁</th>
+      <td>-2.02%</td>
+    </tr>
+    <tr>
+      <th>同仁堂国药</th>
+      <td>-4.41%</td>
+    </tr>
+    <tr>
+      <th>恒生银行</th>
+      <td>-4.58%</td>
+    </tr>
+    <tr>
+      <th>置富产业信托</th>
+      <td>3.75%</td>
+    </tr>
+    <tr>
+      <th>维他奶国际</th>
+      <td>-4.55%</td>
+    </tr>
+    <tr>
+      <th>恒生指数</th>
+      <td>-0.88%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+    <h3>US Stock Performance</h3>
+    <IMG src="us_stock.png">
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Return from 11/30</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Apple Inc.</th>
+      <td>-6.01%</td>
+    </tr>
+    <tr>
+      <th>Taiwan Semiconductor Manufacturing Co Ltd.</th>
+      <td>-5.26%</td>
+    </tr>
+    <tr>
+      <th>Berkshire Hathaway Inc.</th>
+      <td>-4.40%</td>
+    </tr>
+    <tr>
+      <th>DIS US Equity</th>
+      <td>-0.04%</td>
+    </tr>
+    <tr>
+      <th>Costco Wholesale Corp.</th>
+      <td>1.24%</td>
+    </tr>
+    <tr>
+      <th>Domino's Pizza Inc.</th>
+      <td>-1.77%</td>
+    </tr>
+    <tr>
+      <th>Moody's Corp.</th>
+      <td>2.31%</td>
+    </tr>
+    <tr>
+      <th>S&amp;P 500 Index</th>
+      <td>1.03%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+    <h3>Other Stock Performance</h3>
+    <IMG src="other_stock.png">
+	<p><table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Return from 11/30</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Auckland International Airport</th>
+      <td>3.80%</td>
+    </tr>
+    <tr>
+      <th>Auckland International Airport</th>
+      <td>1.89%</td>
+    </tr>
+    <tr>
+      <th>SATS Ltd.</th>
+      <td>0.27%</td>
+    </tr>
+    <tr>
+      <th>MSCI ACWI ex USA</th>
+      <td>0.82%</td>
+    </tr>
+  </tbody>
+</table></p>
+
+	<h3>Company Information</h3>
+	<h4>About Magnum Research</h4>
+	<p>Incubated by the Hong Kong University of Science and Technology in 2016, Magnum Research secured its A Round funding led by Alibaba Entrepreneurs Fund in Jun 2017, which was later (Sep 2018) followed by funding from Bohai XingWang, L.P., managed by BOC International. The firm has grown its institutional business rapidly, commencing collaborations with more than 30 leading financial institutions, including banks, brokerages, insurance firms and wealth management companies. Since September 2017, it has also released its retail offering, making automated and low-cost global asset allocation possible for everybody in Hong Kong.</p>
+
+	<h4>Our Teams</h4>
+	<p>Magnum Research has three teams servicing our clients at all times: a group of quantitative scientists compiling our Quantitative Research team, Financial Markets team with years of experience, and lastly the IT team as capable as one in an Internet firm. The firm has grown to include 60+ people with background from HKUST, NUS, HKU, CUHK, etc., based in offices in Hong Kong, Shenzhen and Singapore.</p>
+
+    <h3>Disclosure</h3>
+    <p>
+	This document is for illustration purposes only. All return figures provided here are based on hypothetical or simulated investing. This document does not constitute an offer to sell or a solicitation of any offer to invest. The information contained in this document does not purport to be complete nor accurate. This document may not be reproduced or distributed without the written authorization of Magnum Research Limited. Any reproduction or distribution of any of the contents of this document may constitute a violation of law. By accepting this document, you acknowledge and agree that all of the information contained in it shall be kept strictly confidential. 
+	</p>
+	<p>
+	Certain information contained in this document includes observations and assumptions and involves significant elements of subjective judgement and analysis. No representations are made as to the accuracy of such observations and assumptions and there can be no assurances that actual events will not differ materially from those assumed. 
+    </p>
+
+    </br>
+    
+
+</body>
+</html>

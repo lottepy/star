@@ -1,0 +1,24 @@
+numpy==1.16.0
+pandas==0.22.0
+zipline==1.3.0
+trading-calendars==1.2.0
+maya
+jsonfield
+simplejson
+pymysql
+croniter
+xlrd
+pymysql
+pysocks
+xmltodict
+xlsxwriter
+pycountry
+pika==0.12  # for RQClient
+dataset
+tabulate
+matplotlib
+oss2
+# Using git/SSH, install tia for python 3
+#git+git://github.com/PaulMest/tia.git#egg=tia
+#git+ssh://git@gitlab.aqumon.com/algo-chi/py-market-client.git#egg=market_client
+#git+git://github.com/madebr/pyOpt.git#egg=pyOpt

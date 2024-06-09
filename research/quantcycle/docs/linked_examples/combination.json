@@ -1,0 +1,82 @@
+{
+  "start_year": 2011,
+  "start_month": 10,
+  "start_day": 10,
+  "end_year": 2012,
+  "end_month": 12,
+  "end_day": 30,
+  "data": {
+    "FX": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DataSource": "BGNL",
+        "BackupDataSource": "BGNL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "secondary_data": {
+    "RSI_lv2": {
+      "DataCenter": "ResultReader",
+      "DataCenterArgs": {
+        "DataPath": "results/RSI_strategy/result/RSI_lv2"
+      },
+      "SymbolArgs": {
+        "Metrics": {
+          "allocation_freq": "1M",
+          "lookback_points_list": [61, 252],
+          "addition": true,
+          "multiplier": 252
+        }
+      },
+      "Fields": ["pnl", "position", "metrics"],
+      "Frequency": "DAILY"
+    },
+    "KD_lv2": {
+      "DataCenter": "ResultReader",
+      "DataCenterArgs": {
+        "DataPath": "results/KD_strategy/result/KD_lv2"
+      },
+      "SymbolArgs": {
+        "Metrics": {
+          "allocation_freq": "1M",
+          "lookback_points_list": [61, 252],
+          "addition": true,
+          "multiplier": 252
+        }
+      },
+      "Fields": ["pnl", "position", "metrics"],
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/lv3",
+    "save_name": "lv3",
+    "save_n_workers": 1,
+    "status_dir": "results/lv3/status/",
+    "status_name": "lv3"
+  },
+  "optimization": {
+    "numba_parallel": false,
+    "python_parallel_n_workers": "best"
+  },
+  "engine": {
+    "engine_name": "lv3",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

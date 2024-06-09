@@ -1,0 +1,20 @@
+{
+  "SEK": "USDSEK",
+  "NOK": "USDNOK",
+  "JPY": "USDJPY",
+  "CHF": "USDCHF",
+  "CAD": "USDCAD",
+  "NZD": "NZDUSD",
+  "GBP": "GBPUSD",
+  "EUR": "EURUSD",
+  "AUD": "AUDUSD",
+  "THB": "USDTHB",
+  "SGD": "USDSGD",
+  "ZAR": "USDZAR",
+  "IDR": "USDIDR",
+  "INR": "USDINR",
+  "KRW": "USDKRW",
+  "TWD": "USDTWD",
+  "HKD": "USDHKD",
+  "CNY": "USDCNY"
+}

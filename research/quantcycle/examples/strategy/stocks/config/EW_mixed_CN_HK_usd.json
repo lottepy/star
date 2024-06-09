@@ -1,0 +1,49 @@
+{
+  "start_year": 2010,
+  "start_month": 10,
+  "start_day": 12,
+  "end_year": 2019,
+  "end_month": 11,
+  "end_day": 15,
+  "data": {
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/mixed_cn_hk_stocks/result/",
+    "save_name": "EW_mixed_cn_hk_lv1_usd",
+    "save_n_workers": 1,
+    "status_dir": "results/mixed_cn_hk_stocks/status/",
+    "status_name": "EW_mixed_cn_hk_lv1_usd"
+  },
+  "ref_data": {
+  },
+  "dm_pickle": {
+    "save_dir": "results/mixed_cn_hk_stocks/dm_pickle/",
+    "save_name": "EW_mixed_cn_hk_lv1_usd",
+    "to_pkl": false,
+    "from_pkl": false
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

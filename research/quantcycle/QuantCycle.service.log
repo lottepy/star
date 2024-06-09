@@ -1,0 +1,9 @@
+[Unit]
+Description=devQuantCycle
+[Service]
+Environment="NUMBA_DISABLE_JIT=1"
+ExecStart=/data/release/venv/bin/python3 /data/release/QuantCycle/web_server.py
+User=jenkins
+Restart=on-failure
+[Install]
+WantedBy=multi-user.target

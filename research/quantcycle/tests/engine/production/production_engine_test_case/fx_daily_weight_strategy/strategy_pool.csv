@@ -1,0 +1,3 @@
+strategy_module,strategy_name,params,symbol
+tests.engine.production.production_engine_test_case.fx_daily_weight_strategy.weight_strategy,Weight_strategy,{},"{""FX"":[""AUDCAD"",""AUDJPY"",""AUDNZD"",""AUDUSD"",""CADCHF"",""CADJPY"",""EURCAD"",""EURCHF"",""EURGBP"",""EURJPY"",""EURUSD"",""GBPCAD"",""GBPCHF"",""GBPJPY"",""GBPUSD"",""NOKSEK"",""NZDJPY"",""NZDUSD"",""USDCAD"",""USDCHF"",""USDIDR"",""USDINR"",""USDJPY"",""USDKRW"",""USDNOK"",""USDSEK"",""USDSGD"",""USDTHB"",""USDTWD""]}"
+

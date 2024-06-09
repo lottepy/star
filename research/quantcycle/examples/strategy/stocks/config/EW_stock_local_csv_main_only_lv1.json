@@ -1,0 +1,45 @@
+{
+  "start_year": 2019,
+  "start_month": 10,
+  "start_day": 2,
+  "end_year": 2019,
+  "end_month": 10,
+  "end_day": 15,
+  "data": {
+    "STOCKS": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "examples/data/stocks_local_csv_main_only/stock_data/",
+        "info": "examples/data/stocks_local_csv_main_only/info/info.csv"
+      },
+      "SymbolArgs": {
+        "DMAdjustType": 1
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "results/test_local_csv_main_only/result/",
+    "save_name": "EW_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/test_local_csv_main_only/status/",
+    "status_name": "EW_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

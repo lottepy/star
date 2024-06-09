@@ -1,0 +1,56 @@
+{
+  "start_year": 2019,
+  "start_month": 12,
+  "start_day": 1,
+  "end_year": 2020,
+  "end_month": 1,
+  "end_day": 3,
+  "data": {
+    "FUTURES": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 10
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/test_futures/result/",
+    "save_name": "future_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/test_futures/status/",
+    "status_name": "future_lv1"
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "future_lv1",
+    "need_backtest" : false,
+    "is_sync_cash" : true,
+    "is_sync_holding" : true,
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "CsvOrderRouter"
+  },
+  "CsvOrderRouter":{
+    "dir_path": "C:/Users/user/Desktop/git/quantcycle/broker/"
+  },
+  "PortfolioTaskEngineOrderRouter":{
+    "ACCOUNT": "1211",
+    "task_ippath": "https://algo-stg.aqumon.com/oms/api/task-engine/",
+    "subtask_ippath": "https://algo-stg.aqumon.com/oms/api/execution-engine/",
+    "brokerType":"IB"
+  }
+}

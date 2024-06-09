@@ -1,0 +1,67 @@
+{
+  "start_year": 2018,
+  "start_month": 9,
+  "start_day": 12,
+  "end_year": 2019,
+  "end_month": 1,
+  "end_day": 10,
+  "data": {
+    "FX": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "main_dir": "examples/data/fx_hourly_local/main/",
+        "fxrate_dir": "examples/data/fx_hourly_local/fxrate/",
+        "int_dir": "examples/data/fx_hourly_local/interest/",
+        "info": "examples/data/fx_hourly_local/info/info.csv"
+      },
+      "Fields": "OHLC",
+      "Frequency": "HOURLY"
+    },
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "AccountCurrency": "USD"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "weights": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "examples/data/mixed_cn_hk_stocks_fx_hourly_local"
+      },
+      "Symbol": ["weights"],
+      "Frequency": "DAILY"
+    }
+  },
+  "account": {
+    "cash": 4000000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 3
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/mixed_cn_hk_stocks_fx_hourly_local/result/",
+    "save_name": "RW_FX_csv_mixed_stocks",
+    "save_n_workers": 1,
+    "status_dir": "results/mixed_cn_hk_stocks_fx_hourly_local/status/",
+    "status_name": "RW_FX_csv_mixed_stocks"
+  },
+  "dm_pickle": {
+    "save_dir": "results/mixed_cn_hk_stocks_fx_hourly_local/dm_pickle/",
+    "save_name": "RW_FX_csv_mixed_stocks",
+    "to_pkl": false,
+    "from_pkl": false
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

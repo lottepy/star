@@ -1,0 +1,62 @@
+MSCI Daily TR Gross Malaysia Local
+MSCI Daily TR Gross Australia Local
+MSCI Daily TR Gross Austria Local
+MSCI Daily TR Gross Belgium Local
+MSCI Daily TR Gross Brazil Local
+MSCI Daily TR Gross Canada Local
+MSCI Daily TR Gross Denmark Local
+MSCI Daily TR Gross Finland Local
+MSCI Daily TR Gross France Local
+MSCI Daily TR Gross Germany Local
+MSCI Daily TR Gross Greece Local
+MSCI Daily TR Gross Ireland Local
+MSCI Daily TR Gross Italy Local
+MSCI Daily TR Gross Japan Local
+MSCI Daily TR Gross Netherlands Local
+MSCI Daily TR Gross Norway Local
+MSCI Daily TR Gross Portugal Local
+MSCI Daily TR Gross Spain Local
+MSCI Daily TR Gross Sweden Local
+MSCI Daily TR Gross Switzerland Local
+MSCI Daily TR Gross UK Local
+MSCI Daily TR Gross USA Local
+MSCI Daily TR Gross World Local
+MSCI Daily TR Gross EAFE Local
+MSCI Daily TR Gross Europe Local
+MSCI Daily TR Gross EU Local
+MSCI Daily TR Gross Pacific Local
+MSCI Daily TR Gross Kokusai Local
+MSCI Daily TR Gross EASEA Local
+MSCI Daily TR Gross Singapore Local
+MSCI Daily TR Gross China A Local
+MSCI Daily TR Gross Hong Kong Local
+MSCI Daily TR Gross New Zealand Local
+MSCI Daily TR Gross Emerging Markets Russia Local
+MSCI Daily TR Gross Emerging Markets Morocco Local
+MSCI Daily TR Gross Emerging Markets Egypt Local
+MSCI Daily TR Gross Emerging Markets Indonesia Local
+MSCI Daily TR Gross Emerging Markets Thailand Local
+MSCI Daily TR Gross Emerging Markets Israel Local
+MSCI Daily TR Gross Emerging Markets China Local
+MSCI Daily TR Gross Emerging Markets Mexico Local
+MSCI Daily TR Gross Emerging Markets Phil Local
+MSCI Daily TR Gross Emerging Markets Venezuela Local
+MSCI Daily TR Gross Emerging Markets EM Local
+MSCI Daily TR Gross Emerging Markets Argentina Local
+MSCI Daily TR Gross Emerging Markets Chile Local
+MSCI Daily TR Gross Emerging Markets Taiwan Local
+MSCI Daily TR Gross Emerging Markets Colombia Local
+MSCI Daily TR Gross Emerging Markets Hungary Local
+MSCI Daily TR Gross Emerging Markets India Local
+MSCI Daily TR Gross Emerging Markets Jordan Local
+MSCI Daily TR Gross Emerging Markets Korea Local
+MSCI Daily TR Gross Emerging Markets Pakistan Local
+MSCI Daily TR Gross Emerging Markets Peru Local
+MSCI Daily TR Gross Emerging Markets Poland Local
+MSCI Daily TR Gross Emerging Markets Turkey Local
+MSCI Daily TR Gross Emerging Markets Israel Foreign Local
+MSCI Daily TR Gross Emerging Markets EM Asia Local
+MSCI Daily TR Gross Emerging Markets Sri Lanka Local
+MSCI Daily TR Gross Emerging Markets Czech Republic Local
+MSCI Daily TR Gross Emerging Markets Israel Domestic Local
+MSCI Daily TR Gross Emerging Markets South Africa Local

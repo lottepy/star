@@ -1,0 +1,31 @@
+2019-10-28 22:15:00,036 — TAA — INFO — hedging_live.py:51 — Logger Initialized.
+2019-10-28 22:15:11,426 — TAA — INFO — taa_base.py:77 — Current Cash: 61.8 USD
+2019-10-28 22:15:11,427 — TAA — INFO — taa_base.py:78 — Portfolio Value: 5137.86 USD
+2019-10-28 22:15:11,431 — TAA — INFO — taa_base.py:79 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-28 22:15:15,179 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    15.8458
+entry            15.8523
+exit             20.6965
+status           PARKING
+action               BUY
+2019-10-28 22:15:17,159 — TAA — INFO — hedging_live.py:86 — Target Positions:
+         iuid symbol target_weight  target_position
+0  US_10_JPST   None          None             13.0
+1   US_10_VXX   None          None             12.0
+2019-10-28 22:15:17,372 — TAA — INFO — hedging_live.py:88 — Target position file uploaded to OSS.

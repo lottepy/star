@@ -1,0 +1,158 @@
+{
+  "Data": {
+    "DataGroup0": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "1093 HK Equity.US",
+        "1169 HK Equity.US",
+        "1177 HK Equity.US",
+        "1347 HK Equity.US",
+        "1349 HK Equity.US",
+        "1810 HK Equity.US",
+        "2018 HK Equity.US",
+        "2020 HK Equity.US",
+        "2238 HK Equity.US",
+        "2331 HK Equity.US",
+        "2382 HK Equity.US",
+        "241 HK Equity.US",
+        "268 HK Equity.US",
+        "285 HK Equity.US",
+        "3690 HK Equity.US",
+        "3888 HK Equity.US",
+        "522 HK Equity.US",
+        "700 HK Equity.US",
+        "777 HK Equity.US",
+        "9618 HK Equity.US",
+        "981 HK Equity.US",
+        "9988 HK Equity.US",
+        "9999 HK Equity.US"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/MAIN",
+        "dir": "/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_HSTECH/daily_data",
+        "info": "/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_HSTECH/info/info.csv"
+      },
+      "Label": "STOCKS-MAIN",
+      "Fields": "OHLC",
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 5
+      }
+    },
+    "DataGroup1": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "1093 HK Equity.US",
+        "1169 HK Equity.US",
+        "1177 HK Equity.US",
+        "1347 HK Equity.US",
+        "1349 HK Equity.US",
+        "1810 HK Equity.US",
+        "2018 HK Equity.US",
+        "2020 HK Equity.US",
+        "2238 HK Equity.US",
+        "2331 HK Equity.US",
+        "2382 HK Equity.US",
+        "241 HK Equity.US",
+        "268 HK Equity.US",
+        "285 HK Equity.US",
+        "3690 HK Equity.US",
+        "3888 HK Equity.US",
+        "522 HK Equity.US",
+        "700 HK Equity.US",
+        "777 HK Equity.US",
+        "9618 HK Equity.US",
+        "981 HK Equity.US",
+        "9988 HK Equity.US",
+        "9999 HK Equity.US"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/CCPFXRATE",
+        "dir": "/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_HSTECH/fxrate",
+        "info": "/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_HSTECH/info/info.csv"
+      },
+      "Label": "STOCKS-FXRATE",
+      "Fields": [
+        "fx_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 5
+      }
+    },
+    "DataGroup2": {
+      "DataCenter": "LocalCSV",
+      "Type": "Download",
+      "Symbol": [
+        "1093 HK Equity.US",
+        "1169 HK Equity.US",
+        "1177 HK Equity.US",
+        "1347 HK Equity.US",
+        "1349 HK Equity.US",
+        "1810 HK Equity.US",
+        "2018 HK Equity.US",
+        "2020 HK Equity.US",
+        "2238 HK Equity.US",
+        "2331 HK Equity.US",
+        "2382 HK Equity.US",
+        "241 HK Equity.US",
+        "268 HK Equity.US",
+        "285 HK Equity.US",
+        "3690 HK Equity.US",
+        "3888 HK Equity.US",
+        "522 HK Equity.US",
+        "700 HK Equity.US",
+        "777 HK Equity.US",
+        "9618 HK Equity.US",
+        "981 HK Equity.US",
+        "9988 HK Equity.US",
+        "9999 HK Equity.US"
+      ],
+      "Frequency": "DAILY",
+      "DataCenterArgs": {
+        "key_name": "STOCKS-STOCKS/INT",
+        "dir": "/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_HSTECH/interest",
+        "info": "/Users/liyang/PycharmProjects/aqumon-theme-portfolio-quantcycle/data/strategy_temps/HK_HSTECH/info/info.csv"
+      },
+      "Label": "STOCKS-INT",
+      "Fields": [
+        "interest_rate"
+      ],
+      "SymbolArgs": {},
+      "StartDate": {
+        "Year": 2014,
+        "Month": 11,
+        "Day": 30
+      },
+      "EndDate": {
+        "Year": 2020,
+        "Month": 11,
+        "Day": 5
+      }
+    }
+  },
+  "dm_pickle": {
+    "save_dir": "results/cache/",
+    "save_name": "HK_HSTECH_dm_pickle",
+    "to_pkl": true,
+    "from_pkl": true
+  }
+}

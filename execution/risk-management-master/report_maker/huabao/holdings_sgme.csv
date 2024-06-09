@@ -1,0 +1,16 @@
+Ticker,Segment,Weight
+IVV,US Large Cap,16.16%
+QQQ,US Large Cap,7.59%
+IWS,US Mid Cap,5.31%
+VB,US Small Cap,4.68%
+AGG,US Agg Bond,16.73%
+HYG,High Yield Bond,14.87%
+JPST,US Short-term Bond,19.70%
+VTIP,Inflation- Protected Bond,4.46%
+GLD,Gold,1.75%
+SCHF,Developed Market,2.98%
+VEA,Developed Market,2.98%
+VWO,Emerging Market,2.81%
+EWC,Region Rotation::Canada Market,2.50%
+EWJ,Region Rotation::Japan Market,2.50%
+ACAS,China Market,5.00%

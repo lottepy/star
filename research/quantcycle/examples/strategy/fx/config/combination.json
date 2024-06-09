@@ -1,0 +1,86 @@
+{
+  "start_year": 2011,
+  "start_month": 10,
+  "start_day": 10,
+  "end_year": 2012,
+  "end_month": 12,
+  "end_day": 30,
+  "data": {
+    "FX": {
+      "DataCenter":"DataMaster",
+      "SymbolArgs":{
+        "DataSource": "BGNL",
+        "BackupDataSource": "BGNL"},
+      "Fields": "OHLC",
+      "Frequency": "DAILY"}
+  },
+  "secondary_data": {
+    "RSI_lv2": {
+      "DataCenter": "ResultReader",
+      "DataCenterArgs": {
+        "DataPath": "results/test_FX/result/RSI_lv2"},
+      "SymbolArgs": {
+        "Metrics": {
+          "allocation_freq": "1M",
+          "lookback_points_list": [61, 252],
+          "addition": true,
+          "multiplier": 252}},
+      "Fields": ["pnl", "position", "metrics"],
+      "Frequency": "DAILY"
+    },
+    "KD_lv2": {
+      "DataCenter": "ResultReader",
+      "DataCenterArgs": {
+        "DataPath": "results/test_FX/result/KD_lv2"},
+      "SymbolArgs": {
+        "Metrics": {
+          "allocation_freq": "1M",
+          "lookback_points_list": [61, 252],
+          "addition": true,
+          "multiplier": 252}},
+      "Fields": ["pnl", "position", "metrics"],
+      "Frequency": "DAILY"
+    }
+  },
+  "dm_pickle": {
+      "save_dir": "results/test_FX/cache/",
+      "save_name": "dm_pickle_lv3",
+      "to_pkl": true,
+      "from_pkl": false
+  },
+  "account": {
+    "cash": 2900000
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/test_FX/result/",
+    "save_name": "lv3",
+    "save_n_workers": 1,
+    "status_dir": "results/test_FX/status/",
+    "status_name": "lv3"
+
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "lv3",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "FTPOrderRouter"
+  },
+  "FTPOrderRouter":{
+    "HOST":"192.168.9.170",
+    "USER":"dymon",
+    "PSWD":"m0htXo!C",
+    "path":"/share/dymon-test/"
+  }
+
+}

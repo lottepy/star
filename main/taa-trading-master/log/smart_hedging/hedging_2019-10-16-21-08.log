@@ -1,0 +1,992 @@
+2019-10-16 21:08:59,882 — TAA — INFO — hedging_live.py:51 — Logger Initialized.
+2019-10-16 21:09:01,383 — TAA — INFO — main.py:33 — Market close.
+2019-10-16 22:09:11,518 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-16 22:09:11,518 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5074.26 USD
+2019-10-16 22:09:11,525 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-16 22:09:12,708 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      17.03
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-16 22:09:12,709 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-16 22:39:22,875 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-16 22:39:22,875 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5080.14 USD
+2019-10-16 22:39:22,882 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-16 22:39:24,376 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level       16.8
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-16 22:39:24,376 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-16 23:09:34,394 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-16 23:09:34,394 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5083.73 USD
+2019-10-16 23:09:34,397 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-16 23:09:35,575 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.85
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-16 23:09:35,576 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-16 23:39:45,573 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-16 23:39:45,573 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5081.66 USD
+2019-10-16 23:39:45,578 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-16 23:39:46,762 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.88
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-16 23:39:46,763 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 00:09:56,801 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 00:09:56,801 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5084.53 USD
+2019-10-17 00:09:56,808 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 00:10:01,901 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level       16.8
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 00:10:01,902 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 00:40:11,774 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 00:40:11,775 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5082.39 USD
+2019-10-17 00:40:11,781 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 00:40:12,919 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.89
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 00:40:12,920 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 01:10:22,867 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 01:10:22,868 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5079.8 USD
+2019-10-17 01:10:22,874 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 01:10:24,112 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.86
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 01:10:24,113 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 01:40:34,011 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 01:40:34,012 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5079.82 USD
+2019-10-17 01:40:34,019 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 01:40:35,189 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.85
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 01:40:35,190 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 02:10:45,204 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 02:10:45,204 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5077.89 USD
+2019-10-17 02:10:45,208 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 02:10:46,364 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.91
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 02:10:46,364 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 02:40:56,344 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 02:40:56,344 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5080.62 USD
+2019-10-17 02:40:56,350 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 02:40:57,531 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level       16.8
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 02:40:57,532 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 03:11:07,483 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 03:11:07,484 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5081.2 USD
+2019-10-17 03:11:07,490 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 03:11:08,671 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.81
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 03:11:08,671 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 03:41:18,579 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 03:41:18,579 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5080.39 USD
+2019-10-17 03:41:18,586 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 03:41:19,784 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.76
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 03:41:19,785 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 04:11:19,786 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 05:11:19,787 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 06:11:19,787 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 07:11:19,787 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 08:11:19,788 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 09:11:19,789 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 10:11:19,791 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 11:11:19,791 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 12:11:19,791 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 13:11:19,792 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 14:11:19,792 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 15:11:19,793 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 16:11:19,794 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 17:11:19,796 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 18:11:19,796 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 19:11:19,796 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 20:11:19,797 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 21:11:19,798 — TAA — INFO — main.py:33 — Market close.
+2019-10-17 22:11:30,169 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 22:11:30,169 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5095.81 USD
+2019-10-17 22:11:30,174 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 22:11:31,326 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.55
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 22:11:31,326 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 22:41:41,384 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 22:41:41,384 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5095.5 USD
+2019-10-17 22:41:41,386 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 22:41:42,545 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.51
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 22:41:42,546 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 23:11:52,518 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 23:11:52,518 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5092.03 USD
+2019-10-17 23:11:52,522 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 23:11:53,691 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.56
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 23:11:53,692 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-17 23:42:03,757 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-17 23:42:03,758 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5092.14 USD
+2019-10-17 23:42:03,761 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-17 23:42:04,882 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.61
+entry            15.8275
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-17 23:42:04,882 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 00:12:14,854 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 00:12:14,855 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5089.05 USD
+2019-10-18 00:12:14,860 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 00:12:17,081 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.69
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 00:12:17,081 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 00:42:27,038 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 00:42:27,038 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5091.94 USD
+2019-10-18 00:42:27,042 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 00:42:28,144 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.64
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 00:42:28,145 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 01:12:38,086 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 01:12:38,086 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5091.94 USD
+2019-10-18 01:12:38,089 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 01:12:39,234 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.61
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 01:12:39,235 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 01:42:49,241 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 01:42:49,241 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5094.35 USD
+2019-10-18 01:42:49,247 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 01:42:50,534 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.59
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 01:42:50,534 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 02:13:00,392 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 02:13:00,392 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5092.45 USD
+2019-10-18 02:13:00,397 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 02:13:01,540 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.65
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 02:13:01,541 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 02:43:11,418 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 02:43:11,418 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5093.63 USD
+2019-10-18 02:43:11,420 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 02:43:12,678 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.56
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 02:43:12,679 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 03:13:22,861 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 03:13:22,861 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5094.29 USD
+2019-10-18 03:13:22,869 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 03:13:24,038 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.55
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 03:13:24,038 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 03:43:33,929 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 03:43:33,929 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5093.58 USD
+2019-10-18 03:43:33,931 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 03:43:35,784 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level      16.55
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 03:43:35,785 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 04:13:35,786 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 05:13:35,786 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 06:13:35,786 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 07:13:35,787 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 08:13:35,789 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 09:13:35,790 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 10:13:35,791 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 11:13:35,791 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 12:13:35,792 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 13:13:35,793 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 14:13:35,794 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 15:13:35,794 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 16:13:35,796 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 17:13:35,796 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 18:13:35,798 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 19:13:35,800 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 20:13:35,801 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 21:13:35,802 — TAA — INFO — main.py:33 — Market close.
+2019-10-18 22:13:46,408 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 22:13:46,408 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5086.72 USD
+2019-10-18 22:13:46,414 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 22:13:47,921 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6454
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 22:13:47,921 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 22:43:57,921 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 22:43:57,921 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5081.95 USD
+2019-10-18 22:43:57,924 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 22:43:59,082 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.8267
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 22:43:59,083 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 23:14:09,027 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 23:14:09,027 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5086.29 USD
+2019-10-18 23:14:09,029 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 23:14:10,159 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6375
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 23:14:10,159 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-18 23:44:20,087 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-18 23:44:20,087 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5084.23 USD
+2019-10-18 23:44:20,089 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-18 23:44:23,712 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6687
+entry            15.8523
+exit             20.9599
+status           PARKING
+action              NONE
+2019-10-18 23:44:23,712 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 00:14:33,668 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 00:14:33,668 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5080.36 USD
+2019-10-19 00:14:33,670 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 00:14:36,301 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.8575
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 00:14:36,301 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 00:44:46,201 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 00:44:46,201 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5075.72 USD
+2019-10-19 00:44:46,203 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 00:44:47,377 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.8471
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 00:44:47,377 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 01:14:57,339 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 01:14:57,340 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5082.19 USD
+2019-10-19 01:14:57,342 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 01:14:58,522 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.7371
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 01:14:58,523 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 01:45:08,463 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 01:45:08,463 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5083.15 USD
+2019-10-19 01:45:08,468 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 01:45:09,627 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6875
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 01:45:09,627 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 02:15:19,607 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 02:15:19,608 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5085.3 USD
+2019-10-19 02:15:19,615 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 02:15:20,906 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6875
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 02:15:20,906 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 02:45:30,834 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 02:45:30,834 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5085.52 USD
+2019-10-19 02:45:30,841 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 02:45:32,040 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6479
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 02:45:32,040 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 03:15:41,980 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 03:15:41,981 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5086.67 USD
+2019-10-19 03:15:41,989 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 03:15:43,193 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.5492
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 03:15:43,193 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 03:45:53,065 — TAA — INFO — taa_base.py:76 — Current Cash: 61.8 USD
+2019-10-19 03:45:53,065 — TAA — INFO — taa_base.py:77 — Portfolio Value: 5085.45 USD
+2019-10-19 03:45:53,067 — TAA — INFO — taa_base.py:78 — Account Position Info:
+            holdingPosition
+iuid                       
+US_10_AGG               5.0
+US_10_ASHR              9.0
+US_10_EMB               2.0
+US_10_GLD               1.0
+US_10_HYG               3.0
+US_10_INDA              3.0
+US_10_JPST             18.0
+US_10_QQQ               1.0
+US_10_SCHF             20.0
+US_10_VB                2.0
+US_10_VTI               6.0
+US_10_VTIP              3.0
+US_10_VWO               6.0
+US_10_XLE               2.0
+2019-10-19 03:45:54,238 — TAA — INFO — hedging_live.py:80 — Hedging Info:
+futures_level    16.6354
+entry            15.8523
+exit             20.9263
+status           PARKING
+action              NONE
+2019-10-19 03:45:54,239 — TAA — INFO — hedging_live.py:83 — No trading signal.
+2019-10-19 04:15:54,240 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 05:15:54,240 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 06:15:54,240 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 07:15:54,240 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 08:15:54,241 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 09:15:54,241 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 10:15:54,242 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 11:15:54,242 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 12:15:54,243 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 13:15:54,243 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 14:15:54,244 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 15:15:54,244 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 16:15:54,245 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 17:15:54,245 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 18:15:54,247 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 19:15:54,249 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 20:15:54,250 — TAA — INFO — main.py:33 — Market close.
+2019-10-19 21:15:54,252 — TAA — INFO — main.py:33 — Market close.

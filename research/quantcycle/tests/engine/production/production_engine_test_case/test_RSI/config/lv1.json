@@ -1,0 +1,48 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2012,
+  "end_month": 12,
+  "end_day": 30,
+
+  "data": {
+    "FX": {"DataCenter":"LocalCSV",
+          "DataCenterArgs": {
+          "main_dir": "tests/engine/production/production_engine_test_case/test_RSI/data/main/",
+          "fxrate_dir": "tests/engine/production/production_engine_test_case/test_RSI/data/fxrate/",
+          "int_dir": "tests/engine/production/production_engine_test_case/test_RSI/data/interest/",
+          "info": "tests/engine/production/production_engine_test_case/test_RSI/data/info.csv"
+          },
+          "Fields": "OHLC",
+          "Frequency": "DAILY"}
+  },
+  "account": {
+    "cash": 2900000
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+        "main": 1
+    },
+    "monitor_open": false
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "tests/engine/production/production_engine_test_case/test_RSI/results",
+    "save_name": "RSI_lv1",
+    "save_n_workers": 1,
+    "status_dir": "examples/RSI_strategy/status/",
+    "status_name": "rsi_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  },
+  "engine": {
+    "engine_name": "RSI_lv1",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+                            "Order_Router_name": "TestOrderRouter"
+  }
+}

@@ -1,0 +1,32 @@
+INFO:pika.adapters.base_connection:Pika version 0.13.1 connecting to 47.91.249.15:5672
+INFO:pika.adapters.blocking_connection:Created channel=1
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4485; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4485; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.0008890628814697266; recv_len=58; buf_len=58; packet=1;
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4486; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4486; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.0009229183197021484; recv_len=58; buf_len=58; packet=1;
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4487; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4487; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.0018219947814941406; recv_len=58; buf_len=58; packet=1;
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4488; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4488; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.003980159759521484; recv_len=58; buf_len=58; packet=1;
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4489; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4489; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.00197601318359375; recv_len=58; buf_len=58; packet=1;
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4490; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4490; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.0026209354400634766; recv_len=58; buf_len=58; packet=1;
+WARNING:root:Unfilled buy orders:
+[]
+DEBUG:FTFileLog:[open_context_base.py] on_activate:346: Keepalive: conn_id=1;
+DEBUG:FTFileLog:[network_manager.py] do_send:283: Send: conn_id=1; proto_id=1004; serial_no=4491; total_len=52;
+DEBUG:FTFileLog:[network_manager.py] _on_packet:563: Recv: conn_id=1; proto_id=1004; serial_no=4491; data_len=14; msg=;
+DEBUG:FTFileLog:[network_manager.py] _on_read:496: conn_id=1; elapsed=0.0025091171264648438; recv_len=58; buf_len=58; packet=1;

@@ -1,0 +1,49 @@
+{
+  "start_year": 2012,
+  "start_month": 1,
+  "start_day": 1,
+  "end_year": 2020,
+  "end_month": 5,
+  "end_day": 30,
+  "data": {
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "DMCalendar": "SSE",
+        "AccountCurrency": "LOCAL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "dm_pickle": {
+    "save_dir": "results/test_stock/cache/",
+    "save_name": "dm_pickle_KD_lv1",
+    "to_pkl": true,
+    "from_pkl": false
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "LOCAL",
+    "window_size": {
+      "main": 1
+    }
+  },
+  "result_output": {
+    "flatten": true,
+    "save_dir": "results/test_stock/result/",
+    "save_name": "KD_lv1",
+    "save_n_workers": 1,
+    "status_dir": "results/test_stock/status/",
+    "status_name": "KD_lv1"
+  },
+  "ref_data": {
+  },
+  "optimization": {
+    "numba_parallel": false
+  }
+}

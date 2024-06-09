@@ -1,0 +1,51 @@
+{
+    "start_year": 2016,
+    "start_month": 2,
+    "start_day": 29,
+    "end_year": 2020,
+    "end_month": 12,
+    "end_day": 31,
+    "main_data": [
+        "STOCKS"
+    ],
+    "data": {
+        "STOCKS": {
+            "DataCenter": "LocalCSV",
+            "DataCenterArgs": {
+                "main_dir": "D:\\script\\smartxray_quantimental_offshore\\data\\bundles\\daily",
+                "fxrate_dir": "D:\\script\\smartxray_quantimental_offshore\\data\\quantcycle_backtest\\fxrate",
+                "int_dir": "D:\\script\\smartxray_quantimental_offshore\\data\\quantcycle_backtest\\interest",
+                "info": "D:\\script\\smartxray_quantimental_offshore\\data\\quantcycle_backtest\\info\\info.csv"
+            },
+            "Fields": "OHLC",
+            "Frequency": "DAILY"
+        }
+    },
+    "account": {
+        "cash": 1000000,
+        "commission": 0
+    },
+    "algo": {
+        "window_size": {
+            "main": 1
+        },
+        "base_ccy": "LOCAL"
+    },
+    "result_output": {
+        "flatten": false,
+        "save_dir": "D:\\script\\smartxray_quantimental_offshore\\result\\smartxray_wl\\0.23_B1_B1",
+        "save_name": "smartxray_wl",
+        "save_n_workers": 1,
+        "status_dir": "D:\\script\\smartxray_quantimental_offshore\\result\\smartxray_wl\\0.23_B1_B1",
+        "status_name": "smartxray_wl"
+    },
+    "numba": {
+        "parallel": false
+    },
+    "dm_pickle": {
+        "save_dir": "results/cache/",
+        "save_name": "smartxray_wl_dm_pickle",
+        "to_pkl": false,
+        "from_pkl": true
+    }
+}

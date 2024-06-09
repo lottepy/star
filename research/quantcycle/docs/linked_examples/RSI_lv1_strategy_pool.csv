@@ -1,0 +1,4 @@
+strategy_module,strategy_name,params,symbol
+strategy.FX.technical_indicator.oscillator.RSI.algorithm.RSI_lv1,RSI_strategy,"{""length"": 10.0, ""break_threshold"": 10.0, ""stop_profit"": 0.01, ""stop_loss"": 0.005, ""max_hold_days"": 10.0}","{""FX"": [""EURGBP"", ""EURJPY"", ""AUDNZD""]}"
+strategy.FX.technical_indicator.oscillator.RSI.algorithm.RSI_lv1,RSI_strategy,"{""length"": 10.0, ""break_threshold"": 20.0, ""stop_profit"": 0.01, ""stop_loss"": 0.005, ""max_hold_days"": 10.0}","{""FX"": [""EURGBP"", ""EURJPY"", ""AUDNZD""]}"
+strategy.FX.technical_indicator.oscillator.RSI.algorithm.RSI_lv1,RSI_strategy,"{""length"": 10.0, ""break_threshold"": 30.0, ""stop_profit"": 0.01, ""stop_loss"": 0.005, ""max_hold_days"": 10.0}","{""FX"": [""EURGBP"", ""EURJPY"", ""AUDNZD""]}"

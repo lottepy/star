@@ -1,0 +1,70 @@
+{
+    "start_year": 2017,
+    "start_month": 1,
+    "start_day": 1,
+    "end_year": 2020,
+    "end_month": 4,
+    "end_day": 20,
+    "main_data": [
+        "STOCKS"
+    ],
+    "data": {
+        "STOCKS": {
+            "DataCenter": "DataMaster",
+            "SymbolArgs": {
+                "AccountCurrency": "CNY",
+                "DMAdjustType": 3,
+                "DMCalendar": "SSE"
+            },
+            "Fields": [
+                "OHLC", "volume"
+            ],
+            "Frequency": "DAILY"
+        }
+    },
+    "secondary_data": {},
+    "ref_data": {},
+    "dm_pickle": {
+        "save_dir": ".",
+        "save_name": "stock_data",
+        "to_pkl": false,
+        "from_pkl": false
+    },
+    "account": {
+        "cash": 10000000,
+        "commission": 0.0015
+    },
+    "algo": {
+        "base_ccy": "CNY",
+        "window_size": {
+            "main": 254,
+            "signal": 1
+        },
+        "monitor_open": false
+    },
+    "result_output": {
+        "flatten": false,
+        "save_dir": "strategy/stocks/results/tmp",
+        "save_name": "result",
+        "save_n_workers": 1,
+        "status_dir": "strategy/stocks/results/tmp",
+        "status_name": "status"
+    },
+    "numba": {
+        "parallel": false
+    },
+    "engine": {
+        "engine_name": "portfolio",
+        "need_backtest": false,
+        "is_sync_cash" : true,
+        "is_sync_holding" : true,
+        "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+        "Order_Router_name": "OrderRouter"
+    },
+    "PortfolioTaskEngineOrderRouter": {
+        "ACCOUNT": "ACCOUNT",
+        "task_ippath": "PATH",
+        "subtask_ippath": "PATH",
+        "brokerType": "IB"
+    }
+}

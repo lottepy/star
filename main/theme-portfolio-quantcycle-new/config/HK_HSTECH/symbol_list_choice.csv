@@ -1,0 +1,2539 @@
+﻿,NAME,HKSE,SEHKENG,GICS,GICSCODE,GICSENG,LOTSIZE
+00001.HK,长和,综合企业,Conglomerates,房地产,60,Real Estate,500
+00002.HK,中电控股,公用事业,Utilities,公用事业,55,Utilities,500
+00003.HK,香港中华煤气,公用事业,Utilities,公用事业,55,Utilities,1000
+00004.HK,九龙仓集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00005.HK,汇丰控股,金融业,Financials,金融,40,Financials,400
+00006.HK,电能实业,公用事业,Utilities,公用事业,55,Utilities,500
+00007.HK,香港金融集团,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+00008.HK,电讯盈科,电讯业,Telecommunications,通讯服务,50,Communication Services,1000
+00009.HK,金奥国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,6000
+00010.HK,恒隆集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00011.HK,恒生银行,金融业,Financials,金融,40,Financials,100
+00012.HK,恒基地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00014.HK,希慎兴业,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00015.HK,盈信控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00016.HK,新鸿基地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00017.HK,新世界发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00018.HK,东方报业集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00019.HK,太古股份公司A,综合企业,Conglomerates,房地产,60,Real Estate,500
+00021.HK,大中华地产控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00022.HK,茂盛控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,40000
+00023.HK,东亚银行,金融业,Financials,金融,40,Financials,200
+00024.HK,宝威控股,原材料业,Materials,工业,20,Industrials,2000
+00025.HK,CHEVALIER INT'L,综合企业,Conglomerates,工业,20,Industrials,2000
+00026.HK,中华汽车,地产建筑业,Properties & Construction,房地产,60,Real Estate,200
+00027.HK,银河娱乐,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00028.HK,天安,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00029.HK,达力集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00030.HK,万隆控股集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00031.HK,航天控股,工业,Industrials,工业,20,Industrials,2000
+00032.HK,港通控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+00033.HK,安山金控,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,6000
+00034.HK,九龙建业,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00035.HK,远东发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00036.HK,远东控股国际,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,3000
+00037.HK,远东酒店实业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00038.HK,第一拖拉机股份,工业,Industrials,工业,20,Industrials,2000
+00039.HK,中国北大荒,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,8000
+00040.HK,金山工业,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,1000
+00041.HK,鹰君,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00042.HK,东北电气,工业,Industrials,工业,20,Industrials,2000
+00043.HK,卜蜂国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00045.HK,大酒店,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00046.HK,科联系统,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00047.HK,合兴集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00048.HK,中国汽车内饰,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00050.HK,香港小轮(集团),地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00051.HK,海港企业,非必需性消费,Consumer Discretionary,房地产,60,Real Estate,1000
+00052.HK,FAIRWOOD HOLD,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00053.HK,国浩集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00055.HK,中星集团控股,工业,Industrials,工业,20,Industrials,10000
+00057.HK,震雄集团,工业,Industrials,工业,20,Industrials,2000
+00058.HK,新威国际,地产建筑业,Properties & Construction,原材料,15,Materials,20000
+00059.HK,天誉置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00060.HK,香港食品投资,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00061.HK,绿领控股,能源业,Energy,能源,10,Energy,20000
+00062.HK,载通,非必需性消费,Consumer Discretionary,工业,20,Industrials,400
+00063.HK,中亚烯谷集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00064.HK,结好控股,金融业,Financials,金融,40,Financials,2000
+00065.HK,弘海高新资源,能源业,Energy,能源,10,Energy,4000
+00066.HK,港铁公司,非必需性消费,Consumer Discretionary,工业,20,Industrials,500
+00067.HK,旭光高新材料,原材料业,Materials,原材料,15,Materials,2000
+00068.HK,利兴发展,金融业,Financials,金融,40,Financials,1000
+00069.HK,香格里拉(亚洲),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00070.HK,金粤控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00071.HK,美丽华酒店,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00072.HK,现代传播,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00073.HK,亚洲果业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00075.HK,渝太地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00076.HK,谊砾控股,工业,Industrials,信息技术,45,Information Technology,4000
+00077.HK,进智公共交通,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00078.HK,REGAL INT'L,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00079.HK,世纪建业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00080.HK,中国新经济投资,金融业,Financials,金融,40,Financials,10000
+00081.HK,中国海外宏洋集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00082.HK,第一视频,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00083.HK,信和置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00084.HK,宝光实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00085.HK,中电华大科技,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00086.HK,新鸿基公司,金融业,Financials,金融,40,Financials,1000
+00087.HK,太古股份公司B,综合企业,Conglomerates,金融,40,Financials,2500
+00088.HK,TAI CHEUNG HOLD,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00089.HK,大生地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00090.HK,普星能量,公用事业,Utilities,公用事业,55,Utilities,2000
+00091.HK,金禧国际控股,能源业,Energy,信息技术,45,Information Technology,10000
+00092.HK,冠军科技集团,资讯科技业,Information Technology,信息技术,45,Information Technology,6000
+00093.HK,TERMBRAY IND,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00094.HK,绿心集团,原材料业,Materials,原材料,15,Materials,2000
+00095.HK,绿景中国地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00096.HK,YUSEI,工业,Industrials,工业,20,Industrials,2000
+00097.HK,恒基发展,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00098.HK,兴发铝业,原材料业,Materials,原材料,15,Materials,1000
+00099.HK,王氏国际,工业,Industrials,信息技术,45,Information Technology,1000
+00100.HK,白马户外媒体,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+00101.HK,恒隆地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00102.HK,凯升控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00103.HK,首长宝佳,工业,Industrials,原材料,15,Materials,2000
+00104.HK,ASIA COMM HOLD,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+00105.HK,凯联国际酒店,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00106.HK,朗诗地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00107.HK,四川成渝高速公路,工业,Industrials,工业,20,Industrials,2000
+00108.HK,国锐地产,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00109.HK,天成国际,金融业,Financials,金融,40,Financials,10000
+00110.HK,中国长远,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00111.HK,信达国际控股,金融业,Financials,金融,40,Financials,2000
+00112.HK,勒泰集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00113.HK,迪生创建,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00114.HK,HERALD HOLD,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+00115.HK,钧濠集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00116.HK,周生生,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00117.HK,天利控股集团,工业,Industrials,信息技术,45,Information Technology,2000
+00118.HK,大同机械,工业,Industrials,工业,20,Industrials,2000
+00119.HK,保利置业集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00120.HK,COSMOPOL INT'L,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00122.HK,鳄鱼恤,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00123.HK,越秀地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00124.HK,粤海置地,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00125.HK,新兴光学,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00126.HK,佳宁娜,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00127.HK,华人置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00128.HK,安宁控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00129.HK,泛海集团,金融业,Financials,房地产,60,Real Estate,2000
+00130.HK,慕诗国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00131.HK,卓能(集团),地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00132.HK,中国兴业控股,综合企业,Conglomerates,工业,20,Industrials,1000
+00133.HK,招商局中国基金,金融业,Financials,金融,40,Financials,2000
+00135.HK,昆仑能源,公用事业,Utilities,能源,10,Energy,2000
+00136.HK,恒腾网络,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+00137.HK,金辉集团,工业,Industrials,工业,20,Industrials,1000
+00138.HK,中建富通,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00139.HK,中达集团控股,金融业,Financials,金融,40,Financials,14000
+00141.HK,天禧海嘉控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00142.HK,第一太平,必需性消费,Consumer Staples,金融,40,Financials,2000
+00143.HK,国安国际,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00144.HK,招商局港口,工业,Industrials,工业,20,Industrials,2000
+00145.HK,香港建屋贷款-新,非必需性消费,Consumer Discretionary,工业,20,Industrials,8000
+00146.HK,TAI PING CARPET,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00147.HK,国际商业结算,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00148.HK,建滔集团,工业,Industrials,工业,20,Industrials,500
+00149.HK,中国农产品交易,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00150.HK,HYPEBEAST,非必需性消费,Consumer Discretionary,工业,20,Industrials,2500
+00151.HK,中国旺旺,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00152.HK,深圳国际,工业,Industrials,工业,20,Industrials,500
+00153.HK,中国赛特,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00154.HK,北京控股环境集团,工业,Industrials,工业,20,Industrials,1000
+00155.HK,中国源畅,工业,Industrials,工业,20,Industrials,10000
+00156.HK,力宝华润,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00157.HK,自然美,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,10000
+00158.HK,万邦投资,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00159.HK,布莱克万矿业,原材料业,Materials,原材料,15,Materials,4000
+00160.HK,汉国置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00162.HK,世纪金花,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00163.HK,英皇国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00164.HK,中国宝力科技,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,5000
+00165.HK,中国光大控股,金融业,Financials,金融,40,Financials,2000
+00166.HK,新时代能源,原材料业,Materials,原材料,15,Materials,2000
+00167.HK,IDT INT'L,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00168.HK,青岛啤酒股份,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00169.HK,万达酒店发展,非必需性消费,Consumer Discretionary,房地产,60,Real Estate,1000
+00171.HK,银建国际,地产建筑业,Properties & Construction,能源,10,Energy,2000
+00172.HK,金榜集团,金融业,Financials,金融,40,Financials,10000
+00173.HK,嘉华国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00174.HK,盛洋投资,金融业,Financials,金融,40,Financials,2000
+00175.HK,吉利汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00176.HK,先机企业集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00177.HK,江苏宁沪高速公路,工业,Industrials,工业,20,Industrials,2000
+00178.HK,莎莎国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00179.HK,德昌电机控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,500
+00180.HK,开达集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00181.HK,闽港控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+00182.HK,协合新能源,公用事业,Utilities,公用事业,55,Utilities,10000
+00183.HK,宏辉集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,8000
+00184.HK,激成投资,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00185.HK,正商实业,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00186.HK,敏捷控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,30000
+00187.HK,京城机电股份,工业,Industrials,工业,20,Industrials,2000
+00188.HK,新华汇富金融,金融业,Financials,金融,40,Financials,10000
+00189.HK,东岳集团,原材料业,Materials,原材料,15,Materials,1000
+00190.HK,香港建设(控股),地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00191.HK,丽新国际,综合企业,Conglomerates,房地产,60,Real Estate,1000
+00193.HK,冠中地产,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,3000
+00194.HK,廖创兴企业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00195.HK,绿科科技国际,原材料业,Materials,原材料,15,Materials,10000
+00196.HK,宏华集团,能源业,Energy,能源,10,Energy,1000
+00197.HK,亨泰,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,5000
+00198.HK,星美控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,4000
+00199.HK,德祥地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00200.HK,新濠国际发展,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00201.HK,华大酒店,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00202.HK,润中国际控股,综合企业,Conglomerates,房地产,60,Real Estate,5000
+00204.HK,中国投资开发,金融业,Financials,金融,40,Financials,20000
+00205.HK,财讯传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+00206.HK,华商国际海洋控股,能源业,Energy,能源,10,Energy,1000
+00207.HK,大悦城地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00208.HK,保利达资产,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00209.HK,瀛晟科学,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00210.HK,达芙妮国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00211.HK,STYLAND HOLD,金融业,Financials,金融,40,Financials,10000
+00212.HK,NANYANG HOLD,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00213.HK,NATIONAL ELEC H,工业,Industrials,工业,20,Industrials,2000
+00214.HK,汇汉控股,金融业,Financials,房地产,60,Real Estate,2000
+00215.HK,和记电讯香港,电讯业,Telecommunications,通讯服务,50,Communication Services,2000
+00216.HK,建业实业,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00217.HK,中国诚通发展集团,原材料业,Materials,房地产,60,Real Estate,2000
+00218.HK,申万宏源香港,金融业,Financials,金融,40,Financials,5000
+00219.HK,顺豪物业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00220.HK,统一企业中国,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00221.HK,易易壹金融,金融业,Financials,金融,40,Financials,10000
+00222.HK,闽信集团,金融业,Financials,非日常生活消费品,25,Consumer Discretionary,2000
+00223.HK,易生活控股,资讯科技业,Information Technology,能源,10,Energy,20000
+00224.HK,建生国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00225.HK,博富临置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00226.HK,力宝,非必需性消费,Consumer Discretionary,房地产,60,Real Estate,1000
+00227.HK,第一上海,金融业,Financials,金融,40,Financials,8000
+00228.HK,中能控股,能源业,Energy,能源,10,Energy,2000
+00229.HK,利民实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00230.HK,五矿地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00231.HK,平安证券集团控股,金融业,Financials,房地产,60,Real Estate,40000
+00232.HK,中国航空工业国际,工业,Industrials,工业,20,Industrials,2000
+00234.HK,新世纪集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,24000
+00235.HK,中策集团,原材料业,Materials,原材料,15,Materials,5000
+00236.HK,香港生力啤,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00237.HK,安全货仓,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00238.HK,长兴国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00239.HK,白花油,医疗保健业,Healthcare,医疗保健,35,Health Care,2500
+00240.HK,利基控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+00241.HK,阿里健康,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00242.HK,信德集团,综合企业,Conglomerates,工业,20,Industrials,2000
+00243.HK,QPL INT'L-NEW,资讯科技业,Information Technology,信息技术,45,Information Technology,9000
+00244.HK,先施,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00245.HK,中薇金融,金融业,Financials,金融,40,Financials,10000
+00247.HK,TST PROPERTIES,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00248.HK,香港通讯国际控股,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,4000
+00250.HK,中国数码信息,资讯科技业,Information Technology,信息技术,45,Information Technology,50000
+00251.HK,爪哇控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00252.HK,华信地产财务,工业,Industrials,原材料,15,Materials,2000
+00253.HK,顺豪控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00254.HK,国家联合资源,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00255.HK,龙记集团,工业,Industrials,工业,20,Industrials,2000
+00256.HK,冠城钟表珠宝,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00257.HK,光大环境,公用事业,Utilities,工业,20,Industrials,1000
+00258.HK,汤臣集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00259.HK,亿都(国际控股),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00260.HK,幸福控股,金融业,Financials,能源,10,Energy,10000
+00261.HK,GBA集团,资讯科技业,Information Technology,信息技术,45,Information Technology,80000
+00262.HK,迪臣发展国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00263.HK,高富集团控股,金融业,Financials,金融,40,Financials,4000
+00264.HK,中联发展控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00265.HK,东胜旅游,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00266.HK,天德地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00267.HK,中信股份,综合企业,Conglomerates,工业,20,Industrials,1000
+00268.HK,金蝶国际,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00269.HK,中国资源交通,工业,Industrials,工业,20,Industrials,5000
+00270.HK,粤海投资,公用事业,Utilities,公用事业,55,Utilities,2000
+00271.HK,亚证地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00272.HK,瑞安房地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00273.HK,茂宸集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+00274.HK,中富资源,原材料业,Materials,原材料,15,Materials,10000
+00275.HK,凯华集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00276.HK,蒙古能源,能源业,Energy,能源,10,Energy,3000
+00277.HK,太兴置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00278.HK,华厦置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00279.HK,民众金融科技,金融业,Financials,金融,40,Financials,6000
+00280.HK,景福集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00281.HK,川河集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00282.HK,壹传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+00285.HK,比亚迪电子,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+00286.HK,爱帝宫,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00287.HK,永发置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00288.HK,万洲国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+00289.HK,WING ON CO,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00290.HK,中国富强金融,金融业,Financials,金融,40,Financials,2000
+00291.HK,华润啤酒,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00292.HK,泛海酒店,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00293.HK,国泰航空,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+00294.HK,长江制衣,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00295.HK,江山控股,公用事业,Utilities,公用事业,55,Utilities,25000
+00296.HK,英皇娱乐酒店,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+00297.HK,中化化肥,原材料业,Materials,原材料,15,Materials,2000
+00298.HK,庄士中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00299.HK,宝新置地,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00301.HK,三和精化,原材料业,Materials,原材料,15,Materials,2000
+00302.HK,中手游,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00303.HK,VTECH HOLDINGS,资讯科技业,Information Technology,信息技术,45,Information Technology,100
+00305.HK,五菱汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00306.HK,冠忠巴士集团,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00307.HK,优派能源发展,能源业,Energy,能源,10,Energy,2000
+00308.HK,香港中旅,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00309.HK,新华通讯频媒,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+00310.HK,嘉进投资国际,金融业,Financials,金融,40,Financials,15000
+00311.HK,联泰控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00312.HK,岁宝百货,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00313.HK,裕田中国,地产建筑业,Properties & Construction,工业,20,Industrials,50000
+00315.HK,数码通电讯,电讯业,Telecommunications,通讯服务,50,Communication Services,500
+00316.HK,东方海外国际,工业,Industrials,工业,20,Industrials,500
+00317.HK,中船防务,工业,Industrials,工业,20,Industrials,2000
+00318.HK,黄河实业,综合企业,Conglomerates,金融,40,Financials,5000
+00320.HK,金宝通,工业,Industrials,工业,20,Industrials,2000
+00321.HK,德永佳集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00322.HK,康师傅控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00323.HK,马鞍山钢铁股份,原材料业,Materials,原材料,15,Materials,2000
+00326.HK,中国星集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+00327.HK,百富环球,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00328.HK,ALCO HOLDINGS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00329.HK,东建国际,金融业,Financials,金融,40,Financials,4000
+00330.HK,思捷环球,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,100
+00331.HK,丰盛服务集团,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+00332.HK,元亨燃气,能源业,Energy,能源,10,Energy,4000
+00333.HK,黛丽斯国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00334.HK,华显光电,资讯科技业,Information Technology,信息技术,45,Information Technology,8000
+00335.HK,美建集团,金融业,Financials,金融,40,Financials,2000
+00336.HK,华宝国际,必需性消费,Consumer Staples,原材料,15,Materials,1000
+00337.HK,绿地香港,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00338.HK,上海石油化工股份,原材料业,Materials,能源,10,Energy,2000
+00339.HK,核心经济投资,金融业,Financials,金融,40,Financials,10000
+00340.HK,潼关黄金,原材料业,Materials,原材料,15,Materials,2000
+00341.HK,大家乐集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00342.HK,新海能源,能源业,Energy,能源,10,Energy,2000
+00343.HK,文化传信,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+00345.HK,VITASOY INT'L,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00346.HK,延长石油国际,能源业,Energy,能源,10,Energy,10000
+00347.HK,鞍钢股份,原材料业,Materials,原材料,15,Materials,2000
+00348.HK,中国智能健康,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,50000
+00351.HK,亚洲能源物流,工业,Industrials,工业,20,Industrials,10000
+00352.HK,富阳,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00353.HK,能源国际投资,能源业,Energy,能源,10,Energy,20000
+00354.HK,中国软件国际,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00355.HK,世纪城市国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00356.HK,鼎立资本,金融业,Financials,金融,40,Financials,30000
+00357.HK,美兰空港,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+00358.HK,江西铜业股份,原材料业,Materials,原材料,15,Materials,1000
+00359.HK,海升果汁,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+00360.HK,新焦点,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00361.HK,顺龙控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+00362.HK,信阳毛尖,原材料业,Materials,原材料,15,Materials,10000
+00363.HK,上海实业控股,综合企业,Conglomerates,工业,20,Industrials,1000
+00364.HK,区块链集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,8000
+00365.HK,芯成科技,工业,Industrials,工业,20,Industrials,2000
+00366.HK,陆氏集团(越南),地产建筑业,Properties & Construction,原材料,15,Materials,2000
+00367.HK,庄士机构国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00368.HK,德合集团,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,4000
+00369.HK,永泰地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00370.HK,国华(新),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,6000
+00371.HK,北控水务集团,公用事业,Utilities,公用事业,55,Utilities,2000
+00372.HK,保德国际发展,金融业,Financials,金融,40,Financials,2000
+00373.HK,联合集团(新),金融业,Financials,金融,40,Financials,2000
+00374.HK,四洲集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00375.HK,YGM TRADING,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00376.HK,云锋金融,金融业,Financials,金融,40,Financials,2000
+00377.HK,华君国际集团,工业,Industrials,原材料,15,Materials,80
+00378.HK,五龙动力,原材料业,Materials,金融,40,Financials,2000
+00379.HK,恒嘉融资租赁,金融业,Financials,金融,40,Financials,10000
+00380.HK,冠力国际,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,4000
+00381.HK,侨雄国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00382.HK,中汇集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00383.HK,中国医疗网络,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+00384.HK,中国燃气,公用事业,Utilities,公用事业,55,Utilities,200
+00385.HK,建联集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00386.HK,中国石油化工股份,能源业,Energy,能源,10,Energy,2000
+00387.HK,力丰(集团),工业,Industrials,工业,20,Industrials,4000
+00388.HK,香港交易所,金融业,Financials,金融,40,Financials,100
+00389.HK,通天酒业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00390.HK,中国中铁,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+00391.HK,美亚娱乐资讯,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+00392.HK,北京控股,公用事业,Utilities,公用事业,55,Utilities,500
+00393.HK,旭日企业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00395.HK,环球智能控股,资讯科技业,Information Technology,信息技术,45,Information Technology,8000
+00396.HK,兴利(香港)控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00397.HK,权威金融,金融业,Financials,金融,40,Financials,10000
+00398.HK,东方表行集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00399.HK,领航医药生物科技,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,5000
+00400.HK,科通芯城,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00401.HK,万嘉集团,医疗保健业,Healthcare,医疗保健,35,Health Care,20000
+00403.HK,星光集团,工业,Industrials,原材料,15,Materials,2000
+00406.HK,有利集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00408.HK,叶氏化工集团,原材料业,Materials,原材料,15,Materials,2000
+00410.HK,SOHO中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00411.HK,南顺(香港),必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00412.HK,山高金融,金融业,Financials,金融,40,Financials,6000
+00413.HK,南华集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+00416.HK,锦州银行,金融业,Financials,金融,40,Financials,1000
+00417.HK,谢瑞麟,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00418.HK,方正控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00419.HK,华谊腾讯娱乐,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00420.HK,福田实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00422.HK,越南制造加工出口,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00423.HK,经济日报集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00425.HK,敏实集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00426.HK,万华媒体,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00428.HK,中国天弓控股,金融业,Financials,金融,40,Financials,2000
+00430.HK,东方网库,金融业,Financials,金融,40,Financials,2000
+00431.HK,大中华金融,金融业,Financials,金融,40,Financials,4000
+00432.HK,盈大地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00433.HK,北方矿业,原材料业,Materials,原材料,15,Materials,10000
+00434.HK,博雅互动,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+00436.HK,新宇环保,工业,Industrials,工业,20,Industrials,20000
+00438.HK,彩虹新能源,工业,Industrials,信息技术,45,Information Technology,2000
+00439.HK,光启科学,工业,Industrials,通讯服务,50,Communication Services,1000
+00440.HK,大新金融,金融业,Financials,金融,40,Financials,400
+00442.HK,海福德集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00444.HK,SINCEREWATCH HK,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00445.HK,中集天达,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+00449.HK,志高控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00450.HK,鸿兴印刷集团,工业,Industrials,原材料,15,Materials,2000
+00451.HK,协鑫新能源,公用事业,Utilities,原材料,15,Materials,2000
+00455.HK,天大药业,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00456.HK,新城市建设发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,20000
+00458.HK,联亚集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00459.HK,美联工商铺,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00460.HK,四环医药,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+00462.HK,天然乳品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+00464.HK,中国海外诺信,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00465.HK,富通科技,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00467.HK,联合能源集团,能源业,Energy,能源,10,Energy,2000
+00468.HK,纷美包装,工业,Industrials,原材料,15,Materials,1000
+00469.HK,凯普松国际,工业,Industrials,工业,20,Industrials,4000
+00471.HK,中播控股,电讯业,Telecommunications,通讯服务,50,Communication Services,4000
+00472.HK,新丝路文旅,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+00474.HK,昊天发展集团,工业,Industrials,工业,20,Industrials,6000
+00475.HK,中发展控股,工业,Industrials,公用事业,55,Utilities,2000
+00476.HK,中国动力控股,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,10000
+00479.HK,华建控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+00480.HK,香港兴业国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,800
+00482.HK,圣马丁国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00483.HK,包浩斯国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00484.HK,云游控股,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,100
+00485.HK,中国华星,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+00486.HK,俄铝,原材料业,Materials,原材料,15,Materials,1000
+00487.HK,实德环球,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00488.HK,丽新发展,综合企业,Conglomerates,房地产,60,Real Estate,300
+00489.HK,东风集团股份,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,2000
+00491.HK,英皇文化产业,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+00493.HK,国美零售,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00495.HK,PALADIN,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00496.HK,卡森国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00497.HK,资本策略地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00498.HK,保华集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00499.HK,青岛控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00500.HK,先丰服务集团,工业,Industrials,工业,20,Industrials,1000
+00503.HK,朗生医药,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+00505.HK,兴业合金,原材料业,Materials,工业,20,Industrials,1000
+00506.HK,中国食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00508.HK,鼎亿集团投资,地产建筑业,Properties & Construction,金融,40,Financials,5000
+00509.HK,世纪阳光,原材料业,Materials,原材料,15,Materials,5000
+00510.HK,时富金融服务-新,金融业,Financials,金融,40,Financials,6000
+00511.HK,电视广播,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,100
+00512.HK,远大医药,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+00513.HK,恒和集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00515.HK,中华银科技,工业,Industrials,工业,20,Industrials,2000
+00517.HK,中远海运国际,工业,Industrials,工业,20,Industrials,2000
+00518.HK,同得仕(集团),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00519.HK,实力建业,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00520.HK,呷哺呷哺,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00521.HK,CWT INT'L,原材料业,Materials,原材料,15,Materials,10000
+00522.HK,ASM PACIFIC,资讯科技业,Information Technology,信息技术,45,Information Technology,100
+00524.HK,长城一带一路,电讯业,Telecommunications,通讯服务,50,Communication Services,10000
+00525.HK,广深铁路股份,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00526.HK,中国汽车新零售,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00527.HK,瑞风新能源,公用事业,Utilities,公用事业,55,Utilities,4000
+00528.HK,金达控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00529.HK,SIS INT'L,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00530.HK,高银金融,必需性消费,Consumer Staples,金融,40,Financials,2000
+00531.HK,顺诚,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00532.HK,WKK INTL (HOLD),工业,Industrials,工业,20,Industrials,2000
+00533.HK,金利来集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00535.HK,金地商置,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00536.HK,贸易通,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00538.HK,味千(中国),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00539.HK,冠华国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00540.HK,迅捷环球控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00542.HK,富元国际集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+00543.HK,太平洋网络,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00544.HK,大同集团,工业,Industrials,工业,20,Industrials,20000
+00546.HK,阜丰集团,必需性消费,Consumer Staples,原材料,15,Materials,1000
+00547.HK,数字王国,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+00548.HK,深圳高速公路股份,工业,Industrials,工业,20,Industrials,2000
+00550.HK,KK文化,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00551.HK,裕元集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00552.HK,中国通信服务,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+00553.HK,南京熊猫电子股份,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+00554.HK,汉思能源,能源业,Energy,能源,10,Energy,2000
+00555.HK,御泰中彩控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,25000
+00556.HK,泛亚环保,工业,Industrials,工业,20,Industrials,2000
+00557.HK,天元医疗,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00558.HK,力劲科技,工业,Industrials,工业,20,Industrials,2500
+00559.HK,德泰新能源集团,非必需性消费,Consumer Discretionary,金融,40,Financials,30000
+00560.HK,珠江船务,工业,Industrials,工业,20,Industrials,2000
+00563.HK,上实城市开发,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00564.HK,郑煤机,非必需性消费,Consumer Discretionary,工业,20,Industrials,200
+00565.HK,锦艺集团控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00567.HK,大昌微线集团,能源业,Energy,能源,10,Energy,2000
+00568.HK,山东墨龙,能源业,Energy,能源,10,Energy,400
+00570.HK,中国中药,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00571.HK,丰德丽控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00572.HK,未来世界控股,金融业,Financials,金融,40,Financials,20000
+00573.HK,稻香控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00574.HK,百信国际,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00575.HK,励晶太平洋,医疗保健业,Healthcare,金融,40,Financials,10000
+00576.HK,浙江沪杭甬,工业,Industrials,工业,20,Industrials,2000
+00577.HK,南岸集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00578.HK,融信资源,能源业,Energy,能源,10,Energy,10000
+00579.HK,京能清洁能源,公用事业,Utilities,公用事业,55,Utilities,2000
+00580.HK,赛晶电力电子,工业,Industrials,工业,20,Industrials,2000
+00581.HK,中国东方集团,原材料业,Materials,原材料,15,Materials,2000
+00582.HK,蓝鼎国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1200
+00583.HK,长城环亚控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00585.HK,意马国际,金融业,Financials,金融,40,Financials,8000
+00586.HK,海螺创业,工业,Industrials,工业,20,Industrials,500
+00587.HK,华瀚健康,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+00588.HK,北京北辰实业股份,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00589.HK,建中建设,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00590.HK,六福集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00591.HK,中国高精密,工业,Industrials,信息技术,45,Information Technology,1000
+00592.HK,BOSSINI INT'L,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00593.HK,梦东方,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00595.HK,AV CONCEPT HOLD,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00596.HK,浪潮国际,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00598.HK,中国外运,工业,Industrials,工业,20,Industrials,1000
+00599.HK,怡邦行控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+00600.HK,中国基建投资,能源业,Energy,能源,10,Energy,2000
+00601.HK,稀镁科技,原材料业,Materials,原材料,15,Materials,10000
+00602.HK,佳华百货控股,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,2500
+00603.HK,中油燃气,公用事业,Utilities,公用事业,55,Utilities,20000
+00604.HK,深圳控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00605.HK,中国金融投资管理,金融业,Financials,金融,40,Financials,2000
+00607.HK,丰盛控股,工业,Industrials,房地产,60,Real Estate,2500
+00608.HK,达利国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00609.HK,天德化工,原材料业,Materials,原材料,15,Materials,4000
+00610.HK,WAI KEE HOLD,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00611.HK,中国核能科技,公用事业,Utilities,公用事业,55,Utilities,2000
+00612.HK,中国鼎益丰,金融业,Financials,金融,40,Financials,8000
+00613.HK,梧桐国际,金融业,Financials,房地产,60,Real Estate,2000
+00616.HK,高山企业,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00617.HK,百利保控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00618.HK,北大资源,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00619.HK,南华金融,金融业,Financials,金融,40,Financials,2000
+00620.HK,大唐西市,综合企业,Conglomerates,工业,20,Industrials,2000
+00621.HK,坛金矿业,原材料业,Materials,原材料,15,Materials,10000
+00622.HK,威华达控股,金融业,Financials,金融,40,Financials,3000
+00623.HK,中视金桥,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+00626.HK,大众金融控股,金融业,Financials,金融,40,Financials,2000
+00627.HK,福晟国际,地产建筑业,Properties & Construction,原材料,15,Materials,5000
+00628.HK,国美金融科技,金融业,Financials,金融,40,Financials,2000
+00629.HK,悦达国际控股,金融业,Financials,原材料,15,Materials,1000
+00630.HK,隽泰控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+00631.HK,三一国际,工业,Industrials,工业,20,Industrials,1000
+00632.HK,中港石油,能源业,Energy,能源,10,Energy,2000
+00633.HK,中国全通,电讯业,Telecommunications,信息技术,45,Information Technology,2000
+00635.HK,彩星集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00636.HK,嘉里物流,工业,Industrials,工业,20,Industrials,500
+00637.HK,利记,原材料业,Materials,工业,20,Industrials,2000
+00638.HK,建溢集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00639.HK,首钢资源,能源业,Energy,能源,10,Energy,2000
+00640.HK,星谦发展,原材料业,Materials,原材料,15,Materials,4000
+00641.HK,中国恒天立信国际,工业,Industrials,工业,20,Industrials,2000
+00643.HK,恒富控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00645.HK,安域亚洲,能源业,Energy,能源,10,Energy,2000
+00646.HK,中国环保科技,公用事业,Utilities,公用事业,55,Utilities,8000
+00648.HK,中国华仁医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+00650.HK,IDG能源投资,能源业,Energy,能源,10,Energy,2000
+00651.HK,中海重工,工业,Industrials,工业,20,Industrials,5000
+00653.HK,卓悦控股,必需性消费,Consumer Staples,医疗保健,35,Health Care,2000
+00655.HK,香港华人有限公司,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00656.HK,复星国际,综合企业,Conglomerates,工业,20,Industrials,500
+00657.HK,环科国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00658.HK,中国高速传动,工业,Industrials,工业,20,Industrials,1000
+00659.HK,新创建集团,综合企业,Conglomerates,工业,20,Industrials,1000
+00660.HK,玮俊生物科技,原材料业,Materials,原材料,15,Materials,10000
+00661.HK,中国大冶有色金属,原材料业,Materials,原材料,15,Materials,2000
+00662.HK,亚洲金融,金融业,Financials,金融,40,Financials,2000
+00663.HK,金山能源,原材料业,Materials,能源,10,Energy,1000
+00665.HK,海通国际,金融业,Financials,金融,40,Financials,1000
+00666.HK,新工投资,金融业,Financials,金融,40,Financials,20000
+00667.HK,中国东方教育,非必需性消费,Consumer Discretionary,工业,20,Industrials,500
+00668.HK,东银国际控股,金融业,Financials,金融,40,Financials,2000
+00669.HK,创科实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00670.HK,中国东方航空股份,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00672.HK,众安集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00673.HK,中国卫生集团,医疗保健业,Healthcare,医疗保健,35,Health Care,3000
+00674.HK,中国唐商,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00675.HK,坚宝国际,工业,Industrials,信息技术,45,Information Technology,2000
+00676.HK,创信国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00677.HK,金源米业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00678.HK,云顶香港,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00679.HK,亚洲联网科技,工业,Industrials,工业,20,Industrials,10000
+00680.HK,南海控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,50000
+00681.HK,中民控股,公用事业,Utilities,公用事业,55,Utilities,2000
+00682.HK,超大现代,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00683.HK,嘉里建设,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00684.HK,亚伦国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00685.HK,世界华文媒体,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+00686.HK,北京能源国际,公用事业,Utilities,公用事业,55,Utilities,2000
+00687.HK,泰升集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00688.HK,中国海外发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00689.HK,长盈集团(控股),能源业,Energy,能源,10,Energy,15000
+00690.HK,联康生物科技集团,医疗保健业,Healthcare,医疗保健,35,Health Care,20000
+00691.HK,山水水泥,地产建筑业,Properties & Construction,原材料,15,Materials,1000
+00693.HK,陈唱国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,3000
+00694.HK,北京首都机场股份,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00695.HK,东吴水泥,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+00696.HK,中国民航信息网络,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00697.HK,首程控股,金融业,Financials,原材料,15,Materials,2000
+00698.HK,通达集团,工业,Industrials,信息技术,45,Information Technology,10000
+00699.HK,神州租车,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+00700.HK,腾讯控股,资讯科技业,Information Technology,信息技术,45,Information Technology,100
+00701.HK,CNT GROUP,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+00702.HK,中国油气控股,能源业,Energy,能源,10,Energy,10000
+00703.HK,FUTURE BRIGHT,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,6000
+00704.HK,和嘉控股,能源业,Energy,能源,10,Energy,10000
+00706.HK,美丽中国控股,原材料业,Materials,原材料,15,Materials,10000
+00707.HK,亚洲电视控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00708.HK,恒大汽车,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+00709.HK,佐丹奴国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00710.HK,京东方精电,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,1000
+00711.HK,亚洲联合基建控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00712.HK,卡姆丹克太阳能,工业,Industrials,公用事业,55,Utilities,10000
+00713.HK,世界(集团),非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,2000
+00715.HK,中泛控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00716.HK,胜狮货柜,工业,Industrials,工业,20,Industrials,2000
+00717.HK,英皇证券,金融业,Financials,金融,40,Financials,6000
+00718.HK,太和控股,医疗保健业,Healthcare,工业,20,Industrials,5000
+00719.HK,山东新华制药股份,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00720.HK,意达利控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,25000
+00721.HK,中国金融国际,金融业,Financials,金融,40,Financials,10000
+00722.HK,联合医务,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00723.HK,信保环球控股,原材料业,Materials,原材料,15,Materials,60000
+00724.HK,瑞鑫国际集团,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+00725.HK,恒都集团,工业,Industrials,信息技术,45,Information Technology,2000
+00726.HK,筑友智造科技,地产建筑业,Properties & Construction,房地产,60,Real Estate,20000
+00727.HK,皇冠环球集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00728.HK,中国电信,电讯业,Telecommunications,通讯服务,50,Communication Services,2000
+00729.HK,五龙电动车,工业,Industrials,信息技术,45,Information Technology,5000
+00730.HK,SHOUGANG GRAND,地产建筑业,Properties & Construction,金融,40,Financials,1000
+00731.HK,森信纸业集团,原材料业,Materials,原材料,15,Materials,2000
+00732.HK,信利国际,工业,Industrials,信息技术,45,Information Technology,2000
+00733.HK,合富辉煌,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00736.HK,中国置业投资,金融业,Financials,房地产,60,Real Estate,3000
+00737.HK,湾区发展,工业,Industrials,工业,20,Industrials,500
+00738.HK,莱尔斯丹,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00743.HK,亚洲水泥(中国),地产建筑业,Properties & Construction,原材料,15,Materials,500
+00745.HK,中国国家文化产业,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+00746.HK,理文化工,原材料业,Materials,原材料,15,Materials,2000
+00747.HK,沈阳公用发展股份,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00750.HK,水发兴业能源,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+00751.HK,创维集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00752.HK,PICO FAR EAST,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00753.HK,中国国航,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+00754.HK,合生创展集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00755.HK,上海证大,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00756.HK,森美控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+00757.HK,阳光能源,工业,Industrials,工业,20,Industrials,1000
+00758.HK,新华联资本,原材料业,Materials,原材料,15,Materials,2000
+00759.HK,CEC INT'L HOLD,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00760.HK,新天地产集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,15000
+00762.HK,中国联通,电讯业,Telecommunications,通讯服务,50,Communication Services,2000
+00763.HK,中兴通讯,资讯科技业,Information Technology,信息技术,45,Information Technology,200
+00764.HK,永恒策略,金融业,Financials,工业,20,Industrials,10000
+00765.HK,PERFECTECH INTL,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00766.HK,中盈集团控股,金融业,Financials,金融,40,Financials,5000
+00767.HK,亚太丝路投资,金融业,Financials,金融,40,Financials,40000
+00768.HK,开明投资,金融业,Financials,金融,40,Financials,2000
+00769.HK,中国稀土,原材料业,Materials,原材料,15,Materials,2000
+00770.HK,SHANGHAI GROWTH,金融业,Financials,金融,40,Financials,1000
+00771.HK,自动系统,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00772.HK,阅文集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,200
+00775.HK,长江生命科技,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00776.HK,帝国集团环球控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00777.HK,网龙,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+00780.HK,同程艺龙,非必需性消费,Consumer Discretionary,工业,20,Industrials,400
+00784.HK,凌锐控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+00787.HK,利标品牌,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00788.HK,中国铁塔,电讯业,Telecommunications,工业,20,Industrials,2000
+00789.HK,雅天妮集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+00794.HK,锦胜集团(控股),工业,Industrials,原材料,15,Materials,2000
+00797.HK,第七大道,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00798.HK,中电光谷,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00799.HK,IGG,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00800.HK,A8新媒体,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00801.HK,金卫医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,800000
+00802.HK,中国钱包,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+00803.HK,昌兴国际,原材料业,Materials,原材料,15,Materials,10000
+00804.HK,鼎石资本,金融业,Financials,金融,40,Financials,5000
+00806.HK,惠理集团,金融业,Financials,金融,40,Financials,1000
+00807.HK,上海实业环境,公用事业,Utilities,公用事业,55,Utilities,1000
+00809.HK,大成生化科技,原材料业,Materials,日常消费品,30,Consumer Staples,2000
+00810.HK,中国互联网投资,金融业,Financials,金融,40,Financials,6000
+00811.HK,新华文轩,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+00812.HK,西证国际证券,金融业,Financials,金融,40,Financials,2000
+00813.HK,世茂集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00814.HK,北京京客隆,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00815.HK,中国白银集团,原材料业,Materials,原材料,15,Materials,2000
+00816.HK,华电福新,公用事业,Utilities,公用事业,55,Utilities,2000
+00817.HK,中国金茂,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00818.HK,高阳科技,资讯科技业,Information Technology,信息技术,45,Information Technology,3000
+00819.HK,天能动力,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,2000
+00821.HK,汇盈控股,金融业,Financials,金融,40,Financials,4000
+00822.HK,嘉瑞国际,工业,Industrials,工业,20,Industrials,2000
+00825.HK,新世界百货中国,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00826.HK,天工国际,原材料业,Materials,原材料,15,Materials,2000
+00827.HK,玖源集团,原材料业,Materials,原材料,15,Materials,4000
+00828.HK,王朝酒业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00829.HK,神冠控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00830.HK,中国建筑兴业,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00831.HK,利亚零售,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00832.HK,建业地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00833.HK,华讯,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00834.HK,康大食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+00836.HK,华润电力,公用事业,Utilities,公用事业,55,Utilities,2000
+00837.HK,谭木匠,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00838.HK,亿和控股,工业,Industrials,工业,20,Industrials,2000
+00839.HK,中教控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00840.HK,天业节水,工业,Industrials,工业,20,Industrials,2000
+00841.HK,木薯资源,工业,Industrials,日常消费品,30,Consumer Staples,2000
+00842.HK,理士国际,工业,Industrials,信息技术,45,Information Technology,1000
+00844.HK,广泰国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00845.HK,恒盛地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00846.HK,明发集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+00848.HK,茂业国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00850.HK,久康国际,工业,Industrials,能源,10,Energy,4000
+00851.HK,盛源控股,金融业,Financials,金融,40,Financials,10000
+00852.HK,海峡石油化工,能源业,Energy,能源,10,Energy,2000
+00853.HK,微创医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+00854.HK,威雅利,工业,Industrials,信息技术,45,Information Technology,1000
+00855.HK,中国水务,公用事业,Utilities,公用事业,55,Utilities,2000
+00856.HK,伟仕佳杰,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00857.HK,中国石油股份,能源业,Energy,能源,10,Energy,2000
+00858.HK,精优药业,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+00859.HK,中昌国际控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00860.HK,力世纪,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00861.HK,神州控股,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00862.HK,远见控股,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+00863.HK,BC科技集团,金融业,Financials,通讯服务,50,Communication Services,500
+00864.HK,永利地产发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+00865.HK,建德国际控股,地产建筑业,Properties & Construction,信息技术,45,Information Technology,4000
+00866.HK,中国秦发,能源业,Energy,能源,10,Energy,2000
+00867.HK,康哲药业,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+00868.HK,信义玻璃,工业,Industrials,工业,20,Industrials,2000
+00869.HK,彩星玩具,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+00871.HK,中国疏浚环保,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+00872.HK,启迪国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00874.HK,白云山,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+00875.HK,中国金控,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00876.HK,佳兆业健康,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+00877.HK,昂纳科技集团,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00878.HK,金朝阳集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00880.HK,澳博控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00881.HK,中升控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+00882.HK,天津发展,综合企业,Conglomerates,工业,20,Industrials,2000
+00883.HK,中国海洋石油,能源业,Energy,能源,10,Energy,1000
+00884.HK,旭辉控股集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00885.HK,仁天科技控股,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+00886.HK,银基集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,3000
+00887.HK,英皇钟表珠宝,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00888.HK,贝森金融,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00889.HK,连达科技控股,工业,Industrials,信息技术,45,Information Technology,2000
+00891.HK,利邦,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00893.HK,中国铁钛,原材料业,Materials,原材料,15,Materials,1000
+00894.HK,万裕科技,工业,Industrials,信息技术,45,Information Technology,2000
+00895.HK,东江环保,工业,Industrials,工业,20,Industrials,200
+00896.HK,兴胜创建,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00897.HK,位元堂,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+00898.HK,万事昌国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00899.HK,亚洲资源,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00900.HK,AEON CREDIT,金融业,Financials,金融,40,Financials,2000
+00901.HK,鹰力投资,金融业,Financials,金融,40,Financials,20000
+00902.HK,华能国际电力股份,公用事业,Utilities,公用事业,55,Utilities,2000
+00904.HK,中绿,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,8000
+00905.HK,环球大通投资,金融业,Financials,金融,40,Financials,16000
+00906.HK,中粮包装,工业,Industrials,原材料,15,Materials,1000
+00907.HK,高雅光学,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00908.HK,珠海控股投资,综合企业,Conglomerates,工业,20,Industrials,2000
+00910.HK,中国三迪,地产建筑业,Properties & Construction,房地产,60,Real Estate,6000
+00911.HK,前海健康,医疗保健业,Healthcare,非日常生活消费品,25,Consumer Discretionary,5000
+00912.HK,信佳国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00913.HK,合一投资,金融业,Financials,金融,40,Financials,10000
+00914.HK,海螺水泥,地产建筑业,Properties & Construction,原材料,15,Materials,500
+00915.HK,道和环球,工业,Industrials,工业,20,Industrials,1000
+00916.HK,龙源电力,公用事业,Utilities,公用事业,55,Utilities,1000
+00918.HK,国能国际资产,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00919.HK,现代健康科技,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+00921.HK,海信家电,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+00922.HK,安贤园中国,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+00923.HK,综合环保集团,原材料业,Materials,原材料,15,Materials,2000
+00924.HK,坤集团,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+00925.HK,北京建设,工业,Industrials,工业,20,Industrials,2000
+00926.HK,碧生源,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00927.HK,富士高实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00928.HK,莲和医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,20000
+00929.HK,国际精密,工业,Industrials,工业,20,Industrials,5000
+00931.HK,中国天然气,公用事业,Utilities,工业,20,Industrials,2000
+00932.HK,顺腾国际控股,医疗保健业,Healthcare,日常消费品,30,Consumer Staples,4000
+00933.HK,光汇石油,能源业,Energy,能源,10,Energy,1000
+00934.HK,中石化冠德,能源业,Energy,能源,10,Energy,2000
+00935.HK,龙翔集团,工业,Industrials,工业,20,Industrials,2000
+00936.HK,鹏程亚洲,工业,Industrials,工业,20,Industrials,10000
+00938.HK,民生国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00939.HK,建设银行,金融业,Financials,金融,40,Financials,1000
+00941.HK,中国移动,电讯业,Telecommunications,通讯服务,50,Communication Services,500
+00943.HK,中证国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+00945.HK,宏利金融-S,金融业,Financials,金融,40,Financials,100
+00947.HK,摩比发展,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+00948.HK,阿尔法企业,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00950.HK,李氏大药厂,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+00951.HK,超威动力,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,1000
+00952.HK,中国通海金融,金融业,Financials,金融,40,Financials,10000
+00953.HK,邵氏兄弟控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+00954.HK,常茂生物,必需性消费,Consumer Staples,原材料,15,Materials,4000
+00956.HK,新天绿色能源,公用事业,Utilities,公用事业,55,Utilities,1000
+00959.HK,世纪娱乐国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00960.HK,龙湖集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+00966.HK,中国太平,金融业,Financials,金融,40,Financials,200
+00967.HK,桑德国际,公用事业,Utilities,公用事业,55,Utilities,1000
+00968.HK,信义光能,工业,Industrials,公用事业,55,Utilities,2000
+00969.HK,华联国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+00970.HK,耀莱集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+00973.HK,L'OCCITANE,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,250
+00974.HK,中国顺客隆,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,1000
+00975.HK,MONGOL MIN-NEW,能源业,Energy,能源,10,Energy,3000
+00976.HK,齐合环保,原材料业,Materials,原材料,15,Materials,2000
+00978.HK,招商局置地,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+00979.HK,绿色能源科技集团,工业,Industrials,公用事业,55,Utilities,2000
+00980.HK,联华超市,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+00981.HK,中芯国际,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+00982.HK,华金国际资本,金融业,Financials,金融,40,Financials,20000
+00983.HK,瑞安建业,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+00984.HK,永旺,必需性消费,Consumer Staples,非日常生活消费品,25,Consumer Discretionary,500
+00985.HK,中誉集团,原材料业,Materials,原材料,15,Materials,8000
+00986.HK,中国环保能源,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+00987.HK,中国再生能源投资,公用事业,Utilities,公用事业,55,Utilities,2000
+00988.HK,丝路物流控股,工业,Industrials,工业,20,Industrials,3000
+00989.HK,广泽国际发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+00990.HK,荣晖国际,原材料业,Materials,非日常生活消费品,25,Consumer Discretionary,10000
+00991.HK,大唐发电,公用事业,Utilities,公用事业,55,Utilities,2000
+00992.HK,联想集团,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+00993.HK,华融金控,金融业,Financials,金融,40,Financials,1000
+00994.HK,中天宏信,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+00995.HK,安徽皖通高速公路,工业,Industrials,工业,20,Industrials,2000
+00996.HK,嘉年华国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+00997.HK,普汇中金国际,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,5000
+00998.HK,中信银行,金融业,Financials,金融,40,Financials,1000
+00999.HK,I.T,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01000.HK,北青传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,500
+01001.HK,沪港联合,原材料业,Materials,工业,20,Industrials,2000
+01002.HK,威铖国际,工业,Industrials,工业,20,Industrials,4000
+01003.HK,欢喜传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+01004.HK,中国智慧能源,公用事业,Utilities,金融,40,Financials,2000
+01005.HK,MATRIX HOLDINGS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01006.HK,长寿花食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01007.HK,龙辉国际控股,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,20000
+01008.HK,贵联控股,工业,Industrials,工业,20,Industrials,2000
+01009.HK,国际娱乐,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01010.HK,太睿国际控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01011.HK,泰凌医药,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01013.HK,伟俊集团控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01019.HK,康宏环球,金融业,Financials,金融,40,Financials,6000
+01020.HK,赛伯乐国际控股,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01022.HK,飞鱼科技,资讯科技业,Information Technology,信息技术,45,Information Technology,1500
+01023.HK,时代集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01025.HK,嘉艺控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01026.HK,环球实业科技,公用事业,Utilities,公用事业,55,Utilities,10000
+01027.HK,中国集成控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01028.HK,千百度,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01029.HK,铁货,原材料业,Materials,原材料,15,Materials,2000
+01030.HK,新城发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01031.HK,金利丰金融,金融业,Financials,金融,40,Financials,2000
+01033.HK,中石化油服,能源业,Energy,能源,10,Energy,2000
+01034.HK,富汇建筑控股,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+01036.HK,万科海外,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01037.HK,云智汇科技,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01038.HK,长江基建集团,公用事业,Utilities,公用事业,55,Utilities,500
+01039.HK,畅由联盟,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,1000
+01041.HK,林达控股,金融业,Financials,金融,40,Financials,10000
+01043.HK,光宇国际集团科技,工业,Industrials,公用事业,55,Utilities,2000
+01044.HK,恒安国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+01045.HK,亚太卫星,电讯业,Telecommunications,通讯服务,50,Communication Services,2000
+01046.HK,寰宇娱乐文化,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+01047.HK,毅兴行,原材料业,Materials,原材料,15,Materials,2000
+01049.HK,时富投资(新),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,6000
+01050.HK,嘉利国际,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01051.HK,国际资源,金融业,Financials,金融,40,Financials,3000
+01052.HK,越秀交通基建,工业,Industrials,工业,20,Industrials,2000
+01053.HK,重庆钢铁股份,原材料业,Materials,原材料,15,Materials,2000
+01055.HK,中国南方航空股份,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+01057.HK,浙江世宝,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01058.HK,粤海制革,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01059.HK,看通集团,资讯科技业,Information Technology,信息技术,45,Information Technology,3000
+01060.HK,阿里影业,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+01061.HK,亿胜生物科技,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01062.HK,国开国际投资,金融业,Financials,金融,40,Financials,10000
+01063.HK,新确科技,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+01064.HK,中华国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+01065.HK,天津创业环保股份,公用事业,Utilities,公用事业,55,Utilities,2000
+01066.HK,威高股份,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+01068.HK,雨润食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01069.HK,宝沙发展,原材料业,Materials,公用事业,55,Utilities,40000
+01070.HK,TCL电子,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01071.HK,华电国际电力股份,公用事业,Utilities,公用事业,55,Utilities,2000
+01072.HK,东方电气,工业,Industrials,工业,20,Industrials,200
+01073.HK,大禹金融,原材料业,Materials,原材料,15,Materials,5000
+01075.HK,首都信息,资讯科技业,Information Technology,信息技术,45,Information Technology,6000
+01076.HK,博华太平洋,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+01079.HK,松景科技,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01080.HK,胜利管道,能源业,Energy,能源,10,Energy,1500
+01082.HK,香港教育国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01083.HK,港华燃气,公用事业,Utilities,公用事业,55,Utilities,1000
+01084.HK,绿新亲水胶体,必需性消费,Consumer Staples,原材料,15,Materials,2000
+01085.HK,亨鑫科技,资讯科技业,Information Technology,工业,20,Industrials,2000
+01086.HK,好孩子国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01087.HK,威讯控股,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01088.HK,中国神华,能源业,Energy,能源,10,Energy,500
+01089.HK,乐游科技控股,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+01090.HK,大明国际,原材料业,Materials,原材料,15,Materials,2000
+01091.HK,中信大锰,原材料业,Materials,原材料,15,Materials,1000
+01093.HK,石药集团,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01094.HK,中国公共采购,资讯科技业,Information Technology,信息技术,45,Information Technology,8000
+01096.HK,中能国际控股,公用事业,Utilities,公用事业,55,Utilities,2000
+01097.HK,有线宽频,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+01098.HK,路劲,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01099.HK,国药控股,医疗保健业,Healthcare,医疗保健,35,Health Care,400
+01100.HK,飞达控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01101.HK,华荣能源,能源业,Energy,工业,20,Industrials,2000
+01102.HK,环能国际,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+01103.HK,大生农业金融,原材料业,Materials,原材料,15,Materials,8000
+01104.HK,亚太资源,原材料业,Materials,工业,20,Industrials,20000
+01105.HK,星岛,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+01106.HK,铭霖控股,工业,Industrials,原材料,15,Materials,20000
+01107.HK,当代置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01108.HK,洛阳玻璃股份,工业,Industrials,原材料,15,Materials,2000
+01109.HK,华润置地,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01110.HK,金活医药集团,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+01111.HK,创兴银行,金融业,Financials,金融,40,Financials,1000
+01112.HK,H&H国际控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+01113.HK,长实集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+01114.HK,BRILLIANCE CHI,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01115.HK,西藏水资源,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01116.HK,MAYER HOLDINGS,原材料业,Materials,原材料,15,Materials,10000
+01117.HK,现代牧业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01118.HK,高力集团,地产建筑业,Properties & Construction,原材料,15,Materials,10000
+01119.HK,创梦天地,资讯科技业,Information Technology,通讯服务,50,Communication Services,400
+01120.HK,雅视光学,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01121.HK,宝峰时尚,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01122.HK,庆铃汽车股份,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,2000
+01123.HK,中港照相,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01124.HK,沿海家园,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01125.HK,丽丰控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,400
+01126.HK,德林国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01127.HK,狮子山集团,工业,Industrials,工业,20,Industrials,4000
+01128.HK,永利澳门,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,400
+01129.HK,中国水业集团,公用事业,Utilities,公用事业,55,Utilities,4000
+01130.HK,中国环境资源,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,4000
+01131.HK,鸿宝资源,能源业,Energy,能源,10,Energy,5000
+01132.HK,橙天嘉禾,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+01133.HK,哈尔滨电气,工业,Industrials,工业,20,Industrials,2000
+01134.HK,恒发光学,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01137.HK,香港电视,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+01138.HK,中远海能,工业,Industrials,工业,20,Industrials,2000
+01139.HK,华多利集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,16000
+01140.HK,东英金融,金融业,Financials,金融,40,Financials,4000
+01141.HK,民银资本,金融业,Financials,金融,40,Financials,10000
+01142.HK,西伯利亚矿业,原材料业,Materials,原材料,15,Materials,4000
+01143.HK,环亚国际实业,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,4000
+01145.HK,勇利投资,工业,Industrials,工业,20,Industrials,1000
+01146.HK,中国服饰控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01147.HK,伊登软件,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+01148.HK,新晨动力,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01150.HK,米兰站,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01151.HK,依利安达,工业,Industrials,信息技术,45,Information Technology,500
+01152.HK,正乾金融控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01155.HK,星辰通信,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01156.HK,CHINANEWENERGY,能源业,Energy,能源,10,Energy,4000
+01157.HK,中联重科,工业,Industrials,工业,20,Industrials,200
+01158.HK,开元酒店,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,200
+01159.HK,星光文化,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,500
+01160.HK,优创金融,金融业,Financials,金融,40,Financials,100000
+01161.HK,奥思集团,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01162.HK,莹岚集团,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+01163.HK,虎视传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2500
+01164.HK,中广核矿业,原材料业,Materials,工业,20,Industrials,5000
+01165.HK,顺风清洁能源,公用事业,Utilities,工业,20,Industrials,2000
+01166.HK,星凯控股,工业,Industrials,信息技术,45,Information Technology,20000
+01168.HK,百仕达控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01169.HK,海尔电器,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01170.HK,信星集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01171.HK,兖州煤业股份,能源业,Energy,能源,10,Energy,2000
+01172.HK,融太集团,工业,Industrials,工业,20,Industrials,20000
+01173.HK,威高国际,必需性消费,Consumer Staples,医疗保健,35,Health Care,20000
+01175.HK,鲜驰达控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+01176.HK,珠光控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01177.HK,中国生物制药,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01178.HK,汇银控股集团,综合企业,Conglomerates,医疗保健,35,Health Care,5000
+01179.HK,华住集团-S,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,50
+01180.HK,汇彩控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01181.HK,唐宫中国,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01182.HK,胜龙国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01183.HK,澳能建设,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01184.HK,S.A.S. DRAGON,工业,Industrials,信息技术,45,Information Technology,2000
+01185.HK,中国航天万源,工业,Industrials,工业,20,Industrials,2000
+01186.HK,中国铁建,地产建筑业,Properties & Construction,工业,20,Industrials,500
+01188.HK,正道集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01189.HK,大湾区聚变力量,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01190.HK,航标控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01191.HK,中国中石控股,金融业,Financials,房地产,60,Real Estate,20000
+01192.HK,泰山石化,工业,Industrials,能源,10,Energy,20000
+01193.HK,华润燃气,公用事业,Utilities,公用事业,55,Utilities,2000
+01194.HK,湾区黄金,原材料业,Materials,原材料,15,Materials,4000
+01195.HK,京维集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+01196.HK,伟禄集团,工业,Industrials,工业,20,Industrials,2000
+01198.HK,皇朝家居,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01199.HK,中远海运港口,工业,Industrials,工业,20,Industrials,2000
+01200.HK,美联集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01201.HK,天臣控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,3000
+01202.HK,成都普天电缆股份,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01203.HK,广南(集团),原材料业,Materials,原材料,15,Materials,2000
+01205.HK,中信资源,原材料业,Materials,工业,20,Industrials,2000
+01206.HK,同方泰德,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01207.HK,上置集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01208.HK,五矿资源,原材料业,Materials,原材料,15,Materials,4000
+01210.HK,克莉丝汀,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01211.HK,比亚迪股份,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01212.HK,利福国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01213.HK,万保刚集团,工业,Industrials,工业,20,Industrials,2000
+01215.HK,开源控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+01216.HK,中原银行,金融业,Financials,金融,40,Financials,1000
+01217.HK,中国创新投资,金融业,Financials,金融,40,Financials,40000
+01218.HK,永义国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01219.HK,天喔国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01220.HK,志道国际,地产建筑业,Properties & Construction,工业,20,Industrials,30000
+01221.HK,SINO HOTELS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01222.HK,WANG ON GROUP,地产建筑业,Properties & Construction,工业,20,Industrials,20000
+01223.HK,新沣集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01224.HK,中渝置地,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01225.HK,隆成金融,金融业,Financials,金融,40,Financials,20000
+01226.HK,中国投融资,金融业,Financials,金融,40,Financials,10000
+01227.HK,国盛投资,金融业,Financials,金融,40,Financials,20000
+01229.HK,南南资源,能源业,Energy,能源,10,Energy,2000
+01230.HK,雅士利国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01231.HK,新矿资源,原材料业,Materials,原材料,15,Materials,2000
+01232.HK,金轮天地控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01233.HK,时代中国控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01234.HK,中国利郎,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01235.HK,专业旅运,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01237.HK,中科生物,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01238.HK,宝龙地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01239.HK,TEAMWAY INTL GP,工业,Industrials,原材料,15,Materials,20000
+01240.HK,青建国际,地产建筑业,Properties & Construction,工业,20,Industrials,2500
+01241.HK,双桦控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01243.HK,宏安地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+01245.HK,NIRAKU,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01246.HK,保集健康,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01247.HK,米格国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01249.HK,通力电子,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01250.HK,北控清洁能源集团,公用事业,Utilities,公用事业,55,Utilities,20000
+01251.HK,华油能源,能源业,Energy,能源,10,Energy,2000
+01252.HK,中国天瑞水泥,地产建筑业,Properties & Construction,原材料,15,Materials,1000
+01253.HK,中国绿地博大绿泽,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01255.HK,港大零售,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01257.HK,中国光大绿色环保,公用事业,Utilities,工业,20,Industrials,1000
+01258.HK,中国有色矿业,原材料业,Materials,原材料,15,Materials,1000
+01259.HK,未来发展控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01260.HK,皓天财经集团,金融业,Financials,金融,40,Financials,2000
+01262.HK,蜡笔小新食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01263.HK,栢能集团,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01265.HK,天津津燃公用,公用事业,Utilities,公用事业,55,Utilities,10000
+01266.HK,西王特钢,原材料业,Materials,原材料,15,Materials,1000
+01268.HK,美东汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01269.HK,首控集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01270.HK,朗廷-SS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01271.HK,佳明集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01272.HK,大唐环境,工业,Industrials,工业,20,Industrials,1000
+01273.HK,香港信贷,金融业,Financials,金融,40,Financials,4000
+01277.HK,力量能源,能源业,Energy,能源,10,Energy,2000
+01278.HK,中国新城镇,地产建筑业,Properties & Construction,房地产,60,Real Estate,2500
+01280.HK,奇点国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01281.HK,隆基泰和智慧能源,公用事业,Utilities,公用事业,55,Utilities,1000
+01282.HK,宝新金融,金融业,Financials,工业,20,Industrials,4000
+01283.HK,高陞集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01285.HK,嘉士利集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01286.HK,鹰普精密,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,1000
+01288.HK,农业银行,金融业,Financials,金融,40,Financials,1000
+01289.HK,盛力达科技,工业,Industrials,工业,20,Industrials,500
+01290.HK,中国汇融,金融业,Financials,金融,40,Financials,2000
+01292.HK,长安民生物流,工业,Industrials,工业,20,Industrials,1000
+01293.HK,广汇宝信,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01296.HK,国电科环,工业,Industrials,公用事业,55,Utilities,1000
+01297.HK,中国擎天软件,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01298.HK,云能国际,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01299.HK,友邦保险,金融业,Financials,金融,40,Financials,200
+01300.HK,俊知集团,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01301.HK,德基科技控股,工业,Industrials,工业,20,Industrials,2000
+01302.HK,先健科技,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01303.HK,汇力资源,能源业,Energy,原材料,15,Materials,2000
+01305.HK,伟志控股,工业,Industrials,信息技术,45,Information Technology,1000
+01308.HK,海丰国际,工业,Industrials,工业,20,Industrials,1000
+01310.HK,香港宽频,电讯业,Telecommunications,通讯服务,50,Communication Services,500
+01312.HK,同方康泰,地产建筑业,Properties & Construction,原材料,15,Materials,6000
+01313.HK,华润水泥控股,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+01314.HK,翠华控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01315.HK,允升国际,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01316.HK,耐世特,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01317.HK,枫叶教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01319.HK,霭华押业信贷,金融业,Financials,金融,40,Financials,8000
+01321.HK,中国新城市,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01322.HK,创达科技控股,工业,Industrials,工业,20,Industrials,500
+01323.HK,华盛国际控股,综合企业,Conglomerates,工业,20,Industrials,2000
+01326.HK,传递娱乐,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,8000
+01327.HK,励时集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01328.HK,金涌投资,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+01329.HK,首创钜大,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01330.HK,绿色动力环保,工业,Industrials,工业,20,Industrials,1000
+01332.HK,中国透云,工业,Industrials,原材料,15,Materials,10000
+01333.HK,中国忠旺,原材料业,Materials,原材料,15,Materials,400
+01335.HK,顺泰控股,工业,Industrials,原材料,15,Materials,2000
+01336.HK,新华保险,金融业,Financials,金融,40,Financials,100
+01337.HK,雷蛇,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01338.HK,霸王集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01339.HK,中国人民保险集团,金融业,Financials,金融,40,Financials,1000
+01340.HK,惠生国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+01341.HK,昊天国际建投,工业,Industrials,工业,20,Industrials,8000
+01343.HK,伟源控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01345.HK,中国先锋医药,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01346.HK,利华控股集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01347.HK,华虹半导体,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01348.HK,滉达富控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01349.HK,复旦张江,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01353.HK,诺奇,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01355.HK,朸浚国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01357.HK,美图公司,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+01358.HK,普华和顺,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01359.HK,中国信达,金融业,Financials,金融,40,Financials,1000
+01360.HK,诺发集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+01361.HK,361度,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01362.HK,新龙移动,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01363.HK,中滔环保,公用事业,Utilities,公用事业,55,Utilities,2000
+01365.HK,润东汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01366.HK,江南集团,工业,Industrials,工业,20,Industrials,2000
+01367.HK,广州基金国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01368.HK,特步国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01369.HK,五洲国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01370.HK,奥威控股,原材料业,Materials,原材料,15,Materials,1000
+01371.HK,华彩控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01372.HK,比速科技,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01373.HK,国际家居零售,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01375.HK,中州证券,金融业,Financials,金融,40,Financials,1000
+01376.HK,RAFFLESINTERIOR,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,8000
+01378.HK,中国宏桥,原材料业,Materials,原材料,15,Materials,500
+01380.HK,中国金石,原材料业,Materials,原材料,15,Materials,20000
+01381.HK,粤丰环保,公用事业,Utilities,公用事业,55,Utilities,1000
+01382.HK,互太纺织,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01383.HK,太阳城集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01385.HK,上海复旦,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01386.HK,国投集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01387.HK,中国地利,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01388.HK,安莉芳控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01389.HK,美捷汇控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+01393.HK,恒鼎实业,能源业,Energy,能源,10,Energy,1000
+01395.HK,强泰环保,公用事业,Utilities,公用事业,55,Utilities,5000
+01396.HK,粤港湾控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01397.HK,碧瑶绿色集团,非必需性消费,Consumer Discretionary,工业,20,Industrials,4000
+01398.HK,工商银行,金融业,Financials,金融,40,Financials,1000
+01399.HK,飞毛腿,工业,Industrials,公用事业,55,Utilities,2000
+01400.HK,满地科技股份,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01401.HK,SPROCOMM INTEL,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,20000
+01402.HK,超智能控股,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+01408.HK,濠江机电,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01410.HK,安领国际,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+01412.HK,隽思集团,工业,Industrials,原材料,15,Materials,2000
+01415.HK,高伟电子,工业,Industrials,信息技术,45,Information Technology,1000
+01416.HK,CTR HOLDINGS,地产建筑业,Properties & Construction,原材料,15,Materials,10000
+01417.HK,浦江中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01418.HK,盛诺集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01419.HK,盈健医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01420.HK,川控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01421.HK,工盖有限公司,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01425.HK,捷隆控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01427.HK,中国天保集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01428.HK,耀才证券金融,金融业,Financials,金融,40,Financials,2000
+01430.HK,苏创燃气,公用事业,Utilities,公用事业,55,Utilities,2000
+01431.HK,原生态牧业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01432.HK,中国圣牧,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01433.HK,常达控股,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,10000
+01439.HK,移动互联(中国),工业,Industrials,原材料,15,Materials,5000
+01442.HK,INFINITY L&T,工业,Industrials,工业,20,Industrials,10000
+01443.HK,富临集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01446.HK,鸿福堂,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01447.HK,新福港,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01448.HK,福寿园,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01449.HK,立德教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01450.HK,世纪睿科,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01451.HK,万成集团股份,工业,Industrials,工业,20,Industrials,2000
+01452.HK,迪诺斯环保,工业,Industrials,原材料,15,Materials,1000
+01455.HK,科利实业控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01456.HK,国联证券,金融业,Financials,金融,40,Financials,500
+01458.HK,周黑鸭,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+01459.HK,巨匠建设,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01460.HK,扬科集团,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01461.HK,鲁证期货,金融业,Financials,金融,40,Financials,1000
+01462.HK,金诚控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01463.HK,C-LINK SQ,非必需性消费,Consumer Discretionary,工业,20,Industrials,4000
+01466.HK,钱唐控股(新),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+01468.HK,京基金融国际,综合企业,Conglomerates,非日常生活消费品,25,Consumer Discretionary,10000
+01469.HK,结好金融,金融业,Financials,金融,40,Financials,4000
+01470.HK,富一国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01472.HK,生兴控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01475.HK,日清食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01476.HK,恒投证券,金融业,Financials,金融,40,Financials,1000
+01477.HK,欧康维视生物-B,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01478.HK,丘钛科技,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,1000
+01480.HK,恩达集团控股,工业,Industrials,信息技术,45,Information Technology,2000
+01483.HK,誉宴集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01486.HK,思城控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01488.HK,百福控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01492.HK,中地乳业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01495.HK,集一控股,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,2000
+01496.HK,亚积邦租赁,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01498.HK,培力控股,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01499.HK,欧科云链,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01500.HK,现恒建筑,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01501.HK,康德莱医械,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+01502.HK,金融街物业,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01508.HK,中国再保险,金融业,Financials,金融,40,Financials,1000
+01509.HK,和美医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01513.HK,丽珠医药,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+01515.HK,华润医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01518.HK,新世纪医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01520.HK,华信金融投资,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,6000
+01521.HK,方达控股,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01522.HK,京投交通科技,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01523.HK,珩湾科技,资讯科技业,Information Technology,信息技术,45,Information Technology,8000
+01525.HK,建桥教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01526.HK,瑞慈医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01527.HK,天洁环境,工业,Industrials,工业,20,Industrials,200
+01528.HK,红星美凯龙,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,200
+01529.HK,健升物流中国,工业,Industrials,工业,20,Industrials,10000
+01530.HK,三生制药,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01532.HK,中国派对文化,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,3000
+01533.HK,庄园牧场,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+01536.HK,煜荣集团,工业,Industrials,工业,20,Industrials,2000
+01538.HK,中奥到家,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01539.HK,汇能集团,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+01540.HK,澳狮环球,工业,Industrials,工业,20,Industrials,3000
+01542.HK,台州水务,公用事业,Utilities,公用事业,55,Utilities,1000
+01543.HK,中盈盛达融资担保,金融业,Financials,金融,40,Financials,2000
+01545.HK,设计都会,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01546.HK,德莱建业,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+01547.HK,IBI GROUP HLDGS,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+01548.HK,金斯瑞生物科技,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01549.HK,永丰集团控股,工业,Industrials,工业,20,Industrials,8000
+01551.HK,广州农商银行,金融业,Financials,金融,40,Financials,1000
+01552.HK,BHCC HOLDING,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01553.HK,迈科管业,原材料业,Materials,原材料,15,Materials,2000
+01555.HK,MI能源,能源业,Energy,能源,10,Energy,2000
+01556.HK,建业建荣,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01557.HK,剑虹集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01558.HK,东阳光药,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+01559.HK,均安控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01560.HK,星星地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01561.HK,联洋智能控股,原材料业,Materials,原材料,15,Materials,4000
+01563.HK,友联租赁,金融业,Financials,金融,40,Financials,3000
+01565.HK,成实外教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01566.HK,华夏文化科技,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01568.HK,承达集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01569.HK,民生教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01570.HK,伟业控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01571.HK,信邦控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01572.HK,中国艺术金融,金融业,Financials,非日常生活消费品,25,Consumer Discretionary,4000
+01573.HK,南方能源,能源业,Energy,能源,10,Energy,2000
+01575.HK,慕容控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01576.HK,齐鲁高速,工业,Industrials,工业,20,Industrials,1000
+01577.HK,汇鑫小贷,金融业,Financials,金融,40,Financials,2000
+01578.HK,天津银行,金融业,Financials,金融,40,Financials,500
+01579.HK,颐海国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01580.HK,大森控股,原材料业,Materials,原材料,15,Materials,5000
+01581.HK,进昇集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01582.HK,华营建筑,地产建筑业,Properties & Construction,工业,20,Industrials,2500
+01583.HK,亲亲食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01585.HK,雅迪控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01586.HK,中国力鸿,非必需性消费,Consumer Discretionary,工业,20,Industrials,4000
+01587.HK,欣融国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+01588.HK,畅捷通,资讯科技业,Information Technology,信息技术,45,Information Technology,200
+01589.HK,中国物流资产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01591.HK,汛和集团,地产建筑业,Properties & Construction,工业,20,Industrials,20000
+01592.HK,基石控股,地产建筑业,Properties & Construction,原材料,15,Materials,5000
+01593.HK,辰林教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01596.HK,翼辰实业,工业,Industrials,工业,20,Industrials,1000
+01598.HK,21世纪教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,3000
+01599.HK,城建设计,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01600.HK,天伦燃气,公用事业,Utilities,公用事业,55,Utilities,500
+01601.HK,中关村科技租赁,金融业,Financials,金融,40,Financials,2000
+01606.HK,国银租赁,金融业,Financials,金融,40,Financials,2000
+01608.HK,伟能集团,公用事业,Utilities,工业,20,Industrials,1000
+01609.HK,创建集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01610.HK,中粮肉食,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01611.HK,火币科技,工业,Industrials,信息技术,45,Information Technology,2000
+01612.HK,永胜医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01613.HK,协同通信,资讯科技业,Information Technology,信息技术,45,Information Technology,3200
+01615.HK,奥邦建筑,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01616.HK,星宏传媒,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01617.HK,南方通信,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01618.HK,中国中冶,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01620.HK,加达控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01621.HK,域高国际控股,能源业,Energy,原材料,15,Materials,8000
+01622.HK,力高集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01623.HK,海隆控股,能源业,Energy,能源,10,Energy,1000
+01626.HK,嘉耀控股,工业,Industrials,原材料,15,Materials,2000
+01627.HK,安保工程控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01628.HK,禹洲集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01629.HK,冠均国际控股,工业,Industrials,原材料,15,Materials,4000
+01630.HK,建成控股,地产建筑业,Properties & Construction,工业,20,Industrials,6000
+01631.HK,REF HOLDINGS,工业,Industrials,工业,20,Industrials,5000
+01632.HK,民商创科,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01633.HK,上谕集团,地产建筑业,Properties & Construction,工业,20,Industrials,3000
+01635.HK,大众公用,公用事业,Utilities,公用事业,55,Utilities,1000
+01636.HK,中国金属利用,原材料业,Materials,原材料,15,Materials,4000
+01637.HK,顺兴集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01638.HK,佳兆业集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01639.HK,安捷利实业,工业,Industrials,工业,20,Industrials,10000
+01640.HK,瑞诚中国传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+01645.HK,海纳智能,工业,Industrials,工业,20,Industrials,4000
+01647.HK,雄岸科技,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01649.HK,内蒙古能建,地产建筑业,Properties & Construction,公用事业,55,Utilities,2000
+01650.HK,HYGIEIA GROUP,非必需性消费,Consumer Discretionary,工业,20,Industrials,8000
+01651.HK,津上机床中国,工业,Industrials,工业,20,Industrials,1000
+01652.HK,福森药业,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01653.HK,MOS HOUSE-NEW,地产建筑业,Properties & Construction,原材料,15,Materials,20000
+01655.HK,OKURA HOLDINGS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01656.HK,亿仕登控股,工业,Industrials,工业,20,Industrials,2000
+01657.HK,桦欣控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01658.HK,邮储银行,金融业,Financials,金融,40,Financials,1000
+01659.HK,海天能源,公用事业,Utilities,公用事业,55,Utilities,8000
+01660.HK,兆邦基地产,工业,Industrials,工业,20,Industrials,8000
+01661.HK,智美体育,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+01662.HK,义合控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01663.HK,汉港控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01665.HK,槟杰科达,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01666.HK,同仁堂科技,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01667.HK,进阶发展,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01668.HK,华南城,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01669.HK,环球信贷集团,金融业,Financials,金融,40,Financials,2000
+01671.HK,天保能源,公用事业,Utilities,能源,10,Energy,2000
+01672.HK,歌礼制药-B,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01673.HK,华章科技,工业,Industrials,工业,20,Industrials,2000
+01675.HK,亚信科技,资讯科技业,Information Technology,信息技术,45,Information Technology,400
+01676.HK,中国升海集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+01678.HK,中创环球,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01679.HK,瑞斯康集团,资讯科技业,Information Technology,信息技术,45,Information Technology,2500
+01680.HK,澳门励骏,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01681.HK,康臣药业,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01682.HK,杭品生活科技,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01683.HK,旷逸国际,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01685.HK,博耳电力,工业,Industrials,工业,20,Industrials,1000
+01686.HK,新意网集团,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01689.HK,华禧控股,工业,Industrials,原材料,15,Materials,2000
+01690.HK,立基工程控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01691.HK,JS环球生活,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01692.HK,登辉控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01693.HK,璋利国际,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01695.HK,椰丰集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,5000
+01696.HK,复锐医疗科技,医疗保健业,Healthcare,医疗保健,35,Health Care,400
+01697.HK,山东国信,金融业,Financials,金融,40,Financials,1800
+01698.HK,博士蛙国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01699.HK,普甜食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+01701.HK,途屹控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01702.HK,东光化工,原材料业,Materials,原材料,15,Materials,4000
+01703.HK,首沣控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01705.HK,宾仕国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+01706.HK,双运控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01707.HK,致浩达控股,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+01708.HK,三宝科技,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+01709.HK,德林控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01710.HK,致丰工业电子,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,4000
+01711.HK,欧化,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01712.HK,龙资源,原材料业,Materials,原材料,15,Materials,1000
+01713.HK,四川能投发展,公用事业,Utilities,公用事业,55,Utilities,2000
+01715.HK,米技国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01716.HK,毛记葵涌,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+01717.HK,澳优,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+01718.HK,宏基集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01719.HK,中国通商集团,工业,Industrials,工业,20,Industrials,4000
+01720.HK,普天通信集团,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01721.HK,FSM HOLDINGS,原材料业,Materials,原材料,15,Materials,5000
+01722.HK,建鹏控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01723.HK,港亚控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+01725.HK,恒达科技控股,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,5000
+01726.HK,HKE HOLDINGS,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+01727.HK,河北建设,地产建筑业,Properties & Construction,工业,20,Industrials,500
+01728.HK,正通汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01729.HK,汇聚科技,资讯科技业,Information Technology,工业,20,Industrials,8000
+01730.HK,LHN,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01731.HK,其利工业集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01732.HK,象兴国际,工业,Industrials,工业,20,Industrials,20000
+01733.HK,易大宗,能源业,Energy,能源,10,Energy,12000
+01735.HK,中环控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01736.HK,中国育儿网络,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01737.HK,亚洲实业集团,工业,Industrials,工业,20,Industrials,10000
+01738.HK,飞尚无烟煤,能源业,Energy,能源,10,Energy,2500
+01739.HK,齐屹科技,地产建筑业,Properties & Construction,工业,20,Industrials,500
+01740.HK,新石文化,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+01741.HK,日赢控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01742.HK,HPC HOLDINGS,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01743.HK,苍南仪表,工业,Industrials,原材料,15,Materials,200
+01745.HK,LVJI TECH,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,2000
+01746.HK,万顺集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01747.HK,HOME CONTROL,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01748.HK,信源企业集团,工业,Industrials,工业,20,Industrials,2000
+01749.HK,杉杉品牌,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01750.HK,全达电器集团控股,工业,Industrials,工业,20,Industrials,10000
+01751.HK,景联集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01752.HK,澳洲成峰高教,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01753.HK,兑吧,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,400
+01755.HK,新城悦服务,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01756.HK,华立大学集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01757.HK,俊裕地基,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01758.HK,博骏教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01759.HK,中油洁能控股,公用事业,Utilities,能源,10,Energy,1000
+01760.HK,英恒科技,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01761.HK,宝宝树集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,500
+01762.HK,万咖壹联,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+01763.HK,中国同辐,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+01765.HK,希望教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01766.HK,中国中车,工业,Industrials,工业,20,Industrials,1000
+01767.HK,TS WONDERS,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+01769.HK,思考乐教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01771.HK,新丰泰集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01772.HK,赣锋锂业,原材料业,Materials,原材料,15,Materials,200
+01773.HK,天立教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01775.HK,精英汇集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01776.HK,广发证券,金融业,Financials,金融,40,Financials,200
+01777.HK,花样年控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1500
+01778.HK,彩生活,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01780.HK,B & D STRATEGIC,地产建筑业,Properties & Construction,工业,20,Industrials,2500
+01781.HK,新昌创展控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01782.HK,飞思达科技,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+01783.HK,金仑控股有限公司,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01785.HK,成都高速,工业,Industrials,工业,20,Industrials,1000
+01786.HK,铁建装备,工业,Industrials,工业,20,Industrials,500
+01787.HK,山东黄金,原材料业,Materials,原材料,15,Materials,250
+01788.HK,国泰君安国际,金融业,Financials,金融,40,Financials,1000
+01789.HK,爱康医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01790.HK,达力环保,公用事业,Utilities,工业,20,Industrials,5000
+01792.HK,CMON,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01793.HK,伟工控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01796.HK,耀高控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+01797.HK,新东方在线,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01798.HK,大唐新能源,公用事业,Utilities,公用事业,55,Utilities,1000
+01799.HK,新特能源,公用事业,Utilities,信息技术,45,Information Technology,400
+01800.HK,中国交通建设,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01801.HK,信达生物,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01802.HK,文业集团,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,2000
+01803.HK,北京体育文化,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2500
+01806.HK,汇付天下,资讯科技业,Information Technology,金融,40,Financials,400
+01808.HK,企展控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01809.HK,浦林成山,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01810.HK,小米集团-W,资讯科技业,Information Technology,信息技术,45,Information Technology,200
+01811.HK,中广核新能源,公用事业,Utilities,公用事业,55,Utilities,2000
+01812.HK,晨鸣纸业,原材料业,Materials,原材料,15,Materials,500
+01813.HK,合景泰富集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+01815.HK,金猫银猫,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01816.HK,中广核电力,公用事业,Utilities,公用事业,55,Utilities,1000
+01817.HK,慕尚集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01818.HK,招金矿业,原材料业,Materials,原材料,15,Materials,500
+01820.HK,济丰包装,工业,Industrials,原材料,15,Materials,1000
+01821.HK,ESR,金融业,Financials,房地产,60,Real Estate,200
+01822.HK,中木国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,30000
+01823.HK,华昱高速,工业,Industrials,工业,20,Industrials,2000
+01825.HK,STERLING GP,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01826.HK,旭通控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01827.HK,卓珈控股,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+01829.HK,中国机械工程,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+01830.HK,必瘦站,医疗保健业,Healthcare,日常消费品,30,Consumer Staples,4000
+01831.HK,十方控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+01832.HK,海天地悦旅,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01833.HK,平安好医生,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+01835.HK,瑞威资管,金融业,Financials,金融,40,Financials,400
+01836.HK,九兴控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01837.HK,五谷磨房,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01838.HK,CHINAPROPERTIES,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01839.HK,中集车辆,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,500
+01841.HK,优越集团控股,工业,Industrials,工业,20,Industrials,10000
+01842.HK,植华集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01843.HK,快餐帝国,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01845.HK,维港环保科技,工业,Industrials,工业,20,Industrials,3000
+01846.HK,德视佳,医疗保健业,Healthcare,非日常生活消费品,25,Consumer Discretionary,1000
+01847.HK,云南建投混凝土,地产建筑业,Properties & Construction,原材料,15,Materials,1000
+01848.HK,中国飞机租赁,非必需性消费,Consumer Discretionary,工业,20,Industrials,500
+01849.HK,秀商时代控股,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,5000
+01850.HK,海鑫集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01851.HK,银杏教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01853.HK,春城热力,公用事业,Utilities,公用事业,55,Utilities,2500
+01854.HK,展程控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+01856.HK,依波路,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01857.HK,中国光大水务,公用事业,Utilities,工业,20,Industrials,1000
+01858.HK,春立医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,250
+01859.HK,煜盛文化,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+01860.HK,汇量科技,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+01861.HK,保宝龙科技,原材料业,Materials,工业,20,Industrials,2000
+01862.HK,景瑞控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01863.HK,中国龙天集团,原材料业,Materials,原材料,15,Materials,1000
+01865.HK,管道工程,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+01866.HK,中国心连心化肥,原材料业,Materials,原材料,15,Materials,1000
+01867.HK,乐嘉思控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01868.HK,同方友友,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01869.HK,利宝阁集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+01870.HK,益美国际控股,地产建筑业,Properties & Construction,工业,20,Industrials,2500
+01871.HK,向中国际,非必需性消费,Consumer Discretionary,工业,20,Industrials,4000
+01872.HK,冠轈控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01873.HK,维亚生物,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+01875.HK,东曜药业-B,医疗保健业,Healthcare,医疗保健,35,Health Care,400
+01876.HK,百威亚太,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,100
+01877.HK,君实生物,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+01878.HK,南戈壁-S,能源业,Energy,能源,10,Energy,50
+01882.HK,海天国际,工业,Industrials,工业,20,Industrials,1000
+01883.HK,中信国际电讯,电讯业,Telecommunications,通讯服务,50,Communication Services,1000
+01884.HK,EPRINT集团,工业,Industrials,工业,20,Industrials,4000
+01885.HK,中国优材,原材料业,Materials,原材料,15,Materials,4000
+01886.HK,汇源果汁,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+01888.HK,建滔积层板,工业,Industrials,信息技术,45,Information Technology,500
+01889.HK,三爱健康集团,医疗保健业,Healthcare,医疗保健,35,Health Care,2500
+01890.HK,中国科培,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01891.HK,兴合控股,原材料业,Materials,原材料,15,Materials,4000
+01894.HK,恒益控股,地产建筑业,Properties & Construction,原材料,15,Materials,5000
+01895.HK,鑫苑服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01896.HK,猫眼娱乐,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,200
+01897.HK,美亨实业,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+01898.HK,中煤能源,能源业,Energy,能源,10,Energy,1000
+01899.HK,兴达国际,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,1000
+01900.HK,中国智能交通,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01901.HK,飞扬集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01902.HK,银城国际控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01903.HK,JBB BUILDERS,工业,Industrials,工业,20,Industrials,2000
+01905.HK,海通恒信,金融业,Financials,金融,40,Financials,2000
+01906.HK,博尼控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+01907.HK,中国旭阳集团,原材料业,Materials,能源,10,Energy,1000
+01908.HK,建发国际集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01909.HK,火岩控股,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+01910.HK,新秀丽,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,300
+01911.HK,华兴资本控股,金融业,Financials,金融,40,Financials,100
+01912.HK,康特隆,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+01913.HK,普拉达,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,100
+01915.HK,泰和小贷,金融业,Financials,金融,40,Financials,2000
+01916.HK,江西银行,金融业,Financials,金融,40,Financials,500
+01917.HK,豆盟科技,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+01918.HK,融创中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01919.HK,中远海控,工业,Industrials,工业,20,Industrials,500
+01920.HK,恒新丰控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+01921.HK,达力普控股,能源业,Energy,能源,10,Energy,2000
+01922.HK,银城生活服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01925.HK,旷世控股,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,2000
+01928.HK,金沙中国有限公司,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,400
+01929.HK,周大福,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,200
+01930.HK,勋龙,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,4000
+01931.HK,华检医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+01932.HK,中漆集团,原材料业,Materials,工业,20,Industrials,4000
+01933.HK,元力控股,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+01935.HK,嘉宏教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01936.HK,RITAMIX,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+01937.HK,佳辰控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01938.HK,珠江钢管,能源业,Energy,能源,10,Energy,1000
+01939.HK,东京中央拍卖,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01941.HK,烨星集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01942.HK,MOG HOLDINGS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01943.HK,银涛控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01949.HK,PLATT NERA,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01950.HK,深蓝科技控股,原材料业,Materials,原材料,15,Materials,4000
+01951.HK,锦欣生殖,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+01953.HK,RIMBACO,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01955.HK,庄臣控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+01957.HK,MBV INTL,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2500
+01958.HK,北京汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+01959.HK,世纪联合控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01960.HK,TBKS HLDGS,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+01961.HK,九尊数字互娱,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01962.HK,训修实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01963.HK,重庆银行,金融业,Financials,金融,40,Financials,500
+01966.HK,中骏集团控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01967.HK,信恳智能,工业,Industrials,信息技术,45,Information Technology,2000
+01968.HK,兴纺控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+01969.HK,中国春来,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+01970.HK,IMAX CHINA,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,100
+01971.HK,弘阳服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01972.HK,太古地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,200
+01975.HK,新兴印刷,工业,Industrials,工业,20,Industrials,4000
+01977.HK,安乐工程,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,2000
+01978.HK,叙福楼集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01979.HK,天宝集团,工业,Industrials,信息技术,45,Information Technology,4000
+01980.HK,天鸽互动,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+01981.HK,华夏视听教育,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+01982.HK,南旋控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01983.HK,泸州银行,金融业,Financials,金融,40,Financials,1000
+01985.HK,美高域,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+01986.HK,彩客化学,原材料业,Materials,原材料,15,Materials,500
+01987.HK,BENG SOON MACH,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+01988.HK,民生银行,金融业,Financials,金融,40,Financials,500
+01989.HK,松龄护老集团,非必需性消费,Consumer Discretionary,医疗保健,35,Health Care,8000
+01990.HK,兴华港口,工业,Industrials,工业,20,Industrials,1000
+01991.HK,大洋集团,工业,Industrials,工业,20,Industrials,2000
+01992.HK,复星旅游文化,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,200
+01993.HK,雅仕维,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,500
+01995.HK,永升生活服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+01996.HK,弘阳地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01997.HK,九龙仓置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+01998.HK,飞克国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+01999.HK,敏华控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,400
+02000.HK,晨讯科技,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+02001.HK,新高教集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02002.HK,阳光纸业,原材料业,Materials,原材料,15,Materials,500
+02003.HK,维信金科,金融业,Financials,金融,40,Financials,200
+02005.HK,石四药集团,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+02006.HK,锦江资本,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02007.HK,碧桂园,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02008.HK,凤凰卫视,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+02009.HK,金隅集团,地产建筑业,Properties & Construction,原材料,15,Materials,1000
+02010.HK,瑞年国际,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+02011.HK,中国恒泰集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02012.HK,阳光油砂,能源业,Energy,能源,10,Energy,1000
+02013.HK,微盟集团,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,1000
+02014.HK,浩泽净水,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02016.HK,浙商银行,金融业,Financials,金融,40,Financials,1000
+02017.HK,沧海控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02018.HK,瑞声科技,工业,Industrials,信息技术,45,Information Technology,500
+02019.HK,德信中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02020.HK,安踏体育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02022.HK,游莱互动,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+02023.HK,中国绿岛科技,非必需性消费,Consumer Discretionary,医疗保健,35,Health Care,4000
+02025.HK,瑞丰动力,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02028.HK,映美控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+02030.HK,卡宾,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02031.HK,澳至尊,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+02033.HK,时计宝,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02038.HK,富智康集团,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+02039.HK,中集集团,工业,Industrials,工业,20,Industrials,100
+02048.HK,易居企业控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,300
+02051.HK,51信用卡,金融业,Financials,金融,40,Financials,500
+02060.HK,浦江国际,地产建筑业,Properties & Construction,原材料,15,Materials,1000
+02066.HK,盛京银行,金融业,Financials,金融,40,Financials,500
+02068.HK,中铝国际,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+02078.HK,荣阳实业,原材料业,Materials,原材料,15,Materials,1000
+02080.HK,奥克斯国际,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,2000
+02083.HK,大自然家居,非必需性消费,Consumer Discretionary,原材料,15,Materials,1000
+02086.HK,海航科技投资,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+02088.HK,西王置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02098.HK,卓尔智联,工业,Industrials,工业,20,Industrials,1000
+02099.HK,中国黄金国际,原材料业,Materials,原材料,15,Materials,100
+02100.HK,百奥家庭互动,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+02101.HK,福禄控股,资讯科技业,Information Technology,通讯服务,50,Communication Services,500
+02103.HK,新力控股集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02108.HK,K2 F&B,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+02111.HK,超盈国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02112.HK,优库资源,原材料业,Materials,原材料,15,Materials,2000
+02113.HK,世纪集团国际,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+02116.HK,江苏创新,原材料业,Materials,原材料,15,Materials,2000
+02118.HK,天山发展控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02119.HK,捷荣国际控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+02120.HK,康宁医院,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+02122.HK,凯知乐国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02123.HK,金盾控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+02128.HK,中国联塑,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+02133.HK,信盛矿业,原材料业,Materials,原材料,15,Materials,10000
+02136.HK,利福中国,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02138.HK,香港医思医疗集团,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+02139.HK,甘肃银行,金融业,Financials,金融,40,Financials,1000
+02163.HK,远大住工,地产建筑业,Properties & Construction,工业,20,Industrials,300
+02166.HK,芯智控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+02168.HK,佳兆业美好,地产建筑业,Properties & Construction,工业,20,Industrials,250
+02178.HK,百勤油服,能源业,Energy,能源,10,Energy,1000
+02180.HK,万宝盛华,非必需性消费,Consumer Discretionary,工业,20,Industrials,250
+02181.HK,迈博药业-B,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+02182.HK,天长集团,工业,Industrials,原材料,15,Materials,4000
+02183.HK,三盛控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02186.HK,绿叶制药,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02188.HK,泰坦能源技术,工业,Industrials,工业,20,Industrials,2000
+02189.HK,嘉涛(香港)控股,非必需性消费,Consumer Discretionary,房地产,60,Real Estate,4000
+02193.HK,万景控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+02196.HK,复星医药,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02198.HK,中国三江化工,原材料业,Materials,原材料,15,Materials,1000
+02199.HK,维珍妮,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02202.HK,万科企业,地产建筑业,Properties & Construction,房地产,60,Real Estate,100
+02203.HK,脑洞科技,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+02208.HK,金风科技,工业,Industrials,公用事业,55,Utilities,200
+02211.HK,大健康国际,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+02212.HK,高鹏矿业,原材料业,Materials,原材料,15,Materials,20000
+02213.HK,益华控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02218.HK,安德利果汁,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+02221.HK,创业集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+02222.HK,雷士国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02223.HK,卡撒天娇,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02225.HK,今海国际,非必需性消费,Consumer Discretionary,工业,20,Industrials,5000
+02226.HK,老恒和酿造,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+02227.HK,守益控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+02228.HK,中国节能海东青,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,3000
+02230.HK,羚邦集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+02231.HK,景业名邦集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02232.HK,晶苑国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02233.HK,西部水泥,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+02236.HK,惠生工程,能源业,Energy,能源,10,Energy,1000
+02238.HK,广汽集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02239.HK,国微控股,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+02255.HK,海昌海洋公园,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02258.HK,华滋国际海洋,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02262.HK,梁志天设计集团,地产建筑业,Properties & Construction,工业,20,Industrials,3000
+02263.HK,富石金融,金融业,Financials,金融,40,Financials,10000
+02266.HK,黎氏企业,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02268.HK,优源控股,原材料业,Materials,原材料,15,Materials,1000
+02269.HK,药明生物,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02277.HK,华融投资股份,金融业,Financials,工业,20,Industrials,5000
+02278.HK,海蓝控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02280.HK,慧聪集团,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+02281.HK,兴泸水务,公用事业,Utilities,公用事业,55,Utilities,1000
+02282.HK,美高梅中国,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,400
+02283.HK,东江集团控股,工业,Industrials,工业,20,Industrials,2000
+02286.HK,辰兴发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02288.HK,宏基资本,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02289.HK,创美药业,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02292.HK,晋安实业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02293.HK,百本医护,医疗保健业,Healthcare,医疗保健,35,Health Care,8000
+02296.HK,华记环球集团,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,8000
+02298.HK,都市丽人,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02299.HK,百宏实业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02300.HK,澳科控股,工业,Industrials,原材料,15,Materials,2000
+02302.HK,中核国际,原材料业,Materials,信息技术,45,Information Technology,1000
+02303.HK,恒兴黄金,原材料业,Materials,原材料,15,Materials,2000
+02307.HK,锦兴国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02308.HK,研祥智能,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,4000
+02309.HK,伯明翰体育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+02310.HK,时代环球集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02312.HK,中国金融租赁,金融业,Financials,金融,40,Financials,20000
+02313.HK,申洲国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,100
+02314.HK,理文造纸,原材料业,Materials,原材料,15,Materials,1000
+02317.HK,味丹国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+02318.HK,中国平安,金融业,Financials,金融,40,Financials,500
+02319.HK,蒙牛乳业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+02320.HK,合丰集团,原材料业,Materials,原材料,15,Materials,2000
+02322.HK,香港潮商集团,原材料业,Materials,工业,20,Industrials,8000
+02323.HK,融科控股,工业,Industrials,工业,20,Industrials,2000
+02324.HK,首都创投,金融业,Financials,金融,40,Financials,10000
+02326.HK,新源万恒控股,原材料业,Materials,原材料,15,Materials,10000
+02327.HK,美瑞健康国际,综合企业,Conglomerates,工业,20,Industrials,6000
+02328.HK,中国财险,金融业,Financials,金融,40,Financials,2000
+02329.HK,国瑞置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02330.HK,中国上城,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+02331.HK,李宁,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02333.HK,长城汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02336.HK,海亮国际,原材料业,Materials,信息技术,45,Information Technology,10000
+02337.HK,众诚能源,公用事业,Utilities,公用事业,55,Utilities,1000
+02338.HK,潍柴动力,工业,Industrials,工业,20,Industrials,1000
+02339.HK,京西国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02340.HK,昇捷控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+02341.HK,中怡国际,原材料业,Materials,原材料,15,Materials,2000
+02342.HK,京信通信,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+02343.HK,太平洋航运,工业,Industrials,工业,20,Industrials,1000
+02345.HK,上海集优,工业,Industrials,工业,20,Industrials,2000
+02346.HK,星宇控股,工业,Industrials,工业,20,Industrials,2000
+02348.HK,东瑞制药,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+02349.HK,中国城市基础设施,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+02355.HK,宝业集团,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02356.HK,大新银行集团,金融业,Financials,金融,40,Financials,400
+02357.HK,中航科工,工业,Industrials,工业,20,Industrials,1000
+02358.HK,久融控股,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,10000
+02359.HK,药明康德,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+02360.HK,优品360,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+02362.HK,金川国际,原材料业,Materials,工业,20,Industrials,1000
+02363.HK,通达宏泰,资讯科技业,Information Technology,信息技术,45,Information Technology,2500
+02366.HK,星美文化旅游,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+02368.HK,鹰美,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02369.HK,酷派集团,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+02371.HK,创联教育金融,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+02377.HK,博奇环保,工业,Industrials,工业,20,Industrials,1000
+02378.HK,保诚,金融业,Financials,金融,40,Financials,500
+02379.HK,中天国际,地产建筑业,Properties & Construction,信息技术,45,Information Technology,5000
+02380.HK,中国电力,公用事业,Utilities,公用事业,55,Utilities,1000
+02381.HK,蚬壳电业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+02382.HK,舜宇光学科技,工业,Industrials,工业,20,Industrials,100
+02383.HK,TOM集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+02386.HK,中石化炼化工程,能源业,Energy,能源,10,Energy,500
+02388.HK,中银香港,金融业,Financials,金融,40,Financials,500
+02389.HK,北控医疗健康,医疗保健业,Healthcare,医疗保健,35,Health Care,6000
+02393.HK,巨星医疗控股,医疗保健业,Healthcare,医疗保健,35,Health Care,2500
+02398.HK,友佳国际,工业,Industrials,工业,20,Industrials,2000
+02399.HK,虎都,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02400.HK,心动公司,资讯科技业,Information Technology,通讯服务,50,Communication Services,200
+02448.HK,恒宇集团,地产建筑业,Properties & Construction,工业,20,Industrials,2500
+02488.HK,元征科技,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,500
+02500.HK,启明医疗-B,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02528.HK,尚晋国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02552.HK,华领医药-B,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02558.HK,晋商银行,金融业,Financials,金融,40,Financials,1000
+02588.HK,中银航空租赁,非必需性消费,Consumer Discretionary,工业,20,Industrials,100
+02600.HK,中国铝业,原材料业,Materials,原材料,15,Materials,2000
+02601.HK,中国太保,金融业,Financials,金融,40,Financials,200
+02606.HK,蓝光嘉宝服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,100
+02607.HK,上海医药,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+02608.HK,阳光100中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+02611.HK,国泰君安,金融业,Financials,金融,40,Financials,200
+02616.HK,基石药业-B,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+02623.HK,爱德新能源,原材料业,Materials,原材料,15,Materials,2000
+02628.HK,中国人寿,金融业,Financials,金融,40,Financials,1000
+02633.HK,雅各臣科研制药,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+02638.HK,港灯-SS,公用事业,Utilities,公用事业,55,Utilities,500
+02660.HK,禅游科技,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+02662.HK,承兴国际控股,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,2000
+02663.HK,应力控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+02666.HK,环球医疗,金融业,Financials,金融,40,Financials,500
+02668.HK,百德国际,工业,Industrials,工业,20,Industrials,10000
+02669.HK,中海物业,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,5000
+02678.HK,天虹纺织,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02680.HK,创陞控股,金融业,Financials,金融,40,Financials,2000
+02682.HK,润利海事,工业,Industrials,工业,20,Industrials,4000
+02683.HK,华新手袋国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02686.HK,亚美能源,能源业,Energy,能源,10,Energy,1000
+02688.HK,新奥能源,公用事业,Utilities,公用事业,55,Utilities,100
+02689.HK,玖龙纸业,原材料业,Materials,原材料,15,Materials,1000
+02696.HK,复宏汉霖-B,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+02698.HK,魏桥纺织,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02699.HK,新明中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02700.HK,格林国际控股,医疗保健业,Healthcare,非日常生活消费品,25,Consumer Discretionary,20000
+02708.HK,艾伯科技,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+02718.HK,东正金融,金融业,Financials,金融,40,Financials,1000
+02722.HK,重庆机电,综合企业,Conglomerates,工业,20,Industrials,2000
+02727.HK,上海电气,工业,Industrials,工业,20,Industrials,2000
+02728.HK,金泰能源控股,能源业,Energy,能源,10,Energy,4000
+02738.HK,华津国际控股,原材料业,Materials,原材料,15,Materials,2000
+02768.HK,佳源国际控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02772.HK,中梁控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+02777.HK,富力地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,400
+02779.HK,中国新华教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02788.HK,精熙国际,工业,Industrials,工业,20,Industrials,2000
+02789.HK,远大中国,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02798.HK,久泰邦达能源,能源业,Energy,能源,10,Energy,5000
+02799.HK,中国华融,金融业,Financials,金融,40,Financials,1000
+02858.HK,易鑫集团,金融业,Financials,金融,40,Financials,500
+02863.HK,高丰集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,3000
+02866.HK,中远海发,工业,Industrials,工业,20,Industrials,1000
+02868.HK,首创置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02869.HK,绿城服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02877.HK,神威药业,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+02878.HK,SOLOMON SYSTECH,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+02880.HK,大连港,工业,Industrials,工业,20,Industrials,2000
+02882.HK,香港资源控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+02883.HK,中海油田服务,能源业,Energy,能源,10,Energy,2000
+02885.HK,彼岸控股,工业,Industrials,工业,20,Industrials,2000
+02886.HK,滨海投资,公用事业,Utilities,公用事业,55,Utilities,2000
+02888.HK,渣打集团,金融业,Financials,金融,40,Financials,50
+02892.HK,万城控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+02898.HK,龙润茶,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+02899.HK,紫金矿业,原材料业,Materials,原材料,15,Materials,2000
+02934.HK,香港建屋贷款-旧,非必需性消费,Consumer Discretionary,工业,20,Industrials,800
+02937.HK,国华(旧),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02938.HK,侨雄国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+02939.HK,MOS HOUSE-OLD,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+02940.HK,联合集团(旧),金融业,Financials,金融,40,Financials,40000
+02941.HK,时富金融服务-旧,金融业,Financials,金融,40,Financials,300
+02942.HK,时富投资(旧),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,300
+02943.HK,钱唐控股(旧),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,200
+02944.HK,雅天妮集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+02945.HK,保集健康,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+02947.HK,中国华星,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+02948.HK,凯升控股股权,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+02949.HK,莲和医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+03300.HK,中国玻璃,工业,Industrials,工业,20,Industrials,2000
+03301.HK,融信中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+03302.HK,光控精技,工业,Industrials,信息技术,45,Information Technology,2000
+03303.HK,巨涛海洋石油服务,能源业,Energy,能源,10,Energy,2000
+03306.HK,江南布衣,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+03308.HK,金鹰商贸集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03309.HK,希玛眼科,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+03311.HK,中国建筑国际,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+03313.HK,雅高控股,原材料业,Materials,原材料,15,Materials,10000
+03315.HK,金邦达宝嘉,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+03316.HK,滨江服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+03318.HK,中国波顿,必需性消费,Consumer Staples,原材料,15,Materials,2000
+03319.HK,雅生活服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,250
+03320.HK,华润医药,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+03321.HK,伟鸿集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,2500
+03322.HK,永嘉集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+03323.HK,中国建材,地产建筑业,Properties & Construction,原材料,15,Materials,2000
+03326.HK,保发集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,3000
+03328.HK,交通银行,金融业,Financials,金融,40,Financials,1000
+03329.HK,交银国际,金融业,Financials,金融,40,Financials,1000
+03330.HK,灵宝黄金,原材料业,Materials,原材料,15,Materials,2000
+03331.HK,维达国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+03332.HK,中生联合,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+03333.HK,中国恒大,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+03335.HK,DBA电讯,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+03336.HK,巨腾国际,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+03337.HK,安东油田服务,能源业,Energy,能源,10,Energy,2000
+03339.HK,中国龙工,工业,Industrials,工业,20,Industrials,1000
+03344.HK,共享集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+03347.HK,泰格医药,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+03348.HK,中国鹏飞集团,工业,Industrials,原材料,15,Materials,2000
+03358.HK,荣威国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+03360.HK,远东宏信,金融业,Financials,金融,40,Financials,1000
+03363.HK,正业国际,原材料业,Materials,原材料,15,Materials,2000
+03366.HK,华侨城(亚洲),地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+03368.HK,百盛集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+03369.HK,秦港股份,工业,Industrials,工业,20,Industrials,500
+03377.HK,远洋集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+03378.HK,厦门港务,工业,Industrials,工业,20,Industrials,2000
+03380.HK,龙光集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+03382.HK,天津港发展,工业,Industrials,工业,20,Industrials,2000
+03383.HK,雅居乐集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+03389.HK,亨得利,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+03390.HK,满贯集团,医疗保健业,Healthcare,日常消费品,30,Consumer Staples,2000
+03393.HK,威胜控股,工业,Industrials,工业,20,Industrials,2000
+03395.HK,PERSTA,能源业,Energy,能源,10,Energy,1000
+03396.HK,联想控股,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,100
+03398.HK,华鼎控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+03399.HK,粤运交通,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03600.HK,现代牙科,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+03601.HK,鲁大师,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+03603.HK,信基沙溪,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,3000
+03606.HK,福耀玻璃,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,400
+03608.HK,永盛新材料,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2500
+03613.HK,同仁堂国药,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+03616.HK,恒达集团控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+03618.HK,重庆农村商业银行,金融业,Financials,金融,40,Financials,1000
+03623.HK,中国金融发展,金融业,Financials,金融,40,Financials,2000
+03626.HK,HSSP INTL,工业,Industrials,工业,20,Industrials,2000
+03628.HK,仁恒实业控股,工业,Industrials,工业,20,Industrials,4000
+03633.HK,中裕燃气,公用事业,Utilities,公用事业,55,Utilities,1000
+03636.HK,保利文化,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,100
+03638.HK,华邦金融,资讯科技业,Information Technology,信息技术,45,Information Technology,12000
+03639.HK,亿达中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+03662.HK,奥园健康,地产建筑业,Properties & Construction,医疗保健,35,Health Care,1000
+03663.HK,协众国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+03666.HK,国际天食,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+03668.HK,兖煤澳大利亚,能源业,Energy,能源,10,Energy,100
+03669.HK,永达汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+03678.HK,弘业期货,金融业,Financials,金融,40,Financials,1000
+03680.HK,索信达控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+03681.HK,中国抗体-B,医疗保健业,Healthcare,医疗保健,35,Health Care,300
+03683.HK,荣丰联合控股,工业,Industrials,工业,20,Industrials,2500
+03686.HK,祈福生活服务,综合企业,Conglomerates,房地产,60,Real Estate,10000
+03688.HK,莱蒙国际,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+03689.HK,康华医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+03690.HK,美团点评-W,资讯科技业,Information Technology,信息技术,45,Information Technology,100
+03692.HK,翰森制药,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+03698.HK,徽商银行,金融业,Financials,金融,40,Financials,1000
+03699.HK,光大永年,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+03700.HK,映客,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+03708.HK,中国供应链产业,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+03709.HK,赢家时尚,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03718.HK,北控城市资源,工业,Industrials,工业,20,Industrials,4000
+03728.HK,正利控股,地产建筑业,Properties & Construction,工业,20,Industrials,20000
+03737.HK,中智药业,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+03738.HK,阜博集团,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+03759.HK,康龙化成,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+03768.HK,滇池水务,公用事业,Utilities,公用事业,55,Utilities,1000
+03773.HK,年年卡,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+03778.HK,中国织材控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+03788.HK,中国罕王,原材料业,Materials,原材料,15,Materials,1000
+03789.HK,御佳控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+03798.HK,家乡互动,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+03799.HK,达利食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+03800.HK,保利协鑫能源,工业,Industrials,信息技术,45,Information Technology,1000
+03808.HK,中国重汽,工业,Industrials,工业,20,Industrials,500
+03813.HK,宝胜国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03816.HK,KFM金德,工业,Industrials,工业,20,Industrials,4000
+03818.HK,中国动向,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03822.HK,三和建筑集团,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+03828.HK,明辉国际,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+03830.HK,童园国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+03833.HK,新疆新鑫矿业,原材料业,Materials,原材料,15,Materials,1000
+03836.HK,和谐汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+03838.HK,中国淀粉,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,5000
+03839.HK,正大企业国际,医疗保健业,Healthcare,原材料,15,Materials,500
+03848.HK,富道集团,金融业,Financials,金融,40,Financials,1000
+03860.HK,尚捷集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+03866.HK,青岛银行,金融业,Financials,金融,40,Financials,500
+03868.HK,信义能源,公用事业,Utilities,公用事业,55,Utilities,2000
+03869.HK,弘和仁爱医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+03877.HK,中国船舶租赁,金融业,Financials,金融,40,Financials,2000
+03878.HK,VICON HOLDINGS,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+03882.HK,天彩控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03883.HK,中国奥园,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+03886.HK,康健国际医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+03888.HK,金山软件,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+03889.HK,大成糖业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+03893.HK,易纬集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+03898.HK,中车时代电气,工业,Industrials,工业,20,Industrials,100
+03899.HK,中集安瑞科,能源业,Energy,能源,10,Energy,2000
+03900.HK,绿城中国,地产建筑业,Properties & Construction,房地产,60,Real Estate,500
+03903.HK,瀚华金控,金融业,Financials,金融,40,Financials,2000
+03908.HK,中金公司,金融业,Financials,金融,40,Financials,400
+03918.HK,金界控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+03919.HK,金力集团,工业,Industrials,信息技术,45,Information Technology,2000
+03928.HK,S&T HLDGS,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+03933.HK,联邦制药,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+03938.HK,LFG投资控股,金融业,Financials,金融,40,Financials,2000
+03939.HK,万国国际矿业,原材料业,Materials,原材料,15,Materials,2000
+03948.HK,伊泰煤炭,能源业,Energy,能源,10,Energy,100
+03958.HK,东方证券,金融业,Financials,金融,40,Financials,400
+03963.HK,融众金融,金融业,Financials,金融,40,Financials,1000
+03968.HK,招商银行,金融业,Financials,金融,40,Financials,500
+03969.HK,中国通号,资讯科技业,Information Technology,工业,20,Industrials,1000
+03978.HK,卓越教育集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+03983.HK,中海石油化学,原材料业,Materials,原材料,15,Materials,2000
+03988.HK,中国银行,金融业,Financials,金融,40,Financials,1000
+03989.HK,首创环境,公用事业,Utilities,公用事业,55,Utilities,2000
+03990.HK,美的置业,地产建筑业,Properties & Construction,房地产,60,Real Estate,200
+03991.HK,长虹佳华,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+03992.HK,创毅控股,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+03993.HK,洛阳钼业,原材料业,Materials,原材料,15,Materials,3000
+03996.HK,中国能源建设,工业,Industrials,工业,20,Industrials,2000
+03997.HK,电讯首科,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+03998.HK,波司登,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+03999.HK,大成食品,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+04332.HK,AMGEN-T,,,医疗保健,35,Health Care,10
+04333.HK,思科-T,,,信息技术,45,Information Technology,10
+04335.HK,英特尔-T,,,信息技术,45,Information Technology,10
+04336.HK,应用材料-T,,,信息技术,45,Information Technology,10
+04337.HK,星巴克-T,,,非日常生活消费品,25,Consumer Discretionary,20
+04338.HK,微软-T,,,信息技术,45,Information Technology,10
+06030.HK,中信证券,金融业,Financials,金融,40,Financials,500
+06033.HK,电讯数码控股,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+06036.HK,光丽科技,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,5000
+06038.HK,信越控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+06049.HK,保利物业,地产建筑业,Properties & Construction,房地产,60,Real Estate,200
+06055.HK,中烟香港,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+06058.HK,兴证国际,金融业,Financials,金融,40,Financials,2000
+06060.HK,众安在线,金融业,Financials,金融,40,Financials,100
+06063.HK,智中国际,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+06066.HK,中信建投证券,金融业,Financials,金融,40,Financials,500
+06068.HK,睿见教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06069.HK,盛业资本,金融业,Financials,金融,40,Financials,500
+06078.HK,海吉亚医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+06080.HK,荣智控股,地产建筑业,Properties & Construction,工业,20,Industrials,6000
+06083.HK,环宇物流(亚洲),工业,Industrials,工业,20,Industrials,4000
+06088.HK,FIT HON TENG,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+06090.HK,胜捷企业,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+06093.HK,和泓服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+06098.HK,碧桂园服务,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,1000
+06099.HK,招商证券,金融业,Financials,金融,40,Financials,200
+06100.HK,同道猎聘,非必需性消费,Consumer Discretionary,工业,20,Industrials,200
+06108.HK,新锐医药,医疗保健业,Healthcare,医疗保健,35,Health Care,8000
+06110.HK,滔搏,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+06111.HK,大发地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+06113.HK,UTS MARKETING,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+06116.HK,拉夏贝尔,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,200
+06117.HK,日照港裕廊,工业,Industrials,工业,20,Industrials,2000
+06118.HK,奥星生命科技,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+06119.HK,天源集团,工业,Industrials,工业,20,Industrials,3000
+06122.HK,九台农商银行,金融业,Financials,金融,40,Financials,1000
+06123.HK,圆通速递国际,工业,Industrials,工业,20,Industrials,2000
+06128.HK,泛亚国际,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+06133.HK,维太创科,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+06136.HK,康达环保,公用事业,Utilities,公用事业,55,Utilities,1000
+06138.HK,哈尔滨银行,金融业,Financials,金融,40,Financials,1000
+06139.HK,金茂酒店-SS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+06158.HK,正荣地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+06160.HK,百济神州,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+06161.HK,泰加保险,金融业,Financials,金融,40,Financials,2000
+06162.HK,天瑞汽车内饰,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+06163.HK,彭顺国际,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,2000
+06166.HK,中国宏泰发展,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+06168.HK,优通未来,资讯科技业,Information Technology,通讯服务,50,Communication Services,5000
+06169.HK,宇华教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06178.HK,光大证券,金融业,Financials,金融,40,Financials,200
+06182.HK,乙德投资控股,地产建筑业,Properties & Construction,原材料,15,Materials,8000
+06183.HK,中国绿宝,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+06185.HK,康希诺生物-B,医疗保健业,Healthcare,医疗保健,35,Health Care,200
+06186.HK,中国飞鹤,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+06188.HK,迪信通,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,500
+06189.HK,爱得威建设集团,地产建筑业,Properties & Construction,工业,20,Industrials,500
+06190.HK,九江银行,金融业,Financials,金融,40,Financials,200
+06193.HK,泰林科建,地产建筑业,Properties & Construction,信息技术,45,Information Technology,2000
+06196.HK,郑州银行,金融业,Financials,金融,40,Financials,1000
+06198.HK,青岛港,工业,Industrials,工业,20,Industrials,1000
+06199.HK,贵州银行,金融业,Financials,金融,40,Financials,1000
+06288.HK,FAST RETAIL-DRS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,300
+06805.HK,金茂源环保,工业,Industrials,工业,20,Industrials,2000
+06806.HK,申万宏源,金融业,Financials,金融,40,Financials,800
+06808.HK,高鑫零售,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,500
+06811.HK,太兴集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+06812.HK,永顺控股香港,非必需性消费,Consumer Discretionary,工业,20,Industrials,5000
+06816.HK,瑞港建设,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+06818.HK,中国光大银行,金融业,Financials,金融,40,Financials,1000
+06819.HK,中智全球,非必需性消费,Consumer Discretionary,医疗保健,35,Health Care,500
+06820.HK,友谊时光,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+06822.HK,科劲国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06823.HK,香港电讯-SS,电讯业,Telecommunications,通讯服务,50,Communication Services,1000
+06826.HK,昊海生物科技,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+06828.HK,北京燃气蓝天,公用事业,Utilities,能源,10,Energy,8000
+06829.HK,龙昇集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+06830.HK,华众车载,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06833.HK,兴科蓉医药,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+06836.HK,天韵国际控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+06837.HK,海通证券,金融业,Financials,金融,40,Financials,400
+06838.HK,盈利时,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06839.HK,云南水务,公用事业,Utilities,公用事业,55,Utilities,1000
+06855.HK,亚盛医药-B,医疗保健业,Healthcare,医疗保健,35,Health Care,100
+06858.HK,本间高尔夫,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,500
+06860.HK,指尖悦动,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+06862.HK,海底捞,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+06865.HK,福莱特玻璃,工业,Industrials,原材料,15,Materials,1000
+06866.HK,佐力小贷,金融业,Financials,金融,40,Financials,2000
+06868.HK,天福,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+06869.HK,长飞光纤光缆,资讯科技业,Information Technology,信息技术,45,Information Technology,500
+06877.HK,CLSA PREMIUM,金融业,Financials,金融,40,Financials,5000
+06878.HK,鼎丰集团控股,地产建筑业,Properties & Construction,金融,40,Financials,2000
+06880.HK,腾邦控股,工业,Industrials,工业,20,Industrials,2000
+06881.HK,中国银河,金融业,Financials,金融,40,Financials,500
+06882.HK,东瀛游,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06885.HK,金马能源,能源业,Energy,能源,10,Energy,1000
+06886.HK,HTSC,金融业,Financials,金融,40,Financials,200
+06888.HK,英达公路再生科技,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+06889.HK,DYNAM JAPAN,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,200
+06890.HK,康利国际控股,原材料业,Materials,原材料,15,Materials,2000
+06893.HK,衍生集团,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+06896.HK,金嗓子,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+06898.HK,中国铝罐,工业,Industrials,医疗保健,35,Health Care,2000
+06899.HK,联众,资讯科技业,Information Technology,通讯服务,50,Communication Services,1000
+06908.HK,宏光照明,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,5000
+06918.HK,奇士达,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+06919.HK,人瑞人才,非必需性消费,Consumer Discretionary,工业,20,Industrials,100
+06928.HK,TOMO HOLDINGS,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+06933.HK,新娱科控股,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+06958.HK,正荣服务,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+06966.HK,中国万桐园,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+06968.HK,港龙中国地产,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+06969.HK,思摩尔国际,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+06978.HK,永泰生物-B,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+06988.HK,乐享互动,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+08001.HK,东方汇财证券,金融业,Financials,金融,40,Financials,4000
+08003.HK,世大控股,非必需性消费,Consumer Discretionary,原材料,15,Materials,2000
+08005.HK,裕兴科技,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+08006.HK,华泰瑞银,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+08007.HK,环球战略集团-新,原材料业,Materials,工业,20,Industrials,10000
+08009.HK,华夏能源控股,能源业,Energy,能源,10,Energy,5000
+08011.HK,百田石油,能源业,Energy,能源,10,Energy,20000
+08013.HK,ECI TECH,资讯科技业,Information Technology,信息技术,45,Information Technology,20000
+08017.HK,捷利交易宝,资讯科技业,Information Technology,金融,40,Financials,4000
+08018.HK,汇财金融投资,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08019.HK,皓文控股,金融业,Financials,金融,40,Financials,20000
+08020.HK,宏海控股集团,工业,Industrials,工业,20,Industrials,10000
+08021.HK,汇隆控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08022.HK,永耀集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,3000
+08023.HK,邝文记,地产建筑业,Properties & Construction,工业,20,Industrials,6000
+08025.HK,亚洲资产,金融业,Financials,金融,40,Financials,3000
+08026.HK,朗华国际集团,医疗保健业,Healthcare,日常消费品,30,Consumer Staples,1000
+08027.HK,吉辉控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,5000
+08028.HK,天时软件,原材料业,Materials,原材料,15,Materials,20000
+08029.HK,太阳国际,金融业,Financials,金融,40,Financials,5000
+08030.HK,汇联金融服务,地产建筑业,Properties & Construction,房地产,60,Real Estate,5000
+08031.HK,易通讯集团,非必需性消费,Consumer Discretionary,工业,20,Industrials,2000
+08032.HK,非凡中国,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,8000
+08033.HK,爱达利网络,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+08035.HK,骏高控股,工业,Industrials,工业,20,Industrials,10000
+08036.HK,电子交易集团,资讯科技业,Information Technology,金融,40,Financials,10000
+08037.HK,中国生物科技服务,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+08039.HK,中国卓银,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+08040.HK,DCB控股,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,5000
+08041.HK,荟萃国际(控股),资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,20000
+08042.HK,高奥士国际,非必需性消费,Consumer Discretionary,金融,40,Financials,10000
+08043.HK,ATLINKS,资讯科技业,Information Technology,工业,20,Industrials,5000
+08045.HK,南大苏富特,资讯科技业,Information Technology,信息技术,45,Information Technology,6000
+08047.HK,中国海洋发展,工业,Industrials,工业,20,Industrials,4000
+08048.HK,御德国际控股,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+08049.HK,吉林长龙药业,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+08050.HK,量子思维,资讯科技业,Information Technology,信息技术,45,Information Technology,2000
+08051.HK,讯智海,资讯科技业,Information Technology,信息技术,45,Information Technology,200
+08052.HK,陆庆娱乐,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08053.HK,比优集团,地产建筑业,Properties & Construction,工业,20,Industrials,20000
+08055.HK,中国网络信息科技,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+08056.HK,生活概念,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08057.HK,麦迪森控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+08059.HK,朝威控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+08060.HK,国联通信,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08062.HK,俊盟国际,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08063.HK,环球大通集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,50000
+08065.HK,高萌科技,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08066.HK,品创控股,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08067.HK,东方大学城控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+08069.HK,纵横游控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08070.HK,侨洋国际控股,工业,Industrials,信息技术,45,Information Technology,5000
+08071.HK,中彩网通控股,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08072.HK,罗马集团,金融业,Financials,金融,40,Financials,10000
+08073.HK,兴业新材料,工业,Industrials,信息技术,45,Information Technology,4000
+08075.HK,寰亚传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,4000
+08076.HK,新利软件,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08078.HK,中国创意数码,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,8000
+08079.HK,易还财务投资,工业,Industrials,金融,40,Financials,5000
+08080.HK,北亚策略,工业,Industrials,工业,20,Industrials,4000
+08081.HK,恒泰裕集团,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08082.HK,太阳娱乐集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+08083.HK,中国有赞,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,4000
+08086.HK,新维国际控股,资讯科技业,Information Technology,信息技术,45,Information Technology,8000
+08087.HK,中国三三传媒,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+08088.HK,汇友生命科学,金融业,Financials,通讯服务,50,Communication Services,8000
+08089.HK,华人策略控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1800
+08090.HK,中国融保金融集团,金融业,Financials,金融,40,Financials,2000
+08091.HK,奥传思维控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+08092.HK,ITE HOLDINGS,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+08093.HK,万星控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+08095.HK,北大青鸟环宇,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,1000
+08096.HK,赏之味,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08098.HK,昌利控股,金融业,Financials,金融,40,Financials,10000
+08100.HK,智易控股,资讯科技业,Information Technology,信息技术,45,Information Technology,6000
+08101.HK,壹家壹品(新),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08103.HK,HMVOD(新),非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,6000
+08106.HK,升华兰德,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08107.HK,威诚国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08108.HK,福泽集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+08109.HK,麒麟集团控股,金融业,Financials,信息技术,45,Information Technology,15000
+08111.HK,中国科技产业集团,工业,Industrials,公用事业,55,Utilities,5000
+08112.HK,基石金融,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,24000
+08113.HK,扬宇科技,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,10000
+08115.HK,上海青浦消防,工业,Industrials,工业,20,Industrials,4000
+08116.HK,中国幸福投资,必需性消费,Consumer Staples,非日常生活消费品,25,Consumer Discretionary,20000
+08117.HK,中国基础能源,公用事业,Utilities,能源,10,Energy,10000
+08118.HK,濠亮环球,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,8000
+08119.HK,即时科研,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08120.HK,国农金融投资,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08121.HK,超凡网络,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+08123.HK,华亿金控,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,6000
+08125.HK,仁德资源,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+08126.HK,G.A.控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08128.HK,中国地热能,工业,Industrials,工业,20,Industrials,8000
+08130.HK,大地国际集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+08131.HK,辰罡科技,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08132.HK,中油港燃,能源业,Energy,能源,10,Energy,10000
+08133.HK,铸能控股,工业,Industrials,原材料,15,Materials,20000
+08135.HK,正美丰业,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08136.HK,英马斯集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08137.HK,洪桥集团,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,2000
+08139.HK,长安仁恒,原材料业,Materials,原材料,15,Materials,500
+08140.HK,人和科技,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08142.HK,德利机械,工业,Industrials,工业,20,Industrials,10000
+08143.HK,金威医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+08146.HK,怡园酒业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+08147.HK,汇思太平洋,电讯业,Telecommunications,信息技术,45,Information Technology,8000
+08148.HK,奥栢中国,资讯科技业,Information Technology,信息技术,45,Information Technology,20000
+08149.HK,浩德控股,金融业,Financials,金融,40,Financials,10000
+08150.HK,无缝绿色,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08151.HK,宝申控股,工业,Industrials,工业,20,Industrials,5000
+08152.HK,明梁控股,工业,Industrials,工业,20,Industrials,10000
+08153.HK,法诺集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+08155.HK,南华资产控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,8000
+08156.HK,国药科技股份,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08158.HK,中国再生医学,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+08159.HK,辉煌科技,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08160.HK,GOLDWAY EDU,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,12000
+08161.HK,医汇集团,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+08162.HK,港银控股,原材料业,Materials,原材料,15,Materials,10000
+08163.HK,领智金融,必需性消费,Consumer Staples,金融,40,Financials,20000
+08165.HK,华普智通,资讯科技业,Information Technology,工业,20,Industrials,10000
+08166.HK,中国农业生态,工业,Industrials,日常消费品,30,Consumer Staples,10000
+08167.HK,中国新电信,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+08168.HK,宝积资本,金融业,Financials,金融,40,Financials,10000
+08169.HK,环康集团,工业,Industrials,工业,20,Industrials,10000
+08170.HK,全民国际,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+08171.HK,中国趋势,资讯科技业,Information Technology,信息技术,45,Information Technology,160000
+08172.HK,拉近网娱,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+08173.HK,万亚企业控股,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,40000
+08175.HK,中国数码文化,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08176.HK,超人智能,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+08178.HK,中国信息科技,资讯科技业,Information Technology,信息技术,45,Information Technology,24000
+08179.HK,新煮意控股,必需性消费,Consumer Staples,非日常生活消费品,25,Consumer Discretionary,12000
+08181.HK,时时服务,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,8000
+08186.HK,同仁资源,原材料业,Materials,原材料,15,Materials,20000
+08187.HK,积木集团,金融业,Financials,非日常生活消费品,25,Consumer Discretionary,5000
+08188.HK,骏杰集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+08189.HK,泰达生物,原材料业,Materials,原材料,15,Materials,5000
+08190.HK,康佰控股,金融业,Financials,金融,40,Financials,10000
+08191.HK,鸿伟亚洲,原材料业,Materials,原材料,15,Materials,6000
+08192.HK,环球通证,资讯科技业,Information Technology,原材料,15,Materials,12000
+08193.HK,亚太金融投资,金融业,Financials,金融,40,Financials,10000
+08195.HK,L&A INTL HOLD,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,24000
+08196.HK,建禹集团,公用事业,Utilities,公用事业,55,Utilities,4000
+08198.HK,乐透互娱,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,4000
+08200.HK,修身堂,非必需性消费,Consumer Discretionary,医疗保健,35,Health Care,40000
+08201.HK,宝联控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,20000
+08202.HK,汇创控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+08203.HK,凯顺控股,工业,Industrials,工业,20,Industrials,10000
+08205.HK,交大慧谷,资讯科技业,Information Technology,信息技术,45,Information Technology,4000
+08206.HK,神通机器人教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,1000
+08207.HK,中新控股,金融业,Financials,金融,40,Financials,4000
+08208.HK,WMCH Global,地产建筑业,Properties & Construction,工业,20,Industrials,6000
+08210.HK,衍汇亚洲,金融业,Financials,金融,40,Financials,10000
+08211.HK,浙江永安,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08213.HK,荣晖控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08215.HK,FIRST CREDIT,金融业,Financials,金融,40,Financials,20000
+08216.HK,丰城控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+08217.HK,联旺集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08218.HK,毅高国际控股,工业,Industrials,信息技术,45,Information Technology,12000
+08219.HK,恒伟集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08220.HK,比高集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+08221.HK,PF GROUP,金融业,Financials,金融,40,Financials,20000
+08222.HK,壹照明,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08223.HK,紫元元,金融业,Financials,金融,40,Financials,4000
+08225.HK,中国医疗集团,医疗保健业,Healthcare,医疗保健,35,Health Care,20000
+08226.HK,树熊金融集团,金融业,Financials,金融,40,Financials,4000
+08227.HK,海天天线,地产建筑业,Properties & Construction,原材料,15,Materials,1000
+08228.HK,国艺娱乐,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,20000
+08229.HK,FUTURE DATA,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08230.HK,中国宇天,资讯科技业,Information Technology,工业,20,Industrials,5000
+08231.HK,节能元件,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08232.HK,CLASSIFIED GP,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08235.HK,赛迪顾问,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08236.HK,宝德科技集团,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+08237.HK,华星控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+08238.HK,惠陶集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,8000
+08239.HK,首都金融控股,金融业,Financials,金融,40,Financials,10000
+08241.HK,英记茶庄集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,5000
+08242.HK,新威斯顿,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08245.HK,安悦国际控股,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08246.HK,中华燃气,工业,Industrials,公用事业,55,Utilities,8000
+08247.HK,中生北控生物科技,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+08249.HK,瑞远智控,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08250.HK,丝路能源,能源业,Energy,能源,10,Energy,20000
+08255.HK,神州数字,资讯科技业,Information Technology,信息技术,45,Information Technology,6000
+08256.HK,金利通,资讯科技业,Information Technology,通讯服务,50,Communication Services,4000
+08257.HK,靖洋集团,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08258.HK,西北实业,工业,Industrials,原材料,15,Materials,10000
+08259.HK,HON CORP,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+08260.HK,银合控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08262.HK,宏强控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08265.HK,中国之信集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08266.HK,卓信国际控股,资讯科技业,Information Technology,信息技术,45,Information Technology,3200
+08267.HK,蓝港互动,资讯科技业,Information Technology,通讯服务,50,Communication Services,500
+08268.HK,迪臣建设,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+08269.HK,富誉控股,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,10000
+08270.HK,中国煤层气,能源业,Energy,能源,10,Energy,40000
+08271.HK,环球数码创意,地产建筑业,Properties & Construction,通讯服务,50,Communication Services,2000
+08272.HK,华人饮食集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08275.HK,永勤集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08277.HK,骏东控股,原材料业,Materials,原材料,15,Materials,2000
+08279.HK,亚博科技控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08280.HK,中国数字视频,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+08281.HK,中国金典集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,8000
+08282.HK,智傲控股,资讯科技业,Information Technology,通讯服务,50,Communication Services,4000
+08283.HK,正力控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08285.HK,森浩集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08286.HK,长城微光,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08287.HK,百家淘客,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08290.HK,亚势备份,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08291.HK,万成金属包装,工业,Industrials,原材料,15,Materials,10000
+08292.HK,盛良物流,工业,Industrials,工业,20,Industrials,10000
+08293.HK,星亚控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,5000
+08295.HK,中植资本国际,金融业,Financials,金融,40,Financials,20000
+08296.HK,中国生命集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08297.HK,芭迪贝伊,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08299.HK,大唐潼金,原材料业,Materials,原材料,15,Materials,24000
+08300.HK,皇玺餐饮集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+08301.HK,明华科技,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,8000
+08305.HK,棠记控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08307.HK,密迪斯肌,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+08308.HK,古兜控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08309.HK,万成环球控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08310.HK,大丰港,工业,Industrials,工业,20,Industrials,10000
+08311.HK,圆美光电,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08313.HK,杰地集团,地产建筑业,Properties & Construction,金融,40,Financials,10000
+08315.HK,长城汇理,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08316.HK,柏荣集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08317.HK,财华社集团,非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,2000
+08319.HK,思博系统,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08320.HK,沛然环保,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08321.HK,泰锦控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08325.HK,中国支付通,资讯科技业,Information Technology,金融,40,Financials,10000
+08326.HK,同景新能源,公用事业,Utilities,非日常生活消费品,25,Consumer Discretionary,1000
+08328.HK,信义香港,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08329.HK,海王英特龙,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+08331.HK,恒勤集团,原材料业,Materials,原材料,15,Materials,10000
+08333.HK,阿仕特朗金融,金融业,Financials,金融,40,Financials,5000
+08337.HK,直通电讯,电讯业,Telecommunications,通讯服务,50,Communication Services,10000
+08340.HK,域高金融,金融业,Financials,金融,40,Financials,10000
+08341.HK,艾硕控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+08346.HK,创新电子控股,工业,Industrials,信息技术,45,Information Technology,10000
+08347.HK,F8企业,能源业,Energy,能源,10,Energy,8000
+08348.HK,滨海泰达物流,工业,Industrials,工业,20,Industrials,2000
+08349.HK,美固科技控股,地产建筑业,Properties & Construction,原材料,15,Materials,10000
+08350.HK,骏溢环球金融,金融业,Financials,金融,40,Financials,8000
+08351.HK,俊文宝石,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+08353.HK,安科系统,资讯科技业,Information Technology,信息技术,45,Information Technology,3000
+08356.HK,中国新华电视,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08357.HK,REPUBLIC HC,医疗保健业,Healthcare,医疗保健,35,Health Care,5000
+08360.HK,利骏集团香港,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+08362.HK,运兴泰集团,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,20000
+08363.HK,SDM GROUP,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+08365.HK,建泉国际控股,金融业,Financials,金融,40,Financials,5000
+08366.HK,浙江联合投资,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08367.HK,倩碧控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08368.HK,中国创意控股,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+08370.HK,智昇集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+08371.HK,尝高美集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08372.HK,君百延集团,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+08373.HK,靛蓝星,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+08375.HK,弘浩国际控股,工业,Industrials,信息技术,45,Information Technology,10000
+08377.HK,申酉控股(新),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08379.HK,汇安智能,资讯科技业,Information Technology,医疗保健,35,Health Care,10000
+08383.HK,东骏控股,工业,Industrials,原材料,15,Materials,8000
+08385.HK,万里印刷,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08391.HK,精雅印刷集团,工业,Industrials,工业,20,Industrials,4000
+08392.HK,舍图控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08395.HK,齐家控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+08400.HK,亚洲先锋娱乐,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08401.HK,源想集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+08402.HK,GT STEEL GROUP,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+08403.HK,天平道合,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,20000
+08405.HK,恒智控股,非必需性消费,Consumer Discretionary,医疗保健,35,Health Care,4000
+08406.HK,合宝丰年,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08411.HK,K W NELSON GP,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08412.HK,高门集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08413.HK,亚洲杂货,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+08416.HK,HM INTL HLDGS,工业,Industrials,工业,20,Industrials,5000
+08417.HK,大地教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08418.HK,傲迪玛汽车,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08419.HK,AV策划推广,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+08420.HK,NEXION TECH,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08422.HK,WT集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08423.HK,CHI HO DEV,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08425.HK,兴铭控股,工业,Industrials,工业,20,Industrials,4000
+08426.HK,雅居投资控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,10000
+08427.HK,瑞强集团,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+08428.HK,国茂控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,12000
+08429.HK,冰雪集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,5000
+08430.HK,春能控股,工业,Industrials,工业,20,Industrials,5000
+08431.HK,浩柏国际,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08432.HK,太平洋酒吧,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08436.HK,德宝集团控股,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,5000
+08437.HK,德斯控股,医疗保健业,Healthcare,医疗保健,35,Health Care,8000
+08439.HK,新百利融资,金融业,Financials,金融,40,Financials,2000
+08441.HK,国际永胜集团,非必需性消费,Consumer Discretionary,工业,20,Industrials,10000
+08445.HK,怡康泰工程集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08446.HK,ITP HOLDINGS,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,10000
+08447.HK,MS CONCEPT,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08448.HK,环球印馆,工业,Industrials,工业,20,Industrials,20000
+08450.HK,钜京控股,工业,Industrials,工业,20,Industrials,10000
+08451.HK,日光控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+08452.HK,富银融资股份,金融业,Financials,金融,40,Financials,2000
+08455.HK,礼建德集团,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,10000
+08456.HK,民信国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08460.HK,基地锦标集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08462.HK,桥英控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,5000
+08465.HK,高科桥,资讯科技业,Information Technology,通讯服务,50,Communication Services,2000
+08471.HK,新达控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08472.HK,立高控股,非必需性消费,Consumer Discretionary,工业,20,Industrials,5000
+08473.HK,弥明生活百货,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08475.HK,千盛集团控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08476.HK,大洋环球控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2000
+08479.HK,金泰丰国际控股,能源业,Energy,非日常生活消费品,25,Consumer Discretionary,4000
+08480.HK,飞霓控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08481.HK,盛龙锦秀国际,工业,Industrials,工业,20,Industrials,5000
+08482.HK,万励达,工业,Industrials,工业,20,Industrials,10000
+08483.HK,名仕快相,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+08485.HK,竣球控股,工业,Industrials,工业,20,Industrials,10000
+08487.HK,ISP GLOBAL,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08490.HK,骏码科技,工业,Industrials,信息技术,45,Information Technology,5000
+08491.HK,COOL LINK,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,5000
+08493.HK,龙皇集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,12000
+08495.HK,1957 & CO.,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08496.HK,新加坡美食控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,2500
+08500.HK,天泓文创,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+08501.HK,庄皇集团公司,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,2000
+08502.HK,远航港口,工业,Industrials,工业,20,Industrials,8000
+08506.HK,福纺控股,工业,Industrials,非日常生活消费品,25,Consumer Discretionary,12000
+08507.HK,爱世纪集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,4000
+08509.HK,威扬酒业控股,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,4000
+08510.HK,TOPSTANDARDCORP,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+08511.HK,ZC TECH GP,工业,Industrials,工业,20,Industrials,4000
+08512.HK,凯富善集团控股,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,10000
+08513.HK,官酝控股,医疗保健业,Healthcare,医疗保健,35,Health Care,4000
+08516.HK,广骏集团控股,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+08519.HK,佳民集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08521.HK,智纺国际控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08523.HK,常满控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+08525.HK,百应控股,金融业,Financials,金融,40,Financials,2000
+08526.HK,荣丰集团亚洲,地产建筑业,Properties & Construction,非日常生活消费品,25,Consumer Discretionary,10000
+08527.HK,聚利宝控股,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08532.HK,宝发控股,地产建筑业,Properties & Construction,工业,20,Industrials,8000
+08535.HK,荧德控股,地产建筑业,Properties & Construction,工业,20,Industrials,20000
+08536.HK,TL NATURAL GAS,能源业,Energy,能源,10,Energy,10000
+08537.HK,创辉珠宝,非必需性消费,Consumer Discretionary,原材料,15,Materials,10000
+08540.HK,胜利证券,金融业,Financials,金融,40,Financials,2000
+08545.HK,佰悦集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,8000
+08547.HK,PACIFIC LEGEND,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08565.HK,环球战略集团-旧,原材料业,Materials,工业,20,Industrials,500
+08566.HK,申酉控股(旧),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+08568.HK,HMVOD(旧),非必需性消费,Consumer Discretionary,信息技术,45,Information Technology,200
+08569.HK,壹家壹品(旧),非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,400
+08601.HK,宝燵控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08603.HK,亮晴控股,医疗保健业,Healthcare,医疗保健,35,Health Care,10000
+08606.HK,倢冠控股,资讯科技业,Information Technology,信息技术,45,Information Technology,10000
+08607.HK,纳尼亚集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,5000
+08609.HK,永续农业,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,10000
+08611.HK,MINDTELL TECH,资讯科技业,Information Technology,信息技术,45,Information Technology,5000
+08612.HK,维亮控股,工业,Industrials,工业,20,Industrials,10000
+08613.HK,东方支付集团控股,资讯科技业,Information Technology,金融,40,Financials,10000
+08616.HK,新威工程集团,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+08617.HK,永联丰控股,工业,Industrials,工业,20,Industrials,5000
+08619.HK,WAC HOLDINGS,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+08620.HK,亚洲速运,工业,Industrials,工业,20,Industrials,5000
+08621.HK,METROPOLIS CAP,金融业,Financials,金融,40,Financials,8000
+08622.HK,华康生物医学,医疗保健业,Healthcare,医疗保健,35,Health Care,8000
+08623.HK,中国蜀塔,工业,Industrials,工业,20,Industrials,10000
+08627.HK,旅橙文化,非必需性消费,Consumer Discretionary,工业,20,Industrials,8000
+08631.HK,申港控股,能源业,Energy,能源,10,Energy,10000
+08635.HK,连成科技集团,资讯科技业,Information Technology,金融,40,Financials,4000
+08645.HK,NOMAD TECH,资讯科技业,Information Technology,信息技术,45,Information Technology,6000
+08646.HK,中国宏光,工业,Industrials,原材料,15,Materials,3000
+08659.HK,易和国际控股,工业,Industrials,工业,20,Industrials,5000
+08668.HK,瀛海集团,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,10000
+09618.HK,京东集团-SW,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,50
+09633.HK,农夫山泉,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,200
+09668.HK,渤海银行,金融业,Financials,金融,40,Financials,500
+09900.HK,德益控股,地产建筑业,Properties & Construction,工业,20,Industrials,4000
+09906.HK,宏力医疗管理,医疗保健业,Healthcare,医疗保健,35,Health Care,2000
+09908.HK,嘉兴燃气,公用事业,Utilities,能源,10,Energy,500
+09909.HK,宝龙商业,地产建筑业,Properties & Construction,工业,20,Industrials,500
+09911.HK,赤子城科技,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,2000
+09913.HK,智勤控股,地产建筑业,Properties & Construction,原材料,15,Materials,4000
+09916.HK,兴业物联,地产建筑业,Properties & Construction,工业,20,Industrials,2000
+09918.HK,丽年国际,工业,Industrials,信息技术,45,Information Technology,8000
+09919.HK,艾德韦宣集团,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,2000
+09922.HK,九毛九,非必需性消费,Consumer Discretionary,工业,20,Industrials,1000
+09923.HK,移卡,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,400
+09926.HK,康方生物-B,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+09928.HK,时代邻里,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+09929.HK,澳达控股,地产建筑业,Properties & Construction,工业,20,Industrials,10000
+09933.HK,GHW INTL,原材料业,Materials,原材料,15,Materials,4000
+09936.HK,稀美资源,原材料业,Materials,原材料,15,Materials,2500
+09938.HK,华和控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+09939.HK,开拓药业-B,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+09958.HK,力天影业,非必需性消费,Consumer Discretionary,通讯服务,50,Communication Services,1000
+09966.HK,康宁杰瑞制药-B,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+09968.HK,汇景控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,2000
+09969.HK,诺诚健华-B,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+09977.HK,凤祥股份,必需性消费,Consumer Staples,日常消费品,30,Consumer Staples,1000
+09978.HK,方圆房服集团,地产建筑业,Properties & Construction,房地产,60,Real Estate,4000
+09979.HK,绿城管理控股,地产建筑业,Properties & Construction,房地产,60,Real Estate,1000
+09983.HK,建业新生活,地产建筑业,Properties & Construction,工业,20,Industrials,1000
+09986.HK,大山教育,非必需性消费,Consumer Discretionary,非日常生活消费品,25,Consumer Discretionary,2000
+09987.HK,百胜中国-S,非必需性消费,Consumer Discretionary,日常消费品,30,Consumer Staples,50
+09988.HK,阿里巴巴-SW,资讯科技业,Information Technology,非日常生活消费品,25,Consumer Discretionary,100
+09989.HK,海普瑞,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+09990.HK,祖龙娱乐,资讯科技业,Information Technology,信息技术,45,Information Technology,1000
+09996.HK,沛嘉医疗-B,医疗保健业,Healthcare,医疗保健,35,Health Care,1000
+09997.HK,康基医疗,医疗保健业,Healthcare,医疗保健,35,Health Care,500
+09998.HK,光荣控股,地产建筑业,Properties & Construction,工业,20,Industrials,5000
+09999.HK,网易-S,资讯科技业,Information Technology,通讯服务,50,Communication Services,100
+80737.HK,湾区发展-R,工业,Industrials,工业,20,Industrials,500

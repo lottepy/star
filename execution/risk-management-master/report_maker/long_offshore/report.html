@@ -1,0 +1,422 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+    <meta charset="UTF-8">
+    <title>MFM report</title>
+	<link rel="stylesheet" href="css/style.css">
+    <script src="https://s.codepen.io/assets/libs/modernizr.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/5.0.0/normalize.min.css">
+<style type="text/css">
+h3{
+  border-bottom: double 2px;
+}
+</style>
+</head>
+<body>
+    <h1>AQUMON Multi-factor Strategy Performance Report</h1>
+
+    <h3>Strategy Overview</h3>
+    <p>AQUMON Multi-factor Strategy is a combination of fundamental analysis and state-of-the-art AI techniques. By diving into company characteristics, potential stocks can be selected out of more than three thousand stocks in China A-share market. Company characteristics are quantified as a series of factors which describe company styles in different dimensions. These factors could be value factor, growth factor, momentum factor, volatility factor and so on. 
+    </p>
+
+    <h3>Key Facts</h3>
+    <p>Asset Class: Equity</p>
+    <p>Base Currency: CNY</p>
+    <p>Benchmark: CSI300 Index, CSI500 Index</p>
+
+    <h3>Historical Performance</h3>
+    <IMG SRC="portfolio_mfm.png">
+    <p>
+        Note: Above graph demonstrates performance from 2015-12-31 to 2018-07-06. Number of stocks in AQUMON portfolio would change according to the algorithm. 
+        The analysis universe is China A-share market including ChiNext. The investable stock universe is all A-share stocks. Sector constraint requires that every sector percentage have to be less than 40%. Strategy performance is dependent on investment mandate which may change for different clients. Transaction cost is assumed to be 0.15% of trading value for each stock. Algorithm is subject to change.
+    </p>
+
+    <h3>Cumulative Performance</h3>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>Since Inception</th>
+      <th>2 Years</th>
+      <th>1 Year</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>AQUMON</th>
+      <td>28.68%</td>
+      <td>37.77%</td>
+      <td>1.52%</td>
+    </tr>
+    <tr>
+      <th>景顺长城量化精选股票</th>
+      <td>-7.38%</td>
+      <td>-1.57%</td>
+      <td>-10.71%</td>
+    </tr>
+    <tr>
+      <th>申万量化小盘</th>
+      <td>-5.07%</td>
+      <td>-1.51%</td>
+      <td>-8.42%</td>
+    </tr>
+    <tr>
+      <th>沪深300指数</th>
+      <td>-9.81%</td>
+      <td>4.61%</td>
+      <td>-8.06%</td>
+    </tr>
+    <tr>
+      <th>中证500指数</th>
+      <td>-34.41%</td>
+      <td>-20.66%</td>
+      <td>-19.43%</td>
+    </tr>
+    <tr>
+      <th>中小板指数</th>
+      <td>-26.59%</td>
+      <td>-11.78%</td>
+      <td>-11.55%</td>
+    </tr>
+    <tr>
+      <th>创业板指数</th>
+      <td>-43.21%</td>
+      <td>-31.24%</td>
+      <td>-16.19%</td>
+    </tr>
+  </tbody>
+</table>    
+    <p>
+    * Since inception: from 2015-12-31 to 2018-07-06</br>
+    * 2 year: from 2016-07-06 to 2018-07-06</br>
+    * 1 year: from 2017-07-06 to 2018-07-06</p>
+
+    <h3>Calendar Performance</h3>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>last week</th>
+      <th>2018 Jul.</th>
+      <th>2018 Jun.</th>
+      <th>2018 May</th>
+      <th>2018 Apr.</th>
+      <th>2018 Mar.</th>
+      <th>2018 Feb.</th>
+      <th>2018 Jan.</th>
+      <th>YTD</th>
+      <th>2017</th>
+      <th>2016</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>AQUMON</th>
+      <td>-4.97%</td>
+      <td>-4.97%</td>
+      <td>-6.02%</td>
+      <td>4.82%</td>
+      <td>-1.16%</td>
+      <td>-1.92%</td>
+      <td>1.49%</td>
+      <td>6.44%</td>
+      <td>-1.97%</td>
+      <td>33.44%</td>
+      <td>-1.63%</td>
+    </tr>
+    <tr>
+      <th>景顺长城量化精选股票</th>
+      <td>-4.69%</td>
+      <td>-4.69%</td>
+      <td>-7.42%</td>
+      <td>-0.76%</td>
+      <td>-2.88%</td>
+      <td>-0.60%</td>
+      <td>-2.02%</td>
+      <td>2.27%</td>
+      <td>-15.29%</td>
+      <td>11.87%</td>
+      <td>-2.26%</td>
+    </tr>
+    <tr>
+      <th>申万量化小盘</th>
+      <td>-3.88%</td>
+      <td>-3.88%</td>
+      <td>-5.75%</td>
+      <td>0.09%</td>
+      <td>-2.74%</td>
+      <td>-2.44%</td>
+      <td>-2.62%</td>
+      <td>4.14%</td>
+      <td>-12.75%</td>
+      <td>3.52%</td>
+      <td>5.11%</td>
+    </tr>
+    <tr>
+      <th>沪深300指数</th>
+      <td>-4.15%</td>
+      <td>-4.15%</td>
+      <td>-7.66%</td>
+      <td>1.21%</td>
+      <td>-3.63%</td>
+      <td>-3.11%</td>
+      <td>-5.90%</td>
+      <td>6.08%</td>
+      <td>-16.52%</td>
+      <td>21.78%</td>
+      <td>-11.28%</td>
+    </tr>
+    <tr>
+      <th>中证500指数</th>
+      <td>-4.24%</td>
+      <td>-4.24%</td>
+      <td>-9.33%</td>
+      <td>-1.82%</td>
+      <td>-4.15%</td>
+      <td>1.51%</td>
+      <td>-2.68%</td>
+      <td>-0.98%</td>
+      <td>-20.06%</td>
+      <td>-0.20%</td>
+      <td>-17.78%</td>
+    </tr>
+    <tr>
+      <th>中小板指数</th>
+      <td>-4.87%</td>
+      <td>-4.87%</td>
+      <td>-8.73%</td>
+      <td>1.41%</td>
+      <td>-5.98%</td>
+      <td>-0.45%</td>
+      <td>0.76%</td>
+      <td>-1.78%</td>
+      <td>-18.43%</td>
+      <td>16.73%</td>
+      <td>-22.89%</td>
+    </tr>
+    <tr>
+      <th>创业板指数</th>
+      <td>-4.07%</td>
+      <td>-4.07%</td>
+      <td>-7.86%</td>
+      <td>-3.43%</td>
+      <td>-4.99%</td>
+      <td>8.37%</td>
+      <td>1.07%</td>
+      <td>-1.00%</td>
+      <td>-12.06%</td>
+      <td>-10.67%</td>
+      <td>-27.71%</td>
+    </tr>
+  </tbody>
+</table>
+    <p>
+    * YTD: from 2017-12-29 to 2018-07-06</br>
+    * 2017: from 2016-12-30 to 2017-12-29</br>
+    * 2016: from 2016-03-31 to 2016-12-30</p>
+
+
+    <h3>Risk Metrics</h3>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>accumulative_return</th>
+      <th>annualized_return</th>
+      <th>annualized_volatility</th>
+      <th>sharpe_ratio</th>
+      <th>max_drawdown</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>AQUMON</th>
+      <td>28.68%</td>
+      <td>10.55%</td>
+      <td>25.6%</td>
+      <td>0.4123</td>
+      <td>28.01%</td>
+    </tr>
+    <tr>
+      <th>景顺长城量化精选股票</th>
+      <td>-7.38%</td>
+      <td>-3.01%</td>
+      <td>24.35%</td>
+      <td>-0.1235</td>
+      <td>28.81%</td>
+    </tr>
+    <tr>
+      <th>申万量化小盘</th>
+      <td>-5.07%</td>
+      <td>-2.05%</td>
+      <td>19.77%</td>
+      <td>-0.1036</td>
+      <td>24.27%</td>
+    </tr>
+    <tr>
+      <th>沪深300指数</th>
+      <td>-9.81%</td>
+      <td>-4.02%</td>
+      <td>17.58%</td>
+      <td>-0.2289</td>
+      <td>23.86%</td>
+    </tr>
+    <tr>
+      <th>中证500指数</th>
+      <td>-34.41%</td>
+      <td>-15.45%</td>
+      <td>23.66%</td>
+      <td>-0.6528</td>
+      <td>34.59%</td>
+    </tr>
+    <tr>
+      <th>中小板指数</th>
+      <td>-26.59%</td>
+      <td>-11.57%</td>
+      <td>22.65%</td>
+      <td>-0.5109</td>
+      <td>28.54%</td>
+    </tr>
+    <tr>
+      <th>创业板指数</th>
+      <td>-43.21%</td>
+      <td>-20.16%</td>
+      <td>26.94%</td>
+      <td>-0.7483</td>
+      <td>43.93%</td>
+    </tr>
+  </tbody>
+</table>
+    <p>
+    * Performance from 2015-12-31 to 2018-07-06</br>
+    * Assume risk-free rate to be 0. 
+    </p>
+
+    <h3>Top 10 Equity Holdings</h3>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>name</th>
+      <th>sector_GICS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>601888.SH</th>
+      <td>中国国旅</td>
+      <td>Consumer Discretionary</td>
+    </tr>
+    <tr>
+      <th>600703.SH</th>
+      <td>三安光电</td>
+      <td>Information Technology</td>
+    </tr>
+    <tr>
+      <th>000596.SZ</th>
+      <td>古井贡酒</td>
+      <td>Consumer Staples</td>
+    </tr>
+    <tr>
+      <th>300136.SZ</th>
+      <td>信维通信</td>
+      <td>Information Technology</td>
+    </tr>
+    <tr>
+      <th>600426.SH</th>
+      <td>华鲁恒升</td>
+      <td>Materials</td>
+    </tr>
+    <tr>
+      <th>600276.SH</th>
+      <td>恒瑞医药</td>
+      <td>Health Care</td>
+    </tr>
+    <tr>
+      <th>002415.SZ</th>
+      <td>海康威视</td>
+      <td>Information Technology</td>
+    </tr>
+    <tr>
+      <th>600436.SH</th>
+      <td>片仔癀</td>
+      <td>Health Care</td>
+    </tr>
+    <tr>
+      <th>002294.SZ</th>
+      <td>信立泰</td>
+      <td>Health Care</td>
+    </tr>
+    <tr>
+      <th>603868.SH</th>
+      <td>飞科电器</td>
+      <td>Consumer Staples</td>
+    </tr>
+  </tbody>
+</table>
+    <p>
+    * Screenshot holding of 2018-07-06. Holdings are subject to change.</br>
+    </p>
+
+    <h3>Sector Allocation</h3>
+    <table border="1" class="dataframe">
+  <thead>
+    <tr style="text-align: right;">
+      <th></th>
+      <th>weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th>Information Technology</th>
+      <td>26.25%</td>
+    </tr>
+    <tr>
+      <th>Consumer Discretionary</th>
+      <td>19.46%</td>
+    </tr>
+    <tr>
+      <th>Health Care</th>
+      <td>17.3%</td>
+    </tr>
+    <tr>
+      <th>Consumer Staples</th>
+      <td>15.27%</td>
+    </tr>
+    <tr>
+      <th>Materials</th>
+      <td>12.43%</td>
+    </tr>
+    <tr>
+      <th>Industrials</th>
+      <td>6.2%</td>
+    </tr>
+    <tr>
+      <th>Energy</th>
+      <td>1.95%</td>
+    </tr>
+    <tr>
+      <th>Financials</th>
+      <td>1.15%</td>
+    </tr>
+  </tbody>
+</table>
+    <p>
+    * Screenshot holding of 2018-07-06. Holdings are subject to change.</br>
+    * "weight" represents stock weight in A-share equity portfolio.
+    </p>
+
+    <h3>Disclosure</h3>
+    <p>
+    This document is for informational purposes only. This document does not constitute an offer to sell or a solicitation of any offer to invest. The information contained in this document does not purport to be complete nor accurate. 
+This document may not be reproduced or distributed without the written authorization of Magnum Research Limited. Any reproduction or distribution of any of the contents of this document may constitute a violation of law. By accepting this document, you acknowledge and agree that all of the information contained in it shall be kept strictly confidential. 
+</p>
+<p>
+Certain information contained in this document includes observations and assumptions and involves significant elements of subjective judgement and analysis. No representations are made as to the accuracy of such observations and assumptions and there can be no assurances that actual events will not differ materially from those assumed. Additionally, the selection and determination of the duration of the market cycles included in this document involved subjective judgement.
+    </p>
+
+    </br>
+    
+
+</body>
+</html>

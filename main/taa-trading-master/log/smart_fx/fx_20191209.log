@@ -1,0 +1,340 @@
+2019-12-09 10:05:40,513 — FX-Dymon — INFO — fx_base.py:85 — Logger初始化完成
+2019-12-09 10:05:40,513 — FX-Dymon — INFO — fx_base.py:86 — 时间：2016-12-31 ~ 2019-12-09 | 标的：['USDSEK', 'USDNOK', 'USDJPY', 'USDCHF', 'USDCAD', 'NZDUSD', 'GBPUSD', 'EURUSD', 'AUDUSD', 'USDSGD', 'USDTHB', 'USDKRW', 'USDTWD', 'USDINR', 'USDIDR'] | 策略：['Macro', 'MeanReversion', 'Momentum']
+2019-12-09 10:05:45,747 — FX-Dymon — INFO — fx_base.py:90 — [更新回测数据] spot和NDF数据更新完成
+2019-12-09 10:05:46,409 — FX-Dymon — INFO — fx_base.py:92 — [更新回测数据] NDF缺失数据补充完成
+2019-12-09 10:05:49,739 — FX-Dymon — INFO — fx_base.py:94 — [更新回测数据] 以USD计价的price数据更新完成
+2019-12-09 10:06:30,966 — FX-Dymon — INFO — fx_base.py:96 — [更新回测数据] 利率数据更新完成
+2019-12-09 10:06:30,966 — FX-Dymon — INFO — fx_base.py:97 — [更新回测数据] 回测依赖数据全部更新完成
+2019-12-09 10:06:31,670 — FX-Dymon — INFO — fx_base.py:109 — var_once回测测试通过, 测试var=-0.026044556060934938
+2019-12-09 12:17:48,329 — FX-Dymon — INFO — fx_base.py:85 — Logger初始化完成
+2019-12-09 12:18:15,409 — FX-Dymon — INFO — fx_base.py:85 — Logger初始化完成
+2019-12-09 12:18:15,409 — FX-Dymon — INFO — fx_base.py:86 — 时间：2016-12-31 ~ 2019-12-09 | 标的：['USDSEK', 'USDNOK', 'USDJPY', 'USDCHF', 'USDCAD', 'NZDUSD', 'GBPUSD', 'EURUSD', 'AUDUSD', 'USDSGD', 'USDTHB', 'USDKRW', 'USDTWD', 'USDINR', 'USDIDR'] | 策略：['Macro', 'MeanReversion', 'Momentum']
+2019-12-09 12:18:42,582 — FX-Dymon — INFO — fx_base.py:113 — 数据获取成功
+2019-12-09 12:18:42,583 — FX-Dymon — INFO — fx_base.py:116 — 最近一期数据：{'USDSEK': 9.5042, 'USDNOK': 9.1327, 'USDJPY': 108.59, 'USDCHF': 0.9911, 'USDCAD': 1.3264, 'NZDUSD': 0.6555, 'GBPUSD': 1.3144, 'EURUSD': 1.1055, 'AUDUSD': 0.6832, 'USDSGD': 1.3607, 'USDTHB': 30.36, 'USDKRW': 1190.0, 'USDTWD': 30.49, 'USDINR': 71.24, 'USDIDR': 14034.2}
+2019-12-09 12:18:42,585 — FX-Dymon — INFO — fx_base.py:117 — 最近一期时间：[1.5758208e+09 0.0000000e+00 2.0190000e+03 1.2000000e+01 9.0000000e+00]
+2019-12-09 12:18:44,326 — FX-Dymon — INFO — fx_base.py:138 — 当前持仓：
+       CCY1 CCY2  FixingDate SettlementDate      Amount1       Amount2 Portfolio      usd_amt    weight
+ccp                                                                                                    
+AUDUSD  AUD  USD        SPOT           SPOT  146000.0000  9.996620e+04       AQM   99966.2000  0.016907
+EURUSD  EUR  USD        SPOT           SPOT -678000.0000 -7.514952e+05       AQM  751495.2000  0.127098
+GBPUSD  GBP  USD        SPOT           SPOT  269000.0000  3.527935e+05       AQM  352793.5000  0.059667
+NZDUSD  NZD  USD        SPOT           SPOT -307000.0000 -2.010850e+05       AQM  201085.0000  0.034009
+USDCAD  USD  CAD        SPOT           SPOT  453580.0971  5.980000e+05       AQM  453580.0971  0.076713
+USDCHF  USD  CHF        SPOT           SPOT -901183.3721 -8.910000e+05       AQM  901183.3721  0.152415
+USDIDR  USD  IDR  16/12/2019     18/12/2019  751888.6997  1.059938e+10       AQM  751888.6997  0.127165
+USDINR  USD  INR  16/12/2019     18/12/2019 -100223.7762 -7.166000e+06       AQM  100223.7762  0.016951
+USDJPY  USD  JPY        SPOT           SPOT -200000.0000 -2.177800e+07       AQM  200000.0000  0.033825
+USDKRW  USD  KRW  16/12/2019     18/12/2019  299884.0658  3.569610e+08       AQM  299884.0658  0.050719
+USDNOK  USD  NOK        SPOT           SPOT  150037.1001  1.375000e+06       AQM  150037.1001  0.025375
+USDSEK  USD  SEK        SPOT           SPOT  350928.8985  3.334000e+06       AQM  350928.8985  0.059352
+USDSGD  USD  SGD        SPOT           SPOT -350696.9919 -4.780000e+05       AQM  350696.9919  0.059312
+USDTHB  USD  THB        SPOT           SPOT  648697.6591  1.967500e+07       AQM  648697.6591  0.109713
+USDTWD  USD  TWD  16/12/2019     18/12/2019  300239.3521  9.157000e+06       AQM  300239.3521  0.050779
+2019-12-09 12:18:44,327 — FX-Dymon — INFO — fx_base.py:139 — 当前组合价值：5912699.912599999 USD
+2019-12-09 12:18:48,871 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDSEK | parameter: {'window': 46.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 12:18:48,910 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:48,911 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDNOK | parameter: {'window': 46.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:48,941 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:48,942 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDJPY | parameter: {'window': 51.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.2}
+2019-12-09 12:18:48,985 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:48,986 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDCHF | parameter: {'window': 26.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 12:18:49,015 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,016 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDCAD | parameter: {'window': 1.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,043 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,044 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: NZDUSD | parameter: {'window': 46.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,073 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,073 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: GBPUSD | parameter: {'window': 6.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,101 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,103 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: EURUSD | parameter: {'window': 11.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.2}
+2019-12-09 12:18:49,130 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,131 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: AUDUSD | parameter: {'window': 6.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,171 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,171 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDSGD | parameter: {'window': 31.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 12:18:49,205 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,206 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDTHB | parameter: {'window': 11.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,234 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,234 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDKRW | parameter: {'window': 26.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,266 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,267 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDTWD | parameter: {'window': 41.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,300 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,300 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDINR | parameter: {'window': 21.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 12:18:49,340 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,341 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDIDR | parameter: {'window': 11.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 12:18:49,369 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 12:18:49,410 — FX-Dymon — INFO — macro.py:66 — [Macro] | 目标权重：
+        2019-12-09
+USDSEK    0.000000
+USDNOK   -0.133333
+USDJPY    0.000000
+USDCHF    0.000000
+USDCAD    0.000000
+NZDUSD    0.133333
+GBPUSD    0.133333
+EURUSD    0.000000
+AUDUSD    0.000000
+USDSGD    0.000000
+USDTHB   -0.133333
+USDKRW   -0.133333
+USDTWD    0.133333
+USDINR   -0.133333
+USDIDR    0.000000
+2019-12-09 12:18:49,430 — FX-Dymon — INFO — reversion.py:30 — [MeanReversion] | 预期收益（回归强度）：{'USDSEK': 1.0081371866884443, 'USDNOK': 1.0032100203487584, 'USDJPY': 1.00295806999889, 'USDCHF': 1.0014910337263552, 'USDCAD': 0.9985637423514355, 'NZDUSD': 0.9857244929331556, 'GBPUSD': 0.9867969649408718, 'EURUSD': 1.0002949671126142, 'AUDUSD': 0.9981466985768782, 'USDSGD': 1.001778419464689, 'USDTHB': 0.9972032511217438, 'USDKRW': 0.9915833941391847, 'USDTWD': 0.9985270421025373, 'USDINR': 1.005983619931653, 'USDIDR': 1.0060928239118527}
+2019-12-09 12:18:49,431 — FX-Dymon — INFO — reversion.py:34 — [MeanReversion] | 重要参数：difference = 0.02241269375528876, threshold = 0.06,alpha = 0.1, window = 30, n_underlying = 4
+2019-12-09 12:18:49,454 — FX-Dymon — INFO — reversion.py:49 — [MeanReversion] | 目标权重：
+        2019-12-09
+USDSEK    0.000000
+USDNOK    0.000000
+USDJPY    0.000000
+USDCHF   -0.123454
+USDCAD    0.000000
+NZDUSD    0.123454
+GBPUSD    0.123454
+EURUSD    0.123454
+AUDUSD    0.123454
+USDSGD    0.000000
+USDTHB   -0.123454
+USDKRW    0.000000
+USDTWD    0.000000
+USDINR   -0.123454
+USDIDR   -0.123454
+2019-12-09 12:18:49,503 — FX-Dymon — INFO — momentum.py:36 — [Momentum] | 重要参数：best_window = 20,rank_period = 75, sample_period = 500
+2019-12-09 12:18:49,610 — FX-Dymon — INFO — momentum.py:66 — [Momentum] | 目标权重：
+        2019-12-09
+USDSEK   -0.000000
+USDNOK   -0.000000
+USDJPY   -0.230012
+USDCHF   -0.000000
+USDCAD    0.228139
+NZDUSD    0.000000
+GBPUSD    0.000000
+EURUSD    0.234503
+AUDUSD   -0.000000
+USDSGD    0.410934
+USDTHB    0.381227
+USDKRW    0.000000
+USDTWD    0.291755
+USDINR   -0.000000
+USDIDR    0.000000
+2019-12-09 12:18:49,613 — FX-Dymon — INFO — fx_base.py:150 — 合成权重，合成方法为：VaR
+2019-12-09 12:18:49,616 — FX-Dymon — INFO — fx_base.py:150 — 合成权重，合成方法为：EW
+2019-12-09 12:18:49,625 — FX-Dymon — INFO — fx_base.py:158 — USD暴露度：0.2689207927502095, 非USD最大暴露度：0.14169600477640618
+2019-12-09 12:18:49,633 — FX-Dymon — INFO — fx_base.py:159 — 每个币种暴露度：
+SEK    0.000000
+EUR    0.119319
+JPY    0.076671
+CHF    0.041151
+CAD   -0.076046
+AUD    0.041151
+TWD   -0.141696
+GBP    0.085596
+IDR    0.041151
+INR    0.085596
+SGD   -0.136978
+NOK    0.044444
+KRW    0.044444
+USD   -0.268921
+NZD    0.085596
+THB   -0.041480
+dtype: float64
+2019-12-09 12:18:51,569 — FX-Dymon — INFO — fx_base.py:174 — [VaR方法合成] VaR = -0.003030955031981325, leverage_ratio = 2.969361110618897
+2019-12-09 12:18:51,570 — FX-Dymon — INFO — fx_base.py:147 — {'USDSEK': 0.0, 'USDNOK': -0.13197160491639542, 'USDJPY': -0.22766256457566766, 'USDCHF': -0.12219356575471688, 'USDCAD': 0.22580933341508574, 'NZDUSD': 0.25416517067111233, 'GBPUSD': 0.25416517067111233, 'EURUSD': 0.3543020142290988, 'AUDUSD': 0.12219356575471688, 'USDSGD': 0.40673670569582415, 'USDTHB': 0.12316840886172878, 'USDKRW': -0.13197160491639542, 'USDTWD': 0.42074660611313, 'USDINR': -0.25416517067111233, 'USDIDR': -0.12219356575471688}
+2019-12-09 13:55:24,321 — FX-Dymon — INFO — fx_base.py:85 — Logger初始化完成
+2019-12-09 13:55:24,321 — FX-Dymon — INFO — fx_base.py:86 — 时间：2016-12-31 ~ 2019-12-09 | 标的：['USDSEK', 'USDNOK', 'USDJPY', 'USDCHF', 'USDCAD', 'NZDUSD', 'GBPUSD', 'EURUSD', 'AUDUSD', 'USDSGD', 'USDTHB', 'USDKRW', 'USDTWD', 'USDINR', 'USDIDR'] | 策略：['Macro', 'MeanReversion', 'Momentum']
+2019-12-09 13:55:32,963 — FX-Dymon — INFO — fx_base.py:113 — 数据获取成功
+2019-12-09 13:55:32,963 — FX-Dymon — INFO — fx_base.py:116 — 最近一期数据：{'USDSEK': 9.5016, 'USDNOK': 9.1323, 'USDJPY': 108.58, 'USDCHF': 0.9911, 'USDCAD': 1.3261, 'NZDUSD': 0.6557, 'GBPUSD': 1.3146, 'EURUSD': 1.1061, 'AUDUSD': 0.6834, 'USDSGD': 1.3605, 'USDTHB': 30.35, 'USDKRW': 1189.8, 'USDTWD': 30.472, 'USDINR': 71.12, 'USDIDR': 14032.2}
+2019-12-09 13:55:32,963 — FX-Dymon — INFO — fx_base.py:117 — 最近一期时间：[1.5758208e+09 0.0000000e+00 2.0190000e+03 1.2000000e+01 9.0000000e+00]
+2019-12-09 13:55:33,888 — FX-Dymon — INFO — fx_base.py:138 — 当前持仓：
+       CCY1 CCY2  FixingDate SettlementDate      Amount1       Amount2 Portfolio      usd_amt    weight
+ccp                                                                                                    
+AUDUSD  AUD  USD        SPOT           SPOT  146000.0000  9.996620e+04       AQM   99966.2000  0.016907
+EURUSD  EUR  USD        SPOT           SPOT -678000.0000 -7.514952e+05       AQM  751495.2000  0.127098
+GBPUSD  GBP  USD        SPOT           SPOT  269000.0000  3.527935e+05       AQM  352793.5000  0.059667
+NZDUSD  NZD  USD        SPOT           SPOT -307000.0000 -2.010850e+05       AQM  201085.0000  0.034009
+USDCAD  USD  CAD        SPOT           SPOT  453580.0971  5.980000e+05       AQM  453580.0971  0.076713
+USDCHF  USD  CHF        SPOT           SPOT -901183.3721 -8.910000e+05       AQM  901183.3721  0.152415
+USDIDR  USD  IDR  16/12/2019     18/12/2019  751888.6997  1.059938e+10       AQM  751888.6997  0.127165
+USDINR  USD  INR  16/12/2019     18/12/2019 -100223.7762 -7.166000e+06       AQM  100223.7762  0.016951
+USDJPY  USD  JPY        SPOT           SPOT -200000.0000 -2.177800e+07       AQM  200000.0000  0.033825
+USDKRW  USD  KRW  16/12/2019     18/12/2019  299884.0658  3.569610e+08       AQM  299884.0658  0.050719
+USDNOK  USD  NOK        SPOT           SPOT  150037.1001  1.375000e+06       AQM  150037.1001  0.025375
+USDSEK  USD  SEK        SPOT           SPOT  350928.8985  3.334000e+06       AQM  350928.8985  0.059352
+USDSGD  USD  SGD        SPOT           SPOT -350696.9919 -4.780000e+05       AQM  350696.9919  0.059312
+USDTHB  USD  THB        SPOT           SPOT  648697.6591  1.967500e+07       AQM  648697.6591  0.109713
+USDTWD  USD  TWD  16/12/2019     18/12/2019  300239.3521  9.157000e+06       AQM  300239.3521  0.050779
+2019-12-09 13:55:33,888 — FX-Dymon — INFO — fx_base.py:139 — 当前组合价值：5912699.912599999 USD
+2019-12-09 13:55:33,894 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDSEK | parameter: {'window': 46.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 13:55:33,899 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,899 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDNOK | parameter: {'window': 46.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,901 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,902 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDJPY | parameter: {'window': 51.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.2}
+2019-12-09 13:55:33,904 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,904 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDCHF | parameter: {'window': 26.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 13:55:33,907 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,907 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDCAD | parameter: {'window': 1.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,910 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,910 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: NZDUSD | parameter: {'window': 46.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,912 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,912 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: GBPUSD | parameter: {'window': 6.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,915 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,915 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: EURUSD | parameter: {'window': 11.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.2}
+2019-12-09 13:55:33,918 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,918 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: AUDUSD | parameter: {'window': 6.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,921 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,921 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDSGD | parameter: {'window': 31.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 13:55:33,923 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,923 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDTHB | parameter: {'window': 11.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,926 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,926 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDKRW | parameter: {'window': 26.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,929 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,929 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDTWD | parameter: {'window': 41.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,931 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,932 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDINR | parameter: {'window': 21.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.1}
+2019-12-09 13:55:33,934 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,934 — FX-Dymon — INFO — macro.py:41 — [Macro] | symbol: USDIDR | parameter: {'window': 11.0, 'EP_low': 0.1, 'EP_high': 0.6, 'r_squared': 0.3}
+2019-12-09 13:55:33,937 — FX-Dymon — INFO — macro.py:46 — [Macro] | last model date: 2019-12-06 00:00:00
+2019-12-09 13:55:33,939 — FX-Dymon — INFO — macro.py:66 — [Macro] | 目标权重：
+        2019-12-09
+USDSEK    0.000000
+USDNOK   -0.133333
+USDJPY    0.000000
+USDCHF    0.000000
+USDCAD    0.000000
+NZDUSD    0.133333
+GBPUSD    0.133333
+EURUSD    0.000000
+AUDUSD    0.000000
+USDSGD    0.000000
+USDTHB   -0.133333
+USDKRW   -0.133333
+USDTWD    0.133333
+USDINR   -0.133333
+USDIDR    0.000000
+2019-12-09 13:55:33,940 — FX-Dymon — INFO — reversion.py:30 — [MeanReversion] | 预期收益（回归强度）：{'USDSEK': 1.0083856876446404, 'USDNOK': 1.0032495814678783, 'USDJPY': 1.0030412306242356, 'USDCHF': 1.0014910337263552, 'USDCAD': 0.9987670219854793, 'NZDUSD': 0.9854543314285246, 'GBPUSD': 0.9866620498389486, 'EURUSD': 0.9998066053186825, 'AUDUSD': 0.9978838520159836, 'USDSGD': 1.0019109852007368, 'USDTHB': 0.9974988699853752, 'USDKRW': 0.9917332652762059, 'USDTWD': 0.9990578076170372, 'USDINR': 1.007512276208253, 'USDIDR': 1.0062219687108025}
+2019-12-09 13:55:33,940 — FX-Dymon — INFO — reversion.py:34 — [MeanReversion] | 重要参数：difference = 0.02293135621611586, threshold = 0.06,alpha = 0.1, window = 30, n_underlying = 4
+2019-12-09 13:55:33,942 — FX-Dymon — INFO — reversion.py:49 — [MeanReversion] | 目标权重：
+        2019-12-09
+USDSEK    0.000000
+USDNOK    0.000000
+USDJPY    0.000000
+USDCHF   -0.123454
+USDCAD    0.000000
+NZDUSD    0.123454
+GBPUSD    0.123454
+EURUSD    0.123454
+AUDUSD    0.123454
+USDSGD    0.000000
+USDTHB   -0.123454
+USDKRW    0.000000
+USDTWD    0.000000
+USDINR   -0.123454
+USDIDR   -0.123454
+2019-12-09 13:55:33,943 — FX-Dymon — INFO — momentum.py:36 — [Momentum] | 重要参数：best_window = 20,rank_period = 75, sample_period = 500
+2019-12-09 13:55:33,945 — FX-Dymon — INFO — momentum.py:66 — [Momentum] | 目标权重：
+        2019-12-09
+USDSEK   -0.000000
+USDNOK   -0.000000
+USDJPY   -0.229766
+USDCHF   -0.000000
+USDCAD    0.228508
+NZDUSD    0.000000
+GBPUSD    0.000000
+EURUSD    0.235364
+AUDUSD    0.000000
+USDSGD    0.410580
+USDTHB    0.380842
+USDKRW    0.000000
+USDTWD    0.291834
+USDINR   -0.000000
+USDIDR    0.000000
+2019-12-09 13:55:33,945 — FX-Dymon — INFO — fx_base.py:150 — 合成权重，合成方法为：VaR
+2019-12-09 13:55:33,945 — FX-Dymon — INFO — fx_base.py:150 — 合成权重，合成方法为：EW
+2019-12-09 13:55:33,946 — FX-Dymon — INFO — fx_base.py:158 — USD暴露度：0.26922253866157014, 非USD最大暴露度：0.14172247129210683
+2019-12-09 13:55:33,946 — FX-Dymon — INFO — fx_base.py:159 — 每个币种暴露度：
+JPY    0.076589
+GBP    0.085596
+SEK    0.000000
+CHF    0.041151
+TWD   -0.141722
+NOK    0.044444
+EUR    0.119606
+INR    0.085596
+CAD   -0.076169
+SGD   -0.136860
+KRW    0.044444
+IDR    0.041151
+USD   -0.269223
+AUD    0.041151
+NZD    0.085596
+THB   -0.041352
+dtype: float64
+2019-12-09 13:55:34,575 — FX-Dymon — INFO — fx_base.py:174 — [VaR方法合成] VaR = -0.0030343954949912377, leverage_ratio = 2.965994384995615
+2019-12-09 13:55:34,575 — FX-Dymon — INFO — fx_base.py:147 — {'USDSEK': 0.0, 'USDNOK': -0.1318219726664718, 'USDJPY': -0.22716151327221107, 'USDCHF': -0.12205502005633237, 'USDCAD': 0.22591767329409865, 'NZDUSD': 0.2538769927228042, 'GBPUSD': 0.2538769927228042, 'EURUSD': 0.3547511793901477, 'AUDUSD': 0.12205502005633237, 'USDSGD': 0.405925888258225, 'USDTHB': 0.12264852271581529, 'USDKRW': -0.1318219726664718, 'USDTWD': 0.4203480540800911, 'USDINR': -0.2538769927228042, 'USDIDR': -0.12205502005633237}
+2019-12-09 13:55:34,579 — FX-Dymon — INFO — fx_base.py:197 — 目标权重：
+       ccp           TargetRatio CCY1 CCY2 Portfolio
+0   USDSEK                   0.0  USD  SEK       AQM
+1   USDNOK   -0.1318219726664718  USD  NOK       AQM
+2   USDJPY  -0.22716151327221107  USD  JPY       AQM
+3   USDCHF  -0.12205502005633237  USD  CHF       AQM
+4   USDCAD   0.22591767329409865  USD  CAD       AQM
+5   NZDUSD    0.2538769927228042  NZD  USD       AQM
+6   GBPUSD    0.2538769927228042  GBP  USD       AQM
+7   EURUSD    0.3547511793901477  EUR  USD       AQM
+8   AUDUSD   0.12205502005633237  AUD  USD       AQM
+9   USDSGD     0.405925888258225  USD  SGD       AQM
+10  USDTHB   0.12264852271581529  USD  THB       AQM
+11  USDKRW   -0.1318219726664718  USD  KRW       AQM
+12  USDTWD    0.4203480540800911  USD  TWD       AQM
+13  USDINR   -0.2538769927228042  USD  INR       AQM
+14  USDIDR  -0.12205502005633237  USD  IDR       AQM
+2019-12-09 13:55:34,588 — FX-Dymon — INFO — fx_base.py:217 — 目标订单：
+   CCY1 CCY2           TargetRatio Portfolio     ccp  FixingDate SettlementDate  target_usd_amt  current_usd_amt  order_usd_amt  order_other_amt   Amount1      Amount2
+0   USD  SEK                   0.0       AQM  USDSEK        SPOT           SPOT    0.000000e+00      350928.8985  -3.509289e+05          3334000                3334000
+1   USD  NOK   -0.1318219726664718       AQM  USDNOK        SPOT           SPOT   -7.794238e+05      150037.1001  -9.294609e+05          8488000                8488000
+2   USD  JPY  -0.22716151327221107       AQM  USDJPY        SPOT           SPOT   -1.343138e+06      200000.0000  -1.543138e+06        167553000              167553000
+3   USD  CHF  -0.12205502005633237       AQM  USDCHF        SPOT           SPOT   -7.216747e+05      901183.3721  -1.622858e+06          1608000                1608000
+4   USD  CAD   0.22591767329409865       AQM  USDCAD        SPOT           SPOT    1.335783e+06      453580.0971   8.822033e+05         -1170000               -1170000
+5   NZD  USD    0.2538769927228042       AQM  NZDUSD        SPOT           SPOT    1.501098e+06      201085.0000   1.300013e+06         -1983000  -1983000             
+6   GBP  USD    0.2538769927228042       AQM  GBPUSD        SPOT           SPOT    1.501098e+06      352793.5000   1.148305e+06          -874000   -874000             
+7   EUR  USD    0.3547511793901477       AQM  EURUSD        SPOT           SPOT    2.097537e+06      751495.2000   1.346042e+06         -1217000  -1217000             
+8   AUD  USD   0.12205502005633237       AQM  AUDUSD        SPOT           SPOT    7.216747e+05       99966.2000   6.217085e+05          -910000   -910000             
+9   USD  SGD     0.405925888258225       AQM  USDSGD        SPOT           SPOT    2.400118e+06      350696.9919   2.049421e+06         -2789000               -2789000
+10  USD  THB   0.12264852271581529       AQM  USDTHB        SPOT           SPOT    7.251839e+05      648697.6591   7.648625e+04         -2322000               -2322000
+11  USD  KRW   -0.1318219726664718       AQM  USDKRW  16/12/2019     18/12/2019   -7.794238e+05      299884.0658  -1.079308e+06       1284160000             1284160000
+12  USD  TWD    0.4203480540800911       AQM  USDTWD  16/12/2019     18/12/2019    2.485392e+06      300239.3521   2.185153e+06        -66586000              -66586000
+13  USD  INR   -0.2538769927228042       AQM  USDINR  16/12/2019     18/12/2019   -1.501098e+06      100223.7762  -1.601322e+06        113886000              113886000
+14  USD  IDR  -0.12205502005633237       AQM  USDIDR  16/12/2019     18/12/2019   -7.216747e+05      751888.6997  -1.473563e+06      20677336000            20677336000
+2019-12-09 13:55:34,595 — FX-Dymon — INFO — fx_base.py:182 — 权重CSV：
+   CCY1 CCY2           TargetRatio Portfolio
+0   USD  SEK                   0.0       AQM
+1   USD  NOK   -0.1318219726664718       AQM
+2   USD  JPY  -0.22716151327221107       AQM
+3   USD  CHF  -0.12205502005633237       AQM
+4   USD  CAD   0.22591767329409865       AQM
+5   NZD  USD    0.2538769927228042       AQM
+6   GBP  USD    0.2538769927228042       AQM
+7   EUR  USD    0.3547511793901477       AQM
+8   AUD  USD   0.12205502005633237       AQM
+9   USD  SGD     0.405925888258225       AQM
+10  USD  THB   0.12264852271581529       AQM
+11  USD  KRW   -0.1318219726664718       AQM
+12  USD  TWD    0.4203480540800911       AQM
+13  USD  INR   -0.2538769927228042       AQM
+14  USD  IDR  -0.12205502005633237       AQM
+2019-12-09 13:55:34,598 — FX-Dymon — INFO — fx_base.py:183 — 订单CSV：
+   CCY1 CCY2  FixingDate SettlementDate   Amount1      Amount2 Portfolio
+0   USD  SEK        SPOT           SPOT                3334000       AQM
+1   USD  NOK        SPOT           SPOT                8488000       AQM
+2   USD  JPY        SPOT           SPOT              167553000       AQM
+3   USD  CHF        SPOT           SPOT                1608000       AQM
+4   USD  CAD        SPOT           SPOT               -1170000       AQM
+5   NZD  USD        SPOT           SPOT  -1983000                    AQM
+6   GBP  USD        SPOT           SPOT   -874000                    AQM
+7   EUR  USD        SPOT           SPOT  -1217000                    AQM
+8   AUD  USD        SPOT           SPOT   -910000                    AQM
+9   USD  SGD        SPOT           SPOT               -2789000       AQM
+10  USD  THB        SPOT           SPOT               -2322000       AQM
+11  USD  KRW  16/12/2019     18/12/2019             1284160000       AQM
+12  USD  TWD  16/12/2019     18/12/2019              -66586000       AQM
+13  USD  INR  16/12/2019     18/12/2019              113886000       AQM
+14  USD  IDR  16/12/2019     18/12/2019            20677336000       AQM
+2019-12-09 13:55:35,557 — FX-Dymon — INFO — fx_base.py:189 — 权重和订单文件上传完毕

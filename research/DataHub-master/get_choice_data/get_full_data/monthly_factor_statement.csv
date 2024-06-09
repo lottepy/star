@@ -1,0 +1,11 @@
+factor,statement,code
+TOTALASSET,BalanceStatement,74
+TOTALLIAB,BalanceStatement,128
+STKHLDEREQ,BalanceStatement,140
+CURRASSET,BalanceStatement,25
+CURRLIAB,BalanceStatement,93
+CASH,BalanceStatement,9
+OPERAREVENUE,IncomeStatement,9
+PROFITBETAX,IncomeStatement,1016
+OPERCASHFLOW,CashFlowStatement,39
+LTBORROW,BalanceStatement,94

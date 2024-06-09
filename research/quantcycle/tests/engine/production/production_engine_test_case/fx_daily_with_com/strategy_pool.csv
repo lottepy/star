@@ -1,0 +1,2 @@
+strategy_module,strategy_name,params,symbol
+tests.engine.production.production_engine_test_case.fx_daily_with_com.sample_strategy,SampleStrategy,{},"{""FX"":[""AUDCAD"",""USDJPY"",""EURUSD""]}"

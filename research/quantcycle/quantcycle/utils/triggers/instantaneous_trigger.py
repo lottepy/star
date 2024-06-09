@@ -1,0 +1,2 @@
+def trigger(**kwargs):
+    return

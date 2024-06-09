@@ -1,0 +1,2 @@
+include versioneer.py
+include quantcycle/_version.py

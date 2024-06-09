@@ -1,0 +1,4 @@
+pandas
+numpy
+tqdm
+datamaster @ git+https://gitlab.aqumon.com/pub/py-datamaster-client.git

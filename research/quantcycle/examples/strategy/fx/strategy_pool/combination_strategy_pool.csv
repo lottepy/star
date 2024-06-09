@@ -1,0 +1,2 @@
+strategy_module,strategy_name,params,symbol
+examples.strategy.fx.algorithm.combination,Combination_strategy,"{""length"": 10.0}","{""FX"": [""EURGBP"", ""EURJPY"", ""AUDNZD"", ""GBPUSD"", ""NOKSEK"", ""NZDJPY""], ""RSI_lv2"": [0.0], ""KD_lv2"": [0.0]}"

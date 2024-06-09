@@ -1,0 +1,86 @@
+{
+  "start_year": 2011,
+  "start_month": 10,
+  "start_day": 10,
+  "end_year": 2012,
+  "end_month": 12,
+  "end_day": 30,
+  "data": {
+    "FX": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DataSource": "BGNL",
+        "BackupDataSource": "BGNL"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    },
+    "STOCKS": {
+      "DataCenter": "DataMaster",
+      "SymbolArgs": {
+        "DMAdjustType": 0,
+        "DMCalendar": "SSE",
+        "AccountCurrency": "USD"
+      },
+      "Fields": "OHLC",
+      "Frequency": "DAILY"
+    }
+  },
+  "secondary_data": {
+    "RSI_lv1": {
+      "DataCenter": "ResultReader",
+      "DataCenterArgs": {
+        "DataPath": "results/RSI_strategy/result/RSI_lv1"
+      },
+      "SymbolArgs": {
+        "Metrics": {
+          "allocation_freq": "1M",
+          "lookback_points_list": [61, 252],
+          "addition": true,
+          "multiplier": 252
+        }
+      },
+      "Fields": ["pnl", "metrics", "position"],
+      "Frequency": "DAILY"
+    }
+  },
+  "ref_data": {
+    "ref_hourly": {
+      "DataCenter": "LocalCSV",
+      "DataCenterArgs": {
+        "dir": "tests/engine/backtest/test_ref_data/stocks_multi_freq/main_hourly"
+      },
+      "Symbol": ["STOCK_1", "STOCK_2", "STOCK_3", "STOCK_4", "STOCK_5"],
+      "Frequency": "HOURLY"
+    }
+  },
+  "account": {
+    "cash": 2900000,
+    "commission": 0
+  },
+  "algo": {
+    "base_ccy": "USD",
+    "window_size": {
+      "main": 3,
+      "ref_data": 3,
+      "RSI_lv1_pnl": 254
+    }
+  },
+  "result_output": {
+    "flatten": false,
+    "save_dir": "results/RSI_strategy/result/",
+    "save_name": "RSI_lv2",
+    "save_n_workers": 1,
+    "status_dir": "results/RSI_strategy/status/",
+    "status_name": "RSI_lv2"
+  },
+  "optimization": {
+    "numba_parallel": false,
+    "python_parallel_n_workers": "best"
+  },
+  "engine": {
+    "engine_name": "RSI_lv2",
+    "Order_Router_module": "quantcycle.app.order_crosser.order_router",
+    "Order_Router_name": "TestOrderRouter"
+  }
+}

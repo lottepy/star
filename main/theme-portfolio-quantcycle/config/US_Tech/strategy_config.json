@@ -1,0 +1,27 @@
+{
+    "download": true,
+    "start_year": 2009,
+    "start_month": 12,
+    "start_day": 31,
+    "end_year": 2020,
+    "end_month": 10,
+    "end_day": 31,
+
+    "account": {
+        "cash": 2500,
+        "commission": 0.003
+    },
+
+    "algo": {
+        "rebalance_freq": "MONTHLY",
+        "lookback_days": 1825,
+        "base_ccy" : "USD",
+        "underlying_type": "US_STOCK",
+        "market_cap_threshold": 0.99,
+        "number_assets": 10,
+        "weighting_approach": "EQUALLY",
+        "upper_bound": 0.2,
+        "lower_bound":0.05
+    }
+
+}

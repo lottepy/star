@@ -1,0 +1,43 @@
+version: "3.3"
+
+services:
+  eureka-server:
+    image: algo-dockerhub.aqumon.com/engineering/v32-backend/v32-backend_eureka-server:kuanrui-live
+    network_mode: host
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-kuanrui-live}"}}}
+  task-engine:
+    image: algo-dockerhub.aqumon.com/engineering/v32-backend/v32-backend_task-engine:kuanrui-live
+    network_mode: host
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-kuanrui-live}"}}}
+    depends_on:
+      - eureka-server
+  trading-engine:
+    image: algo-dockerhub.aqumon.com/engineering/v32-backend/v32-backend_trading-engine:kuanrui-live
+    network_mode: host
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-kuanrui-live}"}}}
+    depends_on:
+      - eureka-server
+  cash-engine:
+    image: algo-dockerhub.aqumon.com/engineering/v32-backend/v32-backend_cash-engine:kuanrui-live
+    network_mode: host
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-kuanrui-live}"}}}
+    depends_on:
+      - eureka-server
+  execution-engine:
+    image: algo-dockerhub.aqumon.com/engineering/v32-backend/v32-backend_execution-engine:kuanrui-live
+    network_mode: host
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-kuanrui-live}"}}}
+    depends_on:
+      - eureka-server
+  risk-engine:
+    image: algo-dockerhub.aqumon.com/engineering/v32-backend/v32-backend_risk-engine:kuanrui-live
+    network_mode: host
+    environment:
+      - SPRING_APPLICATION_JSON={"spring":{"profiles":{"active":"${BACKEND_ENV:-kuanrui-live}"}}}
+    depends_on:
+      - eureka-server
