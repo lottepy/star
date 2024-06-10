@@ -1,6 +1,0 @@
-symbol,csv_name,source,symboltype,trading_currency,lot_size,bbg_code,back_up_bbg_code,timezone,MAIN,CCPFXRATE,INT
-STOCK_1,,,CN_Stock,CNY,,,,,,,
-STOCK_2,,,CN_Stock,CNY,,,,,,,
-STOCK_3,,,CN_Stock,CNY,,,,,,,
-STOCK_4,,,CN_Stock,CNY,,,,,,,
-STOCK_5,,,CN_Stock,CNY,,,,,,,

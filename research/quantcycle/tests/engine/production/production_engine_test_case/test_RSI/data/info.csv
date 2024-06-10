@@ -1,4 +1,0 @@
-symbol,csv_name,instrument_id,subtype,bloomberg_code,list_exchange,trading_currency,symboltype,trade_time,timezone,MAIN,CCPFXRATE,INT
-EURJPY,EURJPY,1401000023,1401,EURJPY BGNL Curncy,ALL_TRADABLE,JPY,FX,['00:00'],UTC,,,
-AUDNZD,AUDNZD,1401000006,1401,AUDNZD BGNL Curncy,ALL_TRADABLE,NZD,FX,['00:00'],UTC,,,
-EURGBP,EURGBP,1401000024,1401,EURGBP BGNL Curncy,ALL_TRADABLE,GBP,FX,['00:00'],UTC,,,

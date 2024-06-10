@@ -1,5 +1,0 @@
-symbol,csv_name,source,symboltype,trading_currency,lot_size,bbg_code,back_up_bbg_code,timezone,MAIN,CCPFXRATE,INT
-C_MAIN1,C_MAIN1,,US_ContinuousFutures,USD,,,,,,datamaster,
-C_MAIN2,C_MAIN2,,US_ContinuousFutures,USD,,,,,,datamaster,
-S_MAIN1,S_MAIN1,,US_ContinuousFutures,USD,,,,,,datamaster,
-S_MAIN2,S_MAIN2,,US_ContinuousFutures,USD,,,,,,datamaster,

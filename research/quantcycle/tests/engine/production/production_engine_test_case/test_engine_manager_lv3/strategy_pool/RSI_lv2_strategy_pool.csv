@@ -1,2 +1,0 @@
-strategy_module,strategy_name,params,symbol
-tests.engine.production.production_engine_test_case.test_engine_manager_lv3.algorithm.RSI_lv2,Allocation_strategy,"{""length"": 10.0}","{""FX"": [""EURGBP"", ""EURJPY"", ""AUDNZD""], ""RSI_lv1"": [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0]}"

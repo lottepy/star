@@ -1,2 +1,0 @@
-strategy_module,strategy_name,params,symbol
-test_strategy.test_strategy_,Weight_strategy,"{}","{""FX"": [""AUDCAD"", ""AUDJPY"", ""AUDNZD"", ""AUDUSD"", ""CADCHF"", ""CADJPY"", ""EURCAD"", ""EURCHF"", ""EURGBP"", ""EURJPY"", ""EURUSD"", ""GBPCAD"", ""GBPCHF"", ""GBPJPY"", ""GBPUSD"", ""NOKSEK"", ""NZDJPY"", ""NZDUSD"", ""USDCAD"", ""USDCHF"", ""USDIDR"", ""USDINR"", ""USDJPY"", ""USDKRW"", ""USDNOK"", ""USDSEK"", ""USDSGD"", ""USDTHB"", ""USDTWD""]}"

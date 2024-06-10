@@ -1,6 +1,0 @@
-symbol,csv_name,source,symboltype,trading_currency,lot_size,bbg_code,back_up_bbg_code,timezone,MAIN,CCPFXRATE,INT
-AUDCAD,AUDCAD,BGNL,FX,CAD,,,,,,
-AUDJPY,AUDJPY,BGNL,FX,JPY,,,,,,
-EURUSD,EURUSD,BGNL,FX,USD,,,,,,
-USDJPY,USDJPY,BGNL,FX,JPY,"","","","",,
-USDKRW,USDKRW,BGNL,FX,KRW,"","","","",,
